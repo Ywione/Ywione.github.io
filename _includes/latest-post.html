@@ -1,0 +1,15 @@
+{% assign posts = site.data.substack.posts %}
+<p class="eyebrow">From Substack</p>
+<div class="writing-mark" aria-hidden="true">“</div>
+{% if posts and posts.size > 0 %}
+{% assign p = posts.first %}
+<p class="meta">Latest writing{% if p.date %} · {{ p.date | date: "%-d %B %Y" }}{% endif %}</p>
+<h2><a href="{{ p.link | escape }}">{{ p.title | escape }}</a></h2>
+{% if p.summary != "" %}<p>{{ p.summary | escape }}</p>{% endif %}
+<a class="text-link" href="{{ p.link | escape }}">Read the article <span aria-hidden="true">↗</span></a>
+{% else %}
+<p class="meta">Latest writing</p>
+<h2>First article<br><em>coming soon.</em></h2>
+<p>A home for my essays and reflections on economics. New articles will appear here when they are published.</p>
+<a class="text-link" href="{{ site.substack_url }}">Visit my Substack <span aria-hidden="true">↗</span></a>
+{% endif %}
