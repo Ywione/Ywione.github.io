@@ -8,11 +8,14 @@ This page brings together my datasets on Bermuda, with Excel and CSV downloads w
 {% assign datasets = site.datasets | sort: 'title' %}
 {% if datasets.size > 0 %}
 {% for dataset in datasets %}
+{% assign coverage = dataset.coverage | default: '' %}
+{% assign frequency = dataset.frequency | default: '' %}
+{% assign updated = dataset.updated | default: '' %}
 <section class="publication" aria-labelledby="dataset-{{ forloop.index }}">
 <h2 id="dataset-{{ forloop.index }}">{{ dataset.title | escape }}</h2>
-{% if dataset.description %}<p>{{ dataset.description | escape }}</p>{% endif %}
-{% if dataset.coverage or dataset.frequency or dataset.updated %}
-<p class="meta">{% if dataset.coverage %}Coverage: {{ dataset.coverage | escape }}{% endif %}{% if dataset.frequency %}{% if dataset.coverage %} · {% endif %}Frequency: {{ dataset.frequency | escape }}{% endif %}{% if dataset.updated %}{% if dataset.coverage or dataset.frequency %} · {% endif %}Updated: {{ dataset.updated | date: '%-d %B %Y' }}{% endif %}</p>
+{% if dataset.description and dataset.description != '' %}<p>{{ dataset.description | escape }}</p>{% endif %}
+{% if coverage != '' or frequency != '' or updated != '' %}
+<p class="meta">{% if coverage != '' %}Coverage: {{ dataset.coverage | escape }}{% endif %}{% if frequency != '' %}{% if coverage != '' %} · {% endif %}Frequency: {{ dataset.frequency | escape }}{% endif %}{% if updated != '' %}{% if coverage != '' or frequency != '' %} · {% endif %}Updated: {{ dataset.updated | date: '%-d %B %Y' }}{% endif %}</p>
 {% endif %}
 {% if dataset.excel and dataset.excel != '' or dataset.csv and dataset.csv != '' %}
 <p>{% if dataset.excel and dataset.excel != '' %}<a href="{{ dataset.excel | relative_url | escape }}" download>Download Excel</a>{% endif %}{% if dataset.csv and dataset.csv != '' %}{% if dataset.excel and dataset.excel != '' %} · {% endif %}<a href="{{ dataset.csv | relative_url | escape }}" download>Download CSV</a>{% endif %}</p>
