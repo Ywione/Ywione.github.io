@@ -1,0 +1,53 @@
+name: Build and deploy site
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Test feed parser
+        run: python3 -m unittest discover -s tests -v
+      - name: Restore last successful feed
+        if: github.event_name != 'pull_request'
+        uses: actions/cache/restore@v4
+        with:
+          path: _data/substack.json
+          key: substack-feed-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: substack-feed-
+      - name: Refresh Substack feed
+        run: python3 scripts/fetch_substack.py
+      - name: Cache feed for future builds
+        if: github.event_name != 'pull_request'
+        uses: actions/cache/save@v4
+        with:
+          path: _data/substack.json
+          key: substack-feed-${{ github.run_id }}-${{ github.run_attempt }}
+      - uses: actions/jekyll-build-pages@v1
+      - name: Check generated site
+        run: python3 scripts/check_site.py
+      - uses: actions/upload-pages-artifact@v3
+  deploy:
+    if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/configure-pages@v5
+      - id: deployment
+        uses: actions/deploy-pages@v4
