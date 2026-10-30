@@ -1,6 +1,6 @@
 # Ywione Darrell — personal website
 
-A responsive Jekyll site for GitHub Pages: https://ywione.github.io.
+A conventional academic Jekyll site with a profile sidebar, compact navigation and text-based pages, hosted on GitHub Pages: https://ywione.github.io.
 
 ## Update content
 
