@@ -1,0 +1,7 @@
+---
+layout: default
+---
+<p class="meta">{{ page.date | date: "%B %Y" }}{% if page.status %} · {{ page.status | escape }}{% endif %}{% if page.coauthors %} · with {{ page.coauthors | escape }}{% endif %}</p>
+{{ content }}
+{% if page.pdf or page.code %}<div class="actions">{% if page.pdf %}<a class="button" href="{{ page.pdf | relative_url }}">Read PDF <span aria-hidden="true">↗</span></a>{% endif %}{% if page.code %}<a class="text-link" href="{{ page.code | escape }}">View code <span aria-hidden="true">↗</span></a>{% endif %}</div>{% endif %}
+<p><a class="text-link" href="{{ '/research/' | relative_url }}">← All research</a></p>

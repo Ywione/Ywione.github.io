@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>{% if page.title and page.url != "/" %}{{ page.title | escape }} · {% endif %}{{ site.title | escape }}</title>
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <meta property="og:title" content="{{ page.title | default: site.title | escape }}">
+  <meta property="og:description" content="{{ page.description | default: site.description | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.title | escape }}">
+  <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="site-wrap">
+    <header class="site-header">
+      <a class="brand" href="{{ '/' | relative_url }}" aria-label="{{ site.title }} — home"><span class="monogram" aria-hidden="true">yd.</span><span>{{ site.title }}</span></a>
+      <nav aria-label="Main navigation">
+        {% assign paths = 'Research,CV,Writing,About' | split: ',' %}
+        {% for name in paths %}{% assign path = name | downcase | prepend: '/' | append: '/' %}
+        <a href="{{ path | relative_url }}"{% if page.url contains path %} aria-current="page"{% endif %}>{{ name }}</a>
+        {% endfor %}
+      </nav>
+      <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch to dark theme" hidden><span aria-hidden="true">◐</span><span class="theme-label">Dark</span></button>
+    </header>
+    <main id="main" tabindex="-1" class="{% if page.url == '/' %}home{% else %}interior{% endif %}">
+      {% if page.title and page.url != "/" %}
+      <header class="page-heading"><p class="eyebrow">{{ page.eyebrow | default: 'Ywione Darrell' }}</p><h1>{{ page.title | escape }}</h1>{% if page.intro %}<p class="lede">{{ page.intro }}</p>{% endif %}</header>
+      {% endif %}
+      {{ content }}
+    </main>
+    <footer class="site-footer">
+      <div><a class="footer-name" href="{{ '/' | relative_url }}">Ywione Darrell</a><p>Economics from an island perspective.</p></div>
+      <div class="footer-links"><a href="{{ site.substack_url }}">Substack <span aria-hidden="true">↗</span></a><a href="{{ site.github_url }}">GitHub <span aria-hidden="true">↗</span></a></div>
+      <p class="fine-print">© {{ 'now' | date: '%Y' }} {{ site.author }}. Views expressed are my own.</p>
+    </footer>
+  </div>
+</body>
+</html>
