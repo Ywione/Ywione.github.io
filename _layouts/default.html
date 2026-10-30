@@ -18,28 +18,41 @@
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
-  <div class="site-wrap">
-    <header class="site-header">
-      <a class="brand" href="{{ '/' | relative_url }}" aria-label="{{ site.title }} — home"><span class="monogram" aria-hidden="true">yd.</span><span>{{ site.title }}</span></a>
+  <header class="masthead">
+    <div class="masthead-inner">
+      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
       <nav aria-label="Main navigation">
         {% assign paths = 'Research,CV,Writing,About' | split: ',' %}
         {% for name in paths %}{% assign path = name | downcase | prepend: '/' | append: '/' %}
         <a href="{{ path | relative_url }}"{% if page.url contains path %} aria-current="page"{% endif %}>{{ name }}</a>
         {% endfor %}
       </nav>
-      <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch to dark theme" hidden><span aria-hidden="true">◐</span><span class="theme-label">Dark</span></button>
-    </header>
-    <main id="main" tabindex="-1" class="{% if page.url == '/' %}home{% else %}interior{% endif %}">
-      {% if page.title and page.url != "/" %}
-      <header class="page-heading"><p class="eyebrow">{{ page.eyebrow | default: 'Ywione Darrell' }}</p><h1>{{ page.title | escape }}</h1>{% if page.intro %}<p class="lede">{{ page.intro }}</p>{% endif %}</header>
-      {% endif %}
+      <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Switch to dark theme" hidden><span class="theme-label">Dark</span></button>
+    </div>
+  </header>
+  <div class="page-wrapper">
+    <aside class="author-profile" aria-label="Author profile">
+      {% if site.profile_image %}<img class="author-photo" src="{{ site.profile_image | relative_url }}" alt="{{ site.author | escape }}">{% endif %}
+      <a class="author-name" href="{{ '/' | relative_url }}">{{ site.author | escape }}</a>
+      <p class="author-bio">Macroeconomic Research Consultant</p>
+      <p class="author-affiliation">Financial Stability Research Division<br> Bermuda Monetary Authority</p>
+      <ul class="author-links">
+        <li>Bermuda</li>
+        <li><a href="{{ site.substack_url }}">Substack</a></li>
+        <li><a href="{{ site.github_url }}">GitHub</a></li>
+        <li><a href="{{ '/cv/' | relative_url }}">Curriculum vitae</a></li>
+      </ul>
+    </aside>
+    <main id="main" tabindex="-1" class="page-content">
+      <h1>{{ page.title | escape }}</h1>
       {{ content }}
     </main>
-    <footer class="site-footer">
-      <div><a class="footer-name" href="{{ '/' | relative_url }}">Ywione Darrell</a><p>Economics from an island perspective.</p></div>
-      <div class="footer-links"><a href="{{ site.substack_url }}">Substack <span aria-hidden="true">↗</span></a><a href="{{ site.github_url }}">GitHub <span aria-hidden="true">↗</span></a></div>
-      <p class="fine-print">© {{ 'now' | date: '%Y' }} {{ site.author }}. Views expressed are my own.</p>
-    </footer>
   </div>
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p><a href="{{ site.github_url }}">GitHub</a> · <a href="{{ site.substack_url }}">Substack</a></p>
+      <p>© {{ 'now' | date: '%Y' }} {{ site.author | escape }}. Views expressed are my own.</p>
+    </div>
+  </footer>
 </body>
 </html>
