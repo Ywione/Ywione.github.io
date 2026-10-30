@@ -1,0 +1,20 @@
+title: Ywione Darrell
+tagline: Economics from an island perspective
+description: Macroeconomic research and writing on inequality, small island economies and international finance by Ywione Darrell.
+url: "https://ywione.github.io"
+baseurl: ""
+author: Ywione Darrell
+permalink: pretty
+markdown: kramdown
+substack_url: "https://ywione.substack.com"
+github_url: "https://github.com/Ywione"
+collections:
+  research:
+    output: true
+    permalink: /research/:name/
+defaults:
+  - scope: { path: "" }
+    values: { layout: default }
+  - scope: { path: "", type: research }
+    values: { layout: research }
+exclude: [Gemfile, Gemfile.lock, README.md, scripts, tests, templates, vendor, .bundle, .gems]
