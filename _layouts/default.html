@@ -22,7 +22,7 @@
     <div class="masthead-inner">
       <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
       <nav aria-label="Main navigation">
-        {% assign paths = 'Research,CV,Writing,About' | split: ',' %}
+        {% assign paths = 'Research,Datasets,CV,Writing,About' | split: ',' %}
         {% for name in paths %}{% assign path = name | downcase | prepend: '/' | append: '/' %}
         <a href="{{ path | relative_url }}"{% if page.url contains path %} aria-current="page"{% endif %}>{{ name }}</a>
         {% endfor %}
