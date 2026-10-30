@@ -4,7 +4,7 @@ A conventional academic Jekyll site with a profile sidebar, compact navigation a
 
 ## Update content
 
-Edit `index.md`, `about.md`, `cv.md`, `research.md` or `writing.md` on GitHub and commit to `main`. GitHub Actions builds and deploys automatically. Dates, publications and a CV PDF are deliberately omitted until supplied.
+Edit `index.md`, `about.md`, `cv.md`, `research.md`, `datasets.md` or `writing.md` on GitHub and commit to `main`. GitHub Actions builds and deploys automatically. The CV page and downloadable PDF are based on the supplied CV. Research and dataset entries are added as they become available.
 
 - **Add research:** copy `templates/research-entry.md` into `_research/your-paper.md`; update its title, date, status and abstract. Optional `pdf` and `code` links appear only when populated. Put PDFs in `assets/files/`.
 - **Add a CV PDF:** upload `assets/files/cv.pdf`, then set `has_pdf: true` in `cv.md`.
@@ -33,4 +33,14 @@ bundle exec jekyll build
 python3 scripts/check_site.py
 ```
 
-The source summary and original ZIP are kept outside this repository. No fabricated papers, dates or CV download are included.
+The source summary and original ZIP are kept outside this repository. No sample papers or datasets are published as real work.
+
+## Add a Bermuda dataset
+
+1. Upload the Excel and CSV files to `assets/datasets/` on GitHub. Create the folder when uploading the first dataset. Use simple filenames, for example `bermuda-employment.xlsx` and `bermuda-employment.csv`.
+2. Copy `templates/dataset-entry.md` into `_datasets/` with a descriptive filename, such as `_datasets/bermuda-employment.md`. Create this folder for the first entry.
+3. Replace the title and description, fill in coverage, frequency, update date and source, then set `excel` and `csv` to the uploaded file paths. Leave a format blank if it is unavailable; its download link will be hidden.
+4. Add any methodology, units, revisions or citation notes below the front matter. Optional `citation` and `license` fields can be used for a short citation and reuse terms.
+5. Commit the files to `main`. The Datasets page updates automatically and lists entries alphabetically.
+
+To update an existing dataset, replace its files and update its metadata. To remove a listing, delete its file from `_datasets/`.

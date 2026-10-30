@@ -9,6 +9,8 @@ markdown: kramdown
 substack_url: "https://ywione.substack.com"
 github_url: "https://github.com/Ywione"
 collections:
+  datasets:
+    output: false
   research:
     output: true
     permalink: /research/:name/
