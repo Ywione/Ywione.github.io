@@ -6,9 +6,13 @@ import re
 import sys
 from pathlib import Path
 import xlrd
+from qbs_source import inspect_book
+from read_qbs import open_book
 
 source, target = map(Path, sys.argv[1:3])
-book = xlrd.open_workbook(str(source), formatting_info=True)
+book = open_book(source)
+schema = json.loads(Path(__file__).with_name("schema.json").read_text())
+(year, quarter), toc = inspect_book(book, source, schema)
 categories = {
     1: 'Tourism', 2: 'Tourism', 3: 'Tourism', 4: 'Tourism',
     5: 'Government finance', 6: 'Government finance',
@@ -19,11 +23,6 @@ categories = {
     16: 'Travel and spending', 17: 'Travel and spending',
     18: 'Employment and income', 19: 'Tourism', 20: 'Prices and consumption',
 }
-contents = book.sheet_by_index(0)
-toc = []
-for r in range(4, 26):
-    values = [str(c.value).strip() for c in contents.row(r) if str(c.value).strip()]
-    toc.append(values)
 
 def colname(c):
     return xlrd.formula.colname(c)
@@ -32,9 +31,9 @@ tables = []
 for index, sheet in enumerate(book.sheets()[1:]):
     number = int(re.search(r'\d+', sheet.name).group())
     slug = f'table-{number:02d}'
-    if '(b)' in sheet.name:
+    if '(b)' in sheet.name.lower():
         slug += '-b'
-    elif 'ISIC' in sheet.name:
+    elif 'ISIC' in sheet.name.upper():
         slug += '-isic-4'
     meaningful = [(r, c) for r in range(sheet.nrows) for c in range(sheet.ncols)
                   if sheet.cell_type(r, c) not in (0, 6) and str(sheet.cell_value(r, c)).strip()]
@@ -95,12 +94,12 @@ for index, sheet in enumerate(book.sheets()[1:]):
                 break
     header_end = min(first_year if first_year is not None else first_data, first_data)
     title = toc[index][1]
-    if number == 18 and 'ISIC' in sheet.name:
+    if number == 18 and 'ISIC' in sheet.name.upper():
         title = 'Total Employment by Major Occupational Group and Economic Activity (ISIC Rev. 4)'
     elif number == 18:
         title = 'Total Employment by Major Occupations and Industry Groups (legacy classification)'
     elif number == 15:
-        title = 'Combined Balance Sheet of Bermuda Banks and Deposit Companies: ' + ('Consolidated Liabilities' if '(b)' in sheet.name else 'Consolidated Assets')
+        title = 'Combined Balance Sheet of Bermuda Banks and Deposit Companies: ' + ('Consolidated Liabilities' if '(b)' in sheet.name.lower() else 'Consolidated Assets')
     elif number == 10:
         title = 'Residential Dwelling Units: Gross Additions, Gross Deductions and Net Total'
     units = [v.strip() for v in rows[0] if isinstance(v, str) and v.strip().startswith('$')]
@@ -109,7 +108,7 @@ for index, sheet in enumerate(book.sheets()[1:]):
     for r, row in enumerate(rows):
         candidates = row if number == 18 and r == 2 else row[:2]
         for value in candidates:
-            if isinstance(value, (int, float)) and value == int(value) and 1900 <= value <= 2026:
+            if isinstance(value, (int, float)) and value == int(value) and 1900 <= value <= year:
                 # Year labels are standalone for quarterly tables; annual consumption is first column.
                 if r == 2 and number == 18 or len([v for v in row if v is not None]) == 1 or number == 20:
                     observed_years.append(int(value))
@@ -135,14 +134,15 @@ for index, sheet in enumerate(book.sheets()[1:]):
         'coverage': f'{min(observed_years)}–{max(observed_years)}' if observed_years else 'See source headings',
         'errors': error_cells, 'unavailableCells': unavailable,
     })
-payload = {'edition': '2026-q1', 'editionLabel': 'Q1 2026',
+payload = {'edition': f'{year}-q{quarter}', 'editionLabel': f'Q{quarter} {year}',
            'sourceTitle': 'Quarterly Bulletin of Statistics — Annex I',
            'publisher': 'Government of Bermuda, Department of Statistics',
            'sourceFile': source.name, 'sha256': hashlib.sha256(source.read_bytes()).hexdigest(),
            'symbols': ['Grey shading: Not available for updating',
                        'Numbers may not add to total due to rounding',
                        'R: Revised', 'e: Estimate', '**: Divisor is zero'],
-           'tables': tables}
+           'tables': tables,
+           'dataSha256': hashlib.sha256(json.dumps(tables, sort_keys=True, ensure_ascii=False, separators=(',', ':')).encode()).hexdigest()}
 target.write_text(json.dumps(payload, ensure_ascii=False, separators=(',', ':')))
 print(json.dumps({'tables': len(tables), 'cells': sum(sum(v is not None for row in t['rows'] for v in row) for t in tables),
                   'sourceErrors': sum(len(t['errors']) for t in tables), 'jsonBytes': target.stat().st_size}))

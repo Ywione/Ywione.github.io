@@ -1,37 +1,66 @@
-# Quarterly statistics import
+# Quarterly statistics updates
 
-The website currently contains the Q1 2026 edition of the Department of Statistics' **Quarterly Bulletin of Statistics — Annex I**, supplied as `QBS Q1 2026 Final.xls`.
+The QBS importer reads a dedicated, locally configured source folder. It selects only top-level regular files named like `QBS Q2 2026 Final.xls` or `QBS Q2 2026 Final.xlsx`. It does not scan subfolders, follow symlinks, read unrelated datasets, or modify source workbooks. `Final`, `Revised`, numbered `Rev`/`Revision`, and duplicate-copy suffixes are supported. Drafts and Excel lock files are ignored.
 
-## Published files
+The quarter/year in the filename must agree with the workbook cover. Selection uses publication quarter, never filesystem modification time. Different workbooks for the same latest quarter require review; byte-identical copies are safe. Newly written files wait until copying has settled. An older file cannot roll back the site.
 
-- `qds/index.html`: searchable catalogue, published at `/datasets/qds/`.
-- `qds/2026-q1-table-*.html`: individual table views.
-- `assets/datasets/qds/2026-q1/`: 22 Excel files, 22 CSV files and a metadata manifest.
-- `_datasets/quarterly-statistics.md`: entry on the main Datasets page.
-- `assets/css/qds.css` and `assets/js/qds.js`: table scrolling, search, subject filters and year navigation.
+## Local configuration
 
-## Regeneration
+The installation-specific `.qbs-local.json` is gitignored and not published. It contains:
 
-Run this import through Codex using its bundled Python and Node runtimes. The extractor requires `xlrd`; the workbook exporter requires `@oai/artifact-tool`. The verifier reads the exported files with `openpyxl` and creates review images using Pillow. Do not install dependencies into the bundled runtime directories.
+- `source_directory`: the user's QBS folder.
+- `runtime_directory`: the Codex bundled dependencies directory containing `python/` and `node/`.
+- `artifact_marker`: the spreadsheet skill's `container_tools/mark_artifact_operation_started.mjs`.
+- `timezone`: the timezone used for import dates.
 
-1. Run `extract_qds.py SOURCE.xls EXTRACT.json` in a temporary directory. It reads the original `.xls` without modifying it.
-2. Run `build_qds.mjs EXTRACT.json SITE_DIRECTORY REVIEW_DIRECTORY`. This exports the table downloads and creates the pages. The review directory receives spreadsheet previews and export inspection files.
-3. Run `verify_qds.py EXTRACT.json SITE_DIRECTORY REVIEW_DIRECTORY`. Every meaningful source cell and numeric format is compared with the exported workbook. Existing Excel error markers must remain unchanged, and no new live formulas are allowed.
-4. Review the spreadsheet previews, run the Jekyll build and `scripts/check_site.py`, and test catalogue search, subject selection, year jumps and scrolling in a browser.
-5. Commit the generated files with the scripts. Keep the input `.xls`, extracted JSON, temporary dependencies and QA previews outside the published site.
+Use the Codex workspace-dependencies tool if runtime or skill locations change. The bundled Python needs `xlrd` and `openpyxl`; extra Python packages belong in the ignored `.qbs-local/python/`, never in bundled dependency directories. Local configuration, runtime dependencies, source copies, extracts, staging releases and review images stay outside the published repository.
 
-The import is explicitly configured for the supplied Q1 2026 edition. For a new edition, review worksheet names, ordering, table definitions, classification changes and source notes before adapting the edition metadata. Do not silently append or combine revised vintages.
+## Check and prepare
+
+From the repository root:
+
+```sh
+python3 scripts/qds/refresh_qbs.py --check
+python3 scripts/qds/refresh_qbs.py --prepare
+```
+
+`--check` reports `unchanged`, `available`, or `needs_attention`. A source file hash detects new inputs. For a re-saved copy of the current edition, a second comparison of all extracted table values, formatting, definitions and metadata avoids a redundant release. No new edition is inferred from file modification time.
+
+`--prepare` is a no-op for unchanged content. For a changed release it requires a clean checkout, creates an isolated `.qbs-local/release-*/site/`, preserves a private source copy, verifies the cover and contents mapping, and extracts all tables. XLSX formulas must contain saved results; missing cached results or unsupported source shading stop the import. Unknown table layouts or substantive title changes require review of `schema.json` and extraction mappings.
+
+The maintained builder creates individual Excel/CSV downloads and table pages using the source edition, updates the catalogue and main dataset listing, and preserves previous edition directories. A revised copy of the same edition replaces that edition only; Git retains its published history. Every table keeps its source notes, revision markers and classifications. Displayed table numbering stays removed.
+
+The preparation step marks spreadsheet authoring once, uses Artifact Tool for XLSX creation and rendering, and runs `verify_qds.py` to compare every populated source value and number format with the exported file. It writes `release.json` with the base commit and a checksum for every generated output. It does not publish anything or change the working website.
+
+## Review, apply and publish
+
+1. Inspect the prepared source metadata, differences from the current release, `review/verification.json`, and spreadsheet previews. Investigate source definition changes or unexpected revisions; do not silently merge classifications or repair original error markers.
+2. Build Jekyll inside the prepared `site/` and run its `scripts/check_site.py`. Check representative table views and links when presentation or layout changed. Use the repository's existing build setup.
+3. Apply the exact checked release:
+
+   ```sh
+   python3 scripts/qds/refresh_qbs.py --apply .qbs-local/release-EXAMPLE/release.json
+   ```
+
+   This checks that source, prepared outputs and repository head are unchanged, then copies only that edition's allowed outputs plus the catalogue and dataset listing. Prior editions and other website files are retained.
+4. Publish the reviewed files together to `Ywione/Ywione.github.io`. Use the existing GitHub connector if command-line authentication is unavailable. Verify blob hashes and use the current expected head for the branch update; never force over another change. Do not upload local configuration, source workbooks, private extracts, dependencies or review images.
+5. Confirm GitHub Pages deployment and public catalogue, table pages, Excel and CSV links. Synchronize the local checkout and source backup with the published commit.
+
+The daily Codex check is responsible for orchestration and publishing. GitHub Pages cannot read the local source folder directly. The scheduled check needs this Mac and its local Codex environment to be available. If access, schema, source ambiguity or validation blocks an update, retain the currently published edition and report the specific issue.
 
 ## Data handling
 
-- The 22 statistical worksheets are kept separate. Table 15 assets/liabilities and the two Table 18 employment classifications are not combined.
-- Trailing formatting-only cells are excluded. All historical populated rows and columns, including those hidden in the source, are retained. Whitespace-only source cells may serialize as blanks.
-- Excel files retain the original numeric values, number formats, source rows and cell references. Extra notes identify the source, snapshot method and unavailable-for-updating cells. Formulas are replaced by their supplied cached values; no calculations are repaired or refreshed.
-- CSV files preserve the original tabulated layout and **displayed** values, including percentages, headings and notes. They are not normalized long-form datasets. Commas, quotes and line breaks are CSV-escaped. The final rows record provenance and grey-shaded source-cell references.
-- The source workbook contains pre-existing `#DIV/0!`, `#REF!` and `#VALUE!` cells. These are retained as literal markers, not converted to zero or mislabeled as missing observations.
-- Grey shading in the source means “Not available for updating.” It is preserved in Excel and on the web, with the source coordinates listed in CSV notes and the manifest.
-- Each table page distinguishes the **Q1 2026 edition** from the dates actually reported by individual series. Source footnotes, revision flags, units and agencies remain visible.
+- Preserve historical populated rows and columns, including those hidden in the source. Exclude only formatting-only trailing cells; whitespace-only cells may serialize as blanks.
+- Keep separate tables for bank assets/liabilities and for the legacy and ISIC Rev. 4 employment classifications.
+- Excel retains numeric values, source number formats and cell references. CSV retains the tabulated layout and displayed values, including percent signs. CSV is not a normalized long-format dataset.
+- Use the source's saved formula results. Retain existing `#DIV/0!`, `#REF!` and `#VALUE!` markers literally, without treating them as zero.
+- Preserve grey shading meaning “Not available for updating”; CSV notes and manifests record affected source coordinates.
+- Distinguish the publication edition from the reporting dates actually present in each series. Do not infer current coverage from an edition date.
 
-## Initial verification
+## Development checks
 
-The import from source SHA-256 `cf7a382e88d3919c4cf27d9f2a86172dceead05ef8c1df213b3bd6a1a7ebc436` produced 22 table extracts. Independent checks compared 38,828 populated source cells without a value mismatch. There are 798 pre-existing source error markers.
+```sh
+python3 -m unittest discover -s tests -p 'test_qbs_refresh.py'
+```
+
+The builder's `--pages-only` option is for isolated HTML/edition-rendering checks using an already extracted JSON file. It does not create downloads and must not be used to prepare a publication release. Never publish synthetic future-edition test output.

@@ -1,0 +1,92 @@
+{
+  "tables": [
+    {
+      "key": "table1",
+      "sourceTitle": "Visitor Arrivals"
+    },
+    {
+      "key": "table2",
+      "sourceTitle": "Visitors by Intended Type of Accommodation"
+    },
+    {
+      "key": "table3",
+      "sourceTitle": "Estimated Expenditure of Vacation and Business Visitors"
+    },
+    {
+      "key": "table4",
+      "sourceTitle": "Employment in Hotel Industry by Type of Establishment"
+    },
+    {
+      "key": "table5",
+      "sourceTitle": "Central Government Revenue by Source"
+    },
+    {
+      "key": "table6",
+      "sourceTitle": "Central Government Expenditure"
+    },
+    {
+      "key": "table7",
+      "sourceTitle": "Imports by Commodity Groups"
+    },
+    {
+      "key": "table8",
+      "sourceTitle": "Imports by Country"
+    },
+    {
+      "key": "table9",
+      "sourceTitle": "Construction Projects"
+    },
+    {
+      "key": "table10",
+      "sourceTitle": "Gross Additions to the Stock of Residential Dwelling Units"
+    },
+    {
+      "key": "table11",
+      "sourceTitle": "Consumer Price Index"
+    },
+    {
+      "key": "table12",
+      "sourceTitle": "Retail Sales Value Index"
+    },
+    {
+      "key": "table13",
+      "sourceTitle": "Businesses Registered in Bermuda"
+    },
+    {
+      "key": "table14",
+      "sourceTitle": "Employment Income by Selected Industry"
+    },
+    {
+      "key": "table15",
+      "sourceTitle": "Combined Balance Sheet of Bermuda Banks and Deposit Companies Consolidated Assets"
+    },
+    {
+      "key": "table15(b)",
+      "sourceTitle": "Combined Balance Sheet of Bermuda Banks and Deposit Companies Consolidated Liabilities"
+    },
+    {
+      "key": "table16",
+      "sourceTitle": "Resident Trips Abroad by Purpose and Country of Destination"
+    },
+    {
+      "key": "table17",
+      "sourceTitle": "Overseas Declarations"
+    },
+    {
+      "key": "table18",
+      "sourceTitle": "Total Employment by Major Occupations and Industry Groups"
+    },
+    {
+      "key": "table18isic4",
+      "sourceTitle": "Total Employment by Major Occupations and Industry Groups"
+    },
+    {
+      "key": "table19",
+      "sourceTitle": "Hotel Gross Receipts"
+    },
+    {
+      "key": "table20",
+      "sourceTitle": "Personal Consumption Estimates"
+    }
+  ]
+}
