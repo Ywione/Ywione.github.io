@@ -1,0 +1,1117 @@
+﻿date,series,value,units,period,frequency,measure,classification,index_base,status,source_marker,revision,availability,source_sheet,source_cell,source_value,source_format
+2003-03-31,Capital,3.339041095890411,%,2003-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),G138,0.03339041095890411,0.0%
+2003-03-31,Capital,1.207,$billion,2003-Q1,Quarterly,Value,,,reported,,,,Table15(b),G8,1.207,"#,##0.0_);\(#,##0.0\)"
+2003-03-31,Demand deposits,6.103423160961398,%,2003-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),C138,0.061034231609613986,0.0%
+2003-03-31,Demand deposits,7.284,$billion,2003-Q1,Quarterly,Value,,,reported,,,,Table15(b),C8,7.284,"#,##0.0_);\(#,##0.0\)"
+2003-03-31,Other liabilities,-28.77959927140255,%,2003-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),F138,-0.2877959927140255,0.0%
+2003-03-31,Other liabilities,0.391,$billion,2003-Q1,Quarterly,Value,,,reported,,,,Table15(b),F8,0.391,"#,##0.0_);\(#,##0.0\)"
+2003-03-31,Savings deposits,22.99618320610687,%,2003-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),D138,0.2299618320610687,0.0%
+2003-03-31,Savings deposits,1.289,$billion,2003-Q1,Quarterly,Value,,,reported,,,,Table15(b),D8,1.289,"#,##0.0_);\(#,##0.0\)"
+2003-03-31,Time deposits,-1.8490374873353599,%,2003-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),E138,-0.018490374873353598,0.0%
+2003-03-31,Time deposits,7.75,$billion,2003-Q1,Quarterly,Value,,,reported,,,,Table15(b),E8,7.75,"#,##0.0_);\(#,##0.0\)"
+2003-03-31,Total liabilities,2.253794362661189,%,2003-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),H138,0.022537943626611892,0.0%
+2003-03-31,Total liabilities,17.921,$billion,2003-Q1,Quarterly,Value,,,reported,,,,Table15(b),H8,17.921,"#,##0.0_);\(#,##0.0\)"
+2003-06-30,Capital,12.089810017271157,%,2003-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),G139,0.12089810017271158,0.0%
+2003-06-30,Capital,1.298,$billion,2003-Q2,Quarterly,Value,,,reported,,,,Table15(b),G9,1.298,"#,##0.0_);\(#,##0.0\)"
+2003-06-30,Demand deposits,31.936307646086824,%,2003-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),C139,0.31936307646086826,0.0%
+2003-06-30,Demand deposits,8.783,$billion,2003-Q2,Quarterly,Value,,,reported,,,,Table15(b),C9,8.783,"#,##0.0_);\(#,##0.0\)"
+2003-06-30,Other liabilities,43.51851851851852,%,2003-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),F139,0.4351851851851852,0.0%
+2003-06-30,Other liabilities,0.775,$billion,2003-Q2,Quarterly,Value,,,reported,,,,Table15(b),F9,0.775,"#,##0.0_);\(#,##0.0\)"
+2003-06-30,Savings deposits,22.262443438914026,%,2003-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),D139,0.22262443438914026,0.0%
+2003-06-30,Savings deposits,1.351,$billion,2003-Q2,Quarterly,Value,,,reported,,,,Table15(b),D9,1.351,"#,##0.0_);\(#,##0.0\)"
+2003-06-30,Time deposits,-7.62633592822272,%,2003-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),E139,-0.0762633592822272,0.0%
+2003-06-30,Time deposits,7.001,$billion,2003-Q2,Quarterly,Value,,,reported,,,,Table15(b),E9,7.001,"#,##0.0_);\(#,##0.0\)"
+2003-06-30,Total liabilities,12.723751393861141,%,2003-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),H139,0.1272375139386114,0.0%
+2003-06-30,Total liabilities,19.208,$billion,2003-Q2,Quarterly,Value,,,reported,,,,Table15(b),H9,19.208,"#,##0.0_);\(#,##0.0\)"
+2003-09-30,Capital,10.596026490066226,%,2003-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),G140,0.10596026490066225,0.0%
+2003-09-30,Capital,1.336,$billion,2003-Q3,Quarterly,Value,,,reported,,,,Table15(b),G10,1.336,"#,##0.0_);\(#,##0.0\)"
+2003-09-30,Demand deposits,41.45188348330029,%,2003-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),C140,0.4145188348330029,0.0%
+2003-09-30,Demand deposits,9.275,$billion,2003-Q3,Quarterly,Value,,,reported,,,,Table15(b),C10,9.275,"#,##0.0_);\(#,##0.0\)"
+2003-09-30,Other liabilities,21.858864027538726,%,2003-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),F140,0.21858864027538727,0.0%
+2003-09-30,Other liabilities,0.708,$billion,2003-Q3,Quarterly,Value,,,reported,,,,Table15(b),F10,0.708,"#,##0.0_);\(#,##0.0\)"
+2003-09-30,Savings deposits,18.95943562610229,%,2003-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),D140,0.18959435626102292,0.0%
+2003-09-30,Savings deposits,1.349,$billion,2003-Q3,Quarterly,Value,,,reported,,,,Table15(b),D10,1.349,"#,##0.0_);\(#,##0.0\)"
+2003-09-30,Time deposits,-7.572026594434868,%,2003-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),E140,-0.07572026594434868,0.0%
+2003-09-30,Time deposits,7.507,$billion,2003-Q3,Quarterly,Value,,,reported,,,,Table15(b),E10,7.507,"#,##0.0_);\(#,##0.0\)"
+2003-09-30,Total liabilities,14.624169081302199,%,2003-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),H140,0.146241690813022,0.0%
+2003-09-30,Total liabilities,20.174999999999997,$billion,2003-Q3,Quarterly,Value,,,reported,,,,Table15(b),H10,20.174999999999997,"#,##0.0_);\(#,##0.0\)"
+2003-12-31,Capital,15.149006622516556,%,2003-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),G141,0.15149006622516556,0.0%
+2003-12-31,Capital,1.391,$billion,2003-Q4,Quarterly,Value,,,reported,,,,Table15(b),G11,1.391,"#,##0.0_);\(#,##0.0\)"
+2003-12-31,Demand deposits,44.11923388184516,%,2003-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),C141,0.4411923388184516,0.0%
+2003-12-31,Demand deposits,10.685,$billion,2003-Q4,Quarterly,Value,,,reported,,,,Table15(b),C11,10.685,"#,##0.0_);\(#,##0.0\)"
+2003-12-31,Other liabilities,17.254901960784313,%,2003-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),F141,0.17254901960784313,0.0%
+2003-12-31,Other liabilities,0.897,$billion,2003-Q4,Quarterly,Value,,,reported,,,,Table15(b),F11,0.897,"#,##0.0_);\(#,##0.0\)"
+2003-12-31,Savings deposits,20.23217247097844,%,2003-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),D141,0.2023217247097844,0.0%
+2003-12-31,Savings deposits,1.45,$billion,2003-Q4,Quarterly,Value,,,reported,,,,Table15(b),D11,1.45,"#,##0.0_);\(#,##0.0\)"
+2003-12-31,Time deposits,-1.554212409029234,%,2003-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),E141,-0.01554212409029234,0.0%
+2003-12-31,Time deposits,7.981,$billion,2003-Q4,Quarterly,Value,,,reported,,,,Table15(b),E11,7.981,"#,##0.0_);\(#,##0.0\)"
+2003-12-31,Total liabilities,19.807486631016044,%,2003-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),H141,0.19807486631016044,0.0%
+2003-12-31,Total liabilities,22.403999999999996,$billion,2003-Q4,Quarterly,Value,,,reported,,,,Table15(b),H11,22.403999999999996,"#,##0.0_);\(#,##0.0\)"
+2004-03-31,Capital,7.290803645401811,%,2004-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),G143,0.07290803645401811,0.0%
+2004-03-31,Capital,1.295,$billion,2004-Q1,Quarterly,Value,,,reported,,,,Table15(b),G13,1.295,"#,##0.0_);\(#,##0.0\)"
+2004-03-31,Demand deposits,60.145524437122454,%,2004-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),C143,0.6014552443712246,0.0%
+2004-03-31,Demand deposits,11.665,$billion,2004-Q1,Quarterly,Value,,,reported,,,,Table15(b),C13,11.665,"#,##0.0_);\(#,##0.0\)"
+2004-03-31,Other liabilities,190.0255754475703,%,2004-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),F143,1.900255754475703,0.0%
+2004-03-31,Other liabilities,1.134,$billion,2004-Q1,Quarterly,Value,,,reported,,,,Table15(b),F13,1.134,"#,##0.0_);\(#,##0.0\)"
+2004-03-31,Savings deposits,44.453064391000794,%,2004-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),D143,0.4445306439100079,0.0%
+2004-03-31,Savings deposits,1.862,$billion,2004-Q1,Quarterly,Value,,,reported,,,,Table15(b),D13,1.862,"#,##0.0_);\(#,##0.0\)"
+2004-03-31,Time deposits,-3.974193548387094,%,2004-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),E143,-0.03974193548387094,0.0%
+2004-03-31,Time deposits,7.442,$billion,2004-Q1,Quarterly,Value,,,reported,,,,Table15(b),E13,7.442,"#,##0.0_);\(#,##0.0\)"
+2004-03-31,Total liabilities,30.561910607667002,%,2004-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),H143,0.30561910607667003,0.0%
+2004-03-31,Total liabilities,23.398000000000003,$billion,2004-Q1,Quarterly,Value,,,reported,,,,Table15(b),H13,23.398000000000003,"#,##0.0_);\(#,##0.0\)"
+2004-06-30,Capital,10.015408320493059,%,2004-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),G144,0.10015408320493058,0.0%
+2004-06-30,Capital,1.428,$billion,2004-Q2,Quarterly,Value,,,reported,,,,Table15(b),G14,1.428,"#,##0.0_);\(#,##0.0\)"
+2004-06-30,Demand deposits,39.83832403506775,%,2004-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),C144,0.3983832403506775,0.0%
+2004-06-30,Demand deposits,12.282,$billion,2004-Q2,Quarterly,Value,,,reported,,,,Table15(b),C14,12.282,"#,##0.0_);\(#,##0.0\)"
+2004-06-30,Other liabilities,50.451612903225794,%,2004-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),F144,0.504516129032258,0.0%
+2004-06-30,Other liabilities,1.166,$billion,2004-Q2,Quarterly,Value,,,reported,,,,Table15(b),F14,1.166,"#,##0.0_);\(#,##0.0\)"
+2004-06-30,Savings deposits,50.481125092524046,%,2004-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),D144,0.5048112509252405,0.0%
+2004-06-30,Savings deposits,2.033,$billion,2004-Q2,Quarterly,Value,,,reported,,,,Table15(b),D14,2.033,"#,##0.0_);\(#,##0.0\)"
+2004-06-30,Time deposits,1.814026567633192,%,2004-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),E144,0.01814026567633192,0.0%
+2004-06-30,Time deposits,7.128,$billion,2004-Q2,Quarterly,Value,,,reported,,,,Table15(b),E14,7.128,"#,##0.0_);\(#,##0.0\)"
+2004-06-30,Total liabilities,25.140566430653898,%,2004-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),H144,0.251405664306539,0.0%
+2004-06-30,Total liabilities,24.037,$billion,2004-Q2,Quarterly,Value,,,reported,,,,Table15(b),H14,24.037,"#,##0.0_);\(#,##0.0\)"
+2004-09-30,Capital,6.287425149700587,%,2004-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),G145,0.06287425149700587,0.0%
+2004-09-30,Capital,1.42,$billion,2004-Q3,Quarterly,Value,,,reported,,,,Table15(b),G15,1.42,"#,##0.0_);\(#,##0.0\)"
+2004-09-30,Demand deposits,17.983827493261447,%,2004-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),C145,0.17983827493261448,0.0%
+2004-09-30,Demand deposits,10.943,$billion,2004-Q3,Quarterly,Value,,,reported,,,,Table15(b),C15,10.943,"#,##0.0_);\(#,##0.0\)"
+2004-09-30,Other liabilities,29.80225988700566,%,2004-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),F145,0.2980225988700566,0.0%
+2004-09-30,Other liabilities,0.919,$billion,2004-Q3,Quarterly,Value,,,reported,,,,Table15(b),F15,0.919,"#,##0.0_);\(#,##0.0\)"
+2004-09-30,Savings deposits,60.489251297257226,%,2004-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),D145,0.6048925129725723,0.0%
+2004-09-30,Savings deposits,2.165,$billion,2004-Q3,Quarterly,Value,,,reported,,,,Table15(b),D15,2.165,"#,##0.0_);\(#,##0.0\)"
+2004-09-30,Time deposits,-6.5405621420007956,%,2004-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),E145,-0.06540562142000796,0.0%
+2004-09-30,Time deposits,7.016,$billion,2004-Q3,Quarterly,Value,,,reported,,,,Table15(b),E15,7.016,"#,##0.0_);\(#,##0.0\)"
+2004-09-30,Total liabilities,11.340768277571273,%,2004-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),H145,0.11340768277571273,0.0%
+2004-09-30,Total liabilities,22.463,$billion,2004-Q3,Quarterly,Value,,,reported,,,,Table15(b),H15,22.463,"#,##0.0_);\(#,##0.0\)"
+2004-12-31,Capital,11.358734723220698,%,2004-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),G146,0.11358734723220698,0.0%
+2004-12-31,Capital,1.549,$billion,2004-Q4,Quarterly,Value,,,reported,,,,Table15(b),G16,1.549,"#,##0.0_);\(#,##0.0\)"
+2004-12-31,Demand deposits,-21.03883949461863,%,2004-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),C146,-0.21038839494618633,0.0%
+2004-12-31,Demand deposits,8.437,$billion,2004-Q4,Quarterly,Value,,,reported,,,,Table15(b),C16,8.437,"#,##0.0_);\(#,##0.0\)"
+2004-12-31,Other liabilities,-26.08695652173913,%,2004-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),F146,-0.2608695652173913,0.0%
+2004-12-31,Other liabilities,0.663,$billion,2004-Q4,Quarterly,Value,,,reported,,,,Table15(b),F16,0.663,"#,##0.0_);\(#,##0.0\)"
+2004-12-31,Savings deposits,54.41379310344827,%,2004-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),D146,0.5441379310344827,0.0%
+2004-12-31,Savings deposits,2.239,$billion,2004-Q4,Quarterly,Value,,,reported,,,,Table15(b),D16,2.239,"#,##0.0_);\(#,##0.0\)"
+2004-12-31,Time deposits,-79.95238691893248,%,2004-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),E146,-0.7995238691893247,0.0%
+2004-12-31,Time deposits,1.6,$billion,2004-Q4,Quarterly,Value,,,reported,,,,Table15(b),E16,1.6,"#,##0.0_);\(#,##0.0\)"
+2004-12-31,Total liabilities,-35.332976254240315,%,2004-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),H146,-0.3533297625424031,0.0%
+2004-12-31,Total liabilities,14.487999999999998,$billion,2004-Q4,Quarterly,Value,,,reported,,,,Table15(b),H16,14.487999999999998,"#,##0.0_);\(#,##0.0\)"
+2005-03-31,Capital,24.7876447876448,%,2005-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),G148,0.24787644787644803,0.0%
+2005-03-31,Capital,1.616,$billion,2005-Q1,Quarterly,Value,,,reported,,,,Table15(b),G18,1.616,"#,##0.0_);\(#,##0.0\)"
+2005-03-31,Demand deposits,-10.861551650235745,%,2005-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),C148,-0.10861551650235744,0.0%
+2005-03-31,Demand deposits,10.398,$billion,2005-Q1,Quarterly,Value,,,reported,,,,Table15(b),C18,10.398,"#,##0.0_);\(#,##0.0\)"
+2005-03-31,Other liabilities,-47.08994708994709,%,2005-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),F148,-0.4708994708994709,0.0%
+2005-03-31,Other liabilities,0.6,$billion,2005-Q1,Quarterly,Value,,,reported,,,,Table15(b),F18,0.6,"#,##0.0_);\(#,##0.0\)"
+2005-03-31,Savings deposits,18.74328678839956,%,2005-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),D148,0.18743286788399557,0.0%
+2005-03-31,Savings deposits,2.211,$billion,2005-Q1,Quarterly,Value,,,reported,,,,Table15(b),D18,2.211,"#,##0.0_);\(#,##0.0\)"
+2005-03-31,Time deposits,3.8161784466541224,%,2005-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),E148,0.038161784466541226,0.0%
+2005-03-31,Time deposits,7.726,$billion,2005-Q1,Quarterly,Value,,,reported,,,,Table15(b),E18,7.726,"#,##0.0_);\(#,##0.0\)"
+2005-03-31,Total liabilities,-3.6199675185913374,%,2005-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),H148,-0.036199675185913376,0.0%
+2005-03-31,Total liabilities,22.551000000000002,$billion,2005-Q1,Quarterly,Value,,,reported,,,,Table15(b),H18,22.551000000000002,"#,##0.0_);\(#,##0.0\)"
+2005-06-30,Capital,30.46218487394958,%,2005-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),G149,0.3046218487394958,0.0%
+2005-06-30,Capital,1.863,$billion,2005-Q2,Quarterly,Value,,,reported,,,,Table15(b),G19,1.863,"#,##0.0_);\(#,##0.0\)"
+2005-06-30,Demand deposits,-35.6212343266569,%,2005-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),C149,-0.356212343266569,0.0%
+2005-06-30,Demand deposits,7.907,$billion,2005-Q2,Quarterly,Value,,,reported,,,,Table15(b),C19,7.907,"#,##0.0_);\(#,##0.0\)"
+2005-06-30,Other liabilities,-52.229845626072034,%,2005-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),F149,-0.5222984562607204,0.0%
+2005-06-30,Other liabilities,0.557,$billion,2005-Q2,Quarterly,Value,,,reported,,,,Table15(b),F19,0.557,"#,##0.0_);\(#,##0.0\)"
+2005-06-30,Savings deposits,5.558288243974422,%,2005-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),D149,0.05558288243974422,0.0%
+2005-06-30,Savings deposits,2.146,$billion,2005-Q2,Quarterly,Value,,,reported,,,,Table15(b),D19,2.146,"#,##0.0_);\(#,##0.0\)"
+2005-06-30,Time deposits,-7.267115600448931,%,2005-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),E149,-0.07267115600448931,0.0%
+2005-06-30,Time deposits,6.61,$billion,2005-Q2,Quarterly,Value,,,reported,,,,Table15(b),E19,6.61,"#,##0.0_);\(#,##0.0\)"
+2005-06-30,Total liabilities,-20.609893081499358,%,2005-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),H149,-0.2060989308149936,0.0%
+2005-06-30,Total liabilities,19.083,$billion,2005-Q2,Quarterly,Value,,,reported,,,,Table15(b),H19,19.083,"#,##0.0_);\(#,##0.0\)"
+2005-09-30,Capital,35.49295774647888,%,2005-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),G150,0.35492957746478876,0.0%
+2005-09-30,Capital,1.924,$billion,2005-Q3,Quarterly,Value,,,reported,,,,Table15(b),G20,1.924,"#,##0.0_);\(#,##0.0\)"
+2005-09-30,Demand deposits,-25.175911541624775,%,2005-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),C150,-0.25175911541624774,0.0%
+2005-09-30,Demand deposits,8.188,$billion,2005-Q3,Quarterly,Value,,,reported,,,,Table15(b),C20,8.188,"#,##0.0_);\(#,##0.0\)"
+2005-09-30,Other liabilities,-32.20892274211099,%,2005-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),F150,-0.32208922742110996,0.0%
+2005-09-30,Other liabilities,0.623,$billion,2005-Q3,Quarterly,Value,,,reported,,,,Table15(b),F20,0.623,"#,##0.0_);\(#,##0.0\)"
+2005-09-30,Savings deposits,-1.66281755196305,%,2005-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),D150,-0.0166281755196305,0.0%
+2005-09-30,Savings deposits,2.129,$billion,2005-Q3,Quarterly,Value,,,reported,,,,Table15(b),D20,2.129,"#,##0.0_);\(#,##0.0\)"
+2005-09-30,Time deposits,-1.3397947548460705,%,2005-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),E150,-0.013397947548460704,0.0%
+2005-09-30,Time deposits,6.922,$billion,2005-Q3,Quarterly,Value,,,reported,,,,Table15(b),E20,6.922,"#,##0.0_);\(#,##0.0\)"
+2005-09-30,Total liabilities,-11.917375239282373,%,2005-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),H150,-0.11917375239282373,0.0%
+2005-09-30,Total liabilities,19.786,$billion,2005-Q3,Quarterly,Value,,,reported,,,,Table15(b),H20,19.786,"#,##0.0_);\(#,##0.0\)"
+2005-12-31,Capital,29.24467398321497,%,2005-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),G151,0.2924467398321497,0.0%
+2005-12-31,Capital,2.002,$billion,2005-Q4,Quarterly,Value,,,reported,,,,Table15(b),G21,2.002,"#,##0.0_);\(#,##0.0\)"
+2005-12-31,Demand deposits,13.180040298684368,%,2005-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),C151,0.13180040298684367,0.0%
+2005-12-31,Demand deposits,9.549,$billion,2005-Q4,Quarterly,Value,,,reported,,,,Table15(b),C21,9.549,"#,##0.0_);\(#,##0.0\)"
+2005-12-31,Other liabilities,18.099547511312217,%,2005-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),F151,0.18099547511312217,0.0%
+2005-12-31,Other liabilities,0.783,$billion,2005-Q4,Quarterly,Value,,,reported,,,,Table15(b),F21,0.783,"#,##0.0_);\(#,##0.0\)"
+2005-12-31,Savings deposits,-7.235372934345687,%,2005-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),D151,-0.07235372934345687,0.0%
+2005-12-31,Savings deposits,2.077,$billion,2005-Q4,Quarterly,Value,,,reported,,,,Table15(b),D21,2.077,"#,##0.0_);\(#,##0.0\)"
+2005-12-31,Time deposits,397.49999999999994,%,2005-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),E151,3.9749999999999996,0.0%
+2005-12-31,Time deposits,7.96,$billion,2005-Q4,Quarterly,Value,,,reported,,,,Table15(b),E21,7.96,"#,##0.0_);\(#,##0.0\)"
+2005-12-31,Total liabilities,54.41054665930427,%,2005-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),H151,0.5441054665930427,0.0%
+2005-12-31,Total liabilities,22.371,$billion,2005-Q4,Quarterly,Value,,,reported,,,,Table15(b),H21,22.371,"#,##0.0_);\(#,##0.0\)"
+2006-03-31,Capital,29.393564356435647,%,2006-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),G153,0.2939356435643565,0.0%
+2006-03-31,Capital,2.091,$billion,2006-Q1,Quarterly,Value,,,reported,,,,Table15(b),G23,2.091,"#,##0.0_);\(#,##0.0\)"
+2006-03-31,Demand deposits,-3.7507212925562667,%,2006-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),C153,-0.037507212925562666,0.0%
+2006-03-31,Demand deposits,10.008,$billion,2006-Q1,Quarterly,Value,,,reported,,,,Table15(b),C23,10.008,"#,##0.0_);\(#,##0.0\)"
+2006-03-31,Other liabilities,0.33333333333333365,%,2006-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),F153,0.0033333333333333366,0.0%
+2006-03-31,Other liabilities,0.602,$billion,2006-Q1,Quarterly,Value,,,reported,,,,Table15(b),F23,0.602,"#,##0.0_);\(#,##0.0\)"
+2006-03-31,Savings deposits,-7.7792853912256765,%,2006-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),D153,-0.07779285391225677,0.0%
+2006-03-31,Savings deposits,2.039,$billion,2006-Q1,Quarterly,Value,,,reported,,,,Table15(b),D23,2.039,"#,##0.0_);\(#,##0.0\)"
+2006-03-31,Time deposits,-4.7243075330054385,%,2006-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),E153,-0.04724307533005439,0.0%
+2006-03-31,Time deposits,7.361,$billion,2006-Q1,Quarterly,Value,,,reported,,,,Table15(b),E23,7.361,"#,##0.0_);\(#,##0.0\)"
+2006-03-31,Total liabilities,-1.9954769189836494,%,2006-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),H153,-0.019954769189836494,0.0%
+2006-03-31,Total liabilities,22.101,$billion,2006-Q1,Quarterly,Value,,,reported,,,,Table15(b),H23,22.101,"#,##0.0_);\(#,##0.0\)"
+2006-06-30,Capital,17.87439613526571,%,2006-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),G154,0.1787439613526571,0.0%
+2006-06-30,Capital,2.196,$billion,2006-Q2,Quarterly,Value,,,reported,,,,Table15(b),G24,2.196,"#,##0.0_);\(#,##0.0\)"
+2006-06-30,Demand deposits,32.4269634501075,%,2006-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),C154,0.324269634501075,0.0%
+2006-06-30,Demand deposits,10.471,$billion,2006-Q2,Quarterly,Value,,,reported,,,,Table15(b),C24,10.471,"#,##0.0_);\(#,##0.0\)"
+2006-06-30,Other liabilities,26.750448833034092,%,2006-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),F154,0.2675044883303409,0.0%
+2006-06-30,Other liabilities,0.706,$billion,2006-Q2,Quarterly,Value,,,reported,,,,Table15(b),F24,0.706,"#,##0.0_);\(#,##0.0\)"
+2006-06-30,Savings deposits,-3.82106244175209,%,2006-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),D154,-0.0382106244175209,0.0%
+2006-06-30,Savings deposits,2.064,$billion,2006-Q2,Quarterly,Value,,,reported,,,,Table15(b),D24,2.064,"#,##0.0_);\(#,##0.0\)"
+2006-06-30,Time deposits,11.437216338880473,%,2006-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),E154,0.11437216338880474,0.0%
+2006-06-30,Time deposits,7.366,$billion,2006-Q2,Quarterly,Value,,,reported,,,,Table15(b),E24,7.366,"#,##0.0_);\(#,##0.0\)"
+2006-06-30,Total liabilities,19.49379028454647,%,2006-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),H154,0.1949379028454647,0.0%
+2006-06-30,Total liabilities,22.803,$billion,2006-Q2,Quarterly,Value,,,reported,,,,Table15(b),H24,22.803,"#,##0.0_);\(#,##0.0\)"
+2006-09-30,Capital,20.062370062370068,%,2006-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),G155,0.2006237006237007,0.0%
+2006-09-30,Capital,2.31,$billion,2006-Q3,Quarterly,Value,,,reported,,,,Table15(b),G25,2.31,"#,##0.0_);\(#,##0.0\)"
+2006-09-30,Demand deposits,15.59599413776257,%,2006-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),C155,0.1559599413776257,0.0%
+2006-09-30,Demand deposits,9.465,$billion,2006-Q3,Quarterly,Value,,,reported,,,,Table15(b),C25,9.465,"#,##0.0_);\(#,##0.0\)"
+2006-09-30,Other liabilities,2.728731942215091,%,2006-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),F155,0.02728731942215091,0.0%
+2006-09-30,Other liabilities,0.64,$billion,2006-Q3,Quarterly,Value,,,reported,,,,Table15(b),F25,0.64,"#,##0.0_);\(#,##0.0\)"
+2006-09-30,Savings deposits,-4.321277595115081,%,2006-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),D155,-0.04321277595115081,0.0%
+2006-09-30,Savings deposits,2.037,$billion,2006-Q3,Quarterly,Value,,,reported,,,,Table15(b),D25,2.037,"#,##0.0_);\(#,##0.0\)"
+2006-09-30,Time deposits,12.713088702687084,%,2006-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),E155,0.12713088702687084,0.0%
+2006-09-30,Time deposits,7.802,$billion,2006-Q3,Quarterly,Value,,,reported,,,,Table15(b),E25,7.802,"#,##0.0_);\(#,##0.0\)"
+2006-09-30,Total liabilities,12.473466087132296,%,2006-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),H155,0.12473466087132297,0.0%
+2006-09-30,Total liabilities,22.253999999999998,$billion,2006-Q3,Quarterly,Value,,,reported,,,,Table15(b),H25,22.253999999999998,"#,##0.0_);\(#,##0.0\)"
+2006-12-31,Capital,22.227772227772245,%,2006-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),G156,0.22227772227772244,0.0%
+2006-12-31,Capital,2.447,$billion,2006-Q4,Quarterly,Value,,,reported,,,,Table15(b),G26,2.447,"#,##0.0_);\(#,##0.0\)"
+2006-12-31,Demand deposits,-8.315006806995484,%,2006-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),C156,-0.08315006806995484,0.0%
+2006-12-31,Demand deposits,8.755,$billion,2006-Q4,Quarterly,Value,,,reported,,,,Table15(b),C26,8.755,"#,##0.0_);\(#,##0.0\)"
+2006-12-31,Other liabilities,-4.469987228607922,%,2006-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),F156,-0.04469987228607922,0.0%
+2006-12-31,Other liabilities,0.748,$billion,2006-Q4,Quarterly,Value,,,reported,,,,Table15(b),F26,0.748,"#,##0.0_);\(#,##0.0\)"
+2006-12-31,Savings deposits,36.976408281174784,%,2006-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),D156,0.36976408281174783,0.0%
+2006-12-31,Savings deposits,2.845,$billion,2006-Q4,Quarterly,Value,,,reported,,,,Table15(b),D26,2.845,"#,##0.0_);\(#,##0.0\)"
+2006-12-31,Time deposits,4.346733668341699,%,2006-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),E156,0.043467336683416985,0.0%
+2006-12-31,Time deposits,8.306,$billion,2006-Q4,Quarterly,Value,,,reported,,,,Table15(b),E26,8.306,"#,##0.0_);\(#,##0.0\)"
+2006-12-31,Total liabilities,-1.2069196727906648,%,2006-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),H156,-0.012069196727906647,0.0%
+2006-12-31,Total liabilities,22.101,$billion,2006-Q4,Quarterly,Value,,,reported,,,,Table15(b),H26,22.101,"#,##0.0_);\(#,##0.0\)"
+2007-03-31,Capital,22.907699665231927,%,2007-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),G158,0.2290769966523193,0.0%
+2007-03-31,Capital,2.57,$billion,2007-Q1,Quarterly,Value,,,reported,,,,Table15(b),G28,2.57,"#,##0.0_);\(#,##0.0\)"
+2007-03-31,Demand deposits,-7.9436450839328545,%,2007-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),C158,-0.07943645083932854,0.0%
+2007-03-31,Demand deposits,9.213,$billion,2007-Q1,Quarterly,Value,,,reported,,,,Table15(b),C28,9.213,"#,##0.0_);\(#,##0.0\)"
+2007-03-31,Other liabilities,-7.475083056478393,%,2007-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),F158,-0.07475083056478393,0.0%
+2007-03-31,Other liabilities,0.557,$billion,2007-Q1,Quarterly,Value,,,reported,,,,Table15(b),F28,0.557,"#,##0.0_);\(#,##0.0\)"
+2007-03-31,Savings deposits,46.54242275625305,%,2007-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),D158,0.46542422756253055,0.0%
+2007-03-31,Savings deposits,2.988,$billion,2007-Q1,Quarterly,Value,,,reported,,,,Table15(b),D28,2.988,"#,##0.0_);\(#,##0.0\)"
+2007-03-31,Time deposits,4.714033419372374,%,2007-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),E158,0.04714033419372374,0.0%
+2007-03-31,Time deposits,7.708,$billion,2007-Q1,Quarterly,Value,,,reported,,,,Table15(b),E28,7.708,"#,##0.0_);\(#,##0.0\)"
+2007-03-31,Total liabilities,4.23057780190941,%,2007-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),H158,0.042305778019094104,0.0%
+2007-03-31,Total liabilities,23.035999999999998,$billion,2007-Q1,Quarterly,Value,,,reported,,,,Table15(b),H28,23.035999999999998,"#,##0.0_);\(#,##0.0\)"
+2007-06-30,Capital,19.39890710382512,%,2007-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),G159,0.19398907103825122,0.0%
+2007-06-30,Capital,2.622,$billion,2007-Q2,Quarterly,Value,,,reported,,,,Table15(b),G29,2.622,"#,##0.0_);\(#,##0.0\)"
+2007-06-30,Demand deposits,-5.615509502435306,%,2007-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),C159,-0.05615509502435306,0.0%
+2007-06-30,Demand deposits,9.883,$billion,2007-Q2,Quarterly,Value,,,reported,,,,Table15(b),C29,9.883,"#,##0.0_);\(#,##0.0\)"
+2007-06-30,Other liabilities,0,%,2007-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),F159,0,0.0%
+2007-06-30,Other liabilities,0.706,$billion,2007-Q2,Quarterly,Value,,,reported,,,,Table15(b),F29,0.706,"#,##0.0_);\(#,##0.0\)"
+2007-06-30,Savings deposits,62.645348837209305,%,2007-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),D159,0.626453488372093,0.0%
+2007-06-30,Savings deposits,3.357,$billion,2007-Q2,Quarterly,Value,,,reported,,,,Table15(b),D29,3.357,"#,##0.0_);\(#,##0.0\)"
+2007-06-30,Time deposits,10.65707303828401,%,2007-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),E159,0.1065707303828401,0.0%
+2007-06-30,Time deposits,8.151,$billion,2007-Q2,Quarterly,Value,,,reported,,,,Table15(b),E29,8.151,"#,##0.0_);\(#,##0.0\)"
+2007-06-30,Total liabilities,8.402403192562367,%,2007-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),H159,0.08402403192562367,0.0%
+2007-06-30,Total liabilities,24.718999999999998,$billion,2007-Q2,Quarterly,Value,,,reported,,,,Table15(b),H29,24.718999999999998,"#,##0.0_);\(#,##0.0\)"
+2007-09-30,Capital,16.277056277056275,%,2007-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),G160,0.16277056277056273,0.0%
+2007-09-30,Capital,2.686,$billion,2007-Q3,Quarterly,Value,,,reported,,,,Table15(b),G30,2.686,"#,##0.0_);\(#,##0.0\)"
+2007-09-30,Demand deposits,-6.191230850501852,%,2007-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),C160,-0.06191230850501852,0.0%
+2007-09-30,Demand deposits,8.879,$billion,2007-Q3,Quarterly,Value,,,reported,,,,Table15(b),C30,8.879,"#,##0.0_);\(#,##0.0\)"
+2007-09-30,Other liabilities,-12.656249999999995,%,2007-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),F160,-0.12656249999999994,0.0%
+2007-09-30,Other liabilities,0.559,$billion,2007-Q3,Quarterly,Value,,,reported,,,,Table15(b),F30,0.559,"#,##0.0_);\(#,##0.0\)"
+2007-09-30,Savings deposits,45.45900834560629,%,2007-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),D160,0.45459008345606294,0.0%
+2007-09-30,Savings deposits,2.963,$billion,2007-Q3,Quarterly,Value,,,reported,,,,Table15(b),D30,2.963,"#,##0.0_);\(#,##0.0\)"
+2007-09-30,Time deposits,8.433734939759052,%,2007-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),E160,0.08433734939759052,0.0%
+2007-09-30,Time deposits,8.46,$billion,2007-Q3,Quarterly,Value,,,reported,,,,Table15(b),E30,8.46,"#,##0.0_);\(#,##0.0\)"
+2007-09-30,Total liabilities,5.810191426260461,%,2007-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),H160,0.05810191426260461,0.0%
+2007-09-30,Total liabilities,23.547,$billion,2007-Q3,Quarterly,Value,,,reported,,,,Table15(b),H30,23.547,"#,##0.0_);\(#,##0.0\)"
+2007-12-31,Capital,11.156518185533312,%,2007-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),G161,0.11156518185533311,0.0%
+2007-12-31,Capital,2.72,$billion,2007-Q4,Quarterly,Value,,,reported,,,,Table15(b),G31,2.72,"#,##0.0_);\(#,##0.0\)"
+2007-12-31,Demand deposits,-0.22844089091949,%,2007-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),C161,-0.0022844089091949,0.0%
+2007-12-31,Demand deposits,8.735,$billion,2007-Q4,Quarterly,Value,,,reported,,,,Table15(b),C31,8.735,"#,##0.0_);\(#,##0.0\)"
+2007-12-31,Other liabilities,-14.304812834224597,%,2007-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),F161,-0.14304812834224598,0.0%
+2007-12-31,Other liabilities,0.641,$billion,2007-Q4,Quarterly,Value,,,reported,,,,Table15(b),F31,0.641,"#,##0.0_);\(#,##0.0\)"
+2007-12-31,Savings deposits,20.316344463971873,%,2007-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),D161,0.20316344463971875,0.0%
+2007-12-31,Savings deposits,3.423,$billion,2007-Q4,Quarterly,Value,,,reported,,,,Table15(b),D31,3.423,"#,##0.0_);\(#,##0.0\)"
+2007-12-31,Time deposits,4.14158439682159,%,2007-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),E161,0.0414158439682159,0.0%
+2007-12-31,Time deposits,8.65,$billion,2007-Q4,Quarterly,Value,,,reported,,,,Table15(b),E31,8.65,"#,##0.0_);\(#,##0.0\)"
+2007-12-31,Total liabilities,9.357042667752582,%,2007-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),H161,0.09357042667752581,0.0%
+2007-12-31,Total liabilities,24.168999999999997,$billion,2007-Q4,Quarterly,Value,,,reported,,,,Table15(b),H31,24.168999999999997,"#,##0.0_);\(#,##0.0\)"
+2008-03-31,Capital,4.902723735408573,%,2008-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),G163,0.049027237354085734,0.0%
+2008-03-31,Capital,2.696,$billion,2008-Q1,Quarterly,Value,,,reported,,,,Table15(b),G33,2.696,"#,##0.0_);\(#,##0.0\)"
+2008-03-31,Demand deposits,3.8858135243677476,%,2008-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),C163,0.038858135243677476,0.0%
+2008-03-31,Demand deposits,9.571,$billion,2008-Q1,Quarterly,Value,,,reported,,,,Table15(b),C33,9.571,"#,##0.0_);\(#,##0.0\)"
+2008-03-31,Other liabilities,13.285457809694783,%,2008-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),F163,0.13285457809694784,0.0%
+2008-03-31,Other liabilities,0.631,$billion,2008-Q1,Quarterly,Value,,,reported,,,,Table15(b),F33,0.631,"#,##0.0_);\(#,##0.0\)"
+2008-03-31,Savings deposits,13.319946452476577,%,2008-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),D163,0.13319946452476578,0.0%
+2008-03-31,Savings deposits,3.386,$billion,2008-Q1,Quarterly,Value,,,reported,,,,Table15(b),D33,3.386,"#,##0.0_);\(#,##0.0\)"
+2008-03-31,Time deposits,12.999481058640383,%,2008-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),E163,0.12999481058640383,0.0%
+2008-03-31,Time deposits,8.71,$billion,2008-Q1,Quarterly,Value,,,reported,,,,Table15(b),E33,8.71,"#,##0.0_);\(#,##0.0\)"
+2008-03-31,Total liabilities,8.49973953811428,%,2008-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),H163,0.0849973953811428,0.0%
+2008-03-31,Total liabilities,24.994000000000003,$billion,2008-Q1,Quarterly,Value,,,reported,,,,Table15(b),H33,24.994000000000003,"#,##0.0_);\(#,##0.0\)"
+2008-06-30,Capital,3.5469107551487404,%,2008-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),G164,0.035469107551487404,0.0%
+2008-06-30,Capital,2.715,$billion,2008-Q2,Quarterly,Value,,,reported,,,,Table15(b),G34,2.715,"#,##0.0_);\(#,##0.0\)"
+2008-06-30,Demand deposits,-10.27016088232317,%,2008-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),C164,-0.1027016088232317,0.0%
+2008-06-30,Demand deposits,8.868,$billion,2008-Q2,Quarterly,Value,,,reported,,,,Table15(b),C34,8.868,"#,##0.0_);\(#,##0.0\)"
+2008-06-30,Other liabilities,-5.524079320113303,%,2008-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),F164,-0.05524079320113304,0.0%
+2008-06-30,Other liabilities,0.667,$billion,2008-Q2,Quarterly,Value,,,reported,,,,Table15(b),F34,0.667,"#,##0.0_);\(#,##0.0\)"
+2008-06-30,Savings deposits,-0.08936550491510616,%,2008-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),D164,-0.0008936550491510615,0.0%
+2008-06-30,Savings deposits,3.354,$billion,2008-Q2,Quarterly,Value,,,reported,,,,Table15(b),D34,3.354,"#,##0.0_);\(#,##0.0\)"
+2008-06-30,Time deposits,7.336523125996821,%,2008-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),E164,0.0733652312599682,0.0%
+2008-06-30,Time deposits,8.749,$billion,2008-Q2,Quarterly,Value,,,reported,,,,Table15(b),E34,8.749,"#,##0.0_);\(#,##0.0\)"
+2008-06-30,Total liabilities,-1.4806424208098734,%,2008-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),H164,-0.014806424208098733,0.0%
+2008-06-30,Total liabilities,24.353000000000005,$billion,2008-Q2,Quarterly,Value,,,reported,,,,Table15(b),H34,24.353000000000005,"#,##0.0_);\(#,##0.0\)"
+2008-09-30,Capital,2.3454951600893583,%,2008-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),G165,0.023454951600893583,0.0%
+2008-09-30,Capital,2.749,$billion,2008-Q3,Quarterly,Value,,,reported,,,,Table15(b),G35,2.749,"#,##0.0_);\(#,##0.0\)"
+2008-09-30,Demand deposits,-3.964410406577321,%,2008-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),C165,-0.03964410406577321,0.0%
+2008-09-30,Demand deposits,8.527,$billion,2008-Q3,Quarterly,Value,,,reported,,,,Table15(b),C35,8.527,"#,##0.0_);\(#,##0.0\)"
+2008-09-30,Other liabilities,25.044722719141305,%,2008-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),F165,0.25044722719141305,0.0%
+2008-09-30,Other liabilities,0.699,$billion,2008-Q3,Quarterly,Value,,,reported,,,,Table15(b),F35,0.699,"#,##0.0_);\(#,##0.0\)"
+2008-09-30,Savings deposits,20.654741815727306,%,2008-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),D165,0.20654741815727307,0.0%
+2008-09-30,Savings deposits,3.575,$billion,2008-Q3,Quarterly,Value,,,reported,,,,Table15(b),D35,3.575,"#,##0.0_);\(#,##0.0\)"
+2008-09-30,Time deposits,3.132387706855777,%,2008-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),E165,0.03132387706855777,0.0%
+2008-09-30,Time deposits,8.725,$billion,2008-Q3,Quarterly,Value,,,reported,,,,Table15(b),E35,8.725,"#,##0.0_);\(#,##0.0\)"
+2008-09-30,Total liabilities,3.091688962500522,%,2008-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),H165,0.03091688962500522,0.0%
+2008-09-30,Total liabilities,24.275,$billion,2008-Q3,Quarterly,Value,,,reported,,,,Table15(b),H35,24.275,"#,##0.0_);\(#,##0.0\)"
+2008-12-31,Capital,-3.7867647058823604,%,2008-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),G166,-0.0378676470588236,0.0%
+2008-12-31,Capital,2.617,$billion,2008-Q4,Quarterly,Value,,,reported,,,,Table15(b),G36,2.617,"#,##0.0_);\(#,##0.0\)"
+2008-12-31,Demand deposits,-7.510017172295351,%,2008-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),C166,-0.07510017172295351,0.0%
+2008-12-31,Demand deposits,8.079,$billion,2008-Q4,Quarterly,Value,,,reported,,,,Table15(b),C36,8.079,"#,##0.0_);\(#,##0.0\)"
+2008-12-31,Other liabilities,26.209048361934485,%,2008-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),F166,0.26209048361934484,0.0%
+2008-12-31,Other liabilities,0.809,$billion,2008-Q4,Quarterly,Value,,,reported,,,,Table15(b),F36,0.809,"#,##0.0_);\(#,##0.0\)"
+2008-12-31,Savings deposits,22.202746129126492,%,2008-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),D166,0.2220274612912649,0.0%
+2008-12-31,Savings deposits,4.183,$billion,2008-Q4,Quarterly,Value,,,reported,,,,Table15(b),D36,4.183,"#,##0.0_);\(#,##0.0\)"
+2008-12-31,Time deposits,-17.722543352601157,%,2008-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),E166,-0.17722543352601158,0.0%
+2008-12-31,Time deposits,7.117,$billion,2008-Q4,Quarterly,Value,,,reported,,,,Table15(b),E36,7.117,"#,##0.0_);\(#,##0.0\)"
+2008-12-31,Total liabilities,-5.643593032396846,%,2008-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),H166,-0.056435930323968465,0.0%
+2008-12-31,Total liabilities,22.805000000000003,$billion,2008-Q4,Quarterly,Value,,,reported,,,,Table15(b),H36,22.805000000000003,"#,##0.0_);\(#,##0.0\)"
+2009-03-31,Capital,-4.636498516320475,%,2009-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),G168,-0.046364985163204746,0.0%
+2009-03-31,Capital,2.571,$billion,2009-Q1,Quarterly,Value,,,reported,,,,Table15(b),G38,2.571,"#,##0.0_);\(#,##0.0\)"
+2009-03-31,Demand deposits,-14.982760422108447,%,2009-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),C168,-0.14982760422108446,0.0%
+2009-03-31,Demand deposits,8.137,$billion,2009-Q1,Quarterly,Value,,,reported,,,,Table15(b),C38,8.137,"#,##0.0_);\(#,##0.0\)"
+2009-03-31,Other liabilities,34.54833597464342,%,2009-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),F168,0.3454833597464342,0.0%
+2009-03-31,Other liabilities,0.849,$billion,2009-Q1,Quarterly,Value,,,reported,,,,Table15(b),F38,0.849,"#,##0.0_);\(#,##0.0\)"
+2009-03-31,Savings deposits,7.590076786769038,%,2009-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),D168,0.07590076786769039,0.0%
+2009-03-31,Savings deposits,3.643,$billion,2009-Q1,Quarterly,Value,,,reported,,,,Table15(b),D38,3.643,"#,##0.0_);\(#,##0.0\)"
+2009-03-31,Time deposits,-28.163030998851905,%,2009-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),E168,-0.28163030998851907,0.0%
+2009-03-31,Time deposits,6.257,$billion,2009-Q1,Quarterly,Value,,,reported,,,,Table15(b),E38,6.257,"#,##0.0_);\(#,##0.0\)"
+2009-03-31,Total liabilities,-14.151396335120436,%,2009-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),H168,-0.14151396335120436,0.0%
+2009-03-31,Total liabilities,21.457,$billion,2009-Q1,Quarterly,Value,,,reported,,,,Table15(b),H38,21.457,"#,##0.0_);\(#,##0.0\)"
+2009-06-30,Capital,7.8453038674033175,%,2009-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),G169,0.07845303867403318,0.0%
+2009-06-30,Capital,2.928,$billion,2009-Q2,Quarterly,Value,,,reported,,,,Table15(b),G39,2.928,"#,##0.0_);\(#,##0.0\)"
+2009-06-30,Demand deposits,-13.464140730717183,%,2009-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),C169,-0.13464140730717183,0.0%
+2009-06-30,Demand deposits,7.674,$billion,2009-Q2,Quarterly,Value,,,reported,,,,Table15(b),C39,7.674,"#,##0.0_);\(#,##0.0\)"
+2009-06-30,Other liabilities,0.7496251874062975,%,2009-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),F169,0.0074962518740629746,0.0%
+2009-06-30,Other liabilities,0.672,$billion,2009-Q2,Quarterly,Value,,,reported,,,,Table15(b),F39,0.672,"#,##0.0_);\(#,##0.0\)"
+2009-06-30,Savings deposits,23.762671437090034,%,2009-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),D169,0.23762671437090033,0.0%
+2009-06-30,Savings deposits,4.151,$billion,2009-Q2,Quarterly,Value,,,reported,,,,Table15(b),D39,4.151,"#,##0.0_);\(#,##0.0\)"
+2009-06-30,Time deposits,-25.625785804091905,%,2009-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),E169,-0.25625785804091905,0.0%
+2009-06-30,Time deposits,6.507,$billion,2009-Q2,Quarterly,Value,,,reported,,,,Table15(b),E39,6.507,"#,##0.0_);\(#,##0.0\)"
+2009-06-30,Total liabilities,-9.941280335071664,%,2009-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),H169,-0.09941280335071664,0.0%
+2009-06-30,Total liabilities,21.932000000000002,$billion,2009-Q2,Quarterly,Value,,,reported,,,,Table15(b),H39,21.932000000000002,"#,##0.0_);\(#,##0.0\)"
+2009-09-30,Capital,3.4921789741724294,%,2009-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),G170,0.034921789741724295,0.0%
+2009-09-30,Capital,2.845,$billion,2009-Q3,Quarterly,Value,,,reported,,,,Table15(b),G40,2.845,"#,##0.0_);\(#,##0.0\)"
+2009-09-30,Demand deposits,-10.367069309252956,%,2009-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),C170,-0.10367069309252956,0.0%
+2009-09-30,Demand deposits,7.643,$billion,2009-Q3,Quarterly,Value,,,reported,,,,Table15(b),C40,7.643,"#,##0.0_);\(#,##0.0\)"
+2009-09-30,Other liabilities,-11.87410586552217,%,2009-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),F170,-0.11874105865522169,0.0%
+2009-09-30,Other liabilities,0.616,$billion,2009-Q3,Quarterly,Value,,,reported,,,,Table15(b),F40,0.616,"#,##0.0_);\(#,##0.0\)"
+2009-09-30,Savings deposits,14.797202797202793,%,2009-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),D170,0.14797202797202794,0.0%
+2009-09-30,Savings deposits,4.104,$billion,2009-Q3,Quarterly,Value,,,reported,,,,Table15(b),D40,4.104,"#,##0.0_);\(#,##0.0\)"
+2009-09-30,Time deposits,-30.361031518624642,%,2009-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),E170,-0.3036103151862464,0.0%
+2009-09-30,Time deposits,6.076,$billion,2009-Q3,Quarterly,Value,,,reported,,,,Table15(b),E40,6.076,"#,##0.0_);\(#,##0.0\)"
+2009-09-30,Total liabilities,-12.321318228630277,%,2009-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),H170,-0.12321318228630278,0.0%
+2009-09-30,Total liabilities,21.284,$billion,2009-Q3,Quarterly,Value,,,reported,,,,Table15(b),H40,21.284,"#,##0.0_);\(#,##0.0\)"
+2009-12-31,Capital,-0.8788689338937765,%,2009-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),G171,-0.008788689338937766,0.0%
+2009-12-31,Capital,2.594,$billion,2009-Q4,Quarterly,Value,,,reported,,,,Table15(b),G41,2.594,"#,##0.0_);\(#,##0.0\)"
+2009-12-31,Demand deposits,0.3837108553038594,%,2009-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),C171,0.003837108553038594,0.0%
+2009-12-31,Demand deposits,8.11,$billion,2009-Q4,Quarterly,Value,,,reported,,,,Table15(b),C41,8.11,"#,##0.0_);\(#,##0.0\)"
+2009-12-31,Other liabilities,-29.54264524103833,%,2009-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),F171,-0.2954264524103833,0.0%
+2009-12-31,Other liabilities,0.57,$billion,2009-Q4,Quarterly,Value,,,reported,,,,Table15(b),F41,0.57,"#,##0.0_);\(#,##0.0\)"
+2009-12-31,Savings deposits,6.645947884293581,%,2009-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),D171,0.0664594788429358,0.0%
+2009-12-31,Savings deposits,4.461,$billion,2009-Q4,Quarterly,Value,,,reported,,,,Table15(b),D41,4.461,"#,##0.0_);\(#,##0.0\)"
+2009-12-31,Time deposits,-17.226359421104398,%,2009-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),E171,-0.17226359421104398,0.0%
+2009-12-31,Time deposits,5.891,$billion,2009-Q4,Quarterly,Value,,,reported,,,,Table15(b),E41,5.891,"#,##0.0_);\(#,##0.0\)"
+2009-12-31,Total liabilities,-5.169918877439166,%,2009-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),H171,-0.05169918877439166,0.0%
+2009-12-31,Total liabilities,21.626,$billion,2009-Q4,Quarterly,Value,,,reported,,,,Table15(b),H41,21.626,"#,##0.0_);\(#,##0.0\)"
+2010-03-31,Capital,15.402567094515748,%,2010-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),G173,0.15402567094515748,0.0%
+2010-03-31,Capital,2.967,$billion,2010-Q1,Quarterly,Value,,,reported,,,,Table15(b),G43,2.967,"#,##0.0_);\(#,##0.0\)"
+2010-03-31,Demand deposits,-4.620867641636971,%,2010-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),C173,-0.04620867641636971,0.0%
+2010-03-31,Demand deposits,7.761,$billion,2010-Q1,Quarterly,Value,,,reported,,,,Table15(b),C43,7.761,"#,##0.0_);\(#,##0.0\)"
+2010-03-31,Other liabilities,-37.5736160188457,%,2010-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),F173,-0.37573616018845696,0.0%
+2010-03-31,Other liabilities,0.53,$billion,2010-Q1,Quarterly,Value,,,reported,,,,Table15(b),F43,0.53,"#,##0.0_);\(#,##0.0\)"
+2010-03-31,Savings deposits,30.38704364534725,%,2010-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),D173,0.3038704364534725,0.0%
+2010-03-31,Savings deposits,4.75,$billion,2010-Q1,Quarterly,Value,,,reported,,,,Table15(b),D43,4.75,"#,##0.0_);\(#,##0.0\)"
+2010-03-31,Time deposits,-5.30605721591817,%,2010-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),E173,-0.053060572159181696,0.0%
+2010-03-31,Time deposits,5.925,$billion,2010-Q1,Quarterly,Value,,,reported,,,,Table15(b),E43,5.925,"#,##0.0_);\(#,##0.0\)"
+2010-03-31,Total liabilities,2.2183902689099084,%,2010-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),H173,0.022183902689099085,0.0%
+2010-03-31,Total liabilities,21.933,$billion,2010-Q1,Quarterly,Value,,,reported,,,,Table15(b),H43,21.933,"#,##0.0_);\(#,##0.0\)"
+2010-06-30,Capital,6.59153005464481,%,2010-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),G174,0.0659153005464481,0.0%
+2010-06-30,Capital,3.121,$billion,2010-Q2,Quarterly,Value,,,reported,,,,Table15(b),G44,3.121,"#,##0.0_);\(#,##0.0\)"
+2010-06-30,Demand deposits,4.71722700026061,%,2010-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),C174,0.0471722700026061,0.0%
+2010-06-30,Demand deposits,8.036,$billion,2010-Q2,Quarterly,Value,,,reported,,,,Table15(b),C44,8.036,"#,##0.0_);\(#,##0.0\)"
+2010-06-30,Other liabilities,-20.535714285714285,%,2010-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),F174,-0.20535714285714285,0.0%
+2010-06-30,Other liabilities,0.534,$billion,2010-Q2,Quarterly,Value,,,reported,,,,Table15(b),F44,0.534,"#,##0.0_);\(#,##0.0\)"
+2010-06-30,Savings deposits,10.334859070103597,%,2010-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),D174,0.10334859070103597,0.0%
+2010-06-30,Savings deposits,4.58,$billion,2010-Q2,Quarterly,Value,,,reported,,,,Table15(b),D44,4.58,"#,##0.0_);\(#,##0.0\)"
+2010-06-30,Time deposits,0.030736130321202825,%,2010-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),E174,0.00030736130321202827,0.0%
+2010-06-30,Time deposits,6.509,$billion,2010-Q2,Quarterly,Value,,,reported,,,,Table15(b),E44,6.509,"#,##0.0_);\(#,##0.0\)"
+2010-06-30,Total liabilities,3.866496443552778,%,2010-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),H174,0.038664964435527784,0.0%
+2010-06-30,Total liabilities,22.779999999999998,$billion,2010-Q2,Quarterly,Value,,,reported,,,,Table15(b),H44,22.779999999999998,"#,##0.0_);\(#,##0.0\)"
+2010-09-30,Capital,12.864674868189793,%,2010-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),G175,0.12864674868189793,0.0%
+2010-09-30,Capital,3.211,$billion,2010-Q3,Quarterly,Value,,,reported,,,,Table15(b),G45,3.211,"#,##0.0_);\(#,##0.0\)"
+2010-09-30,Demand deposits,-4.76252780321863,%,2010-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),C175,-0.0476252780321863,0.0%
+2010-09-30,Demand deposits,7.279,$billion,2010-Q3,Quarterly,Value,,,reported,,,,Table15(b),C45,7.279,"#,##0.0_);\(#,##0.0\)"
+2010-09-30,Other liabilities,-29.87012987012987,%,2010-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),F175,-0.2987012987012987,0.0%
+2010-09-30,Other liabilities,0.432,$billion,2010-Q3,Quarterly,Value,,,reported,,,,Table15(b),F45,0.432,"#,##0.0_);\(#,##0.0\)"
+2010-09-30,Savings deposits,16.76413255360623,%,2010-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),D175,0.1676413255360623,0.0%
+2010-09-30,Savings deposits,4.792,$billion,2010-Q3,Quarterly,Value,,,reported,,,,Table15(b),D45,4.792,"#,##0.0_);\(#,##0.0\)"
+2010-09-30,Time deposits,7.982225148123772,%,2010-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),E175,0.07982225148123771,0.0%
+2010-09-30,Time deposits,6.561,$billion,2010-Q3,Quarterly,Value,,,reported,,,,Table15(b),E45,6.561,"#,##0.0_);\(#,##0.0\)"
+2010-09-30,Total liabilities,4.656079684269856,%,2010-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),H175,0.04656079684269856,0.0%
+2010-09-30,Total liabilities,22.274999999999995,$billion,2010-Q3,Quarterly,Value,,,reported,,,,Table15(b),H45,22.274999999999995,"#,##0.0_);\(#,##0.0\)"
+2010-12-31,Capital,23.014649190439478,%,2010-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),G176,0.23014649190439476,0.0%
+2010-12-31,Capital,3.191,$billion,2010-Q4,Quarterly,Value,,,reported,,,,Table15(b),G46,3.191,"#,##0.0_);\(#,##0.0\)"
+2010-12-31,Demand deposits,0.20961775585698195,%,2010-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),C176,0.0020961775585698196,0.0%
+2010-12-31,Demand deposits,8.127,$billion,2010-Q4,Quarterly,Value,,,reported,,,,Table15(b),C46,8.127,"#,##0.0_);\(#,##0.0\)"
+2010-12-31,Other liabilities,-4.035087719298231,%,2010-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),F176,-0.040350877192982304,0.0%
+2010-12-31,Other liabilities,0.547,$billion,2010-Q4,Quarterly,Value,,,reported,,,,Table15(b),F46,0.547,"#,##0.0_);\(#,##0.0\)"
+2010-12-31,Savings deposits,7.8906074871105,%,2010-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),D176,0.078906074871105,0.0%
+2010-12-31,Savings deposits,4.813,$billion,2010-Q4,Quarterly,Value,,,reported,,,,Table15(b),D46,4.813,"#,##0.0_);\(#,##0.0\)"
+2010-12-31,Time deposits,13.563062298421327,%,2010-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),E176,0.13563062298421327,0.0%
+2010-12-31,Time deposits,6.69,$billion,2010-Q4,Quarterly,Value,,,reported,,,,Table15(b),E46,6.69,"#,##0.0_);\(#,##0.0\)"
+2010-12-31,Total liabilities,8.05511883843522,%,2010-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),H176,0.0805511883843522,0.0%
+2010-12-31,Total liabilities,23.368000000000002,$billion,2010-Q4,Quarterly,Value,,,reported,,,,Table15(b),H46,23.368000000000002,"#,##0.0_);\(#,##0.0\)"
+2011-03-31,Capital,5.864509605662283,%,2011-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),G178,0.058645096056622825,0.0%
+2011-03-31,Capital,3.141,$billion,2011-Q1,Quarterly,Value,,,reported,,,,Table15(b),G48,3.141,"#,##0.0_);\(#,##0.0\)"
+2011-03-31,Demand deposits,3.7237469398273495,%,2011-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),C178,0.03723746939827349,0.0%
+2011-03-31,Demand deposits,8.05,$billion,2011-Q1,Quarterly,Value,,,reported,,,,Table15(b),C48,8.05,"#,##0.0_);\(#,##0.0\)"
+2011-03-31,Other liabilities,-20.75471698113208,%,2011-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),F178,-0.20754716981132082,0.0%
+2011-03-31,Other liabilities,0.42,$billion,2011-Q1,Quarterly,Value,,,reported,,,,Table15(b),F48,0.42,"#,##0.0_);\(#,##0.0\)"
+2011-03-31,Savings deposits,2.9052631578947348,%,2011-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),D178,0.029052631578947347,0.0%
+2011-03-31,Savings deposits,4.888,$billion,2011-Q1,Quarterly,Value,,,reported,,,,Table15(b),D48,4.888,"#,##0.0_);\(#,##0.0\)"
+2011-03-31,Time deposits,11.27426160337553,%,2011-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),E178,0.11274261603375531,0.0%
+2011-03-31,Time deposits,6.593,$billion,2011-Q1,Quarterly,Value,,,reported,,,,Table15(b),E48,6.593,"#,##0.0_);\(#,##0.0\)"
+2011-03-31,Total liabilities,5.284274837003597,%,2011-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),H178,0.05284274837003597,0.0%
+2011-03-31,Total liabilities,23.092,$billion,2011-Q1,Quarterly,Value,,,reported,,,,Table15(b),H48,23.092,"#,##0.0_);\(#,##0.0\)"
+2011-06-30,Capital,2.8516501121435427,%,2011-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),G179,0.028516501121435427,0.0%
+2011-06-30,Capital,3.21,$billion,2011-Q2,Quarterly,Value,,,reported,,,,Table15(b),G49,3.21,"#,##0.0_);\(#,##0.0\)"
+2011-06-30,Demand deposits,10.589845694375324,%,2011-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),C179,0.10589845694375323,0.0%
+2011-06-30,Demand deposits,8.887,$billion,2011-Q2,Quarterly,Value,,,reported,,,,Table15(b),C49,8.887,"#,##0.0_);\(#,##0.0\)"
+2011-06-30,Other liabilities,-19.28838951310862,%,2011-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),F179,-0.1928838951310862,0.0%
+2011-06-30,Other liabilities,0.431,$billion,2011-Q2,Quarterly,Value,,,reported,,,,Table15(b),F49,0.431,"#,##0.0_);\(#,##0.0\)"
+2011-06-30,Savings deposits,16.004366812227065,%,2011-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),D179,0.16004366812227067,0.0%
+2011-06-30,Savings deposits,5.313,$billion,2011-Q2,Quarterly,Value,,,reported,,,,Table15(b),D49,5.313,"#,##0.0_);\(#,##0.0\)"
+2011-06-30,Time deposits,-0.2458134890152099,%,2011-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),E179,-0.002458134890152099,0.0%
+2011-06-30,Time deposits,6.493,$billion,2011-Q2,Quarterly,Value,,,reported,,,,Table15(b),E49,6.493,"#,##0.0_);\(#,##0.0\)"
+2011-06-30,Total liabilities,6.821773485513619,%,2011-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),H179,0.06821773485513619,0.0%
+2011-06-30,Total liabilities,24.334,$billion,2011-Q2,Quarterly,Value,,,reported,,,,Table15(b),H49,24.334,"#,##0.0_);\(#,##0.0\)"
+2011-09-30,Capital,-2.304578013080033,%,2011-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),G180,-0.023045780130800327,0.0%
+2011-09-30,Capital,3.137,$billion,2011-Q3,Quarterly,Value,,,reported,,,,Table15(b),G50,3.137,"#,##0.0_);\(#,##0.0\)"
+2011-09-30,Demand deposits,18.807528506663,%,2011-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),C180,0.18807528506663002,0.0%
+2011-09-30,Demand deposits,8.648,$billion,2011-Q3,Quarterly,Value,,,reported,,,,Table15(b),C50,8.648,"#,##0.0_);\(#,##0.0\)"
+2011-09-30,Other liabilities,1.3888888888888902,%,2011-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),F180,0.013888888888888902,0.0%
+2011-09-30,Other liabilities,0.438,$billion,2011-Q3,Quarterly,Value,,,reported,,,,Table15(b),F50,0.438,"#,##0.0_);\(#,##0.0\)"
+2011-09-30,Savings deposits,6.782136894824712,%,2011-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),D180,0.06782136894824711,0.0%
+2011-09-30,Savings deposits,5.117,$billion,2011-Q3,Quarterly,Value,,,reported,,,,Table15(b),D50,5.117,"#,##0.0_);\(#,##0.0\)"
+2011-09-30,Time deposits,3.1092821216277966,%,2011-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),E180,0.031092821216277967,0.0%
+2011-09-30,Time deposits,6.765,$billion,2011-Q3,Quarterly,Value,,,reported,,,,Table15(b),E50,6.765,"#,##0.0_);\(#,##0.0\)"
+2011-09-30,Total liabilities,8.215488215488241,%,2011-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),H180,0.08215488215488241,0.0%
+2011-09-30,Total liabilities,24.105,$billion,2011-Q3,Quarterly,Value,,,reported,,,,Table15(b),H50,24.105,"#,##0.0_);\(#,##0.0\)"
+2011-12-31,Capital,-5.546850517079287,%,2011-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),G181,-0.055468505170792874,0.0%
+2011-12-31,Capital,3.014,$billion,2011-Q4,Quarterly,Value,,,reported,,,,Table15(b),G51,3.014,"#,##0.0_);\(#,##0.0\)"
+2011-12-31,Demand deposits,25.495262704565018,%,2011-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),C181,0.2549526270456502,0.0%
+2011-12-31,Demand deposits,10.199,$billion,2011-Q4,Quarterly,Value,,,reported,,,,Table15(b),C51,10.199,"#,##0.0_);\(#,##0.0\)"
+2011-12-31,Other liabilities,-7.495429616087758,%,2011-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),F181,-0.07495429616087758,0.0%
+2011-12-31,Other liabilities,0.506,$billion,2011-Q4,Quarterly,Value,,,reported,,,,Table15(b),F51,0.506,"#,##0.0_);\(#,##0.0\)"
+2011-12-31,Savings deposits,9.121130272179515,%,2011-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),D181,0.09121130272179516,0.0%
+2011-12-31,Savings deposits,5.252,$billion,2011-Q4,Quarterly,Value,,,reported,,,,Table15(b),D51,5.252,"#,##0.0_);\(#,##0.0\)"
+2011-12-31,Time deposits,-1.763826606875939,%,2011-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),E181,-0.01763826606875939,0.0%
+2011-12-31,Time deposits,6.572,$billion,2011-Q4,Quarterly,Value,,,reported,,,,Table15(b),E51,6.572,"#,##0.0_);\(#,##0.0\)"
+2011-12-31,Total liabilities,9.30760013693939,%,2011-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),H181,0.09307600136939391,0.0%
+2011-12-31,Total liabilities,25.543,$billion,2011-Q4,Quarterly,Value,,,reported,,,,Table15(b),H51,25.543,"#,##0.0_);\(#,##0.0\)"
+2012-03-31,Capital,-4.361668258516397,%,2012-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),G183,-0.04361668258516396,0.0%
+2012-03-31,Capital,3.004,$billion,2012-Q1,Quarterly,Value,,,reported,,,,Table15(b),G53,3.004,"#,##0.0_);\(#,##0.0\)"
+2012-03-31,Demand deposits,5.701863354037262,%,2012-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),C183,0.05701863354037262,0.0%
+2012-03-31,Demand deposits,8.509,$billion,2012-Q1,Quarterly,Value,,,reported,,,,Table15(b),C53,8.509,"#,##0.0_);\(#,##0.0\)"
+2012-03-31,Other liabilities,37.38095238095237,%,2012-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),F183,0.37380952380952376,0.0%
+2012-03-31,Other liabilities,0.577,$billion,2012-Q1,Quarterly,Value,,,reported,,,,Table15(b),F53,0.577,"#,##0.0_);\(#,##0.0\)"
+2012-03-31,Savings deposits,24.590834697217677,%,2012-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),D183,0.24590834697217676,0.0%
+2012-03-31,Savings deposits,6.09,$billion,2012-Q1,Quarterly,Value,,,reported,,,,Table15(b),D53,6.09,"#,##0.0_);\(#,##0.0\)"
+2012-03-31,Time deposits,-1.1830729561656346,%,2012-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),E183,-0.011830729561656346,0.0%
+2012-03-31,Time deposits,6.515,$billion,2012-Q1,Quarterly,Value,,,reported,,,,Table15(b),E53,6.515,"#,##0.0_);\(#,##0.0\)"
+2012-03-31,Total liabilities,6.941798025290166,%,2012-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),H183,0.06941798025290166,0.0%
+2012-03-31,Total liabilities,24.695000000000004,$billion,2012-Q1,Quarterly,Value,,,reported,,,,Table15(b),H53,24.695000000000004,"#,##0.0_);\(#,##0.0\)"
+2012-06-30,Capital,-6.105919003115271,%,2012-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),G184,-0.061059190031152705,0.0%
+2012-06-30,Capital,3.014,$billion,2012-Q2,Quarterly,Value,,,reported,,,,Table15(b),G54,3.014,"#,##0.0_);\(#,##0.0\)"
+2012-06-30,Demand deposits,1.1252391133115747,%,2012-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),C184,0.011252391133115746,0.0%
+2012-06-30,Demand deposits,8.987,$billion,2012-Q2,Quarterly,Value,,,reported,,,,Table15(b),C54,8.987,"#,##0.0_);\(#,##0.0\)"
+2012-06-30,Other liabilities,9.744779582366585,%,2012-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),F184,0.09744779582366585,0.0%
+2012-06-30,Other liabilities,0.473,$billion,2012-Q2,Quarterly,Value,,,reported,,,,Table15(b),F54,0.473,"#,##0.0_);\(#,##0.0\)"
+2012-06-30,Savings deposits,-4.027856201769237,%,2012-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),D184,-0.040278562017692365,0.0%
+2012-06-30,Savings deposits,5.099,$billion,2012-Q2,Quarterly,Value,,,reported,,,,Table15(b),D54,5.099,"#,##0.0_);\(#,##0.0\)"
+2012-06-30,Time deposits,-6.222085322655166,%,2012-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),E184,-0.06222085322655165,0.0%
+2012-06-30,Time deposits,6.089,$billion,2012-Q2,Quarterly,Value,,,reported,,,,Table15(b),E54,6.089,"#,##0.0_);\(#,##0.0\)"
+2012-06-30,Total liabilities,-2.761568176214353,%,2012-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),H184,-0.02761568176214353,0.0%
+2012-06-30,Total liabilities,23.662,$billion,2012-Q2,Quarterly,Value,,,reported,,,,Table15(b),H54,23.662,"#,##0.0_);\(#,##0.0\)"
+2012-09-30,Capital,-2.358941664010196,%,2012-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),G185,-0.02358941664010196,0.0%
+2012-09-30,Capital,3.063,$billion,2012-Q3,Quarterly,Value,,,reported,,,,Table15(b),G55,3.063,"#,##0.0_);\(#,##0.0\)"
+2012-09-30,Demand deposits,3.6193339500462605,%,2012-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),C185,0.03619333950046261,0.0%
+2012-09-30,Demand deposits,8.961,$billion,2012-Q3,Quarterly,Value,,,reported,,,,Table15(b),C55,8.961,"#,##0.0_);\(#,##0.0\)"
+2012-09-30,Other liabilities,27.62557077625572,%,2012-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),F185,0.2762557077625572,0.0%
+2012-09-30,Other liabilities,0.559,$billion,2012-Q3,Quarterly,Value,,,reported,,,,Table15(b),F55,0.559,"#,##0.0_);\(#,##0.0\)"
+2012-09-30,Savings deposits,-0.8794215360562817,%,2012-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),D185,-0.008794215360562817,0.0%
+2012-09-30,Savings deposits,5.072,$billion,2012-Q3,Quarterly,Value,,,reported,,,,Table15(b),D55,5.072,"#,##0.0_);\(#,##0.0\)"
+2012-09-30,Time deposits,-12.313377679231328,%,2012-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),E185,-0.12313377679231328,0.0%
+2012-09-30,Time deposits,5.932,$billion,2012-Q3,Quarterly,Value,,,reported,,,,Table15(b),E55,5.932,"#,##0.0_);\(#,##0.0\)"
+2012-09-30,Total liabilities,-2.1489317568968973,%,2012-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),H185,-0.021489317568968973,0.0%
+2012-09-30,Total liabilities,23.587000000000003,$billion,2012-Q3,Quarterly,Value,,,reported,,,,Table15(b),H55,23.587000000000003,"#,##0.0_);\(#,##0.0\)"
+2012-12-31,Capital,0.03317850033179608,%,2012-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),G186,0.00033178500331796084,0.0%
+2012-12-31,Capital,3.015,$billion,2012-Q4,Quarterly,Value,,,reported,,,,Table15(b),G56,3.015,"#,##0.0_);\(#,##0.0\)"
+2012-12-31,Demand deposits,-5.363270908912645,%,2012-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),C186,-0.05363270908912644,0.0%
+2012-12-31,Demand deposits,9.652,$billion,2012-Q4,Quarterly,Value,,,reported,,,,Table15(b),C56,9.652,"#,##0.0_);\(#,##0.0\)"
+2012-12-31,Other liabilities,28.458498023715418,%,2012-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),F186,0.2845849802371542,0.0%
+2012-12-31,Other liabilities,0.65,$billion,2012-Q4,Quarterly,Value,,,reported,,,,Table15(b),F56,0.65,"#,##0.0_);\(#,##0.0\)"
+2012-12-31,Savings deposits,-1.1995430312261943,%,2012-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),D186,-0.011995430312261943,0.0%
+2012-12-31,Savings deposits,5.189,$billion,2012-Q4,Quarterly,Value,,,reported,,,,Table15(b),D56,5.189,"#,##0.0_);\(#,##0.0\)"
+2012-12-31,Time deposits,-14.029214850882527,%,2012-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),E186,-0.14029214850882527,0.0%
+2012-12-31,Time deposits,5.65,$billion,2012-Q4,Quarterly,Value,,,reported,,,,Table15(b),E56,5.65,"#,##0.0_);\(#,##0.0\)"
+2012-12-31,Total liabilities,-5.430059116000472,%,2012-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),H186,-0.05430059116000472,0.0%
+2012-12-31,Total liabilities,24.156,$billion,2012-Q4,Quarterly,Value,,,reported,,,,Table15(b),H56,24.156,"#,##0.0_);\(#,##0.0\)"
+2013-03-31,Capital,0.26631158455392834,%,2013-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),G188,0.0026631158455392833,0.0%
+2013-03-31,Capital,3.012,$billion,2013-Q1,Quarterly,Value,,,reported,,,,Table15(b),G58,3.012,"#,##0.0_);\(#,##0.0\)"
+2013-03-31,Demand deposits,5.288518039722638,%,2013-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),C188,0.05288518039722638,0.0%
+2013-03-31,Demand deposits,8.959,$billion,2013-Q1,Quarterly,Value,,,reported,,,,Table15(b),C58,8.959,"#,##0.0_);\(#,##0.0\)"
+2013-03-31,Other liabilities,2.426343154246103,%,2013-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),F188,0.02426343154246103,0.0%
+2013-03-31,Other liabilities,0.591,$billion,2013-Q1,Quarterly,Value,,,reported,,,,Table15(b),F58,0.591,"#,##0.0_);\(#,##0.0\)"
+2013-03-31,Savings deposits,-12.31527093596059,%,2013-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),D188,-0.12315270935960591,0.0%
+2013-03-31,Savings deposits,5.34,$billion,2013-Q1,Quarterly,Value,,,reported,,,,Table15(b),D58,5.34,"#,##0.0_);\(#,##0.0\)"
+2013-03-31,Time deposits,-14.151957022256328,%,2013-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),E188,-0.14151957022256328,0.0%
+2013-03-31,Time deposits,5.593,$billion,2013-Q1,Quarterly,Value,,,reported,,,,Table15(b),E58,5.593,"#,##0.0_);\(#,##0.0\)"
+2013-03-31,Total liabilities,-4.8592832557197925,%,2013-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),H188,-0.04859283255719792,0.0%
+2013-03-31,Total liabilities,23.495,$billion,2013-Q1,Quarterly,Value,,,reported,,,,Table15(b),H58,23.495,"#,##0.0_);\(#,##0.0\)"
+2013-06-30,Capital,-22.528201725282013,%,2013-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),G189,-0.22528201725282013,0.0%
+2013-06-30,Capital,2.335,$billion,2013-Q2,Quarterly,Value,,,reported,,,,Table15(b),G59,2.335,"#,##0.0_);\(#,##0.0\)"
+2013-06-30,Demand deposits,5.897407366195609,%,2013-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),C189,0.05897407366195609,0.0%
+2013-06-30,Demand deposits,9.517,$billion,2013-Q2,Quarterly,Value,,,reported,,,,Table15(b),C59,9.517,"#,##0.0_);\(#,##0.0\)"
+2013-06-30,Other liabilities,26.42706131078224,%,2013-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),F189,0.2642706131078224,0.0%
+2013-06-30,Other liabilities,0.598,$billion,2013-Q2,Quarterly,Value,,,reported,,,,Table15(b),F59,0.598,"#,##0.0_);\(#,##0.0\)"
+2013-06-30,Savings deposits,4.942145518729158,%,2013-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),D189,0.04942145518729158,0.0%
+2013-06-30,Savings deposits,5.351,$billion,2013-Q2,Quarterly,Value,,,reported,,,,Table15(b),D59,5.351,"#,##0.0_);\(#,##0.0\)"
+2013-06-30,Time deposits,-11.496140581376254,%,2013-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),E189,-0.11496140581376255,0.0%
+2013-06-30,Time deposits,5.389,$billion,2013-Q2,Quarterly,Value,,,reported,,,,Table15(b),E59,5.389,"#,##0.0_);\(#,##0.0\)"
+2013-06-30,Total liabilities,-1.9947595300481842,%,2013-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),H189,-0.019947595300481843,0.0%
+2013-06-30,Total liabilities,23.189999999999998,$billion,2013-Q2,Quarterly,Value,,,reported,,,,Table15(b),H59,23.189999999999998,"#,##0.0_);\(#,##0.0\)"
+2013-09-30,Capital,-22.36369572314724,%,2013-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),G190,-0.22363695723147242,0.0%
+2013-09-30,Capital,2.378,$billion,2013-Q3,Quarterly,Value,,,reported,,,,Table15(b),G60,2.378,"#,##0.0_);\(#,##0.0\)"
+2013-09-30,Demand deposits,-1.327976788304874,%,2013-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),C190,-0.013279767883048741,0.0%
+2013-09-30,Demand deposits,8.842,$billion,2013-Q3,Quarterly,Value,,,reported,,,,Table15(b),C60,8.842,"#,##0.0_);\(#,##0.0\)"
+2013-09-30,Other liabilities,-14.13237924865833,%,2013-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),F190,-0.1413237924865833,0.0%
+2013-09-30,Other liabilities,0.48,$billion,2013-Q3,Quarterly,Value,,,reported,,,,Table15(b),F60,0.48,"#,##0.0_);\(#,##0.0\)"
+2013-09-30,Savings deposits,7.0386435331230315,%,2013-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),D190,0.07038643533123032,0.0%
+2013-09-30,Savings deposits,5.429,$billion,2013-Q3,Quarterly,Value,,,reported,,,,Table15(b),D60,5.429,"#,##0.0_);\(#,##0.0\)"
+2013-09-30,Time deposits,2.4275118004045724,%,2013-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),E190,0.024275118004045724,0.0%
+2013-09-30,Time deposits,6.076,$billion,2013-Q3,Quarterly,Value,,,reported,,,,Table15(b),E60,6.076,"#,##0.0_);\(#,##0.0\)"
+2013-09-30,Total liabilities,-1.6195361851867613,%,2013-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),H190,-0.016195361851867613,0.0%
+2013-09-30,Total liabilities,23.205000000000002,$billion,2013-Q3,Quarterly,Value,,,reported,,,,Table15(b),H60,23.205000000000002,"#,##0.0_);\(#,##0.0\)"
+2013-12-31,Capital,-21.55887230514096,%,2013-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),G191,-0.21558872305140958,0.0%
+2013-12-31,Capital,2.365,$billion,2013-Q4,Quarterly,Value,,,reported,,,,Table15(b),G61,2.365,"#,##0.0_);\(#,##0.0\)"
+2013-12-31,Demand deposits,5.573974305843351,%,2013-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),C191,0.055739743058433516,0.0%
+2013-12-31,Demand deposits,10.19,$billion,2013-Q4,Quarterly,Value,,,reported,,,,Table15(b),C61,10.19,"#,##0.0_);\(#,##0.0\)"
+2013-12-31,Other liabilities,-36.15384615384616,%,2013-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),F191,-0.3615384615384616,0.0%
+2013-12-31,Other liabilities,0.415,$billion,2013-Q4,Quarterly,Value,,,reported,,,,Table15(b),F61,0.415,"#,##0.0_);\(#,##0.0\)"
+2013-12-31,Savings deposits,13.62497591058007,%,2013-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),D191,0.1362497591058007,0.0%
+2013-12-31,Savings deposits,5.896,$billion,2013-Q4,Quarterly,Value,,,reported,,,,Table15(b),D61,5.896,"#,##0.0_);\(#,##0.0\)"
+2013-12-31,Time deposits,9.911504424778753,%,2013-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),E191,0.09911504424778754,0.0%
+2013-12-31,Time deposits,6.21,$billion,2013-Q4,Quarterly,Value,,,reported,,,,Table15(b),E61,6.21,"#,##0.0_);\(#,##0.0\)"
+2013-12-31,Total liabilities,3.8085775790693894,%,2013-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),H191,0.038085775790693895,0.0%
+2013-12-31,Total liabilities,25.076,$billion,2013-Q4,Quarterly,Value,,,reported,,,,Table15(b),H61,25.076,"#,##0.0_);\(#,##0.0\)"
+2014-03-31,Capital,-23.00796812749004,%,2014-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),G193,-0.23007968127490042,0.0%
+2014-03-31,Capital,2.319,$billion,2014-Q1,Quarterly,Value,,,reported,,,,Table15(b),G63,2.319,"#,##0.0_);\(#,##0.0\)"
+2014-03-31,Demand deposits,16.776425940395136,%,2014-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),C193,0.16776425940395134,0.0%
+2014-03-31,Demand deposits,10.462,$billion,2014-Q1,Quarterly,Value,,,reported,,,,Table15(b),C63,10.462,"#,##0.0_);\(#,##0.0\)"
+2014-03-31,Other liabilities,-19.796954314720814,%,2014-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),F193,-0.19796954314720813,0.0%
+2014-03-31,Other liabilities,0.474,$billion,2014-Q1,Quarterly,Value,,,reported,,,,Table15(b),F63,0.474,"#,##0.0_);\(#,##0.0\)"
+2014-03-31,Savings deposits,10.655430711610487,%,2014-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),D193,0.10655430711610486,0.0%
+2014-03-31,Savings deposits,5.909,$billion,2014-Q1,Quarterly,Value,,,reported,,,,Table15(b),D63,5.909,"#,##0.0_);\(#,##0.0\)"
+2014-03-31,Time deposits,-9.047023064544971,%,2014-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),E193,-0.0904702306454497,0.0%
+2014-03-31,Time deposits,5.087,$billion,2014-Q1,Quarterly,Value,,,reported,,,,Table15(b),E63,5.087,"#,##0.0_);\(#,##0.0\)"
+2014-03-31,Total liabilities,3.2177058948712345,%,2014-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),H193,0.032177058948712346,0.0%
+2014-03-31,Total liabilities,24.250999999999998,$billion,2014-Q1,Quarterly,Value,,,reported,,,,Table15(b),H63,24.250999999999998,"#,##0.0_);\(#,##0.0\)"
+2014-06-30,Capital,0.856531049250536,%,2014-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),G194,0.00856531049250536,0.0%
+2014-06-30,Capital,2.355,$billion,2014-Q2,Quarterly,Value,,,reported,,,,Table15(b),G64,2.355,"#,##0.0_);\(#,##0.0\)"
+2014-06-30,Demand deposits,11.547756646001893,%,2014-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),C194,0.11547756646001894,0.0%
+2014-06-30,Demand deposits,10.616,$billion,2014-Q2,Quarterly,Value,,,reported,,,,Table15(b),C64,10.616,"#,##0.0_);\(#,##0.0\)"
+2014-06-30,Other liabilities,-30.100334448160538,%,2014-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),F194,-0.3010033444816054,0.0%
+2014-06-30,Other liabilities,0.418,$billion,2014-Q2,Quarterly,Value,,,reported,,,,Table15(b),F64,0.418,"#,##0.0_);\(#,##0.0\)"
+2014-06-30,Savings deposits,8.241450196225001,%,2014-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),D194,0.08241450196225002,0.0%
+2014-06-30,Savings deposits,5.792,$billion,2014-Q2,Quarterly,Value,,,reported,,,,Table15(b),D64,5.792,"#,##0.0_);\(#,##0.0\)"
+2014-06-30,Time deposits,-5.73390239376508,%,2014-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),E194,-0.0573390239376508,0.0%
+2014-06-30,Time deposits,5.08,$billion,2014-Q2,Quarterly,Value,,,reported,,,,Table15(b),E64,5.08,"#,##0.0_);\(#,##0.0\)"
+2014-06-30,Total liabilities,4.618369987063396,%,2014-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),H194,0.04618369987063396,0.0%
+2014-06-30,Total liabilities,24.261,$billion,2014-Q2,Quarterly,Value,,,reported,,,,Table15(b),H64,24.261,"#,##0.0_);\(#,##0.0\)"
+2014-09-30,Capital,-2.3969722455845224,%,2014-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),G195,-0.02396972245584522,0.0%
+2014-09-30,Capital,2.321,$billion,2014-Q3,Quarterly,Value,,,reported,,,,Table15(b),G65,2.321,"#,##0.0_);\(#,##0.0\)"
+2014-09-30,Demand deposits,2.2166930558697095,%,2014-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),C195,0.022166930558697097,0.0%
+2014-09-30,Demand deposits,9.038,$billion,2014-Q3,Quarterly,Value,,,reported,,,,Table15(b),C65,9.038,"#,##0.0_);\(#,##0.0\)"
+2014-09-30,Other liabilities,99.16666666666667,%,2014-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),F195,0.9916666666666667,0.0%
+2014-09-30,Other liabilities,0.956,$billion,2014-Q3,Quarterly,Value,,,reported,,,,Table15(b),F65,0.956,"#,##0.0_);\(#,##0.0\)"
+2014-09-30,Savings deposits,0.84730152882666,%,2014-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),D195,0.0084730152882666,0.0%
+2014-09-30,Savings deposits,5.475,$billion,2014-Q3,Quarterly,Value,,,reported,,,,Table15(b),D65,5.475,"#,##0.0_);\(#,##0.0\)"
+2014-09-30,Time deposits,-28.88413429888084,%,2014-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),E195,-0.2888413429888084,0.0%
+2014-09-30,Time deposits,4.321,$billion,2014-Q3,Quarterly,Value,,,reported,,,,Table15(b),E65,4.321,"#,##0.0_);\(#,##0.0\)"
+2014-09-30,Total liabilities,-4.714501185089425,%,2014-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),H195,-0.04714501185089425,0.0%
+2014-09-30,Total liabilities,22.111,$billion,2014-Q3,Quarterly,Value,,,reported,,,,Table15(b),H65,22.111,"#,##0.0_);\(#,##0.0\)"
+2014-12-31,Capital,-2.7061310782241037,%,2014-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),G196,-0.027061310782241037,0.0%
+2014-12-31,Capital,2.301,$billion,2014-Q4,Quarterly,Value,,,reported,,,,Table15(b),G66,2.301,"#,##0.0_);\(#,##0.0\)"
+2014-12-31,Demand deposits,3.4347399411187403,%,2014-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),C196,0.034347399411187404,0.0%
+2014-12-31,Demand deposits,10.54,$billion,2014-Q4,Quarterly,Value,,,reported,,,,Table15(b),C66,10.54,"#,##0.0_);\(#,##0.0\)"
+2014-12-31,Other liabilities,3.6144578313253044,%,2014-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),F196,0.036144578313253045,0.0%
+2014-12-31,Other liabilities,0.43,$billion,2014-Q4,Quarterly,Value,,,reported,,,,Table15(b),F66,0.43,"#,##0.0_);\(#,##0.0\)"
+2014-12-31,Savings deposits,2.408412483039355,%,2014-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),D196,0.024084124830393547,0.0%
+2014-12-31,Savings deposits,6.038,$billion,2014-Q4,Quarterly,Value,,,reported,,,,Table15(b),D66,6.038,"#,##0.0_);\(#,##0.0\)"
+2014-12-31,Time deposits,-39.32367149758454,%,2014-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),E196,-0.39323671497584545,0.0%
+2014-12-31,Time deposits,3.768,$billion,2014-Q4,Quarterly,Value,,,reported,,,,Table15(b),E66,3.768,"#,##0.0_);\(#,##0.0\)"
+2014-12-31,Total liabilities,-7.971765831871121,%,2014-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),H196,-0.07971765831871121,0.0%
+2014-12-31,Total liabilities,23.076999999999998,$billion,2014-Q4,Quarterly,Value,,,reported,,,,Table15(b),H66,23.076999999999998,"#,##0.0_);\(#,##0.0\)"
+2015-03-31,Capital,0.34497628288055227,%,2015-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),G198,0.003449762828805523,0.0%
+2015-03-31,Capital,2.327,$billion,2015-Q1,Quarterly,Value,,,reported,,,,Table15(b),G68,2.327,"#,##0.0_);\(#,##0.0\)"
+2015-03-31,Demand deposits,8.898872108583454,%,2015-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),C198,0.08898872108583454,0.0%
+2015-03-31,Demand deposits,11.393,$billion,2015-Q1,Quarterly,Value,,,reported,,,,Table15(b),C68,11.393,"#,##0.0_);\(#,##0.0\)"
+2015-03-31,Other liabilities,-17.299578059071724,%,2015-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),F198,-0.17299578059071724,0.0%
+2015-03-31,Other liabilities,0.392,$billion,2015-Q1,Quarterly,Value,,,reported,,,,Table15(b),F68,0.392,"#,##0.0_);\(#,##0.0\)"
+2015-03-31,Savings deposits,8.224741919106444,%,2015-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),D198,0.08224741919106444,0.0%
+2015-03-31,Savings deposits,6.395,$billion,2015-Q1,Quarterly,Value,,,reported,,,,Table15(b),D68,6.395,"#,##0.0_);\(#,##0.0\)"
+2015-03-31,Time deposits,-29.447611558875565,%,2015-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),E198,-0.29447611558875564,0.0%
+2015-03-31,Time deposits,3.589,$billion,2015-Q1,Quarterly,Value,,,reported,,,,Table15(b),E68,3.589,"#,##0.0_);\(#,##0.0\)"
+2015-03-31,Total liabilities,-0.639148901076249,%,2015-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),H198,-0.00639148901076249,0.0%
+2015-03-31,Total liabilities,24.095999999999997,$billion,2015-Q1,Quarterly,Value,,,reported,,,,Table15(b),H68,24.095999999999997,"#,##0.0_);\(#,##0.0\)"
+2015-06-30,Capital,-6.581740976645427,%,2015-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),G199,-0.06581740976645427,0.0%
+2015-06-30,Capital,2.2,$billion,2015-Q2,Quarterly,Value,,,reported,,,,Table15(b),G69,2.2,"#,##0.0_);\(#,##0.0\)"
+2015-06-30,Demand deposits,14.920874152223057,%,2015-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),C199,0.14920874152223057,0.0%
+2015-06-30,Demand deposits,12.2,$billion,2015-Q2,Quarterly,Value,,,reported,,,,Table15(b),C69,12.2,"#,##0.0_);\(#,##0.0\)"
+2015-06-30,Other liabilities,-4.306220095693771,%,2015-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),F199,-0.043062200956937705,0.0%
+2015-06-30,Other liabilities,0.4,$billion,2015-Q2,Quarterly,Value,,,reported,,,,Table15(b),F69,0.4,"#,##0.0_);\(#,##0.0\)"
+2015-06-30,Savings deposits,7.044198895027631,%,2015-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),D199,0.07044198895027631,0.0%
+2015-06-30,Savings deposits,6.2,$billion,2015-Q2,Quarterly,Value,,,reported,,,,Table15(b),D69,6.2,"#,##0.0_);\(#,##0.0\)"
+2015-06-30,Time deposits,-27.16535433070866,%,2015-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),E199,-0.2716535433070866,0.0%
+2015-06-30,Time deposits,3.7,$billion,2015-Q2,Quarterly,Value,,,reported,,,,Table15(b),E69,3.7,"#,##0.0_);\(#,##0.0\)"
+2015-06-30,Total liabilities,1.8094884794526052,%,2015-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),H199,0.01809488479452605,0.0%
+2015-06-30,Total liabilities,24.699999999999996,$billion,2015-Q2,Quarterly,Value,,,reported,,,,Table15(b),H69,24.699999999999996,"#,##0.0_);\(#,##0.0\)"
+2015-09-30,Capital,-5.213270142180095,%,2015-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),G200,-0.052132701421800945,0.0%
+2015-09-30,Capital,2.2,$billion,2015-Q3,Quarterly,Value,,,reported,,,,Table15(b),G70,2.2,"#,##0.0_);\(#,##0.0\)"
+2015-09-30,Demand deposits,22.814782031422872,%,2015-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),C200,0.22814782031422873,0.0%
+2015-09-30,Demand deposits,11.1,$billion,2015-Q3,Quarterly,Value,,,reported,,,,Table15(b),C70,11.1,"#,##0.0_);\(#,##0.0\)"
+2015-09-30,Other liabilities,-37.238493723849366,%,2015-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),F200,-0.3723849372384937,0.0%
+2015-09-30,Other liabilities,0.6,$billion,2015-Q3,Quarterly,Value,,,reported,,,,Table15(b),F70,0.6,"#,##0.0_);\(#,##0.0\)"
+2015-09-30,Savings deposits,9.589041095890419,%,2015-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),D200,0.09589041095890419,0.0%
+2015-09-30,Savings deposits,6,$billion,2015-Q3,Quarterly,Value,,,reported,,,,Table15(b),D70,6,"#,##0.0_);\(#,##0.0\)"
+2015-09-30,Time deposits,-19.0002314279102,%,2015-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),E200,-0.190002314279102,0.0%
+2015-09-30,Time deposits,3.5,$billion,2015-Q3,Quarterly,Value,,,reported,,,,Table15(b),E70,3.5,"#,##0.0_);\(#,##0.0\)"
+2015-09-30,Total liabilities,5.8296775360680275,%,2015-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),H200,0.05829677536068027,0.0%
+2015-09-30,Total liabilities,23.400000000000002,$billion,2015-Q3,Quarterly,Value,,,reported,,,,Table15(b),H70,23.400000000000002,"#,##0.0_);\(#,##0.0\)"
+2015-12-31,Capital,-8.735332464146026,%,2015-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),G201,-0.08735332464146026,0.0%
+2015-12-31,Capital,2.1,$billion,2015-Q4,Quarterly,Value,,,reported,,,,Table15(b),G71,2.1,"#,##0.0_);\(#,##0.0\)"
+2015-12-31,Demand deposits,11.005692599620495,%,2015-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),C201,0.11005692599620495,0.0%
+2015-12-31,Demand deposits,11.7,$billion,2015-Q4,Quarterly,Value,,,reported,,,,Table15(b),C71,11.7,"#,##0.0_);\(#,##0.0\)"
+2015-12-31,Other liabilities,39.53488372093023,%,2015-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),F201,0.3953488372093023,0.0%
+2015-12-31,Other liabilities,0.6,$billion,2015-Q4,Quarterly,Value,,,reported,,,,Table15(b),F71,0.6,"#,##0.0_);\(#,##0.0\)"
+2015-12-31,Savings deposits,7.651540245114272,%,2015-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),D201,0.07651540245114272,0.0%
+2015-12-31,Savings deposits,6.5,$billion,2015-Q4,Quarterly,Value,,,reported,,,,Table15(b),D71,6.5,"#,##0.0_);\(#,##0.0\)"
+2015-12-31,Time deposits,-15.074309978768568,%,2015-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),E201,-0.15074309978768569,0.0%
+2015-12-31,Time deposits,3.2,$billion,2015-Q4,Quarterly,Value,,,reported,,,,Table15(b),E71,3.2,"#,##0.0_);\(#,##0.0\)"
+2015-12-31,Total liabilities,4.4329852233826035,%,2015-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),H201,0.04432985223382603,0.0%
+2015-12-31,Total liabilities,24.1,$billion,2015-Q4,Quarterly,Value,,,reported,,,,Table15(b),H71,24.1,"#,##0.0_);\(#,##0.0\)"
+2016-03-31,Capital,-5.500644606789863,%,2016-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),G203,-0.05500644606789863,0.0%
+2016-03-31,Capital,2.199,$billion,2016-Q1,Quarterly,Value,,,reported,,,,Table15(b),G73,2.199,"#,##0.0_);\(#,##0.0\)"
+2016-03-31,Demand deposits,-0.18432370753972435,%,2016-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),C203,-0.0018432370753972435,0.0%
+2016-03-31,Demand deposits,11.372,$billion,2016-Q1,Quarterly,Value,,,reported,,,,Table15(b),C73,11.372,"#,##0.0_);\(#,##0.0\)"
+2016-03-31,Other liabilities,86.47959183673468,%,2016-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),F203,0.8647959183673468,0.0%
+2016-03-31,Other liabilities,0.731,$billion,2016-Q1,Quarterly,Value,,,reported,,,,Table15(b),F73,0.731,"#,##0.0_);\(#,##0.0\)"
+2016-03-31,Savings deposits,10.398749022673966,%,2016-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),D203,0.10398749022673966,0.0%
+2016-03-31,Savings deposits,7.06,$billion,2016-Q1,Quarterly,Value,,,reported,,,,Table15(b),D73,7.06,"#,##0.0_);\(#,##0.0\)"
+2016-03-31,Time deposits,-20.78573418779604,%,2016-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),E203,-0.20785734187796043,0.0%
+2016-03-31,Time deposits,2.843,$billion,2016-Q1,Quarterly,Value,,,reported,,,,Table15(b),E73,2.843,"#,##0.0_);\(#,##0.0\)"
+2016-03-31,Total liabilities,0.4523572377158109,%,2016-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),H203,0.004523572377158109,0.0%
+2016-03-31,Total liabilities,24.205,$billion,2016-Q1,Quarterly,Value,,,reported,,,,Table15(b),H73,24.205,"#,##0.0_);\(#,##0.0\)"
+2016-06-30,Capital,4.545454545454529,%,2016-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),G204,0.04545454545454529,0.0%
+2016-06-30,Capital,2.3,$billion,2016-Q2,Quarterly,Value,,,reported,,,,Table15(b),G74,2.3,"#,##0.0_);\(#,##0.0\)"
+2016-06-30,Demand deposits,-5.737704918032781,%,2016-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),C204,-0.057377049180327815,0.0%
+2016-06-30,Demand deposits,11.5,$billion,2016-Q2,Quarterly,Value,,,reported,,,,Table15(b),C74,11.5,"#,##0.0_);\(#,##0.0\)"
+2016-06-30,Other liabilities,49.999999999999986,%,2016-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),F204,0.4999999999999999,0.0%
+2016-06-30,Other liabilities,0.6,$billion,2016-Q2,Quarterly,Value,,,reported,,,,Table15(b),F74,0.6,"#,##0.0_);\(#,##0.0\)"
+2016-06-30,Savings deposits,4.838709677419352,%,2016-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),D204,0.04838709677419352,0.0%
+2016-06-30,Savings deposits,6.5,$billion,2016-Q2,Quarterly,Value,,,reported,,,,Table15(b),D74,6.5,"#,##0.0_);\(#,##0.0\)"
+2016-06-30,Time deposits,-16.216216216216218,%,2016-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),E204,-0.16216216216216217,0.0%
+2016-06-30,Time deposits,3.1,$billion,2016-Q2,Quarterly,Value,,,reported,,,,Table15(b),E74,3.1,"#,##0.0_);\(#,##0.0\)"
+2016-06-30,Total liabilities,-2.834008097165961,%,2016-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),H204,-0.028340080971659607,0.0%
+2016-06-30,Total liabilities,24.000000000000004,$billion,2016-Q2,Quarterly,Value,,,reported,,,,Table15(b),H74,24.000000000000004,"#,##0.0_);\(#,##0.0\)"
+2016-09-30,Capital,0,%,2016-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),G205,0,0.0%
+2016-09-30,Capital,2.2,$billion,2016-Q3,Quarterly,Value,,,reported,,,,Table15(b),G75,2.2,"#,##0.0_);\(#,##0.0\)"
+2016-09-30,Demand deposits,-7.2072072072071975,%,2016-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),C205,-0.07207207207207197,0.0%
+2016-09-30,Demand deposits,10.3,$billion,2016-Q3,Quarterly,Value,,,reported,,,,Table15(b),C75,10.3,"#,##0.0_);\(#,##0.0\)"
+2016-09-30,Other liabilities,16.666666666666664,%,2016-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),F205,0.16666666666666663,0.0%
+2016-09-30,Other liabilities,0.7,$billion,2016-Q3,Quarterly,Value,,,reported,,,,Table15(b),F75,0.7,"#,##0.0_);\(#,##0.0\)"
+2016-09-30,Savings deposits,4.9999999999999964,%,2016-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),D205,0.04999999999999997,0.0%
+2016-09-30,Savings deposits,6.3,$billion,2016-Q3,Quarterly,Value,,,reported,,,,Table15(b),D75,6.3,"#,##0.0_);\(#,##0.0\)"
+2016-09-30,Time deposits,-17.142857142857146,%,2016-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),E205,-0.17142857142857146,0.0%
+2016-09-30,Time deposits,2.9,$billion,2016-Q3,Quarterly,Value,,,reported,,,,Table15(b),E75,2.9,"#,##0.0_);\(#,##0.0\)"
+2016-09-30,Total liabilities,-4.2735042735042885,%,2016-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),H205,-0.04273504273504288,0.0%
+2016-09-30,Total liabilities,22.4,$billion,2016-Q3,Quarterly,Value,,,reported,,,,Table15(b),H75,22.4,"#,##0.0_);\(#,##0.0\)"
+2016-12-31,Capital,-7.8571428571428585,%,2016-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),G206,-0.07857142857142858,0.0%
+2016-12-31,Capital,1.935,$billion,2016-Q4,Quarterly,Value,,,reported,,,,Table15(b),G76,1.935,"#,##0.0_);\(#,##0.0\)"
+2016-12-31,Demand deposits,-9.341880341880342,%,2016-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),C206,-0.09341880341880342,0.0%
+2016-12-31,Demand deposits,10.607,$billion,2016-Q4,Quarterly,Value,,,reported,,,,Table15(b),C76,10.607,"#,##0.0_);\(#,##0.0\)"
+2016-12-31,Other liabilities,-6.166666666666672,%,2016-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),F206,-0.061666666666666724,0.0%
+2016-12-31,Other liabilities,0.563,$billion,2016-Q4,Quarterly,Value,,,reported,,,,Table15(b),F76,0.563,"#,##0.0_);\(#,##0.0\)"
+2016-12-31,Savings deposits,1.738461538461545,%,2016-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),D206,0.01738461538461545,0.0%
+2016-12-31,Savings deposits,6.613,$billion,2016-Q4,Quarterly,Value,,,reported,,,,Table15(b),D76,6.613,"#,##0.0_);\(#,##0.0\)"
+2016-12-31,Time deposits,-6.375000000000005,%,2016-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),E206,-0.06375000000000006,0.0%
+2016-12-31,Time deposits,2.996,$billion,2016-Q4,Quarterly,Value,,,reported,,,,Table15(b),E76,2.996,"#,##0.0_);\(#,##0.0\)"
+2016-12-31,Total liabilities,-5.751037344398366,%,2016-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),H206,-0.05751037344398366,0.0%
+2016-12-31,Total liabilities,22.713999999999995,$billion,2016-Q4,Quarterly,Value,,,reported,,,,Table15(b),H76,22.713999999999995,"#,##0.0_);\(#,##0.0\)"
+2017-03-31,Capital,-9.68622100954979,%,2017-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),G208,-0.09686221009549789,0.0%
+2017-03-31,Capital,1.986,$billion,2017-Q1,Quarterly,Value,,,reported,,,,Table15(b),G78,1.986,"#,##0.0_);\(#,##0.0\)"
+2017-03-31,Demand deposits,-9.875131902919446,%,2017-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),C208,-0.09875131902919446,0.0%
+2017-03-31,Demand deposits,10.249,$billion,2017-Q1,Quarterly,Value,,,reported,,,,Table15(b),C78,10.249,"#,##0.0_);\(#,##0.0\)"
+2017-03-31,Other liabilities,-28.727770177838575,%,2017-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),F208,-0.28727770177838574,0.0%
+2017-03-31,Other liabilities,0.521,$billion,2017-Q1,Quarterly,Value,,,reported,,,,Table15(b),F78,0.521,"#,##0.0_);\(#,##0.0\)"
+2017-03-31,Savings deposits,-2.3371104815864028,%,2017-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),D208,-0.02337110481586403,0.0%
+2017-03-31,Savings deposits,6.895,$billion,2017-Q1,Quarterly,Value,,,reported,,,,Table15(b),D78,6.895,"#,##0.0_);\(#,##0.0\)"
+2017-03-31,Time deposits,-1.3717903622933574,%,2017-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),E208,-0.013717903622933573,0.0%
+2017-03-31,Time deposits,2.804,$billion,2017-Q1,Quarterly,Value,,,reported,,,,Table15(b),E78,2.804,"#,##0.0_);\(#,##0.0\)"
+2017-03-31,Total liabilities,-7.229911175376989,%,2017-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),H208,-0.07229911175376989,0.0%
+2017-03-31,Total liabilities,22.455,$billion,2017-Q1,Quarterly,Value,,,reported,,,,Table15(b),H78,22.455,"#,##0.0_);\(#,##0.0\)"
+2017-06-30,Capital,-11.65217391304347,%,2017-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),G209,-0.1165217391304347,0.0%
+2017-06-30,Capital,2.032,$billion,2017-Q2,Quarterly,Value,,,reported,,,,Table15(b),G79,2.032,"#,##0.0_);\(#,##0.0\)"
+2017-06-30,Demand deposits,-15.652173913043486,%,2017-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),C209,-0.15652173913043485,0.0%
+2017-06-30,Demand deposits,9.7,$billion,2017-Q2,Quarterly,Value,,,reported,,,,Table15(b),C79,9.7,"#,##0.0_);\(#,##0.0\)"
+2017-06-30,Other liabilities,8.000000000000007,%,2017-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),F209,0.08000000000000007,0.0%
+2017-06-30,Other liabilities,0.648,$billion,2017-Q2,Quarterly,Value,,,reported,,,,Table15(b),F79,0.648,"#,##0.0_);\(#,##0.0\)"
+2017-06-30,Savings deposits,2.1384615384615424,%,2017-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),D209,0.021384615384615422,0.0%
+2017-06-30,Savings deposits,6.639,$billion,2017-Q2,Quarterly,Value,,,reported,,,,Table15(b),D79,6.639,"#,##0.0_);\(#,##0.0\)"
+2017-06-30,Time deposits,-6.677419354838719,%,2017-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),E209,-0.06677419354838719,0.0%
+2017-06-30,Time deposits,2.893,$billion,2017-Q2,Quarterly,Value,,,reported,,,,Table15(b),E79,2.893,"#,##0.0_);\(#,##0.0\)"
+2017-06-30,Total liabilities,-8.700000000000017,%,2017-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),H209,-0.08700000000000017,0.0%
+2017-06-30,Total liabilities,21.912,$billion,2017-Q2,Quarterly,Value,,,reported,,,,Table15(b),H79,21.912,"#,##0.0_);\(#,##0.0\)"
+2017-09-30,Capital,-4.272727272727287,%,2017-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),G210,-0.042727272727272864,0.0%
+2017-09-30,Capital,2.106,$billion,2017-Q3,Quarterly,Value,,,reported,,,,Table15(b),G80,2.106,"#,##0.0_);\(#,##0.0\)"
+2017-09-30,Demand deposits,-3.757281553398063,%,2017-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),C210,-0.037572815533980626,0.0%
+2017-09-30,Demand deposits,9.913,$billion,2017-Q3,Quarterly,Value,,,reported,,,,Table15(b),C80,9.913,"#,##0.0_);\(#,##0.0\)"
+2017-09-30,Other liabilities,-30.857142857142854,%,2017-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),F210,-0.30857142857142855,0.0%
+2017-09-30,Other liabilities,0.484,$billion,2017-Q3,Quarterly,Value,,,reported,,,,Table15(b),F80,0.484,"#,##0.0_);\(#,##0.0\)"
+2017-09-30,Savings deposits,-2.9523809523809517,%,2017-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),D210,-0.029523809523809515,0.0%
+2017-09-30,Savings deposits,6.114,$billion,2017-Q3,Quarterly,Value,,,reported,,,,Table15(b),D80,6.114,"#,##0.0_);\(#,##0.0\)"
+2017-09-30,Time deposits,-4.310344827586207,%,2017-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),E210,-0.04310344827586207,0.0%
+2017-09-30,Time deposits,2.775,$billion,2017-Q3,Quarterly,Value,,,reported,,,,Table15(b),E80,2.775,"#,##0.0_);\(#,##0.0\)"
+2017-09-30,Total liabilities,-4.4999999999999805,%,2017-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),H210,-0.044999999999999804,0.0%
+2017-09-30,Total liabilities,21.392000000000003,$billion,2017-Q3,Quarterly,Value,,,reported,,,,Table15(b),H80,21.392000000000003,"#,##0.0_);\(#,##0.0\)"
+2017-12-31,Capital,2.4289405684754484,%,2017-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),G211,0.024289405684754486,0.0%
+2017-12-31,Capital,1.982,$billion,2017-Q4,Quarterly,Value,,,reported,,,,Table15(b),G81,1.982,"#,##0.0_);\(#,##0.0\)"
+2017-12-31,Demand deposits,-8.588667860846607,%,2017-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),C211,-0.08588667860846608,0.0%
+2017-12-31,Demand deposits,9.696,$billion,2017-Q4,Quarterly,Value,,,reported,,,,Table15(b),C81,9.696,"#,##0.0_);\(#,##0.0\)"
+2017-12-31,Other liabilities,12.788632326820618,%,2017-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),F211,0.12788632326820618,0.0%
+2017-12-31,Other liabilities,0.635,$billion,2017-Q4,Quarterly,Value,,,reported,,,,Table15(b),F81,0.635,"#,##0.0_);\(#,##0.0\)"
+2017-12-31,Savings deposits,-2.5555723574777027,%,2017-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),D211,-0.025555723574777027,0.0%
+2017-12-31,Savings deposits,6.444,$billion,2017-Q4,Quarterly,Value,,,reported,,,,Table15(b),D81,6.444,"#,##0.0_);\(#,##0.0\)"
+2017-12-31,Time deposits,0.5340453938584785,%,2017-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),E211,0.005340453938584785,0.0%
+2017-12-31,Time deposits,3.012,$billion,2017-Q4,Quarterly,Value,,,reported,,,,Table15(b),E81,3.012,"#,##0.0_);\(#,##0.0\)"
+2017-12-31,Total liabilities,-4.16042969093948,%,2017-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),H211,-0.041604296909394795,0.0%
+2017-12-31,Total liabilities,21.769000000000002,$billion,2017-Q4,Quarterly,Value,,,reported,,,,Table15(b),H81,21.769000000000002,"#,##0.0_);\(#,##0.0\)"
+2018-03-31,Capital,0.2517623363544872,%,2018-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),G213,0.002517623363544872,0.0%
+2018-03-31,Capital,1.991,$billion,2018-Q1,Quarterly,Value,,,reported,,,,Table15(b),G83,1.991,"#,##0.0_);\(#,##0.0\)"
+2018-03-31,Demand deposits,-11.552346570397122,%,2018-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),C213,-0.11552346570397122,0.0%
+2018-03-31,Demand deposits,9.065,$billion,2018-Q1,Quarterly,Value,,,reported,,,,Table15(b),C83,9.065,"#,##0.0_);\(#,##0.0\)"
+2018-03-31,Other liabilities,9.980806142034536,%,2018-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),F213,0.09980806142034536,0.0%
+2018-03-31,Other liabilities,0.573,$billion,2018-Q1,Quarterly,Value,,,reported,,,,Table15(b),F83,0.573,"#,##0.0_);\(#,##0.0\)"
+2018-03-31,Savings deposits,-5.4387237128353885,%,2018-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),D213,-0.05438723712835388,0.0%
+2018-03-31,Savings deposits,6.52,$billion,2018-Q1,Quarterly,Value,,,reported,,,,Table15(b),D83,6.52,"#,##0.0_);\(#,##0.0\)"
+2018-03-31,Time deposits,14.158345221112706,%,2018-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),E213,0.14158345221112706,0.0%
+2018-03-31,Time deposits,3.201,$billion,2018-Q1,Quarterly,Value,,,reported,,,,Table15(b),E83,3.201,"#,##0.0_);\(#,##0.0\)"
+2018-03-31,Total liabilities,-4.920953017145404,%,2018-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),H213,-0.04920953017145404,0.0%
+2018-03-31,Total liabilities,21.349999999999998,$billion,2018-Q1,Quarterly,Value,,,reported,,,,Table15(b),H83,21.349999999999998,"#,##0.0_);\(#,##0.0\)"
+2018-06-30,Capital,0.04921259842519143,%,2018-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),G214,0.0004921259842519143,0.0%
+2018-06-30,Capital,2.033,$billion,2018-Q2,Quarterly,Value,,,reported,,,,Table15(b),G84,2.033,"#,##0.0_);\(#,##0.0\)"
+2018-06-30,Demand deposits,-0.06185567010307682,%,2018-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),C214,-0.0006185567010307682,0.0%
+2018-06-30,Demand deposits,9.694,$billion,2018-Q2,Quarterly,Value,,,reported,,,,Table15(b),C84,9.694,"#,##0.0_);\(#,##0.0\)"
+2018-06-30,Other liabilities,-17.28395061728395,%,2018-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),F214,-0.1728395061728395,0.0%
+2018-06-30,Other liabilities,0.536,$billion,2018-Q2,Quarterly,Value,,,reported,,,,Table15(b),F84,0.536,"#,##0.0_);\(#,##0.0\)"
+2018-06-30,Savings deposits,-2.2895014309383965,%,2018-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),D214,-0.022895014309383965,0.0%
+2018-06-30,Savings deposits,6.487,$billion,2018-Q2,Quarterly,Value,,,reported,,,,Table15(b),D84,6.487,"#,##0.0_);\(#,##0.0\)"
+2018-06-30,Time deposits,-0.7950224680262595,%,2018-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),E214,-0.007950224680262595,0.0%
+2018-06-30,Time deposits,2.87,$billion,2018-Q2,Quarterly,Value,,,reported,,,,Table15(b),E84,2.87,"#,##0.0_);\(#,##0.0\)"
+2018-06-30,Total liabilities,-1.3326031398320304,%,2018-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),H214,-0.013326031398320304,0.0%
+2018-06-30,Total liabilities,21.620000000000005,$billion,2018-Q2,Quarterly,Value,,,reported,,,,Table15(b),H84,21.620000000000005,"#,##0.0_);\(#,##0.0\)"
+2018-09-30,Capital,-3.3713200379866923,%,2018-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),G215,-0.03371320037986692,0.0%
+2018-09-30,Capital,2.035,$billion,2018-Q3,Quarterly,Value,,,reported,,,,Table15(b),G85,2.035,"#,##0.0_);\(#,##0.0\)"
+2018-09-30,Demand deposits,-14.899626752748919,%,2018-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),C215,-0.14899626752748918,0.0%
+2018-09-30,Demand deposits,8.436,$billion,2018-Q3,Quarterly,Value,,,reported,,,,Table15(b),C85,8.436,"#,##0.0_);\(#,##0.0\)"
+2018-09-30,Other liabilities,26.239669421487605,%,2018-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),F215,0.26239669421487605,0.0%
+2018-09-30,Other liabilities,0.611,$billion,2018-Q3,Quarterly,Value,,,reported,,,,Table15(b),F85,0.611,"#,##0.0_);\(#,##0.0\)"
+2018-09-30,Savings deposits,-6.280667320902837,%,2018-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),D215,-0.06280667320902837,0.0%
+2018-09-30,Savings deposits,5.73,$billion,2018-Q3,Quarterly,Value,,,reported,,,,Table15(b),D85,5.73,"#,##0.0_);\(#,##0.0\)"
+2018-09-30,Time deposits,11.387387387387397,%,2018-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),E215,0.11387387387387397,0.0%
+2018-09-30,Time deposits,3.091,$billion,2018-Q3,Quarterly,Value,,,reported,,,,Table15(b),E85,3.091,"#,##0.0_);\(#,##0.0\)"
+2018-09-30,Total liabilities,-6.9605459985041165,%,2018-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),H215,-0.06960545998504117,0.0%
+2018-09-30,Total liabilities,19.903000000000002,$billion,2018-Q3,Quarterly,Value,,,reported,,,,Table15(b),H85,19.903000000000002,"#,##0.0_);\(#,##0.0\)"
+2018-12-31,Capital,0.9081735620585276,%,2018-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),G216,0.009081735620585276,0.0%
+2018-12-31,Capital,2,$billion,2018-Q4,Quarterly,Value,,,reported,,,,Table15(b),G86,2,"#,##0.0_);\(#,##0.0\)"
+2018-12-31,Demand deposits,-9.24092409240923,%,2018-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),C216,-0.0924092409240923,0.0%
+2018-12-31,Demand deposits,8.8,$billion,2018-Q4,Quarterly,Value,,,reported,,,,Table15(b),C86,8.8,"#,##0.0_);\(#,##0.0\)"
+2018-12-31,Other liabilities,-21.25984251968504,%,2018-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),F216,-0.2125984251968504,0.0%
+2018-12-31,Other liabilities,0.5,$billion,2018-Q4,Quarterly,Value,,,reported,,,,Table15(b),F86,0.5,"#,##0.0_);\(#,##0.0\)"
+2018-12-31,Savings deposits,-8.441961514587208,%,2018-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),D216,-0.08441961514587207,0.0%
+2018-12-31,Savings deposits,5.9,$billion,2018-Q4,Quarterly,Value,,,reported,,,,Table15(b),D86,5.9,"#,##0.0_);\(#,##0.0\)"
+2018-12-31,Time deposits,12.88180610889774,%,2018-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),E216,0.1288180610889774,0.0%
+2018-12-31,Time deposits,3.4,$billion,2018-Q4,Quarterly,Value,,,reported,,,,Table15(b),E86,3.4,"#,##0.0_);\(#,##0.0\)"
+2018-12-31,Total liabilities,-5.370021590334882,%,2018-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),H216,-0.053700215903348815,0.0%
+2018-12-31,Total liabilities,20.6,$billion,2018-Q4,Quarterly,Value,,,reported,,,,Table15(b),H86,20.6,"#,##0.0_);\(#,##0.0\)"
+2019-03-31,Capital,4.871923656454041,%,2019-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),G218,0.048719236564540414,0.0%
+2019-03-31,Capital,2.088,$billion,2019-Q1,Quarterly,Value,,,reported,,,,Table15(b),G88,2.088,"#,##0.0_);\(#,##0.0\)"
+2019-03-31,Demand deposits,-4.522890237175954,%,2019-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),C218,-0.045228902371759534,0.0%
+2019-03-31,Demand deposits,8.655,$billion,2019-Q1,Quarterly,Value,,,reported,,,,Table15(b),C88,8.655,"#,##0.0_);\(#,##0.0\)"
+2019-03-31,Other liabilities,-9.424083769633498,%,2019-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),F218,-0.09424083769633497,0.0%
+2019-03-31,Other liabilities,0.519,$billion,2019-Q1,Quarterly,Value,,,reported,,,,Table15(b),F88,0.519,"#,##0.0_);\(#,##0.0\)"
+2019-03-31,Savings deposits,-8.328220858895694,%,2019-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),D218,-0.08328220858895695,0.0%
+2019-03-31,Savings deposits,5.977,$billion,2019-Q1,Quarterly,Value,,,reported,,,,Table15(b),D88,5.977,"#,##0.0_);\(#,##0.0\)"
+2019-03-31,Time deposits,22.274289284598563,%,2019-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),E218,0.22274289284598564,0.0%
+2019-03-31,Time deposits,3.914,$billion,2019-Q1,Quarterly,Value,,,reported,,,,Table15(b),E88,3.914,"#,##0.0_);\(#,##0.0\)"
+2019-03-31,Total liabilities,-0.9227166276346568,%,2019-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),H218,-0.009227166276346567,0.0%
+2019-03-31,Total liabilities,21.153,$billion,2019-Q1,Quarterly,Value,,,reported,,,,Table15(b),H88,21.153,"#,##0.0_);\(#,##0.0\)"
+2019-06-30,Capital,5.164781111657648,%,2019-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),G219,0.05164781111657648,0.0%
+2019-06-30,Capital,2.138,$billion,2019-Q2,Quarterly,Value,,,reported,,,,Table15(b),G89,2.138,"#,##0.0_);\(#,##0.0\)"
+2019-06-30,Demand deposits,-14.307819269651334,%,2019-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),C219,-0.14307819269651334,0.0%
+2019-06-30,Demand deposits,8.307,$billion,2019-Q2,Quarterly,Value,,,reported,,,,Table15(b),C89,8.307,"#,##0.0_);\(#,##0.0\)"
+2019-06-30,Other liabilities,-0.7462686567164185,%,2019-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),F219,-0.007462686567164185,0.0%
+2019-06-30,Other liabilities,0.532,$billion,2019-Q2,Quarterly,Value,,,reported,,,,Table15(b),F89,0.532,"#,##0.0_);\(#,##0.0\)"
+2019-06-30,Savings deposits,-7.938954832742402,%,2019-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),D219,-0.07938954832742402,0.0%
+2019-06-30,Savings deposits,5.972,$billion,2019-Q2,Quarterly,Value,,,reported,,,,Table15(b),D89,5.972,"#,##0.0_);\(#,##0.0\)"
+2019-06-30,Time deposits,38.536585365853654,%,2019-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),E219,0.38536585365853654,0.0%
+2019-06-30,Time deposits,3.976,$billion,2019-Q2,Quarterly,Value,,,reported,,,,Table15(b),E89,3.976,"#,##0.0_);\(#,##0.0\)"
+2019-06-30,Total liabilities,-3.214616096207249,%,2019-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),H219,-0.03214616096207249,0.0%
+2019-06-30,Total liabilities,20.924999999999997,$billion,2019-Q2,Quarterly,Value,,,reported,,,,Table15(b),H89,20.924999999999997,"#,##0.0_);\(#,##0.0\)"
+2019-09-30,Capital,6.9287469287469285,%,2019-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),G220,0.06928746928746929,0.0%
+2019-09-30,Capital,2.176,$billion,2019-Q3,Quarterly,Value,,,reported,,,,Table15(b),G90,2.176,"#,##0.0_);\(#,##0.0\)"
+2019-09-30,Demand deposits,24.751066856330002,%,2019-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),C220,0.24751066856330003,0.0%
+2019-09-30,Demand deposits,10.524,$billion,2019-Q3,Quarterly,Value,,,reported,,,,Table15(b),C90,10.524,"#,##0.0_);\(#,##0.0\)"
+2019-09-30,Other liabilities,7.201309328968911,%,2019-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),F220,0.0720130932896891,0.0%
+2019-09-30,Other liabilities,0.655,$billion,2019-Q3,Quarterly,Value,,,reported,,,,Table15(b),F90,0.655,"#,##0.0_);\(#,##0.0\)"
+2019-09-30,Savings deposits,-1.1518324607329968,%,2019-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),D220,-0.01151832460732997,0.0%
+2019-09-30,Savings deposits,5.664,$billion,2019-Q3,Quarterly,Value,,,reported,,,,Table15(b),D90,5.664,"#,##0.0_);\(#,##0.0\)"
+2019-09-30,Time deposits,48.49563248139759,%,2019-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),E220,0.48495632481397594,0.0%
+2019-09-30,Time deposits,4.59,$billion,2019-Q3,Quarterly,Value,,,reported,,,,Table15(b),E90,4.59,"#,##0.0_);\(#,##0.0\)"
+2019-09-30,Total liabilities,18.620308496206597,%,2019-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),H220,0.18620308496206597,0.0%
+2019-09-30,Total liabilities,23.609,$billion,2019-Q3,Quarterly,Value,,,reported,,,,Table15(b),H90,23.609,"#,##0.0_);\(#,##0.0\)"
+2019-12-31,Capital,6.000000000000005,%,2019-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),G221,0.06000000000000005,0.0%
+2019-12-31,Capital,2.12,$billion,2019-Q4,Quarterly,Value,,,reported,,,,Table15(b),G91,2.12,"#,##0.0_);\(#,##0.0\)"
+2019-12-31,Demand deposits,23.13636363636363,%,2019-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),C221,0.2313636363636363,0.0%
+2019-12-31,Demand deposits,10.836,$billion,2019-Q4,Quarterly,Value,,,reported,,,,Table15(b),C91,10.836,"#,##0.0_);\(#,##0.0\)"
+2019-12-31,Other liabilities,18.999999999999993,%,2019-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),F221,0.18999999999999995,0.0%
+2019-12-31,Other liabilities,0.595,$billion,2019-Q4,Quarterly,Value,,,reported,,,,Table15(b),F91,0.595,"#,##0.0_);\(#,##0.0\)"
+2019-12-31,Savings deposits,-1.491525423728815,%,2019-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),D221,-0.014915254237288149,0.0%
+2019-12-31,Savings deposits,5.812,$billion,2019-Q4,Quarterly,Value,,,reported,,,,Table15(b),D91,5.812,"#,##0.0_);\(#,##0.0\)"
+2019-12-31,Time deposits,35.99999999999999,%,2019-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),E221,0.35999999999999993,0.0%
+2019-12-31,Time deposits,4.624,$billion,2019-Q4,Quarterly,Value,,,reported,,,,Table15(b),E91,4.624,"#,##0.0_);\(#,##0.0\)"
+2019-12-31,Total liabilities,16.44174757281552,%,2019-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),H221,0.16441747572815518,0.0%
+2019-12-31,Total liabilities,23.987,$billion,2019-Q4,Quarterly,Value,,,reported,,,,Table15(b),H91,23.987,"#,##0.0_);\(#,##0.0\)"
+2020-03-31,Capital,5.363984674329506,%,2020-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),G223,0.05363984674329506,0.0%
+2020-03-31,Capital,2.2,$billion,2020-Q1,Quarterly,Value,,,reported,,,,Table15(b),G93,2.2,"#,##0.0_);\(#,##0.0\)"
+2020-03-31,Demand deposits,23.62796071634893,%,2020-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),C223,0.2362796071634893,0.0%
+2020-03-31,Demand deposits,10.7,$billion,2020-Q1,Quarterly,Value,,,reported,,,,Table15(b),C93,10.7,"#,##0.0_);\(#,##0.0\)"
+2020-03-31,Other liabilities,15.606936416184963,%,2020-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),F223,0.15606936416184963,0.0%
+2020-03-31,Other liabilities,0.6,$billion,2020-Q1,Quarterly,Value,,,reported,,,,Table15(b),F93,0.6,"#,##0.0_);\(#,##0.0\)"
+2020-03-31,Savings deposits,7.077128994478836,%,2020-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),D223,0.07077128994478836,0.0%
+2020-03-31,Savings deposits,6.4,$billion,2020-Q1,Quarterly,Value,,,reported,,,,Table15(b),D93,6.4,"#,##0.0_);\(#,##0.0\)"
+2020-03-31,Time deposits,9.862033725089415,%,2020-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),E223,0.09862033725089414,0.0%
+2020-03-31,Time deposits,4.3,$billion,2020-Q1,Quarterly,Value,,,reported,,,,Table15(b),E93,4.3,"#,##0.0_);\(#,##0.0\)"
+2020-03-31,Total liabilities,14.404576183047343,%,2020-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),H223,0.14404576183047343,0.0%
+2020-03-31,Total liabilities,24.200000000000003,$billion,2020-Q1,Quarterly,Value,,,reported,,,,Table15(b),H93,24.200000000000003,"#,##0.0_);\(#,##0.0\)"
+2020-06-30,Capital,7.57717492984097,%,2020-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),G224,0.0757717492984097,0.0%
+2020-06-30,Capital,2.3,$billion,2020-Q2,Quarterly,Value,,,reported,,,,Table15(b),G94,2.3,"#,##0.0_);\(#,##0.0\)"
+2020-06-30,Demand deposits,26.399422174070054,%,2020-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),C224,0.26399422174070053,0.0%
+2020-06-30,Demand deposits,10.5,$billion,2020-Q2,Quarterly,Value,,,reported,,,,Table15(b),C94,10.5,"#,##0.0_);\(#,##0.0\)"
+2020-06-30,Other liabilities,-6.015037593984967,%,2020-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),F224,-0.060150375939849676,0.0%
+2020-06-30,Other liabilities,0.5,$billion,2020-Q2,Quarterly,Value,,,reported,,,,Table15(b),F94,0.5,"#,##0.0_);\(#,##0.0\)"
+2020-06-30,Savings deposits,13.864701942397845,%,2020-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),D224,0.13864701942397845,0.0%
+2020-06-30,Savings deposits,6.8,$billion,2020-Q2,Quarterly,Value,,,reported,,,,Table15(b),D94,6.8,"#,##0.0_);\(#,##0.0\)"
+2020-06-30,Time deposits,-11.971830985915492,%,2020-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),E224,-0.11971830985915492,0.0%
+2020-06-30,Time deposits,3.5,$billion,2020-Q2,Quarterly,Value,,,reported,,,,Table15(b),E94,3.5,"#,##0.0_);\(#,##0.0\)"
+2020-06-30,Total liabilities,12.783751493428936,%,2020-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),H224,0.12783751493428935,0.0%
+2020-06-30,Total liabilities,23.6,$billion,2020-Q2,Quarterly,Value,,,reported,,,,Table15(b),H94,23.6,"#,##0.0_);\(#,##0.0\)"
+2020-09-30,Capital,5.69852941176469,%,2020-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),G225,0.0569852941176469,0.0%
+2020-09-30,Capital,2.3,$billion,2020-Q3,Quarterly,Value,,,reported,,,,Table15(b),G95,2.3,"#,##0.0_);\(#,##0.0\)"
+2020-09-30,Demand deposits,-3.0786773090079804,%,2020-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),C225,-0.030786773090079805,0.0%
+2020-09-30,Demand deposits,10.2,$billion,2020-Q3,Quarterly,Value,,,reported,,,,Table15(b),C95,10.2,"#,##0.0_);\(#,##0.0\)"
+2020-09-30,Other liabilities,-8.396946564885504,%,2020-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),F225,-0.08396946564885503,0.0%
+2020-09-30,Other liabilities,0.6,$billion,2020-Q3,Quarterly,Value,,,reported,,,,Table15(b),F95,0.6,"#,##0.0_);\(#,##0.0\)"
+2020-09-30,Savings deposits,30.64971751412431,%,2020-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),D225,0.3064971751412431,0.0%
+2020-09-30,Savings deposits,7.4,$billion,2020-Q3,Quarterly,Value,,,reported,,,,Table15(b),D95,7.4,"#,##0.0_);\(#,##0.0\)"
+2020-09-30,Time deposits,-21.568627450980387,%,2020-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),E225,-0.21568627450980388,0.0%
+2020-09-30,Time deposits,3.6,$billion,2020-Q3,Quarterly,Value,,,reported,,,,Table15(b),E95,3.6,"#,##0.0_);\(#,##0.0\)"
+2020-09-30,Total liabilities,2.079715362785392,%,2020-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),H225,0.02079715362785392,0.0%
+2020-09-30,Total liabilities,24.100000000000005,$billion,2020-Q3,Quarterly,Value,,,reported,,,,Table15(b),H95,24.100000000000005,"#,##0.0_);\(#,##0.0\)"
+2020-12-31,Capital,8.490566037735835,%,2020-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),G226,0.08490566037735835,0.0%
+2020-12-31,Capital,2.3,$billion,2020-Q4,Quarterly,Value,,,reported,,,,Table15(b),G96,2.3,"#,##0.0_);\(#,##0.0\)"
+2020-12-31,Demand deposits,4.282022886674053,%,2020-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),C226,0.04282022886674053,0.0%
+2020-12-31,Demand deposits,11.3,$billion,2020-Q4,Quarterly,Value,,,reported,,,,Table15(b),C96,11.3,"#,##0.0_);\(#,##0.0\)"
+2020-12-31,Other liabilities,-15.966386554621845,%,2020-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),F226,-0.15966386554621845,0.0%
+2020-12-31,Other liabilities,0.5,$billion,2020-Q4,Quarterly,Value,,,reported,,,,Table15(b),F96,0.5,"#,##0.0_);\(#,##0.0\)"
+2020-12-31,Savings deposits,32.48451479697178,%,2020-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),D226,0.3248451479697178,0.0%
+2020-12-31,Savings deposits,7.7,$billion,2020-Q4,Quarterly,Value,,,reported,,,,Table15(b),D96,7.7,"#,##0.0_);\(#,##0.0\)"
+2020-12-31,Time deposits,-17.820069204152247,%,2020-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),E226,-0.17820069204152247,0.0%
+2020-12-31,Time deposits,3.8,$billion,2020-Q4,Quarterly,Value,,,reported,,,,Table15(b),E96,3.8,"#,##0.0_);\(#,##0.0\)"
+2020-12-31,Total liabilities,6.724475757702102,%,2020-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),H226,0.06724475757702102,0.0%
+2020-12-31,Total liabilities,25.6,$billion,2020-Q4,Quarterly,Value,,,reported,,,,Table15(b),H96,25.6,"#,##0.0_);\(#,##0.0\)"
+2021-03-31,Capital,-4.545454545454549,%,2021-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),G228,-0.04545454545454549,0.0%
+2021-03-31,Capital,2.1,$billion,2021-Q1,Quarterly,Value,,,reported,,,,Table15(b),G98,2.1,"#,##0.0_);\(#,##0.0\)"
+2021-03-31,Demand deposits,2.8037383177570163,%,2021-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),C228,0.028037383177570162,0.0%
+2021-03-31,Demand deposits,11,$billion,2021-Q1,Quarterly,Value,,,reported,,,,Table15(b),C98,11,"#,##0.0_);\(#,##0.0\)"
+2021-03-31,Other liabilities,0,%,2021-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),F228,0,0.0%
+2021-03-31,Other liabilities,0.6,$billion,2021-Q1,Quarterly,Value,,,reported,,,,Table15(b),F98,0.6,"#,##0.0_);\(#,##0.0\)"
+2021-03-31,Savings deposits,21.874999999999993,%,2021-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),D228,0.21874999999999992,0.0%
+2021-03-31,Savings deposits,7.8,$billion,2021-Q1,Quarterly,Value,,,reported,,,,Table15(b),D98,7.8,"#,##0.0_);\(#,##0.0\)"
+2021-03-31,Time deposits,-6.976744186046507,%,2021-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),E228,-0.06976744186046507,0.0%
+2021-03-31,Time deposits,4,$billion,2021-Q1,Quarterly,Value,,,reported,,,,Table15(b),E98,4,"#,##0.0_);\(#,##0.0\)"
+2021-03-31,Total liabilities,5.371900826446283,%,2021-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),H228,0.05371900826446283,0.0%
+2021-03-31,Total liabilities,25.500000000000004,$billion,2021-Q1,Quarterly,Value,,,reported,,,,Table15(b),H98,25.500000000000004,"#,##0.0_);\(#,##0.0\)"
+2021-06-30,Capital,-8.695652173913032,%,2021-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),G229,-0.08695652173913032,0.0%
+2021-06-30,Capital,2.1,$billion,2021-Q2,Quarterly,Value,,,reported,,,,Table15(b),G99,2.1,"#,##0.0_);\(#,##0.0\)"
+2021-06-30,Demand deposits,28.57142857142857,%,2021-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),C229,0.2857142857142857,0.0%
+2021-06-30,Demand deposits,13.5,$billion,2021-Q2,Quarterly,Value,,,reported,,,,Table15(b),C99,13.5,"#,##0.0_);\(#,##0.0\)"
+2021-06-30,Other liabilities,19.999999999999996,%,2021-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),F229,0.19999999999999996,0.0%
+2021-06-30,Other liabilities,0.6,$billion,2021-Q2,Quarterly,Value,,,reported,,,,Table15(b),F99,0.6,"#,##0.0_);\(#,##0.0\)"
+2021-06-30,Savings deposits,11.764705882352938,%,2021-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),D229,0.11764705882352938,0.0%
+2021-06-30,Savings deposits,7.6,$billion,2021-Q2,Quarterly,Value,,,reported,,,,Table15(b),D99,7.6,"#,##0.0_);\(#,##0.0\)"
+2021-06-30,Time deposits,11.428571428571425,%,2021-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),E229,0.11428571428571425,0.0%
+2021-06-30,Time deposits,3.9,$billion,2021-Q2,Quarterly,Value,,,reported,,,,Table15(b),E99,3.9,"#,##0.0_);\(#,##0.0\)"
+2021-06-30,Total liabilities,17.372881355932208,%,2021-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),H229,0.17372881355932207,0.0%
+2021-06-30,Total liabilities,27.700000000000003,$billion,2021-Q2,Quarterly,Value,,,reported,,,,Table15(b),H99,27.700000000000003,"#,##0.0_);\(#,##0.0\)"
+2021-09-30,Capital,-13.04347826086956,%,2021-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),G230,-0.1304347826086956,0.0%
+2021-09-30,Capital,2,$billion,2021-Q3,Quarterly,Value,,,reported,,,,Table15(b),G100,2,"#,##0.0_);\(#,##0.0\)"
+2021-09-30,Demand deposits,31.372549019607852,%,2021-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),C230,0.31372549019607854,0.0%
+2021-09-30,Demand deposits,13.4,$billion,2021-Q3,Quarterly,Value,,,reported,,,,Table15(b),C100,13.4,"#,##0.0_);\(#,##0.0\)"
+2021-09-30,Other liabilities,0,%,2021-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),F230,0,0.0%
+2021-09-30,Other liabilities,0.6,$billion,2021-Q3,Quarterly,Value,,,reported,,,,Table15(b),F100,0.6,"#,##0.0_);\(#,##0.0\)"
+2021-09-30,Savings deposits,-1.3513513513513586,%,2021-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),D230,-0.013513513513513585,0.0%
+2021-09-30,Savings deposits,7.3,$billion,2021-Q3,Quarterly,Value,,,reported,,,,Table15(b),D100,7.3,"#,##0.0_);\(#,##0.0\)"
+2021-09-30,Time deposits,8.333333333333329,%,2021-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),E230,0.08333333333333329,0.0%
+2021-09-30,Time deposits,3.9,$billion,2021-Q3,Quarterly,Value,,,reported,,,,Table15(b),E100,3.9,"#,##0.0_);\(#,##0.0\)"
+2021-09-30,Total liabilities,12.863070539419061,%,2021-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),H230,0.1286307053941906,0.0%
+2021-09-30,Total liabilities,27.2,$billion,2021-Q3,Quarterly,Value,,,reported,,,,Table15(b),H100,27.2,"#,##0.0_);\(#,##0.0\)"
+2021-12-31,Capital,-8.695652173913032,%,2021-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),G231,-0.08695652173913032,0.0%
+2021-12-31,Capital,2.1,$billion,2021-Q4,Quarterly,Value,,,reported,,,,Table15(b),G101,2.1,"#,##0.0_);\(#,##0.0\)"
+2021-12-31,Demand deposits,9.73451327433628,%,2021-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),C231,0.09734513274336279,0.0%
+2021-12-31,Demand deposits,12.4,$billion,2021-Q4,Quarterly,Value,,,reported,,,,Table15(b),C101,12.4,"#,##0.0_);\(#,##0.0\)"
+2021-12-31,Other liabilities,0,%,2021-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),F231,0,0.0%
+2021-12-31,Other liabilities,0.5,$billion,2021-Q4,Quarterly,Value,,,reported,,,,Table15(b),F101,0.5,"#,##0.0_);\(#,##0.0\)"
+2021-12-31,Savings deposits,2.5974025974025996,%,2021-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),D231,0.025974025974025997,0.0%
+2021-12-31,Savings deposits,7.9,$billion,2021-Q4,Quarterly,Value,,,reported,,,,Table15(b),D101,7.9,"#,##0.0_);\(#,##0.0\)"
+2021-12-31,Time deposits,2.631578947368424,%,2021-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),E231,0.026315789473684237,0.0%
+2021-12-31,Time deposits,3.9,$billion,2021-Q4,Quarterly,Value,,,reported,,,,Table15(b),E101,3.9,"#,##0.0_);\(#,##0.0\)"
+2021-12-31,Total liabilities,4.687499999999997,%,2021-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),H231,0.04687499999999997,0.0%
+2021-12-31,Total liabilities,26.8,$billion,2021-Q4,Quarterly,Value,,,reported,,,,Table15(b),H101,26.8,"#,##0.0_);\(#,##0.0\)"
+2022-03-31,Capital,-9.52380952380953,%,2022-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),G233,-0.09523809523809532,0.0%
+2022-03-31,Capital,1.9,$billion,2022-Q1,Quarterly,Value,,,reported,,,,Table15(b),G103,1.9,"#,##0.0_);\(#,##0.0\)"
+2022-03-31,Demand deposits,21.818181818181824,%,2022-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),C233,0.21818181818181823,0.0%
+2022-03-31,Demand deposits,13.4,$billion,2022-Q1,Quarterly,Value,,,reported,,,,Table15(b),C103,13.4,"#,##0.0_);\(#,##0.0\)"
+2022-03-31,Other liabilities,16.666666666666664,%,2022-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),F233,0.16666666666666663,0.0%
+2022-03-31,Other liabilities,0.7,$billion,2022-Q1,Quarterly,Value,,,reported,,,,Table15(b),F103,0.7,"#,##0.0_);\(#,##0.0\)"
+2022-03-31,Savings deposits,3.8461538461538445,%,2022-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),D233,0.03846153846153844,0.0%
+2022-03-31,Savings deposits,8.1,$billion,2022-Q1,Quarterly,Value,,,reported,,,,Table15(b),D103,8.1,"#,##0.0_);\(#,##0.0\)"
+2022-03-31,Time deposits,-2.500000000000002,%,2022-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),E233,-0.025000000000000022,0.0%
+2022-03-31,Time deposits,3.9,$billion,2022-Q1,Quarterly,Value,,,reported,,,,Table15(b),E103,3.9,"#,##0.0_);\(#,##0.0\)"
+2022-03-31,Total liabilities,9.803921568627421,%,2022-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),H233,0.09803921568627422,0.0%
+2022-03-31,Total liabilities,27.999999999999996,$billion,2022-Q1,Quarterly,Value,,,reported,,,,Table15(b),H103,27.999999999999996,"#,##0.0_);\(#,##0.0\)"
+2022-06-30,Capital,-14.285714285714288,%,2022-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),G234,-0.14285714285714288,0.0%
+2022-06-30,Capital,1.8,$billion,2022-Q2,Quarterly,Value,,,reported,,,,Table15(b),G104,1.8,"#,##0.0_);\(#,##0.0\)"
+2022-06-30,Demand deposits,-8.148148148148145,%,2022-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),C234,-0.08148148148148146,0.0%
+2022-06-30,Demand deposits,12.4,$billion,2022-Q2,Quarterly,Value,,,reported,,,,Table15(b),C104,12.4,"#,##0.0_);\(#,##0.0\)"
+2022-06-30,Other liabilities,16.666666666666664,%,2022-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),F234,0.16666666666666663,0.0%
+2022-06-30,Other liabilities,0.7,$billion,2022-Q2,Quarterly,Value,,,reported,,,,Table15(b),F104,0.7,"#,##0.0_);\(#,##0.0\)"
+2022-06-30,Savings deposits,5.263157894736848,%,2022-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),D234,0.052631578947368474,0.0%
+2022-06-30,Savings deposits,8,$billion,2022-Q2,Quarterly,Value,,,reported,,,,Table15(b),D104,8,"#,##0.0_);\(#,##0.0\)"
+2022-06-30,Time deposits,-2.5641025641025665,%,2022-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),E234,-0.025641025641025664,0.0%
+2022-06-30,Time deposits,3.8,$billion,2022-Q2,Quarterly,Value,,,reported,,,,Table15(b),E104,3.8,"#,##0.0_);\(#,##0.0\)"
+2022-06-30,Total liabilities,-3.6101083032491097,%,2022-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),H234,-0.0361010830324911,0.0%
+2022-06-30,Total liabilities,26.7,$billion,2022-Q2,Quarterly,Value,,,reported,,,,Table15(b),H104,26.7,"#,##0.0_);\(#,##0.0\)"
+2022-09-30,Capital,-15.000000000000002,%,2022-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),G235,-0.15000000000000002,0.0%
+2022-09-30,Capital,1.7,$billion,2022-Q3,Quarterly,Value,,,reported,,,,Table15(b),G105,1.7,"#,##0.0_);\(#,##0.0\)"
+2022-09-30,Demand deposits,-11.940298507462684,%,2022-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),C235,-0.11940298507462684,0.0%
+2022-09-30,Demand deposits,11.8,$billion,2022-Q3,Quarterly,Value,,,reported,,,,Table15(b),C105,11.8,"#,##0.0_);\(#,##0.0\)"
+2022-09-30,Other liabilities,33.33333333333335,%,2022-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),F235,0.3333333333333335,0.0%
+2022-09-30,Other liabilities,0.8,$billion,2022-Q3,Quarterly,Value,,,reported,,,,Table15(b),F105,0.8,"#,##0.0_);\(#,##0.0\)"
+2022-09-30,Savings deposits,1.3698630136986376,%,2022-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),D235,0.013698630136986375,0.0%
+2022-09-30,Savings deposits,7.4,$billion,2022-Q3,Quarterly,Value,,,reported,,,,Table15(b),D105,7.4,"#,##0.0_);\(#,##0.0\)"
+2022-09-30,Time deposits,-2.5641025641025665,%,2022-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),E235,-0.025641025641025664,0.0%
+2022-09-30,Time deposits,3.8,$billion,2022-Q3,Quarterly,Value,,,reported,,,,Table15(b),E105,3.8,"#,##0.0_);\(#,##0.0\)"
+2022-09-30,Total liabilities,-6.249999999999985,%,2022-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),H235,-0.06249999999999985,0.0%
+2022-09-30,Total liabilities,25.500000000000004,$billion,2022-Q3,Quarterly,Value,,,reported,,,,Table15(b),H105,25.500000000000004,"#,##0.0_);\(#,##0.0\)"
+2022-12-31,Capital,-14.285714285714288,%,2022-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),G236,-0.14285714285714288,0.0%
+2022-12-31,Capital,1.8,$billion,2022-Q4,Quarterly,Value,,,reported,,,,Table15(b),G106,1.8,"#,##0.0_);\(#,##0.0\)"
+2022-12-31,Demand deposits,-1.6129032258064602,%,2022-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),C236,-0.016129032258064602,0.0%
+2022-12-31,Demand deposits,12.2,$billion,2022-Q4,Quarterly,Value,,,reported,,,,Table15(b),C106,12.2,"#,##0.0_);\(#,##0.0\)"
+2022-12-31,Other liabilities,39.99999999999999,%,2022-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),F236,0.3999999999999999,0.0%
+2022-12-31,Other liabilities,0.7,$billion,2022-Q4,Quarterly,Value,,,reported,,,,Table15(b),F106,0.7,"#,##0.0_);\(#,##0.0\)"
+2022-12-31,Savings deposits,-11.392405063291143,%,2022-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),D236,-0.11392405063291143,0.0%
+2022-12-31,Savings deposits,7,$billion,2022-Q4,Quarterly,Value,,,reported,,,,Table15(b),D106,7,"#,##0.0_);\(#,##0.0\)"
+2022-12-31,Time deposits,10.256410256410255,%,2022-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),E236,0.10256410256410255,0.0%
+2022-12-31,Time deposits,4.3,$billion,2022-Q4,Quarterly,Value,,,reported,,,,Table15(b),E106,4.3,"#,##0.0_);\(#,##0.0\)"
+2022-12-31,Total liabilities,-2.9850746268656745,%,2022-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),H236,-0.029850746268656744,0.0%
+2022-12-31,Total liabilities,26,$billion,2022-Q4,Quarterly,Value,,,reported,,,,Table15(b),H106,26,"#,##0.0_);\(#,##0.0\)"
+2023-03-31,Capital,5.263157894736848,%,2023-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),G238,0.052631578947368474,0.0%
+2023-03-31,Capital,2,$billion,2023-Q1,Quarterly,Value,,,reported,,,,Table15(b),G108,2,"#,##0.0_);\(#,##0.0\)"
+2023-03-31,Demand deposits,-23.134328358208954,%,2023-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),C238,-0.23134328358208953,0.0%
+2023-03-31,Demand deposits,10.3,$billion,2023-Q1,Quarterly,Value,,,reported,,,,Table15(b),C108,10.3,"#,##0.0_);\(#,##0.0\)"
+2023-03-31,Other liabilities,-14.285714285714283,%,2023-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),F238,-0.14285714285714282,0.0%
+2023-03-31,Other liabilities,0.6,$billion,2023-Q1,Quarterly,Value,,,reported,,,,Table15(b),F108,0.6,"#,##0.0_);\(#,##0.0\)"
+2023-03-31,Savings deposits,-12.34567901234568,%,2023-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),D238,-0.1234567901234568,0.0%
+2023-03-31,Savings deposits,7.1,$billion,2023-Q1,Quarterly,Value,,,reported,,,,Table15(b),D108,7.1,"#,##0.0_);\(#,##0.0\)"
+2023-03-31,Time deposits,12.820512820512834,%,2023-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),E238,0.12820512820512833,0.0%
+2023-03-31,Time deposits,4.4,$billion,2023-Q1,Quarterly,Value,,,reported,,,,Table15(b),E108,4.4,"#,##0.0_);\(#,##0.0\)"
+2023-03-31,Total liabilities,-12.85714285714285,%,2023-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),H238,-0.1285714285714285,0.0%
+2023-03-31,Total liabilities,24.4,$billion,2023-Q1,Quarterly,Value,,,reported,,,,Table15(b),H108,24.4,"#,##0.0_);\(#,##0.0\)"
+2023-06-30,Capital,5.555555555555548,%,2023-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),G239,0.05555555555555548,0.0%
+2023-06-30,Capital,1.9,$billion,2023-Q2,Quarterly,Value,,,reported,,,,Table15(b),G109,1.9,"#,##0.0_);\(#,##0.0\)"
+2023-06-30,Demand deposits,-20.161290322580644,%,2023-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),C239,-0.20161290322580644,0.0%
+2023-06-30,Demand deposits,9.9,$billion,2023-Q2,Quarterly,Value,,,reported,,,,Table15(b),C109,9.9,"#,##0.0_);\(#,##0.0\)"
+2023-06-30,Other liabilities,14.285714285714299,%,2023-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),F239,0.142857142857143,0.0%
+2023-06-30,Other liabilities,0.8,$billion,2023-Q2,Quarterly,Value,,,reported,,,,Table15(b),F109,0.8,"#,##0.0_);\(#,##0.0\)"
+2023-06-30,Savings deposits,-16.249999999999996,%,2023-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),D239,-0.16249999999999998,0.0%
+2023-06-30,Savings deposits,6.7,$billion,2023-Q2,Quarterly,Value,,,reported,,,,Table15(b),D109,6.7,"#,##0.0_);\(#,##0.0\)"
+2023-06-30,Time deposits,21.052631578947363,%,2023-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),E239,0.21052631578947364,0.0%
+2023-06-30,Time deposits,4.6,$billion,2023-Q2,Quarterly,Value,,,reported,,,,Table15(b),E109,4.6,"#,##0.0_);\(#,##0.0\)"
+2023-06-30,Total liabilities,-10.48689138576778,%,2023-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),H239,-0.1048689138576778,0.0%
+2023-06-30,Total liabilities,23.900000000000002,$billion,2023-Q2,Quarterly,Value,,,reported,,,,Table15(b),H109,23.900000000000002,"#,##0.0_);\(#,##0.0\)"
+2023-09-30,Capital,5.882352941176476,%,2023-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),G240,0.05882352941176476,0.0%
+2023-09-30,Capital,1.8,$billion,2023-Q3,Quarterly,Value,,,reported,,,,Table15(b),G110,1.8,"#,##0.0_);\(#,##0.0\)"
+2023-09-30,Demand deposits,-20.33898305084746,%,2023-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),C240,-0.2033898305084746,0.0%
+2023-09-30,Demand deposits,9.4,$billion,2023-Q3,Quarterly,Value,,,reported,,,,Table15(b),C110,9.4,"#,##0.0_);\(#,##0.0\)"
+2023-09-30,Other liabilities,12.499999999999996,%,2023-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),F240,0.12499999999999997,0.0%
+2023-09-30,Other liabilities,0.9,$billion,2023-Q3,Quarterly,Value,,,reported,,,,Table15(b),F110,0.9,"#,##0.0_);\(#,##0.0\)"
+2023-09-30,Savings deposits,-2.702702702702705,%,2023-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),D240,-0.02702702702702705,0.0%
+2023-09-30,Savings deposits,7.2,$billion,2023-Q3,Quarterly,Value,,,reported,,,,Table15(b),D110,7.2,"#,##0.0_);\(#,##0.0\)"
+2023-09-30,Time deposits,28.947368421052648,%,2023-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),E240,0.2894736842105265,0.0%
+2023-09-30,Time deposits,4.9,$billion,2023-Q3,Quarterly,Value,,,reported,,,,Table15(b),E110,4.9,"#,##0.0_);\(#,##0.0\)"
+2023-09-30,Total liabilities,-5.09803921568629,%,2023-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),H240,-0.050980392156862904,0.0%
+2023-09-30,Total liabilities,24.2,$billion,2023-Q3,Quarterly,Value,,,reported,,,,Table15(b),H110,24.2,"#,##0.0_);\(#,##0.0\)"
+2023-12-31,Capital,16.666666666666668,%,2023-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),G241,0.16666666666666669,0.0%
+2023-12-31,Capital,2.1,$billion,2023-Q4,Quarterly,Value,,,reported,,,,Table15(b),G111,2.1,"#,##0.0_);\(#,##0.0\)"
+2023-12-31,Demand deposits,-21.311475409836063,%,2023-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),C241,-0.21311475409836064,0.0%
+2023-12-31,Demand deposits,9.6,$billion,2023-Q4,Quarterly,Value,,,reported,,,,Table15(b),C111,9.6,"#,##0.0_);\(#,##0.0\)"
+2023-12-31,Other liabilities,14.285714285714299,%,2023-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),F241,0.142857142857143,0.0%
+2023-12-31,Other liabilities,0.8,$billion,2023-Q4,Quarterly,Value,,,reported,,,,Table15(b),F111,0.8,"#,##0.0_);\(#,##0.0\)"
+2023-12-31,Savings deposits,-10.000000000000002,%,2023-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),D241,-0.10000000000000002,0.0%
+2023-12-31,Savings deposits,6.3,$billion,2023-Q4,Quarterly,Value,,,reported,,,,Table15(b),D111,6.3,"#,##0.0_);\(#,##0.0\)"
+2023-12-31,Time deposits,16.279069767441865,%,2023-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),E241,0.16279069767441864,0.0%
+2023-12-31,Time deposits,5,$billion,2023-Q4,Quarterly,Value,,,reported,,,,Table15(b),E111,5,"#,##0.0_);\(#,##0.0\)"
+2023-12-31,Total liabilities,-8.46153846153846,%,2023-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),H241,-0.08461538461538459,0.0%
+2023-12-31,Total liabilities,23.8,$billion,2023-Q4,Quarterly,Value,,,reported,,,,Table15(b),H111,23.8,"#,##0.0_);\(#,##0.0\)"
+2024-03-31,Capital,0,%,2024-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),G243,0,0.0%
+2024-03-31,Capital,2,$billion,2024-Q1,Quarterly,Value,,,reported,,,,Table15(b),G113,2,"#,##0.0_);\(#,##0.0\)"
+2024-03-31,Demand deposits,-7.766990291262142,%,2024-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),C243,-0.07766990291262142,0.0%
+2024-03-31,Demand deposits,9.5,$billion,2024-Q1,Quarterly,Value,,,reported,,,,Table15(b),C113,9.5,"#,##0.0_);\(#,##0.0\)"
+2024-03-31,Other liabilities,16.666666666666664,%,2024-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),F243,0.16666666666666663,0.0%
+2024-03-31,Other liabilities,0.7,$billion,2024-Q1,Quarterly,Value,,,reported,,,,Table15(b),F113,0.7,"#,##0.0_);\(#,##0.0\)"
+2024-03-31,Savings deposits,-8.450704225352109,%,2024-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),D243,-0.08450704225352108,0.0%
+2024-03-31,Savings deposits,6.5,$billion,2024-Q1,Quarterly,Value,,,reported,,,,Table15(b),D113,6.5,"#,##0.0_);\(#,##0.0\)"
+2024-03-31,Time deposits,22.727272727272727,%,2024-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),E243,0.22727272727272727,0.0%
+2024-03-31,Time deposits,5.4,$billion,2024-Q1,Quarterly,Value,,,reported,,,,Table15(b),E113,5.4,"#,##0.0_);\(#,##0.0\)"
+2024-03-31,Total liabilities,-1.2295081967213144,%,2024-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),H243,-0.012295081967213144,0.0%
+2024-03-31,Total liabilities,24.099999999999998,$billion,2024-Q1,Quarterly,Value,,,reported,,,,Table15(b),H113,24.099999999999998,"#,##0.0_);\(#,##0.0\)"
+2024-06-30,Capital,5.263157894736848,%,2024-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),G244,0.052631578947368474,0.0%
+2024-06-30,Capital,2,$billion,2024-Q2,Quarterly,Value,,,reported,,,,Table15(b),G114,2,"#,##0.0_);\(#,##0.0\)"
+2024-06-30,Demand deposits,-7.070707070707082,%,2024-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),C244,-0.07070707070707082,0.0%
+2024-06-30,Demand deposits,9.2,$billion,2024-Q2,Quarterly,Value,,,reported,,,,Table15(b),C114,9.2,"#,##0.0_);\(#,##0.0\)"
+2024-06-30,Other liabilities,-25.000000000000007,%,2024-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),F244,-0.25000000000000006,0.0%
+2024-06-30,Other liabilities,0.6,$billion,2024-Q2,Quarterly,Value,,,reported,,,,Table15(b),F114,0.6,"#,##0.0_);\(#,##0.0\)"
+2024-06-30,Savings deposits,-4.477611940298504,%,2024-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),D244,-0.044776119402985044,0.0%
+2024-06-30,Savings deposits,6.4,$billion,2024-Q2,Quarterly,Value,,,reported,,,,Table15(b),D114,6.4,"#,##0.0_);\(#,##0.0\)"
+2024-06-30,Time deposits,21.73913043478261,%,2024-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),E244,0.2173913043478261,0.0%
+2024-06-30,Time deposits,5.6,$billion,2024-Q2,Quarterly,Value,,,reported,,,,Table15(b),E114,5.6,"#,##0.0_);\(#,##0.0\)"
+2024-06-30,Total liabilities,-0.41841004184101016,%,2024-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),H244,-0.004184100418410101,0.0%
+2024-06-30,Total liabilities,23.8,$billion,2024-Q2,Quarterly,Value,,,reported,,,,Table15(b),H114,23.8,"#,##0.0_);\(#,##0.0\)"
+2024-09-30,Capital,16.666666666666668,%,2024-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),G245,0.16666666666666669,0.0%
+2024-09-30,Capital,2.1,$billion,2024-Q3,Quarterly,Value,,,reported,,,,Table15(b),G115,2.1,"#,##0.0_);\(#,##0.0\)"
+2024-09-30,Demand deposits,0,%,2024-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),C245,0,0.0%
+2024-09-30,Demand deposits,9.4,$billion,2024-Q3,Quarterly,Value,,,reported,,,,Table15(b),C115,9.4,"#,##0.0_);\(#,##0.0\)"
+2024-09-30,Other liabilities,-22.22222222222223,%,2024-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),F245,-0.2222222222222223,0.0%
+2024-09-30,Other liabilities,0.7,$billion,2024-Q3,Quarterly,Value,,,reported,,,,Table15(b),F115,0.7,"#,##0.0_);\(#,##0.0\)"
+2024-09-30,Savings deposits,-16.666666666666668,%,2024-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),D245,-0.16666666666666669,0.0%
+2024-09-30,Savings deposits,6,$billion,2024-Q3,Quarterly,Value,,,reported,,,,Table15(b),D115,6,"#,##0.0_);\(#,##0.0\)"
+2024-09-30,Time deposits,18.367346938775498,%,2024-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),E245,0.18367346938775497,0.0%
+2024-09-30,Time deposits,5.8,$billion,2024-Q3,Quarterly,Value,,,reported,,,,Table15(b),E115,5.8,"#,##0.0_);\(#,##0.0\)"
+2024-09-30,Total liabilities,-0.8264462809917326,%,2024-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),H245,-0.008264462809917326,0.0%
+2024-09-30,Total liabilities,24,$billion,2024-Q3,Quarterly,Value,,,reported,,,,Table15(b),H115,24,"#,##0.0_);\(#,##0.0\)"
+2024-12-31,Capital,-9.52380952380953,%,2024-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),G246,-0.09523809523809532,0.0%
+2024-12-31,Capital,1.9,$billion,2024-Q4,Quarterly,Value,,,reported,,,,Table15(b),G116,1.9,"#,##0.0_);\(#,##0.0\)"
+2024-12-31,Demand deposits,-3.124999999999989,%,2024-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),C246,-0.03124999999999989,0.0%
+2024-12-31,Demand deposits,9.3,$billion,2024-Q4,Quarterly,Value,,,reported,,,,Table15(b),C116,9.3,"#,##0.0_);\(#,##0.0\)"
+2024-12-31,Other liabilities,-12.50000000000001,%,2024-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),F246,-0.1250000000000001,0.0%
+2024-12-31,Other liabilities,0.7,$billion,2024-Q4,Quarterly,Value,,,reported,,,,Table15(b),F116,0.7,"#,##0.0_);\(#,##0.0\)"
+2024-12-31,Savings deposits,-7.936507936507936,%,2024-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),D246,-0.07936507936507936,0.0%
+2024-12-31,Savings deposits,5.8,$billion,2024-Q4,Quarterly,Value,,,reported,,,,Table15(b),D116,5.8,"#,##0.0_);\(#,##0.0\)"
+2024-12-31,Time deposits,18.000000000000007,%,2024-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),E246,0.18000000000000008,0.0%
+2024-12-31,Time deposits,5.9,$billion,2024-Q4,Quarterly,Value,,,reported,,,,Table15(b),E116,5.9,"#,##0.0_);\(#,##0.0\)"
+2024-12-31,Total liabilities,-0.8403361344537934,%,2024-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),H246,-0.008403361344537934,0.0%
+2024-12-31,Total liabilities,23.599999999999998,$billion,2024-Q4,Quarterly,Value,,,reported,,,,Table15(b),H116,23.599999999999998,"#,##0.0_);\(#,##0.0\)"
+2025-03-31,Capital,0,%,2025-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),G248,0,0.0%
+2025-03-31,Capital,2,$billion,2025-Q1,Quarterly,Value,,,reported,,,,Table15(b),G118,2,"#,##0.0_);\(#,##0.0\)"
+2025-03-31,Demand deposits,10.869565217391305,%,2025-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),C248,0.10869565217391305,0.0%
+2025-03-31,Demand deposits,10.2,$billion,2025-Q1,Quarterly,Value,,,reported,,,,Table15(b),C118,10.2,"#,##0.0_);\(#,##0.0\)"
+2025-03-31,Other liabilities,0,%,2025-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),F248,0,0.0%
+2025-03-31,Other liabilities,0.6,$billion,2025-Q1,Quarterly,Value,,,reported,,,,Table15(b),F118,0.6,"#,##0.0_);\(#,##0.0\)"
+2025-03-31,Savings deposits,-3.1250000000000027,%,2025-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),D248,-0.03125000000000003,0.0%
+2025-03-31,Savings deposits,6.2,$billion,2025-Q1,Quarterly,Value,,,reported,,,,Table15(b),D118,6.2,"#,##0.0_);\(#,##0.0\)"
+2025-03-31,Time deposits,-3.5714285714285587,%,2025-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),E248,-0.03571428571428559,0.0%
+2025-03-31,Time deposits,5.4,$billion,2025-Q1,Quarterly,Value,,,reported,,,,Table15(b),E118,5.4,"#,##0.0_);\(#,##0.0\)"
+2025-03-31,Total liabilities,2.5210084033613356,%,2025-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),H248,0.025210084033613356,0.0%
+2025-03-31,Total liabilities,24.4,$billion,2025-Q1,Quarterly,Value,,,reported,,,,Table15(b),H118,24.4,"#,##0.0_);\(#,##0.0\)"
+2025-06-30,Capital,-9.52380952380953,%,2025-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),G249,-0.09523809523809532,0.0%
+2025-06-30,Capital,1.9,$billion,2025-Q2,Quarterly,Value,,,reported,,,,Table15(b),G119,1.9,"#,##0.0_);\(#,##0.0\)"
+2025-06-30,Demand deposits,8.51063829787233,%,2025-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),C249,0.08510638297872329,0.0%
+2025-06-30,Demand deposits,10.2,$billion,2025-Q2,Quarterly,Value,,,reported,,,,Table15(b),C119,10.2,"#,##0.0_);\(#,##0.0\)"
+2025-06-30,Other liabilities,-14.285714285714283,%,2025-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),F249,-0.14285714285714282,0.0%
+2025-06-30,Other liabilities,0.6,$billion,2025-Q2,Quarterly,Value,,,reported,,,,Table15(b),F119,0.6,"#,##0.0_);\(#,##0.0\)"
+2025-06-30,Savings deposits,4.9999999999999964,%,2025-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),D249,0.04999999999999997,0.0%
+2025-06-30,Savings deposits,6.3,$billion,2025-Q2,Quarterly,Value,,,reported,,,,Table15(b),D119,6.3,"#,##0.0_);\(#,##0.0\)"
+2025-06-30,Time deposits,-5.172413793103446,%,2025-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),E249,-0.051724137931034454,0.0%
+2025-06-30,Time deposits,5.5,$billion,2025-Q2,Quarterly,Value,,,reported,,,,Table15(b),E119,5.5,"#,##0.0_);\(#,##0.0\)"
+2025-06-30,Total liabilities,2.083333333333333,%,2025-Q2,Quarterly,Published percentage change,,,reported,,,,Table15(b),H249,0.020833333333333332,0.0%
+2025-06-30,Total liabilities,24.5,$billion,2025-Q2,Quarterly,Value,,,reported,,,,Table15(b),H119,24.5,"#,##0.0_);\(#,##0.0\)"
+2025-09-30,Capital,0,%,2025-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),G250,0,0.0%
+2025-09-30,Capital,1.9,$billion,2025-Q3,Quarterly,Value,,,reported,,,,Table15(b),G120,1.9,"#,##0.0_);\(#,##0.0\)"
+2025-09-30,Demand deposits,15.053763440860198,%,2025-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),C250,0.150537634408602,0.0%
+2025-09-30,Demand deposits,10.7,$billion,2025-Q3,Quarterly,Value,,,reported,,,,Table15(b),C120,10.7,"#,##0.0_);\(#,##0.0\)"
+2025-09-30,Other liabilities,-28.571428571428566,%,2025-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),F250,-0.28571428571428564,0.0%
+2025-09-30,Other liabilities,0.5,$billion,2025-Q3,Quarterly,Value,,,reported,,,,Table15(b),F120,0.5,"#,##0.0_);\(#,##0.0\)"
+2025-09-30,Savings deposits,8.620689655172415,%,2025-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),D250,0.08620689655172414,0.0%
+2025-09-30,Savings deposits,6.3,$billion,2025-Q3,Quarterly,Value,,,reported,,,,Table15(b),D120,6.3,"#,##0.0_);\(#,##0.0\)"
+2025-09-30,Time deposits,-8.47457627118644,%,2025-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),E250,-0.0847457627118644,0.0%
+2025-09-30,Time deposits,5.4,$billion,2025-Q3,Quarterly,Value,,,reported,,,,Table15(b),E120,5.4,"#,##0.0_);\(#,##0.0\)"
+2025-09-30,Total liabilities,5.0847457627118615,%,2025-Q3,Quarterly,Published percentage change,,,reported,,,,Table15(b),H250,0.05084745762711862,0.0%
+2025-09-30,Total liabilities,24.799999999999997,$billion,2025-Q3,Quarterly,Value,,,reported,,,,Table15(b),H120,24.799999999999997,"#,##0.0_);\(#,##0.0\)"
+2025-12-31,Capital,5.263157894736848,%,2025-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),G251,0.052631578947368474,0.0%
+2025-12-31,Capital,2,$billion,2025-Q4,Quarterly,Value,,,reported,,,,Table15(b),G121,2,"#,##0.0_);\(#,##0.0\)"
+2025-12-31,Demand deposits,25.80645161290321,%,2025-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),C251,0.2580645161290321,0.0%
+2025-12-31,Demand deposits,11.7,$billion,2025-Q4,Quarterly,Value,,,reported,,,,Table15(b),C121,11.7,"#,##0.0_);\(#,##0.0\)"
+2025-12-31,Other liabilities,-28.571428571428566,%,2025-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),F251,-0.28571428571428564,0.0%
+2025-12-31,Other liabilities,0.5,$billion,2025-Q4,Quarterly,Value,,,reported,,,,Table15(b),F121,0.5,"#,##0.0_);\(#,##0.0\)"
+2025-12-31,Savings deposits,12.068965517241383,%,2025-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),D251,0.12068965517241383,0.0%
+2025-12-31,Savings deposits,6.5,$billion,2025-Q4,Quarterly,Value,,,reported,,,,Table15(b),D121,6.5,"#,##0.0_);\(#,##0.0\)"
+2025-12-31,Time deposits,-8.47457627118644,%,2025-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),E251,-0.0847457627118644,0.0%
+2025-12-31,Time deposits,5.4,$billion,2025-Q4,Quarterly,Value,,,reported,,,,Table15(b),E121,5.4,"#,##0.0_);\(#,##0.0\)"
+2025-12-31,Total liabilities,10.593220338983066,%,2025-Q4,Quarterly,Published percentage change,,,reported,,,,Table15(b),H251,0.10593220338983067,0.0%
+2025-12-31,Total liabilities,26.1,$billion,2025-Q4,Quarterly,Value,,,reported,,,,Table15(b),H121,26.1,"#,##0.0_);\(#,##0.0\)"
+2026-03-31,Capital,0,%,2026-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),G253,0,0.0%
+2026-03-31,Capital,2,$billion,2026-Q1,Quarterly,Value,,,reported,,,,Table15(b),G123,2,"#,##0.0_);\(#,##0.0\)"
+2026-03-31,Demand deposits,10.784313725490211,%,2026-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),C253,0.1078431372549021,0.0%
+2026-03-31,Demand deposits,11.3,$billion,2026-Q1,Quarterly,Value,,,reported,,,,Table15(b),C123,11.3,"#,##0.0_);\(#,##0.0\)"
+2026-03-31,Other liabilities,16.666666666666664,%,2026-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),F253,0.16666666666666663,0.0%
+2026-03-31,Other liabilities,0.7,$billion,2026-Q1,Quarterly,Value,,,reported,,,,Table15(b),F123,0.7,"#,##0.0_);\(#,##0.0\)"
+2026-03-31,Savings deposits,0,%,2026-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),D253,0,0.0%
+2026-03-31,Savings deposits,6.2,$billion,2026-Q1,Quarterly,Value,,,reported,,,,Table15(b),D123,6.2,"#,##0.0_);\(#,##0.0\)"
+2026-03-31,Time deposits,-1.8518518518518614,%,2026-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),E253,-0.018518518518518615,0.0%
+2026-03-31,Time deposits,5.3,$billion,2026-Q1,Quarterly,Value,,,reported,,,,Table15(b),E123,5.3,"#,##0.0_);\(#,##0.0\)"
+2026-03-31,Total liabilities,4.5081967213114815,%,2026-Q1,Quarterly,Published percentage change,,,reported,,,,Table15(b),H253,0.04508196721311482,0.0%
+2026-03-31,Total liabilities,25.5,$billion,2026-Q1,Quarterly,Value,,,reported,,,,Table15(b),H123,25.5,"#,##0.0_);\(#,##0.0\)"

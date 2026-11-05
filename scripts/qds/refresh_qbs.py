@@ -69,18 +69,21 @@ def prepare(site, config, release):
     env['PYTHONPATH'] = str(work / 'python') + (os.pathsep + env['PYTHONPATH'] if env.get('PYTHONPATH') else '')
     extracted = job / 'source.json'
     run([python, site / 'scripts/qds/extract_qds.py', saved, extracted], env=env)
+    run([python, site / 'scripts/qds/timeseries.py', extracted, extracted], env=env)
     source = json.loads(extracted.read_text())
     source['importedOn'] = datetime.datetime.now(ZoneInfo(config.get('timezone', 'UTC'))).date().isoformat()
     extracted.write_text(json.dumps(source, ensure_ascii=False))
     # One maintained builder, copied into the isolated runtime directory for module resolution.
     shutil.copy2(site / 'scripts/qds/build_qds.mjs', job / 'build_qds.mjs')
+    shutil.copy2(site / 'scripts/qds/build_timeseries.mjs', job / 'build_timeseries.mjs')
     (job / 'node_modules').symlink_to(runtime / 'node/node_modules', target_is_directory=True)
     marker = Path(config['artifact_marker']).expanduser()
     if not marker.is_file():
         raise SourceError('Artifact Tool operation marker is unavailable; locate the bundled skill marker before building.')
-    run([node, marker, '--operation-kind', 'create', '--expected-output-count', str(len(source['tables'])), '--output-format', 'xlsx'])
+    run([node, marker, '--operation-kind', 'create', '--expected-output-count', str(2 * len(source['tables'])), '--output-format', 'xlsx'])
     run([node, job / 'build_qds.mjs', extracted, stage, review])
     run([python, site / 'scripts/qds/verify_qds.py', extracted, stage, review], env=env)
+    run([python, site / 'scripts/qds/verify_timeseries.py', extracted, stage], env=env)
     # Inspect the original again before declaring this release ready.
     if digest(original) != release['source_sha256']:
         raise SourceError('QBS changed during generation. Keep this run for review and prepare again.')
@@ -88,7 +91,7 @@ def prepare(site, config, release):
     paths = ['qds/index.html', '_datasets/quarterly-statistics.md']
     paths += [str(p.relative_to(stage)) for p in sorted((stage / 'qds').glob(edition + '-*.html'))]
     paths += [str(p.relative_to(stage)) for p in sorted((stage / 'assets/datasets/qds' / edition).iterdir())]
-    if len(paths) != 3 + 3 * len(source['tables']):
+    if len(paths) != 3 + 7 * len(source['tables']):
         raise SourceError('Unexpected generated file count; inspect the prepared release.')
     result = {**release, 'status': 'prepared', 'stage': str(stage), 'review': str(review),
               'base_commit': subprocess.check_output(['git', 'rev-parse', 'HEAD'], cwd=site).decode().strip(),
@@ -116,7 +119,7 @@ def apply_release(site, release_path):
         path = Path(name)
         if path.is_absolute() or '..' in path.parts:
             raise SourceError('Invalid release path.')
-        valid = name in allowed or (path.parent == Path('qds') and path.name.startswith(edition + '-table-') and path.suffix == '.html') or (path.parent == Path('assets/datasets/qds') / edition and (path.name == 'manifest.json' or path.suffix in ('.xlsx', '.csv')))
+        valid = name in allowed or (path.parent == Path('qds') and path.name.startswith(edition + '-table-') and path.suffix == '.html') or (path.parent == Path('assets/datasets/qds') / edition and (path.name == 'manifest.json' or path.suffix in ('.xlsx', '.csv', '.json')))
         if not valid or digest(stage / path) != sha:
             raise SourceError('Prepared output changed or contains an unexpected file.')
     for name in release['files']:

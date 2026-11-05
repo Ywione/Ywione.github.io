@@ -1,0 +1,513 @@
+﻿date,series,value,units,period,frequency,measure,classification,index_base,status,source_marker,revision,availability,source_sheet,source_cell,source_value,source_format
+2003-01-31,All establishments,0.10369858278603526,%,2003-01,Reference month,Published percentage change,,,reported,,,,Table4,H95,0.0010369858278603526,0.0%
+2003-01-31,All establishments,2896,employment,2003-01,Reference month,Value,,,reported,,,,Table4,H7,2896,"#,##0"
+2003-01-31,Cottage colonies and housekeeping,12.851405622489958,%,2003-01,Reference month,Published percentage change,,,reported,,,,Table4,F95,0.1285140562248996,0.0%
+2003-01-31,Cottage colonies and housekeeping,562,employment,2003-01,Reference month,Value,,,reported,,,,Table4,F7,562,General
+2003-01-31,Guest houses and micro-units,-12,%,2003-01,Reference month,Published percentage change,,,reported,,,,Table4,G95,-0.12,0.0%
+2003-01-31,Guest houses and micro-units,22,employment,2003-01,Reference month,Value,,,reported,,,,Table4,G7,22,General
+2003-01-31,Hotels,-2.447257383966245,%,2003-01,Reference month,Published percentage change,,,reported,,,,Table4,E95,-0.024472573839662448,0.0%
+2003-01-31,Hotels,2312,employment,2003-01,Reference month,Value,,,reported,,,,Table4,E7,2312,"#,##0"
+2003-04-30,All establishments,6.27831715210356,%,2003-04,Reference month,Published percentage change,,,reported,,,,Table4,H96,0.0627831715210356,0.0%
+2003-04-30,All establishments,3284,employment,2003-04,Reference month,Value,,,reported,,,,Table4,H8,3284,"#,##0"
+2003-04-30,Cottage colonies and housekeeping,19.25343811394892,%,2003-04,Reference month,Published percentage change,,,reported,,,,Table4,F96,0.1925343811394892,0.0%
+2003-04-30,Cottage colonies and housekeeping,607,employment,2003-04,Reference month,Value,,,reported,,,,Table4,F8,607,General
+2003-04-30,Guest houses and micro-units,4.761904761904762,%,2003-04,Reference month,Published percentage change,,,reported,,,,Table4,G96,0.047619047619047616,0.0%
+2003-04-30,Guest houses and micro-units,22,employment,2003-04,Reference month,Value,,,reported,,,,Table4,G8,22,General
+2003-04-30,Hotels,3.7109375,%,2003-04,Reference month,Published percentage change,,,reported,,,,Table4,E96,0.037109375,0.0%
+2003-04-30,Hotels,2655,employment,2003-04,Reference month,Value,,,reported,,,,Table4,E8,2655,"#,##0"
+2003-07-31,All establishments,-7.634016278417064,%,2003-07,Reference month,Published percentage change,,,reported,,,,Table4,H97,-0.07634016278417065,0.0%
+2003-07-31,All establishments,3291,employment,2003-07,Reference month,Value,,,reported,,,,Table4,H9,3291,"#,##0"
+2003-07-31,Cottage colonies and housekeeping,-18.586387434554975,%,2003-07,Reference month,Published percentage change,,,reported,,,,Table4,F97,-0.18586387434554974,0.0%
+2003-07-31,Cottage colonies and housekeeping,622,employment,2003-07,Reference month,Value,,,reported,,,,Table4,F9,622,General
+2003-07-31,Guest houses and micro-units,-33.33333333333333,%,2003-07,Reference month,Published percentage change,,,reported,,,,Table4,G97,-0.3333333333333333,0.0%
+2003-07-31,Guest houses and micro-units,18,employment,2003-07,Reference month,Value,,,reported,,,,Table4,G9,18,General
+2003-07-31,Hotels,-4.365079365079365,%,2003-07,Reference month,Published percentage change,,,reported,,,,Table4,E97,-0.04365079365079365,0.0%
+2003-07-31,Hotels,2651,employment,2003-07,Reference month,Value,,,reported,,,,Table4,E9,2651,"#,##0"
+2003-10-31,All establishments,-16.942794623319788,%,2003-10,Reference month,Published percentage change,,,reported,,,,Table4,H98,-0.16942794623319787,0.0%
+2003-10-31,All establishments,2657,employment,2003-10,Reference month,Value,,,reported,,,,Table4,H10,2657,"#,##0"
+2003-10-31,Cottage colonies and housekeeping,-6.844741235392321,%,2003-10,Reference month,Published percentage change,,,reported,,,,Table4,F98,-0.06844741235392321,0.0%
+2003-10-31,Cottage colonies and housekeeping,558,employment,2003-10,Reference month,Value,,,reported,,,,Table4,F10,558,General
+2003-10-31,Guest houses and micro-units,-34.61538461538461,%,2003-10,Reference month,Published percentage change,,,reported,,,,Table4,G98,-0.34615384615384615,0.0%
+2003-10-31,Guest houses and micro-units,17,employment,2003-10,Reference month,Value,,,reported,,,,Table4,G10,17,General
+2003-10-31,Hotels,-19.114219114219114,%,2003-10,Reference month,Published percentage change,,,reported,,,,Table4,E98,-0.19114219114219114,0.0%
+2003-10-31,Hotels,2082,employment,2003-10,Reference month,Value,,,reported,,,,Table4,E10,2082,"#,##0"
+2004-01-31,All establishments,-35.35911602209944,%,2004-01,Reference month,Published percentage change,,,reported,,,,Table4,H100,-0.35359116022099446,0.0%
+2004-01-31,All establishments,1872,employment,2004-01,Reference month,Value,,,reported,,,,Table4,H12,1872,"#,##0"
+2004-01-31,Cottage colonies and housekeeping,-5.6939501779359425,%,2004-01,Reference month,Published percentage change,,,reported,,,,Table4,F100,-0.05693950177935943,0.0%
+2004-01-31,Cottage colonies and housekeeping,530,employment,2004-01,Reference month,Value,,,reported,,,,Table4,F12,530,General
+2004-01-31,Guest houses and micro-units,-36.36363636363637,%,2004-01,Reference month,Published percentage change,,,reported,,,,Table4,G100,-0.36363636363636365,0.0%
+2004-01-31,Guest houses and micro-units,14,employment,2004-01,Reference month,Value,,,reported,,,,Table4,G12,14,General
+2004-01-31,Hotels,-42.56055363321799,%,2004-01,Reference month,Published percentage change,,,reported,,,,Table4,E100,-0.42560553633217996,0.0%
+2004-01-31,Hotels,1328,employment,2004-01,Reference month,Value,,,reported,,,,Table4,E12,1328,"#,##0"
+2004-04-30,All establishments,-10.414129110840438,%,2004-04,Reference month,Published percentage change,,,reported,,,,Table4,H101,-0.10414129110840438,0.0%
+2004-04-30,All establishments,2942,employment,2004-04,Reference month,Value,,,reported,,,,Table4,H13,2942,"#,##0"
+2004-04-30,Cottage colonies and housekeeping,-1.1532125205930808,%,2004-04,Reference month,Published percentage change,,,reported,,,,Table4,F101,-0.011532125205930808,0.0%
+2004-04-30,Cottage colonies and housekeeping,600,employment,2004-04,Reference month,Value,,,reported,,,,Table4,F13,600,General
+2004-04-30,Guest houses and micro-units,-13.636363636363635,%,2004-04,Reference month,Published percentage change,,,reported,,,,Table4,G101,-0.13636363636363635,0.0%
+2004-04-30,Guest houses and micro-units,19,employment,2004-04,Reference month,Value,,,reported,,,,Table4,G13,19,General
+2004-04-30,Hotels,-12.504708097928438,%,2004-04,Reference month,Published percentage change,,,reported,,,,Table4,E101,-0.12504708097928438,0.0%
+2004-04-30,Hotels,2323,employment,2004-04,Reference month,Value,,,reported,,,,Table4,E13,2323,"#,##0"
+2004-07-31,All establishments,-5.773321178972957,%,2004-07,Reference month,Published percentage change,,,reported,,,,Table4,H102,-0.057733211789729566,0.0%
+2004-07-31,All establishments,3101,employment,2004-07,Reference month,Value,,,reported,,,,Table4,H14,3101,"#,##0"
+2004-07-31,Cottage colonies and housekeeping,0.6430868167202572,%,2004-07,Reference month,Published percentage change,,,reported,,,,Table4,F102,0.006430868167202572,0.0%
+2004-07-31,Cottage colonies and housekeeping,626,employment,2004-07,Reference month,Value,,,reported,,,,Table4,F14,626,General
+2004-07-31,Guest houses and micro-units,5.555555555555555,%,2004-07,Reference month,Published percentage change,,,reported,,,,Table4,G102,0.05555555555555555,0.0%
+2004-07-31,Guest houses and micro-units,19,employment,2004-07,Reference month,Value,,,reported,,,,Table4,G14,19,General
+2004-07-31,Hotels,-7.355714824594492,%,2004-07,Reference month,Published percentage change,,,reported,,,,Table4,E102,-0.07355714824594492,0.0%
+2004-07-31,Hotels,2456,employment,2004-07,Reference month,Value,,,reported,,,,Table4,E14,2456,"#,##0"
+2004-10-31,All establishments,9.33383515242755,%,2004-10,Reference month,Published percentage change,,,reported,,,,Table4,H103,0.0933383515242755,0.0%
+2004-10-31,All establishments,2905,employment,2004-10,Reference month,Value,,,reported,,,,Table4,H15,2905,"#,##0"
+2004-10-31,Cottage colonies and housekeeping,1.971326164874552,%,2004-10,Reference month,Published percentage change,,,reported,,,,Table4,F103,0.01971326164874552,0.0%
+2004-10-31,Cottage colonies and housekeeping,569,employment,2004-10,Reference month,Value,,,reported,,,,Table4,F15,569,General
+2004-10-31,Guest houses and micro-units,-5.88235294117647,%,2004-10,Reference month,Published percentage change,,,reported,,,,Table4,G103,-0.058823529411764705,0.0%
+2004-10-31,Guest houses and micro-units,16,employment,2004-10,Reference month,Value,,,reported,,,,Table4,G15,16,General
+2004-10-31,Hotels,11.431316042267051,%,2004-10,Reference month,Published percentage change,,,reported,,,,Table4,E103,0.1143131604226705,0.0%
+2004-10-31,Hotels,2320,employment,2004-10,Reference month,Value,,,reported,,,,Table4,E15,2320,"#,##0"
+2005-01-31,All establishments,45.61965811965812,%,2005-01,Reference month,Published percentage change,,,reported,,,,Table4,H105,0.4561965811965812,0.0%
+2005-01-31,All establishments,2726,employment,2005-01,Reference month,Value,,,reported,,,,Table4,H17,2726,"#,##0"
+2005-01-31,Cottage colonies and housekeeping,-13.584905660377359,%,2005-01,Reference month,Published percentage change,,,reported,,,,Table4,F105,-0.13584905660377358,0.0%
+2005-01-31,Cottage colonies and housekeeping,458,employment,2005-01,Reference month,Value,,,reported,,,,Table4,F17,458,General
+2005-01-31,Guest houses and micro-units,7.142857142857142,%,2005-01,Reference month,Published percentage change,,,reported,,,,Table4,G105,0.07142857142857142,0.0%
+2005-01-31,Guest houses and micro-units,15,employment,2005-01,Reference month,Value,,,reported,,,,Table4,G17,15,General
+2005-01-31,Hotels,69.65361445783132,%,2005-01,Reference month,Published percentage change,,,reported,,,,Table4,E105,0.6965361445783133,0.0%
+2005-01-31,Hotels,2253,employment,2005-01,Reference month,Value,,,reported,,,,Table4,E17,2253,"#,##0"
+2005-04-30,All establishments,4.350781781101292,%,2005-04,Reference month,Published percentage change,,,reported,,,,Table4,H106,0.043507817811012914,0.0%
+2005-04-30,All establishments,3070,employment,2005-04,Reference month,Value,,,reported,,,,Table4,H18,3070,"#,##0"
+2005-04-30,Cottage colonies and housekeeping,12.833333333333332,%,2005-04,Reference month,Published percentage change,,,reported,,,,Table4,F106,0.12833333333333333,0.0%
+2005-04-30,Cottage colonies and housekeeping,677,employment,2005-04,Reference month,Value,,,reported,,,,Table4,F18,677,General
+2005-04-30,Guest houses and micro-units,-47.368421052631575,%,2005-04,Reference month,Published percentage change,,,reported,,,,Table4,G106,-0.47368421052631576,0.0%
+2005-04-30,Guest houses and micro-units,10,employment,2005-04,Reference month,Value,,,reported,,,,Table4,G18,10,General
+2005-04-30,Hotels,2.582866982350409,%,2005-04,Reference month,Published percentage change,,,reported,,,,Table4,E106,0.02582866982350409,0.0%
+2005-04-30,Hotels,2383,employment,2005-04,Reference month,Value,,,reported,,,,Table4,E18,2383,"#,##0"
+2005-07-31,All establishments,4.482425024185747,%,2005-07,Reference month,Published percentage change,,,reported,,,,Table4,H107,0.04482425024185747,0.0%
+2005-07-31,All establishments,3240,employment,2005-07,Reference month,Value,,,reported,,,,Table4,H19,3240,"#,##0"
+2005-07-31,Cottage colonies and housekeeping,17.0926517571885,%,2005-07,Reference month,Published percentage change,,,reported,,,,Table4,F107,0.17092651757188498,0.0%
+2005-07-31,Cottage colonies and housekeeping,733,employment,2005-07,Reference month,Value,,,reported,,,,Table4,F19,733,General
+2005-07-31,Guest houses and micro-units,-15.789473684210526,%,2005-07,Reference month,Published percentage change,,,reported,,,,Table4,G107,-0.15789473684210525,0.0%
+2005-07-31,Guest houses and micro-units,16,employment,2005-07,Reference month,Value,,,reported,,,,Table4,G19,16,General
+2005-07-31,Hotels,1.4250814332247557,%,2005-07,Reference month,Published percentage change,,,reported,,,,Table4,E107,0.014250814332247556,0.0%
+2005-07-31,Hotels,2491,employment,2005-07,Reference month,Value,,,reported,,,,Table4,E19,2491,"#,##0"
+2005-10-31,All establishments,7.194492254733219,%,2005-10,Reference month,Published percentage change,,,reported,,,,Table4,H108,0.07194492254733219,0.0%
+2005-10-31,All establishments,3114,employment,2005-10,Reference month,Value,,,reported,,,,Table4,H20,3114,"#,##0"
+2005-10-31,Cottage colonies and housekeeping,13.708260105448156,%,2005-10,Reference month,Published percentage change,,,reported,,,,Table4,F108,0.13708260105448156,0.0%
+2005-10-31,Cottage colonies and housekeeping,647,employment,2005-10,Reference month,Value,,,reported,,,,Table4,F20,647,General
+2005-10-31,Guest houses and micro-units,-12.5,%,2005-10,Reference month,Published percentage change,,,reported,,,,Table4,G108,-0.125,0.0%
+2005-10-31,Guest houses and micro-units,14,employment,2005-10,Reference month,Value,,,reported,,,,Table4,G20,14,General
+2005-10-31,Hotels,5.732758620689655,%,2005-10,Reference month,Published percentage change,,,reported,,,,Table4,E108,0.05732758620689655,0.0%
+2005-10-31,Hotels,2453,employment,2005-10,Reference month,Value,,,reported,,,,Table4,E20,2453,"#,##0"
+2006-01-31,All establishments,0.11005135730007337,%,2006-01,Reference month,Published percentage change,,,reported,,,,Table4,H110,0.0011005135730007337,0.0%
+2006-01-31,All establishments,2729,employment,2006-01,Reference month,Value,,,reported,,,,Table4,H22,2729,"#,##0"
+2006-01-31,Cottage colonies and housekeeping,22.707423580786028,%,2006-01,Reference month,Published percentage change,,,reported,,,,Table4,F110,0.22707423580786026,0.0%
+2006-01-31,Cottage colonies and housekeeping,562,employment,2006-01,Reference month,Value,,,reported,,,,Table4,F22,562,General
+2006-01-31,Guest houses and micro-units,26.666666666666668,%,2006-01,Reference month,Published percentage change,,,reported,,,,Table4,G110,0.26666666666666666,0.0%
+2006-01-31,Guest houses and micro-units,19,employment,2006-01,Reference month,Value,,,reported,,,,Table4,G22,19,General
+2006-01-31,Hotels,-4.660452729693742,%,2006-01,Reference month,Published percentage change,,,reported,,,,Table4,E110,-0.04660452729693742,0.0%
+2006-01-31,Hotels,2148,employment,2006-01,Reference month,Value,,,reported,,,,Table4,E22,2148,"#,##0"
+2006-04-30,All establishments,-5.211726384364821,%,2006-04,Reference month,Published percentage change,,,reported,,,,Table4,H111,-0.05211726384364821,0.0%
+2006-04-30,All establishments,2910,employment,2006-04,Reference month,Value,,,reported,,,,Table4,H23,2910,"#,##0"
+2006-04-30,Cottage colonies and housekeeping,-3.6927621861152145,%,2006-04,Reference month,Published percentage change,,,reported,,,,Table4,F111,-0.03692762186115214,0.0%
+2006-04-30,Cottage colonies and housekeeping,652,employment,2006-04,Reference month,Value,,,reported,,,,Table4,F23,652,General
+2006-04-30,Guest houses and micro-units,70,%,2006-04,Reference month,Published percentage change,,,reported,,,,Table4,G111,0.7,0.0%
+2006-04-30,Guest houses and micro-units,17,employment,2006-04,Reference month,Value,,,reported,,,,Table4,G23,17,General
+2006-04-30,Hotels,-5.958875367184222,%,2006-04,Reference month,Published percentage change,,,reported,,,,Table4,E111,-0.059588753671842215,0.0%
+2006-04-30,Hotels,2241,employment,2006-04,Reference month,Value,,,reported,,,,Table4,E23,2241,"#,##0"
+2006-07-31,All establishments,-4.62962962962963,%,2006-07,Reference month,Published percentage change,,,reported,,,,Table4,H112,-0.046296296296296294,0.0%
+2006-07-31,All establishments,3090,employment,2006-07,Reference month,Value,,,reported,,,,Table4,H24,3090,"#,##0"
+2006-07-31,Cottage colonies and housekeeping,0.2728512960436562,%,2006-07,Reference month,Published percentage change,,,reported,,,,Table4,F112,0.002728512960436562,0.0%
+2006-07-31,Cottage colonies and housekeeping,735,employment,2006-07,Reference month,Value,,,reported,,,,Table4,F24,735,General
+2006-07-31,Guest houses and micro-units,-6.25,%,2006-07,Reference month,Published percentage change,,,reported,,,,Table4,G112,-0.0625,0.0%
+2006-07-31,Guest houses and micro-units,15,employment,2006-07,Reference month,Value,,,reported,,,,Table4,G24,15,General
+2006-07-31,Hotels,-6.061822561220393,%,2006-07,Reference month,Published percentage change,,,reported,,,,Table4,E112,-0.06061822561220393,0.0%
+2006-07-31,Hotels,2340,employment,2006-07,Reference month,Value,,,reported,,,,Table4,E24,2340,"#,##0"
+2006-10-31,All establishments,-5.716120745022479,%,2006-10,Reference month,Published percentage change,,,reported,,,,Table4,H113,-0.057161207450224794,0.0%
+2006-10-31,All establishments,2936,employment,2006-10,Reference month,Value,,,reported,,,,Table4,H25,2936,"#,##0"
+2006-10-31,Cottage colonies and housekeeping,2.627511591962906,%,2006-10,Reference month,Published percentage change,,,reported,,,,Table4,F113,0.02627511591962906,0.0%
+2006-10-31,Cottage colonies and housekeeping,664,employment,2006-10,Reference month,Value,,,reported,,,,Table4,F25,664,General
+2006-10-31,Guest houses and micro-units,21.428571428571427,%,2006-10,Reference month,Published percentage change,,,reported,,,,Table4,G113,0.21428571428571427,0.0%
+2006-10-31,Guest houses and micro-units,17,employment,2006-10,Reference month,Value,,,reported,,,,Table4,G25,17,General
+2006-10-31,Hotels,-8.071748878923767,%,2006-10,Reference month,Published percentage change,,,reported,,,,Table4,E113,-0.08071748878923767,0.0%
+2006-10-31,Hotels,2255,employment,2006-10,Reference month,Value,,,reported,,,,Table4,E25,2255,"#,##0"
+2007-01-31,All establishments,-10.150238182484426,%,2007-01,Reference month,Published percentage change,,,reported,,,,Table4,H115,-0.10150238182484426,0.0%
+2007-01-31,All establishments,2452,employment,2007-01,Reference month,Value,,,reported,,,,Table4,H27,2452,"#,##0"
+2007-01-31,Cottage colonies and housekeeping,-11.387900355871885,%,2007-01,Reference month,Published percentage change,,,reported,,,,Table4,F115,-0.11387900355871886,0.0%
+2007-01-31,Cottage colonies and housekeeping,498,employment,2007-01,Reference month,Value,,,reported,,,,Table4,F27,498,General
+2007-01-31,Guest houses and micro-units,-15.789473684210526,%,2007-01,Reference month,Published percentage change,,,reported,,,,Table4,G115,-0.15789473684210525,0.0%
+2007-01-31,Guest houses and micro-units,16,employment,2007-01,Reference month,Value,,,reported,,,,Table4,G27,16,General
+2007-01-31,Hotels,-9.776536312849162,%,2007-01,Reference month,Published percentage change,,,reported,,,,Table4,E115,-0.09776536312849161,0.0%
+2007-01-31,Hotels,1938,employment,2007-01,Reference month,Value,,,reported,,,,Table4,E27,1938,"#,##0"
+2007-04-30,All establishments,-4.742268041237113,%,2007-04,Reference month,Published percentage change,,,reported,,,,Table4,H116,-0.04742268041237113,0.0%
+2007-04-30,All establishments,2772,employment,2007-04,Reference month,Value,,,reported,,,,Table4,H28,2772,"#,##0"
+2007-04-30,Cottage colonies and housekeeping,3.374233128834356,%,2007-04,Reference month,Published percentage change,,,reported,,,,Table4,F116,0.03374233128834356,0.0%
+2007-04-30,Cottage colonies and housekeeping,674,employment,2007-04,Reference month,Value,,,reported,,,,Table4,F28,674,General
+2007-04-30,Guest houses and micro-units,0,%,2007-04,Reference month,Published percentage change,,,reported,,,,Table4,G116,0,0.0%
+2007-04-30,Guest houses and micro-units,17,employment,2007-04,Reference month,Value,,,reported,,,,Table4,G28,17,General
+2007-04-30,Hotels,-7.1396697902722,%,2007-04,Reference month,Published percentage change,,,reported,,,,Table4,E116,-0.071396697902722,0.0%
+2007-04-30,Hotels,2081,employment,2007-04,Reference month,Value,,,reported,,,,Table4,E28,2081,"#,##0"
+2007-07-31,All establishments,-7.864077669902912,%,2007-07,Reference month,Published percentage change,,,reported,,,,Table4,H117,-0.07864077669902912,0.0%
+2007-07-31,All establishments,2847,employment,2007-07,Reference month,Value,,,reported,,,,Table4,H29,2847,"#,##0"
+2007-07-31,Cottage colonies and housekeeping,-11.156462585034014,%,2007-07,Reference month,Published percentage change,,,reported,,,,Table4,F117,-0.11156462585034013,0.0%
+2007-07-31,Cottage colonies and housekeeping,653,employment,2007-07,Reference month,Value,,,reported,,,,Table4,F29,653,General
+2007-07-31,Guest houses and micro-units,-26.666666666666668,%,2007-07,Reference month,Published percentage change,,,reported,,,,Table4,G117,-0.26666666666666666,0.0%
+2007-07-31,Guest houses and micro-units,11,employment,2007-07,Reference month,Value,,,reported,,,,Table4,G29,11,General
+2007-07-31,Hotels,-6.7094017094017095,%,2007-07,Reference month,Published percentage change,,,reported,,,,Table4,E117,-0.06709401709401709,0.0%
+2007-07-31,Hotels,2183,employment,2007-07,Reference month,Value,,,reported,,,,Table4,E29,2183,"#,##0"
+2007-10-31,All establishments,-6.641689373297003,%,2007-10,Reference month,Published percentage change,,,reported,,,,Table4,H118,-0.06641689373297002,0.0%
+2007-10-31,All establishments,2741,employment,2007-10,Reference month,Value,,,reported,,,,Table4,H30,2741,"#,##0"
+2007-10-31,Cottage colonies and housekeeping,-0.15060240963855423,%,2007-10,Reference month,Published percentage change,,,reported,,,,Table4,F118,-0.0015060240963855422,0.0%
+2007-10-31,Cottage colonies and housekeeping,663,employment,2007-10,Reference month,Value,,,reported,,,,Table4,F30,663,General
+2007-10-31,Guest houses and micro-units,-23.52941176470588,%,2007-10,Reference month,Published percentage change,,,reported,,,,Table4,G118,-0.23529411764705882,0.0%
+2007-10-31,Guest houses and micro-units,13,employment,2007-10,Reference month,Value,,,reported,,,,Table4,G30,13,General
+2007-10-31,Hotels,-8.425720620842572,%,2007-10,Reference month,Published percentage change,,,reported,,,,Table4,E118,-0.08425720620842572,0.0%
+2007-10-31,Hotels,2065,employment,2007-10,Reference month,Value,,,reported,,,,Table4,E30,2065,"#,##0"
+2008-01-31,All establishments,0.1631321370309951,%,2008-01,Reference month,Published percentage change,,,reported,,,,Table4,H120,0.0016313213703099511,0.0%
+2008-01-31,All establishments,2456,employment,2008-01,Reference month,Value,,,reported,,,,Table4,H32,2456,"#,##0"
+2008-01-31,Cottage colonies and housekeeping,2.208835341365462,%,2008-01,Reference month,Published percentage change,,,reported,,,,Table4,F120,0.02208835341365462,0.0%
+2008-01-31,Cottage colonies and housekeeping,509,employment,2008-01,Reference month,Value,,,reported,,,,Table4,F32,509,General
+2008-01-31,Guest houses and micro-units,6.25,%,2008-01,Reference month,Published percentage change,,,reported,,,,Table4,G120,0.0625,0.0%
+2008-01-31,Guest houses and micro-units,17,employment,2008-01,Reference month,Value,,,reported,,,,Table4,G32,17,General
+2008-01-31,Hotels,-0.41279669762641896,%,2008-01,Reference month,Published percentage change,,,reported,,,,Table4,E120,-0.0041279669762641896,0.0%
+2008-01-31,Hotels,1930,employment,2008-01,Reference month,Value,,,reported,,,,Table4,E32,1930,"#,##0"
+2008-04-30,All establishments,-6.565656565656567,%,2008-04,Reference month,Published percentage change,,,reported,,,,Table4,H121,-0.06565656565656566,0.0%
+2008-04-30,All establishments,2590,employment,2008-04,Reference month,Value,,,reported,,,,Table4,H33,2590,"#,##0"
+2008-04-30,Cottage colonies and housekeeping,-6.528189910979229,%,2008-04,Reference month,Published percentage change,,,reported,,,,Table4,F121,-0.06528189910979229,0.0%
+2008-04-30,Cottage colonies and housekeeping,630,employment,2008-04,Reference month,Value,,,reported,,,,Table4,F33,630,General
+2008-04-30,Guest houses and micro-units,-5.88235294117647,%,2008-04,Reference month,Published percentage change,,,reported,,,,Table4,G121,-0.058823529411764705,0.0%
+2008-04-30,Guest houses and micro-units,16,employment,2008-04,Reference month,Value,,,reported,,,,Table4,G33,16,General
+2008-04-30,Hotels,-6.583373378183566,%,2008-04,Reference month,Published percentage change,,,reported,,,,Table4,E121,-0.06583373378183566,0.0%
+2008-04-30,Hotels,1944,employment,2008-04,Reference month,Value,,,reported,,,,Table4,E33,1944,"#,##0"
+2008-07-31,All establishments,-6.2873199859501225,%,2008-07,Reference month,Published percentage change,,,reported,,,,Table4,H122,-0.06287319985950122,0.0%
+2008-07-31,All establishments,2668,employment,2008-07,Reference month,Value,,,reported,,,,Table4,H34,2668,"#,##0"
+2008-07-31,Cottage colonies and housekeeping,-3.0627871362940278,%,2008-07,Reference month,Published percentage change,,,reported,,,,Table4,F122,-0.030627871362940276,0.0%
+2008-07-31,Cottage colonies and housekeeping,633,employment,2008-07,Reference month,Value,,,reported,,,,Table4,F34,633,General
+2008-07-31,Guest houses and micro-units,9.090909090909092,%,2008-07,Reference month,Published percentage change,,,reported,,,,Table4,G122,0.09090909090909091,0.0%
+2008-07-31,Guest houses and micro-units,12,employment,2008-07,Reference month,Value,,,reported,,,,Table4,G34,12,General
+2008-07-31,Hotels,-7.329363261566652,%,2008-07,Reference month,Published percentage change,,,reported,,,,Table4,E122,-0.07329363261566652,0.0%
+2008-07-31,Hotels,2023,employment,2008-07,Reference month,Value,,,reported,,,,Table4,E34,2023,"#,##0"
+2008-10-31,All establishments,-2.261948194089748,%,2008-10,Reference month,Published percentage change,,,reported,,,,Table4,H123,-0.022619481940897482,0.0%
+2008-10-31,All establishments,2679,employment,2008-10,Reference month,Value,,,reported,,,,Table4,H35,2679,"#,##0"
+2008-10-31,Cottage colonies and housekeeping,-11.161387631975868,%,2008-10,Reference month,Published percentage change,,,reported,,,,Table4,F123,-0.11161387631975868,0.0%
+2008-10-31,Cottage colonies and housekeeping,589,employment,2008-10,Reference month,Value,,,reported,,,,Table4,F35,589,General
+2008-10-31,Guest houses and micro-units,53.84615384615385,%,2008-10,Reference month,Published percentage change,,,reported,,,,Table4,G123,0.5384615384615384,0.0%
+2008-10-31,Guest houses and micro-units,20,employment,2008-10,Reference month,Value,,,reported,,,,Table4,G35,20,General
+2008-10-31,Hotels,0.24213075060532688,%,2008-10,Reference month,Published percentage change,,,reported,,,,Table4,E123,0.002421307506053269,0.0%
+2008-10-31,Hotels,2070,employment,2008-10,Reference month,Value,,,reported,,,,Table4,E35,2070,"#,##0"
+2009-01-31,All establishments,-0.6107491856677525,%,2009-01,Reference month,Published percentage change,,,reported,,,,Table4,H125,-0.0061074918566775245,0.0%
+2009-01-31,All establishments,2441,employment,2009-01,Reference month,Value,,,reported,,,,Table4,H37,2441,"#,##0"
+2009-01-31,Cottage colonies and housekeeping,-11.591355599214145,%,2009-01,Reference month,Published percentage change,,,reported,,,,Table4,F125,-0.11591355599214145,0.0%
+2009-01-31,Cottage colonies and housekeeping,450,employment,2009-01,Reference month,Value,,,reported,,,,Table4,F37,450,General
+2009-01-31,Guest houses and micro-units,35.294117647058826,%,2009-01,Reference month,Published percentage change,,,reported,,,,Table4,G125,0.35294117647058826,0.0%
+2009-01-31,Guest houses and micro-units,23,employment,2009-01,Reference month,Value,,,reported,,,,Table4,G37,23,General
+2009-01-31,Hotels,1.9689119170984457,%,2009-01,Reference month,Published percentage change,,,reported,,,,Table4,E125,0.019689119170984457,0.0%
+2009-01-31,Hotels,1968,employment,2009-01,Reference month,Value,,,reported,,,,Table4,E37,1968,"#,##0"
+2009-04-30,All establishments,-1.6216216216216217,%,2009-04,Reference month,Published percentage change,,,reported,,,,Table4,H126,-0.016216216216216217,0.0%
+2009-04-30,All establishments,2548,employment,2009-04,Reference month,Value,,,reported,,,,Table4,H38,2548,"#,##0"
+2009-04-30,Cottage colonies and housekeeping,-13.65079365079365,%,2009-04,Reference month,Published percentage change,,,reported,,,,Table4,F126,-0.1365079365079365,0.0%
+2009-04-30,Cottage colonies and housekeeping,544,employment,2009-04,Reference month,Value,,,reported,,,,Table4,F38,544,General
+2009-04-30,Guest houses and micro-units,12.5,%,2009-04,Reference month,Published percentage change,,,reported,,,,Table4,G126,0.125,0.0%
+2009-04-30,Guest houses and micro-units,18,employment,2009-04,Reference month,Value,,,reported,,,,Table4,G38,18,General
+2009-04-30,Hotels,2.1604938271604937,%,2009-04,Reference month,Published percentage change,,,reported,,,,Table4,E126,0.021604938271604937,0.0%
+2009-04-30,Hotels,1986,employment,2009-04,Reference month,Value,,,reported,,,,Table4,E38,1986,"#,##0"
+2009-07-31,All establishments,1.5367316341829085,%,2009-07,Reference month,Published percentage change,,,reported,,,,Table4,H127,0.015367316341829085,0.0%
+2009-07-31,All establishments,2709,employment,2009-07,Reference month,Value,,,reported,,,,Table4,H39,2709,"#,##0"
+2009-07-31,Cottage colonies and housekeeping,-10.110584518167457,%,2009-07,Reference month,Published percentage change,,,reported,,,,Table4,F127,-0.10110584518167456,0.0%
+2009-07-31,Cottage colonies and housekeeping,569,employment,2009-07,Reference month,Value,,,reported,,,,Table4,F39,569,General
+2009-07-31,Guest houses and micro-units,25,%,2009-07,Reference month,Published percentage change,,,reported,,,,Table4,G127,0.25,0.0%
+2009-07-31,Guest houses and micro-units,15,employment,2009-07,Reference month,Value,,,reported,,,,Table4,G39,15,General
+2009-07-31,Hotels,5.042016806722689,%,2009-07,Reference month,Published percentage change,,,reported,,,,Table4,E127,0.05042016806722689,0.0%
+2009-07-31,Hotels,2125,employment,2009-07,Reference month,Value,,,reported,,,,Table4,E39,2125,"#,##0"
+2009-10-31,All establishments,-3.135498320268757,%,2009-10,Reference month,Published percentage change,,,reported,,,,Table4,H128,-0.03135498320268757,0.0%
+2009-10-31,All establishments,2595,employment,2009-10,Reference month,Value,,,reported,,,,Table4,H40,2595,"#,##0"
+2009-10-31,Cottage colonies and housekeeping,-4.753820033955857,%,2009-10,Reference month,Published percentage change,,,reported,,,,Table4,F128,-0.04753820033955857,0.0%
+2009-10-31,Cottage colonies and housekeeping,561,employment,2009-10,Reference month,Value,,,reported,,,,Table4,F40,561,General
+2009-10-31,Guest houses and micro-units,-30,%,2009-10,Reference month,Published percentage change,,,reported,,,,Table4,G128,-0.3,0.0%
+2009-10-31,Guest houses and micro-units,14,employment,2009-10,Reference month,Value,,,reported,,,,Table4,G40,14,General
+2009-10-31,Hotels,-2.4154589371980677,%,2009-10,Reference month,Published percentage change,,,reported,,,,Table4,E128,-0.024154589371980676,0.0%
+2009-10-31,Hotels,2020,employment,2009-10,Reference month,Value,,,reported,,,,Table4,E40,2020,"#,##0"
+2010-01-31,All establishments,-5.65342072920934,%,2010-01,Reference month,Published percentage change,,,reported,,,,Table4,H130,-0.0565342072920934,0.0%
+2010-01-31,All establishments,2303,employment,2010-01,Reference month,Value,,,reported,,,,Table4,H42,2303,"#,##0"
+2010-01-31,Cottage colonies and housekeeping,-7.111111111111111,%,2010-01,Reference month,Published percentage change,,,reported,,,,Table4,F130,-0.07111111111111111,0.0%
+2010-01-31,Cottage colonies and housekeeping,418,employment,2010-01,Reference month,Value,,,reported,,,,Table4,F42,418,General
+2010-01-31,Guest houses and micro-units,-17.391304347826086,%,2010-01,Reference month,Published percentage change,,,reported,,,,Table4,G130,-0.17391304347826086,0.0%
+2010-01-31,Guest houses and micro-units,19,employment,2010-01,Reference month,Value,,,reported,,,,Table4,G42,19,General
+2010-01-31,Hotels,-5.182926829268292,%,2010-01,Reference month,Published percentage change,,,reported,,,,Table4,E130,-0.051829268292682924,0.0%
+2010-01-31,Hotels,1866,employment,2010-01,Reference month,Value,,,reported,,,,Table4,E42,1866,"#,##0"
+2010-04-30,All establishments,-4.434850863422292,%,2010-04,Reference month,Published percentage change,,,reported,,,,Table4,H131,-0.04434850863422292,0.0%
+2010-04-30,All establishments,2435,employment,2010-04,Reference month,Value,,,reported,,,,Table4,H43,2435,"#,##0"
+2010-04-30,Cottage colonies and housekeeping,-14.705882352941178,%,2010-04,Reference month,Published percentage change,,,reported,,,,Table4,F131,-0.14705882352941177,0.0%
+2010-04-30,Cottage colonies and housekeeping,464,employment,2010-04,Reference month,Value,,,reported,,,,Table4,F43,464,General
+2010-04-30,Guest houses and micro-units,5.555555555555555,%,2010-04,Reference month,Published percentage change,,,reported,,,,Table4,G131,0.05555555555555555,0.0%
+2010-04-30,Guest houses and micro-units,19,employment,2010-04,Reference month,Value,,,reported,,,,Table4,G43,19,General
+2010-04-30,Hotels,-1.7119838872104733,%,2010-04,Reference month,Published percentage change,,,reported,,,,Table4,E131,-0.017119838872104734,0.0%
+2010-04-30,Hotels,1952,employment,2010-04,Reference month,Value,,,reported,,,,Table4,E43,1952,"#,##0"
+2010-07-31,All establishments,-5.3156146179401995,%,2010-07,Reference month,Published percentage change,,,reported,,,,Table4,H132,-0.053156146179401995,0.0%
+2010-07-31,All establishments,2565,employment,2010-07,Reference month,Value,,,reported,,,,Table4,H44,2565,"#,##0"
+2010-07-31,Cottage colonies and housekeeping,-8.787346221441124,%,2010-07,Reference month,Published percentage change,,,reported,,,,Table4,F132,-0.08787346221441125,0.0%
+2010-07-31,Cottage colonies and housekeeping,519,employment,2010-07,Reference month,Value,,,reported,,,,Table4,F44,519,General
+2010-07-31,Guest houses and micro-units,26.666666666666668,%,2010-07,Reference month,Published percentage change,,,reported,,,,Table4,G132,0.26666666666666666,0.0%
+2010-07-31,Guest houses and micro-units,19,employment,2010-07,Reference month,Value,,,reported,,,,Table4,G44,19,General
+2010-07-31,Hotels,-4.6117647058823525,%,2010-07,Reference month,Published percentage change,,,reported,,,,Table4,E132,-0.04611764705882353,0.0%
+2010-07-31,Hotels,2027,employment,2010-07,Reference month,Value,,,reported,,,,Table4,E44,2027,"#,##0"
+2010-10-31,All establishments,-4.855491329479769,%,2010-10,Reference month,Published percentage change,,,reported,,,,Table4,H133,-0.048554913294797684,0.0%
+2010-10-31,All establishments,2469,employment,2010-10,Reference month,Value,,,reported,,,,Table4,H45,2469,"#,##0"
+2010-10-31,Cottage colonies and housekeeping,-14.43850267379679,%,2010-10,Reference month,Published percentage change,,,reported,,,,Table4,F133,-0.1443850267379679,0.0%
+2010-10-31,Cottage colonies and housekeeping,480,employment,2010-10,Reference month,Value,,,reported,,,,Table4,F45,480,General
+2010-10-31,Guest houses and micro-units,21.428571428571427,%,2010-10,Reference month,Published percentage change,,,reported,,,,Table4,G133,0.21428571428571427,0.0%
+2010-10-31,Guest houses and micro-units,17,employment,2010-10,Reference month,Value,,,reported,,,,Table4,G45,17,General
+2010-10-31,Hotels,-2.376237623762376,%,2010-10,Reference month,Published percentage change,,,reported,,,,Table4,E133,-0.023762376237623763,0.0%
+2010-10-31,Hotels,1972,employment,2010-10,Reference month,Value,,,reported,,,,Table4,E45,1972,"#,##0"
+2011-01-31,All establishments,-0.26052974381241856,%,2011-01,Reference month,Published percentage change,,,reported,,,,Table4,H135,-0.0026052974381241857,0.0%
+2011-01-31,All establishments,2297,employment,2011-01,Reference month,Value,,,reported,,,,Table4,H47,2297,"#,##0"
+2011-01-31,Cottage colonies and housekeeping,-7.894736842105263,%,2011-01,Reference month,Published percentage change,,,reported,,,,Table4,F135,-0.07894736842105263,0.0%
+2011-01-31,Cottage colonies and housekeeping,385,employment,2011-01,Reference month,Value,,,reported,,,,Table4,F47,385,General
+2011-01-31,Guest houses and micro-units,-10.526315789473683,%,2011-01,Reference month,Published percentage change,,,reported,,,,Table4,G135,-0.10526315789473684,0.0%
+2011-01-31,Guest houses and micro-units,17,employment,2011-01,Reference month,Value,,,reported,,,,Table4,G47,17,General
+2011-01-31,Hotels,1.5541264737406217,%,2011-01,Reference month,Published percentage change,,,reported,,,,Table4,E135,0.015541264737406217,0.0%
+2011-01-31,Hotels,1895,employment,2011-01,Reference month,Value,,,reported,,,,Table4,E47,1895,"#,##0"
+2011-04-30,All establishments,0.4517453798767967,%,2011-04,Reference month,Published percentage change,,,reported,,,,Table4,H136,0.004517453798767967,0.0%
+2011-04-30,All establishments,2446,employment,2011-04,Reference month,Value,,,reported,,,,Table4,H48,2446,"#,##0"
+2011-04-30,Cottage colonies and housekeeping,-13.36206896551724,%,2011-04,Reference month,Published percentage change,,,reported,,,,Table4,F136,-0.1336206896551724,0.0%
+2011-04-30,Cottage colonies and housekeeping,402,employment,2011-04,Reference month,Value,,,reported,,,,Table4,F48,402,General
+2011-04-30,Guest houses and micro-units,-31.57894736842105,%,2011-04,Reference month,Published percentage change,,,reported,,,,Table4,G136,-0.3157894736842105,0.0%
+2011-04-30,Guest houses and micro-units,13,employment,2011-04,Reference month,Value,,,reported,,,,Table4,G48,13,General
+2011-04-30,Hotels,4.047131147540984,%,2011-04,Reference month,Published percentage change,,,reported,,,,Table4,E136,0.04047131147540984,0.0%
+2011-04-30,Hotels,2031,employment,2011-04,Reference month,Value,,,reported,,,,Table4,E48,2031,"#,##0"
+2011-07-31,All establishments,3.274853801169591,%,2011-07,Reference month,Published percentage change,,,reported,,,,Table4,H137,0.03274853801169591,0.0%
+2011-07-31,All establishments,2649,employment,2011-07,Reference month,Value,,,reported,,,,Table4,H49,2649,"#,##0"
+2011-07-31,Cottage colonies and housekeeping,-15.221579961464354,%,2011-07,Reference month,Published percentage change,,,reported,,,,Table4,F137,-0.15221579961464354,0.0%
+2011-07-31,Cottage colonies and housekeeping,440,employment,2011-07,Reference month,Value,,,reported,,,,Table4,F49,440,General
+2011-07-31,Guest houses and micro-units,-10.526315789473683,%,2011-07,Reference month,Published percentage change,,,reported,,,,Table4,G137,-0.10526315789473684,0.0%
+2011-07-31,Guest houses and micro-units,17,employment,2011-07,Reference month,Value,,,reported,,,,Table4,G49,17,General
+2011-07-31,Hotels,8.140108534780465,%,2011-07,Reference month,Published percentage change,,,reported,,,,Table4,E137,0.08140108534780464,0.0%
+2011-07-31,Hotels,2192,employment,2011-07,Reference month,Value,,,reported,,,,Table4,E49,2192,"#,##0"
+2011-10-31,All establishments,4.5362494937221545,%,2011-10,Reference month,Published percentage change,,,reported,,,,Table4,H138,0.04536249493722155,0.0%
+2011-10-31,All establishments,2581,employment,2011-10,Reference month,Value,,,reported,,,,Table4,H50,2581,"#,##0"
+2011-10-31,Cottage colonies and housekeeping,-17.708333333333336,%,2011-10,Reference month,Published percentage change,,,reported,,,,Table4,F138,-0.17708333333333334,0.0%
+2011-10-31,Cottage colonies and housekeeping,395,employment,2011-10,Reference month,Value,,,reported,,,,Table4,F50,395,General
+2011-10-31,Guest houses and micro-units,5.88235294117647,%,2011-10,Reference month,Published percentage change,,,reported,,,,Table4,G138,0.058823529411764705,0.0%
+2011-10-31,Guest houses and micro-units,18,employment,2011-10,Reference month,Value,,,reported,,,,Table4,G50,18,General
+2011-10-31,Hotels,9.939148073022313,%,2011-10,Reference month,Published percentage change,,,reported,,,,Table4,E138,0.09939148073022312,0.0%
+2011-10-31,Hotels,2168,employment,2011-10,Reference month,Value,,,reported,,,,Table4,E50,2168,"#,##0"
+2012-01-31,All establishments,1.2189812799303439,%,2012-01,Reference month,Published percentage change,,,reported,,,,Table4,H140,0.012189812799303439,0.0%
+2012-01-31,All establishments,2325,employment,2012-01,Reference month,Value,,,reported,,,,Table4,H52,2325,"#,##0"
+2012-01-31,Cottage colonies and housekeeping,-4.675324675324675,%,2012-01,Reference month,Published percentage change,,,reported,,,,Table4,F140,-0.046753246753246755,0.0%
+2012-01-31,Cottage colonies and housekeeping,367,employment,2012-01,Reference month,Value,,,reported,,,,Table4,F52,367,General
+2012-01-31,Guest houses and micro-units,-11.76470588235294,%,2012-01,Reference month,Published percentage change,,,reported,,,,Table4,G140,-0.11764705882352941,0.0%
+2012-01-31,Guest houses and micro-units,15,employment,2012-01,Reference month,Value,,,reported,,,,Table4,G52,15,General
+2012-01-31,Hotels,2.5329815303430077,%,2012-01,Reference month,Published percentage change,,,reported,,,,Table4,E140,0.025329815303430078,0.0%
+2012-01-31,Hotels,1943,employment,2012-01,Reference month,Value,,,reported,,,,Table4,E52,1943,"#,##0"
+2012-04-30,All establishments,0.1635322976287817,%,2012-04,Reference month,Published percentage change,,,reported,,,,Table4,H141,0.001635322976287817,0.0%
+2012-04-30,All establishments,2450,employment,2012-04,Reference month,Value,,,reported,,,,Table4,H53,2450,"#,##0"
+2012-04-30,Cottage colonies and housekeeping,1.7412935323383085,%,2012-04,Reference month,Published percentage change,,,reported,,,,Table4,F141,0.017412935323383085,0.0%
+2012-04-30,Cottage colonies and housekeeping,409,employment,2012-04,Reference month,Value,,,reported,,,,Table4,F53,409,General
+2012-04-30,Guest houses and micro-units,15.384615384615385,%,2012-04,Reference month,Published percentage change,,,reported,,,,Table4,G141,0.15384615384615385,0.0%
+2012-04-30,Guest houses and micro-units,15,employment,2012-04,Reference month,Value,,,reported,,,,Table4,G53,15,General
+2012-04-30,Hotels,-0.2461841457410143,%,2012-04,Reference month,Published percentage change,,,reported,,,,Table4,E141,-0.002461841457410143,0.0%
+2012-04-30,Hotels,2026,employment,2012-04,Reference month,Value,,,reported,,,,Table4,E53,2026,"#,##0"
+2012-07-31,All establishments,-2.6425066062665157,%,2012-07,Reference month,Published percentage change,,,reported,,,,Table4,H142,-0.02642506606266516,0.0%
+2012-07-31,All establishments,2579,employment,2012-07,Reference month,Value,,,reported,,,,Table4,H54,2579,"#,##0"
+2012-07-31,Cottage colonies and housekeeping,-0.6818181818181818,%,2012-07,Reference month,Published percentage change,,,reported,,,,Table4,F142,-0.006818181818181818,0.0%
+2012-07-31,Cottage colonies and housekeeping,437,employment,2012-07,Reference month,Value,,,reported,,,,Table4,F54,437,General
+2012-07-31,Guest houses and micro-units,11.76470588235294,%,2012-07,Reference month,Published percentage change,,,reported,,,,Table4,G142,0.11764705882352941,0.0%
+2012-07-31,Guest houses and micro-units,19,employment,2012-07,Reference month,Value,,,reported,,,,Table4,G54,19,General
+2012-07-31,Hotels,-3.1478102189781025,%,2012-07,Reference month,Published percentage change,,,reported,,,,Table4,E142,-0.031478102189781025,0.0%
+2012-07-31,Hotels,2123,employment,2012-07,Reference month,Value,,,reported,,,,Table4,E54,2123,"#,##0"
+2012-10-31,All establishments,-4.106935296396745,%,2012-10,Reference month,Published percentage change,,,reported,,,,Table4,H143,-0.04106935296396746,0.0%
+2012-10-31,All establishments,2475,employment,2012-10,Reference month,Value,,,reported,,,,Table4,H55,2475,"#,##0"
+2012-10-31,Cottage colonies and housekeeping,8.354430379746836,%,2012-10,Reference month,Published percentage change,,,reported,,,,Table4,F143,0.08354430379746836,0.0%
+2012-10-31,Cottage colonies and housekeeping,428,employment,2012-10,Reference month,Value,,,reported,,,,Table4,F55,428,General
+2012-10-31,Guest houses and micro-units,-38.88888888888889,%,2012-10,Reference month,Published percentage change,,,reported,,,,Table4,G143,-0.3888888888888889,0.0%
+2012-10-31,Guest houses and micro-units,11,employment,2012-10,Reference month,Value,,,reported,,,,Table4,G55,11,General
+2012-10-31,Hotels,-6.088560885608856,%,2012-10,Reference month,Published percentage change,,,reported,,,,Table4,E143,-0.06088560885608856,0.0%
+2012-10-31,Hotels,2036,employment,2012-10,Reference month,Value,,,reported,,,,Table4,E55,2036,"#,##0"
+2013-01-31,All establishments,2.193548387096774,%,2013-01,Reference month,Published percentage change,,,reported,,,,Table4,H145,0.02193548387096774,0.0%
+2013-01-31,All establishments,2376,employment,2013-01,Reference month,Value,,,reported,,,,Table4,H57,2376,"#,##0"
+2013-01-31,Cottage colonies and housekeeping,0.2724795640326975,%,2013-01,Reference month,Published percentage change,,,reported,,,,Table4,F145,0.0027247956403269754,0.0%
+2013-01-31,Cottage colonies and housekeeping,368,employment,2013-01,Reference month,Value,,,reported,,,,Table4,F57,368,General
+2013-01-31,Guest houses and micro-units,13.333333333333334,%,2013-01,Reference month,Published percentage change,,,reported,,,,Table4,G145,0.13333333333333333,0.0%
+2013-01-31,Guest houses and micro-units,17,employment,2013-01,Reference month,Value,,,reported,,,,Table4,G57,17,General
+2013-01-31,Hotels,2.470406587750901,%,2013-01,Reference month,Published percentage change,,,reported,,,,Table4,E145,0.024704065877509007,0.0%
+2013-01-31,Hotels,1991,employment,2013-01,Reference month,Value,,,reported,,,,Table4,E57,1991,"#,##0"
+2013-04-30,All establishments,-3.1428571428571432,%,2013-04,Reference month,Published percentage change,,,reported,,,,Table4,H146,-0.03142857142857143,0.0%
+2013-04-30,All establishments,2373,employment,2013-04,Reference month,Value,,,reported,,,,Table4,H58,2373,"#,##0"
+2013-04-30,Cottage colonies and housekeeping,-5.134474327628362,%,2013-04,Reference month,Published percentage change,,,reported,,,,Table4,F146,-0.05134474327628362,0.0%
+2013-04-30,Cottage colonies and housekeeping,388,employment,2013-04,Reference month,Value,,,reported,,,,Table4,F58,388,General
+2013-04-30,Guest houses and micro-units,13.333333333333334,%,2013-04,Reference month,Published percentage change,,,reported,,,,Table4,G146,0.13333333333333333,0.0%
+2013-04-30,Guest houses and micro-units,17,employment,2013-04,Reference month,Value,,,reported,,,,Table4,G58,17,General
+2013-04-30,Hotels,-2.8627838104639687,%,2013-04,Reference month,Published percentage change,,,reported,,,,Table4,E146,-0.028627838104639685,0.0%
+2013-04-30,Hotels,1968,employment,2013-04,Reference month,Value,,,reported,,,,Table4,E58,1968,"#,##0"
+2013-07-31,All establishments,-1.7836370686312524,%,2013-07,Reference month,Published percentage change,,,reported,,,,Table4,H147,-0.017836370686312525,0.0%
+2013-07-31,All establishments,2533,employment,2013-07,Reference month,Value,,,reported,,,,Table4,H59,2533,"#,##0"
+2013-07-31,Cottage colonies and housekeeping,1.6018306636155606,%,2013-07,Reference month,Published percentage change,,,reported,,,,Table4,F147,0.016018306636155607,0.0%
+2013-07-31,Cottage colonies and housekeeping,444,employment,2013-07,Reference month,Value,,,reported,,,,Table4,F59,444,General
+2013-07-31,Guest houses and micro-units,-10.526315789473683,%,2013-07,Reference month,Published percentage change,,,reported,,,,Table4,G147,-0.10526315789473684,0.0%
+2013-07-31,Guest houses and micro-units,17,employment,2013-07,Reference month,Value,,,reported,,,,Table4,G59,17,General
+2013-07-31,Hotels,-2.402260951483749,%,2013-07,Reference month,Published percentage change,,,reported,,,,Table4,E147,-0.024022609514837492,0.0%
+2013-07-31,Hotels,2072,employment,2013-07,Reference month,Value,,,reported,,,,Table4,E59,2072,"#,##0"
+2013-10-31,All establishments,-3.1919191919191916,%,2013-10,Reference month,Published percentage change,,,reported,,,,Table4,H148,-0.03191919191919192,0.0%
+2013-10-31,All establishments,2396,employment,2013-10,Reference month,Value,,,reported,,,,Table4,H60,2396,"#,##0"
+2013-10-31,Cottage colonies and housekeeping,-11.448598130841122,%,2013-10,Reference month,Published percentage change,,,reported,,,,Table4,F148,-0.11448598130841121,0.0%
+2013-10-31,Cottage colonies and housekeeping,379,employment,2013-10,Reference month,Value,,,reported,,,,Table4,F60,379,General
+2013-10-31,Guest houses and micro-units,18.181818181818183,%,2013-10,Reference month,Published percentage change,,,reported,,,,Table4,G148,0.18181818181818182,0.0%
+2013-10-31,Guest houses and micro-units,13,employment,2013-10,Reference month,Value,,,reported,,,,Table4,G60,13,General
+2013-10-31,Hotels,-1.5717092337917484,%,2013-10,Reference month,Published percentage change,,,reported,,,,Table4,E148,-0.015717092337917484,0.0%
+2013-10-31,Hotels,2004,employment,2013-10,Reference month,Value,,,reported,,,,Table4,E60,2004,"#,##0"
+2014-01-31,All establishments,-8.417508417508419,%,2014-01,Reference month,Published percentage change,,,reported,,,,Table4,H150,-0.08417508417508418,0.0%
+2014-01-31,All establishments,2176,employment,2014-01,Reference month,Value,,,reported,,,,Table4,H62,2176,"#,##0"
+2014-01-31,Cottage colonies and housekeeping,-6.7934782608695645,%,2014-01,Reference month,Published percentage change,,,reported,,,,Table4,F150,-0.06793478260869565,0.0%
+2014-01-31,Cottage colonies and housekeeping,343,employment,2014-01,Reference month,Value,,,reported,,,,Table4,F62,343,General
+2014-01-31,Guest houses and micro-units,0,%,2014-01,Reference month,Published percentage change,,,reported,,,,Table4,G150,0,0.0%
+2014-01-31,Guest houses and micro-units,17,employment,2014-01,Reference month,Value,,,reported,,,,Table4,G62,17,General
+2014-01-31,Hotels,-8.789552988448015,%,2014-01,Reference month,Published percentage change,,,reported,,,,Table4,E150,-0.08789552988448016,0.0%
+2014-01-31,Hotels,1816,employment,2014-01,Reference month,Value,,,reported,,,,Table4,E62,1816,"#,##0"
+2014-04-30,All establishments,-3.034134007585335,%,2014-04,Reference month,Published percentage change,,,reported,,,,Table4,H151,-0.03034134007585335,0.0%
+2014-04-30,All establishments,2301,employment,2014-04,Reference month,Value,,,reported,,,,Table4,H63,2301,"#,##0"
+2014-04-30,Cottage colonies and housekeeping,-10.824742268041238,%,2014-04,Reference month,Published percentage change,,,reported,,,,Table4,F151,-0.10824742268041238,0.0%
+2014-04-30,Cottage colonies and housekeeping,346,employment,2014-04,Reference month,Value,,,reported,,,,Table4,F63,346,General
+2014-04-30,Guest houses and micro-units,-41.17647058823529,%,2014-04,Reference month,Published percentage change,,,reported,,,,Table4,G151,-0.4117647058823529,0.0%
+2014-04-30,Guest houses and micro-units,10,employment,2014-04,Reference month,Value,,,reported,,,,Table4,G63,10,General
+2014-04-30,Hotels,-1.16869918699187,%,2014-04,Reference month,Published percentage change,,,reported,,,,Table4,E151,-0.011686991869918699,0.0%
+2014-04-30,Hotels,1945,employment,2014-04,Reference month,Value,,,reported,,,,Table4,E63,1945,"#,##0"
+2014-07-31,All establishments,-2.013422818791946,%,2014-07,Reference month,Published percentage change,,,reported,,,,Table4,H152,-0.020134228187919462,0.0%
+2014-07-31,All establishments,2482,employment,2014-07,Reference month,Value,,,reported,,,,Table4,H64,2482,"#,##0"
+2014-07-31,Cottage colonies and housekeeping,-7.207207207207207,%,2014-07,Reference month,Published percentage change,,,reported,,,,Table4,F152,-0.07207207207207207,0.0%
+2014-07-31,Cottage colonies and housekeeping,412,employment,2014-07,Reference month,Value,,,reported,,,,Table4,F64,412,General
+2014-07-31,Guest houses and micro-units,-11.76470588235294,%,2014-07,Reference month,Published percentage change,,,reported,,,,Table4,G152,-0.11764705882352941,0.0%
+2014-07-31,Guest houses and micro-units,15,employment,2014-07,Reference month,Value,,,reported,,,,Table4,G64,15,General
+2014-07-31,Hotels,-0.8204633204633204,%,2014-07,Reference month,Published percentage change,,,reported,,,,Table4,E152,-0.008204633204633204,0.0%
+2014-07-31,Hotels,2055,employment,2014-07,Reference month,Value,,,reported,,,,Table4,E64,2055,"#,##0"
+2014-10-31,All establishments,2.1285475792988318,%,2014-10,Reference month,Published percentage change,,,reported,,,,Table4,H153,0.021285475792988316,0.0%
+2014-10-31,All establishments,2447,employment,2014-10,Reference month,Value,,,reported,,,,Table4,H65,2447,"#,##0"
+2014-10-31,Cottage colonies and housekeeping,3.95778364116095,%,2014-10,Reference month,Published percentage change,,,reported,,,,Table4,F153,0.0395778364116095,0.0%
+2014-10-31,Cottage colonies and housekeeping,394,employment,2014-10,Reference month,Value,,,reported,,,,Table4,F65,394,General
+2014-10-31,Guest houses and micro-units,15.384615384615385,%,2014-10,Reference month,Published percentage change,,,reported,,,,Table4,G153,0.15384615384615385,0.0%
+2014-10-31,Guest houses and micro-units,15,employment,2014-10,Reference month,Value,,,reported,,,,Table4,G65,15,General
+2014-10-31,Hotels,1.6966067864271457,%,2014-10,Reference month,Published percentage change,,,reported,,,,Table4,E153,0.016966067864271458,0.0%
+2014-10-31,Hotels,2038,employment,2014-10,Reference month,Value,,,reported,,,,Table4,E65,2038,"#,##0"
+2015-01-31,All establishments,8.042279411764707,%,2015-01,Reference month,Published percentage change,,,reported,,,,Table4,H155,0.08042279411764706,0.0%
+2015-01-31,All establishments,2351,employment,2015-01,Reference month,Value,,,reported,,,,Table4,H67,2351,"#,##0"
+2015-01-31,Cottage colonies and housekeeping,1.4577259475218658,%,2015-01,Reference month,Published percentage change,,,reported,,,,Table4,F155,0.014577259475218658,0.0%
+2015-01-31,Cottage colonies and housekeeping,348,employment,2015-01,Reference month,Value,,,reported,,,,Table4,F67,348,General
+2015-01-31,Guest houses and micro-units,-41.17647058823529,%,2015-01,Reference month,Published percentage change,,,reported,,,,Table4,G155,-0.4117647058823529,0.0%
+2015-01-31,Guest houses and micro-units,10,employment,2015-01,Reference month,Value,,,reported,,,,Table4,G67,10,General
+2015-01-31,Hotels,9.746696035242291,%,2015-01,Reference month,Published percentage change,,,reported,,,,Table4,E155,0.0974669603524229,0.0%
+2015-01-31,Hotels,1993,employment,2015-01,Reference month,Value,,,reported,,,,Table4,E67,1993,"#,##0"
+2015-04-30,All establishments,7.431551499348108,%,2015-04,Reference month,Published percentage change,,,reported,,,,Table4,H156,0.07431551499348109,0.0%
+2015-04-30,All establishments,2472,employment,2015-04,Reference month,Value,,,reported,,,,Table4,H68,2472,"#,##0"
+2015-04-30,Cottage colonies and housekeeping,13.872832369942195,%,2015-04,Reference month,Published percentage change,,,reported,,,,Table4,F156,0.13872832369942195,0.0%
+2015-04-30,Cottage colonies and housekeeping,394,employment,2015-04,Reference month,Value,,,reported,,,,Table4,F68,394,General
+2015-04-30,Guest houses and micro-units,10,%,2015-04,Reference month,Published percentage change,,,reported,,,,Table4,G156,0.1,0.0%
+2015-04-30,Guest houses and micro-units,11,employment,2015-04,Reference month,Value,,,reported,,,,Table4,G68,11,General
+2015-04-30,Hotels,6.272493573264781,%,2015-04,Reference month,Published percentage change,,,reported,,,,Table4,E156,0.06272493573264781,0.0%
+2015-04-30,Hotels,2067,employment,2015-04,Reference month,Value,,,reported,,,,Table4,E68,2067,"#,##0"
+2015-07-31,All establishments,6.688154713940371,%,2015-07,Reference month,Published percentage change,,,reported,,,,Table4,H157,0.06688154713940371,0.0%
+2015-07-31,All establishments,2648,employment,2015-07,Reference month,Value,,,reported,,,,Table4,H69,2648,"#,##0"
+2015-07-31,Cottage colonies and housekeeping,6.553398058252427,%,2015-07,Reference month,Published percentage change,,,reported,,,,Table4,F157,0.06553398058252427,0.0%
+2015-07-31,Cottage colonies and housekeeping,439,employment,2015-07,Reference month,Value,,,reported,,,,Table4,F69,439,General
+2015-07-31,Guest houses and micro-units,-20,%,2015-07,Reference month,Published percentage change,,,reported,,,,Table4,G157,-0.2,0.0%
+2015-07-31,Guest houses and micro-units,12,employment,2015-07,Reference month,Value,,,reported,,,,Table4,G69,12,General
+2015-07-31,Hotels,6.909975669099756,%,2015-07,Reference month,Published percentage change,,,reported,,,,Table4,E157,0.06909975669099756,0.0%
+2015-07-31,Hotels,2197,employment,2015-07,Reference month,Value,,,reported,,,,Table4,E69,2197,"#,##0"
+2015-10-31,All establishments,1.0625255414793624,%,2015-10,Reference month,Published percentage change,,,reported,,,,Table4,H158,0.010625255414793625,0.0%
+2015-10-31,All establishments,2473,employment,2015-10,Reference month,Value,,,reported,,,,Table4,H70,2473,"#,##0"
+2015-10-31,Cottage colonies and housekeeping,-3.5532994923857872,%,2015-10,Reference month,Published percentage change,,,reported,,,,Table4,F158,-0.03553299492385787,0.0%
+2015-10-31,Cottage colonies and housekeeping,380,employment,2015-10,Reference month,Value,,,reported,,,,Table4,F70,380,General
+2015-10-31,Guest houses and micro-units,-26.666666666666668,%,2015-10,Reference month,Published percentage change,,,reported,,,,Table4,G158,-0.26666666666666666,0.0%
+2015-10-31,Guest houses and micro-units,11,employment,2015-10,Reference month,Value,,,reported,,,,Table4,G70,11,General
+2015-10-31,Hotels,2.1589793915603535,%,2015-10,Reference month,Published percentage change,,,reported,,,,Table4,E158,0.021589793915603533,0.0%
+2015-10-31,Hotels,2082,employment,2015-10,Reference month,Value,,,reported,,,,Table4,E70,2082,"#,##0"
+2016-01-31,All establishments,-3.0625265844321565,%,2016-01,Reference month,Published percentage change,,,reported,,,,Table4,H160,-0.030625265844321566,0.0%
+2016-01-31,All establishments,2279,employment,2016-01,Reference month,Value,,,reported,,,,Table4,H72,2279,"#,##0"
+2016-01-31,Cottage colonies and housekeeping,-3.1609195402298855,%,2016-01,Reference month,Published percentage change,,,reported,,,,Table4,F160,-0.031609195402298854,0.0%
+2016-01-31,Cottage colonies and housekeeping,337,employment,2016-01,Reference month,Value,,,reported,,,,Table4,F72,337,General
+2016-01-31,Guest houses and micro-units,30,%,2016-01,Reference month,Published percentage change,,,reported,,,,Table4,G160,0.3,0.0%
+2016-01-31,Guest houses and micro-units,13,employment,2016-01,Reference month,Value,,,reported,,,,Table4,G72,13,General
+2016-01-31,Hotels,-3.2112393376818864,%,2016-01,Reference month,Published percentage change,,,reported,,,,Table4,E160,-0.032112393376818864,0.0%
+2016-01-31,Hotels,1929,employment,2016-01,Reference month,Value,,,reported,,,,Table4,E72,1929,"#,##0"
+2016-04-30,All establishments,-3.6003236245954695,%,2016-04,Reference month,Published percentage change,,,reported,,,,Table4,H161,-0.036003236245954695,0.0%
+2016-04-30,All establishments,2383,employment,2016-04,Reference month,Value,,,reported,,,,Table4,H73,2383,"#,##0"
+2016-04-30,Cottage colonies and housekeeping,-0.7614213197969544,%,2016-04,Reference month,Published percentage change,,,reported,,,,Table4,F161,-0.007614213197969543,0.0%
+2016-04-30,Cottage colonies and housekeeping,391,employment,2016-04,Reference month,Value,,,reported,,,,Table4,F73,391,General
+2016-04-30,Guest houses and micro-units,0,%,2016-04,Reference month,Published percentage change,,,reported,,,,Table4,G161,0,0.0%
+2016-04-30,Guest houses and micro-units,11,employment,2016-04,Reference month,Value,,,reported,,,,Table4,G73,11,General
+2016-04-30,Hotels,-4.160619254958878,%,2016-04,Reference month,Published percentage change,,,reported,,,,Table4,E161,-0.04160619254958878,0.0%
+2016-04-30,Hotels,1981,employment,2016-04,Reference month,Value,,,reported,,,,Table4,E73,1981,"#,##0"
+2016-07-31,All establishments,4.45619335347432,%,2016-07,Reference month,Published percentage change,,,reported,,,,Table4,H162,0.0445619335347432,0.0%
+2016-07-31,All establishments,2766,employment,2016-07,Reference month,Value,,,reported,,,,Table4,H74,2766,"#,##0"
+2016-07-31,Cottage colonies and housekeeping,-1.5945330296127564,%,2016-07,Reference month,Published percentage change,,,reported,,,,Table4,F162,-0.015945330296127564,0.0%
+2016-07-31,Cottage colonies and housekeeping,432,employment,2016-07,Reference month,Value,,,reported,,,,Table4,F74,432,General
+2016-07-31,Guest houses and micro-units,16.666666666666664,%,2016-07,Reference month,Published percentage change,,,reported,,,,Table4,G162,0.16666666666666666,0.0%
+2016-07-31,Guest houses and micro-units,14,employment,2016-07,Reference month,Value,,,reported,,,,Table4,G74,14,General
+2016-07-31,Hotels,5.598543468365953,%,2016-07,Reference month,Published percentage change,,,reported,,,,Table4,E162,0.05598543468365953,0.0%
+2016-07-31,Hotels,2320,employment,2016-07,Reference month,Value,,,reported,,,,Table4,E74,2320,"#,##0"
+2016-10-31,All establishments,-2.507076425394258,%,2016-10,Reference month,Published percentage change,,,reported,,,,Table4,H163,-0.02507076425394258,0.0%
+2016-10-31,All establishments,2411,employment,2016-10,Reference month,Value,,,reported,,,,Table4,H75,2411,"#,##0"
+2016-10-31,Cottage colonies and housekeeping,8.68421052631579,%,2016-10,Reference month,Published percentage change,,,reported,,,,Table4,F163,0.0868421052631579,0.0%
+2016-10-31,Cottage colonies and housekeeping,413,employment,2016-10,Reference month,Value,,,reported,,,,Table4,F75,413,General
+2016-10-31,Guest houses and micro-units,27.27272727272727,%,2016-10,Reference month,Published percentage change,,,reported,,,,Table4,G163,0.2727272727272727,0.0%
+2016-10-31,Guest houses and micro-units,14,employment,2016-10,Reference month,Value,,,reported,,,,Table4,G75,14,General
+2016-10-31,Hotels,-4.707012487992316,%,2016-10,Reference month,Published percentage change,,,reported,,,,Table4,E163,-0.04707012487992315,0.0%
+2016-10-31,Hotels,1984,employment,2016-10,Reference month,Value,,,reported,,,,Table4,E75,1984,"#,##0"
+2017-01-31,All establishments,1.0092145677928916,%,2017-01,Reference month,Published percentage change,,,reported,,,,Table4,H165,0.010092145677928916,0.0%
+2017-01-31,All establishments,2302,employment,2017-01,Reference month,Value,,,reported,,,,Table4,H77,2302,"#,##0"
+2017-01-31,Cottage colonies and housekeeping,0,%,2017-01,Reference month,Published percentage change,,,reported,,,,Table4,F165,0,0.0%
+2017-01-31,Cottage colonies and housekeeping,337,employment,2017-01,Reference month,Value,,,reported,,,,Table4,F77,337,General
+2017-01-31,Guest houses and micro-units,-23.076923076923077,%,2017-01,Reference month,Published percentage change,,,reported,,,,Table4,G165,-0.23076923076923078,0.0%
+2017-01-31,Guest houses and micro-units,10,employment,2017-01,Reference month,Value,,,reported,,,,Table4,G77,10,General
+2017-01-31,Hotels,1.347848626231208,%,2017-01,Reference month,Published percentage change,,,reported,,,,Table4,E165,0.01347848626231208,0.0%
+2017-01-31,Hotels,1955,employment,2017-01,Reference month,Value,,,reported,,,,Table4,E77,1955,"#,##0"
+2017-04-30,All establishments,4.322282836760386,%,2017-04,Reference month,Published percentage change,,,reported,,,,Table4,H166,0.04322282836760386,0.0%
+2017-04-30,All establishments,2486,employment,2017-04,Reference month,Value,,,reported,,,,Table4,H78,2486,"#,##0"
+2017-04-30,Cottage colonies and housekeeping,1.5345268542199488,%,2017-04,Reference month,Published percentage change,,,reported,,,,Table4,F166,0.015345268542199489,0.0%
+2017-04-30,Cottage colonies and housekeeping,397,employment,2017-04,Reference month,Value,,,reported,,,,Table4,F78,397,General
+2017-04-30,Guest houses and micro-units,36.36363636363637,%,2017-04,Reference month,Published percentage change,,,reported,,,,Table4,G166,0.36363636363636365,0.0%
+2017-04-30,Guest houses and micro-units,15,employment,2017-04,Reference month,Value,,,reported,,,,Table4,G78,15,General
+2017-04-30,Hotels,4.69459868753155,%,2017-04,Reference month,Published percentage change,,,reported,,,,Table4,E166,0.046945986875315496,0.0%
+2017-04-30,Hotels,2074,employment,2017-04,Reference month,Value,,,reported,,,,Table4,E78,2074,"#,##0"
+2017-07-31,All establishments,-3.5791757049891544,%,2017-07,Reference month,Published percentage change,,,reported,,,,Table4,H167,-0.03579175704989154,0.0%
+2017-07-31,All establishments,2667,employment,2017-07,Reference month,Value,,,reported,,,,Table4,H79,2667,"#,##0"
+2017-07-31,Cottage colonies and housekeeping,4.861111111111112,%,2017-07,Reference month,Published percentage change,,,reported,,,,Table4,F167,0.04861111111111111,0.0%
+2017-07-31,Cottage colonies and housekeeping,453,employment,2017-07,Reference month,Value,,,reported,,,,Table4,F79,453,General
+2017-07-31,Guest houses and micro-units,0,%,2017-07,Reference month,Published percentage change,,,reported,,,,Table4,G167,0,0.0%
+2017-07-31,Guest houses and micro-units,14,employment,2017-07,Reference month,Value,,,reported,,,,Table4,G79,14,General
+2017-07-31,Hotels,-5.172413793103448,%,2017-07,Reference month,Published percentage change,,,reported,,,,Table4,E167,-0.05172413793103448,0.0%
+2017-07-31,Hotels,2200,employment,2017-07,Reference month,Value,,,reported,,,,Table4,E79,2200,"#,##0"
+2017-10-31,All establishments,5.682289506428868,%,2017-10,Reference month,Published percentage change,,,reported,,,,Table4,H168,0.05682289506428868,0.0%
+2017-10-31,All establishments,2548,employment,2017-10,Reference month,Value,,,reported,,,,Table4,H80,2548,"#,##0"
+2017-10-31,Cottage colonies and housekeeping,18.64406779661017,%,2017-10,Reference month,Published percentage change,,,reported,,,,Table4,F168,0.1864406779661017,0.0%
+2017-10-31,Cottage colonies and housekeeping,490,employment,2017-10,Reference month,Value,,,reported,,,,Table4,F80,490,General
+2017-10-31,Guest houses and micro-units,-35.714285714285715,%,2017-10,Reference month,Published percentage change,,,reported,,,,Table4,G168,-0.35714285714285715,0.0%
+2017-10-31,Guest houses and micro-units,9,employment,2017-10,Reference month,Value,,,reported,,,,Table4,G80,9,General
+2017-10-31,Hotels,3.2762096774193545,%,2017-10,Reference month,Published percentage change,,,reported,,,,Table4,E168,0.03276209677419355,0.0%
+2017-10-31,Hotels,2049,employment,2017-10,Reference month,Value,,,reported,,,,Table4,E80,2049,"#,##0"
+2018-01-31,All establishments,4.952215464813206,%,2018-01,Reference month,Published percentage change,,,reported,,,,Table4,H170,0.04952215464813206,0.0%
+2018-01-31,All establishments,2416,employment,2018-01,Reference month,Value,,,reported,,,,Table4,H82,2416,"#,##0"
+2018-01-31,Cottage colonies and housekeeping,31.454005934718097,%,2018-01,Reference month,Published percentage change,,,reported,,,,Table4,F170,0.314540059347181,0.0%
+2018-01-31,Cottage colonies and housekeeping,443,employment,2018-01,Reference month,Value,,,reported,,,,Table4,F82,443,General
+2018-01-31,Guest houses and micro-units,20,%,2018-01,Reference month,Published percentage change,,,reported,,,,Table4,G170,0.2,0.0%
+2018-01-31,Guest houses and micro-units,12,employment,2018-01,Reference month,Value,,,reported,,,,Table4,G82,12,General
+2018-01-31,Hotels,0.3069053708439898,%,2018-01,Reference month,Published percentage change,,,reported,,,,Table4,E170,0.003069053708439898,0.0%
+2018-01-31,Hotels,1961,employment,2018-01,Reference month,Value,,,reported,,,,Table4,E82,1961,"#,##0"
+2018-04-30,All establishments,4.907481898632341,%,2018-04,Reference month,Published percentage change,,,reported,,,,Table4,H171,0.04907481898632341,0.0%
+2018-04-30,All establishments,2608,employment,2018-04,Reference month,Value,,,reported,,,,Table4,H83,2608,"#,##0"
+2018-04-30,Cottage colonies and housekeeping,26.448362720403022,%,2018-04,Reference month,Published percentage change,,,reported,,,,Table4,F171,0.26448362720403024,0.0%
+2018-04-30,Cottage colonies and housekeeping,502,employment,2018-04,Reference month,Value,,,reported,,,,Table4,F83,502,General
+2018-04-30,Guest houses and micro-units,0,%,2018-04,Reference month,Published percentage change,,,reported,,,,Table4,G171,0,0.0%
+2018-04-30,Guest houses and micro-units,15,employment,2018-04,Reference month,Value,,,reported,,,,Table4,G83,15,General
+2018-04-30,Hotels,0.819672131147541,%,2018-04,Reference month,Published percentage change,,,reported,,,,Table4,E171,0.00819672131147541,0.0%
+2018-04-30,Hotels,2091,employment,2018-04,Reference month,Value,,,reported,,,,Table4,E83,2091,"#,##0"
+2018-07-31,All establishments,5.174353205849269,%,2018-07,Reference month,Published percentage change,,,reported,,,,Table4,H172,0.05174353205849269,0.0%
+2018-07-31,All establishments,2805,employment,2018-07,Reference month,Value,,,reported,,,,Table4,H84,2805,"#,##0"
+2018-07-31,Cottage colonies and housekeeping,18.543046357615893,%,2018-07,Reference month,Published percentage change,,,reported,,,,Table4,F172,0.18543046357615894,0.0%
+2018-07-31,Cottage colonies and housekeeping,537,employment,2018-07,Reference month,Value,,,reported,,,,Table4,F84,537,General
+2018-07-31,Guest houses and micro-units,7.142857142857142,%,2018-07,Reference month,Published percentage change,,,reported,,,,Table4,G172,0.07142857142857142,0.0%
+2018-07-31,Guest houses and micro-units,15,employment,2018-07,Reference month,Value,,,reported,,,,Table4,G84,15,General
+2018-07-31,Hotels,2.409090909090909,%,2018-07,Reference month,Published percentage change,,,reported,,,,Table4,E172,0.02409090909090909,0.0%
+2018-07-31,Hotels,2253,employment,2018-07,Reference month,Value,,,reported,,,,Table4,E84,2253,"#,##0"
+2018-10-31,All establishments,3.6891679748822606,%,2018-10,Reference month,Published percentage change,,,reported,,,,Table4,H173,0.036891679748822605,0.0%
+2018-10-31,All establishments,2642,employment,2018-10,Reference month,Value,,,reported,,,,Table4,H85,2642,"#,##0"
+2018-10-31,Cottage colonies and housekeeping,3.4693877551020407,%,2018-10,Reference month,Published percentage change,,,reported,,,,Table4,F173,0.03469387755102041,0.0%
+2018-10-31,Cottage colonies and housekeeping,507,employment,2018-10,Reference month,Value,,,reported,,,,Table4,F85,507,General
+2018-10-31,Guest houses and micro-units,33.33333333333333,%,2018-10,Reference month,Published percentage change,,,reported,,,,Table4,G173,0.3333333333333333,0.0%
+2018-10-31,Guest houses and micro-units,12,employment,2018-10,Reference month,Value,,,reported,,,,Table4,G85,12,General
+2018-10-31,Hotels,3.611517813567594,%,2018-10,Reference month,Published percentage change,,,reported,,,,Table4,E173,0.03611517813567594,0.0%
+2018-10-31,Hotels,2123,employment,2018-10,Reference month,Value,,,reported,,,,Table4,E85,2123,"#,##0"

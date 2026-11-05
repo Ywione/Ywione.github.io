@@ -1,0 +1,1351 @@
+﻿date,series,value,units,period,frequency,measure,classification,index_base,status,source_marker,revision,availability,source_sheet,source_cell,source_value,source_format
+2003-03-31,Destination: Canada,10.30267753201397,%,2003-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,H114,0.1030267753201397,0.0%
+2003-03-31,Destination: Canada,3790,trips,2003-Q1,Quarterly,Value,,,reported,,,,Table16,H10,3790,"#,##0_);(#,##0)"
+2003-03-31,Destination: UK,18.87024150634466,%,2003-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,I114,0.1887024150634466,0.0%
+2003-03-31,Destination: UK,2904,trips,2003-Q1,Quarterly,Value,,,reported,,,,Table16,I10,2904,"#,##0_);(#,##0)"
+2003-03-31,Destination: USA,-8.49007314524556,%,2003-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,G114,-0.0849007314524556,0.0%
+2003-03-31,Destination: USA,17515,trips,2003-Q1,Quarterly,Value,,,reported,,,,Table16,G10,17515,"#,##0_);(#,##0)"
+2003-03-31,Destination: other countries,-15.227862171174507,%,2003-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,K114,-0.15227862171174508,0.0%
+2003-03-31,Destination: other countries,2288,trips,2003-Q1,Quarterly,Value,,,reported,,,,Table16,K10,2288,"#,##0_);(#,##0)"
+2003-03-31,Purpose: international business,48.80952380952381,%,2003-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,E114,0.4880952380952381,0.0%
+2003-03-31,Purpose: international business,1875,trips,2003-Q1,Quarterly,Value,,,reported,,,,Table16,E10,1875,"#,##0_);(#,##0)"
+2003-03-31,Purpose: local business,54.45026178010471,%,2003-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,D114,0.5445026178010471,0.0%
+2003-03-31,Purpose: local business,1770,trips,2003-Q1,Quarterly,Value,,,reported,,,,Table16,D10,1770,"#,##0_);(#,##0)"
+2003-03-31,Purpose: other reasons,46.58682634730539,%,2003-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,F114,0.4658682634730539,0.0%
+2003-03-31,Purpose: other reasons,1224,trips,2003-Q1,Quarterly,Value,,,reported,,,,Table16,F10,1224,"#,##0_);(#,##0)"
+2003-03-31,Purpose: vacation,-9.706640073132219,%,2003-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,C114,-0.0970664007313222,0.0%
+2003-03-31,Purpose: vacation,21730,trips,2003-Q1,Quarterly,Value,,,reported,,,,Table16,C10,21730,"#,##0_);(#,##0)"
+2003-03-31,Total trips,-4.405079731582365,%,2003-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,M114,-0.044050797315823655,0.0%
+2003-03-31,Total trips,26497,trips,2003-Q1,Quarterly,Value,,,reported,,,,Table16,M10,26497,"#,##0_);(#,##0)"
+2003-06-30,Destination: Canada,-6.287353573989959,%,2003-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,H115,-0.0628735357398996,0.0%
+2003-06-30,Destination: Canada,3920,trips,2003-Q2,Quarterly,Value,,,reported,,,,Table16,H11,3920,"#,##0_);(#,##0)"
+2003-06-30,Destination: UK,2.5161509690581436,%,2003-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,I115,0.025161509690581434,0.0%
+2003-06-30,Destination: UK,3015,trips,2003-Q2,Quarterly,Value,,,reported,,,,Table16,I11,3015,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2003-06-30,Destination: USA,-9.867421910273775,%,2003-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,G115,-0.09867421910273776,0.0%
+2003-06-30,Destination: USA,21959,trips,2003-Q2,Quarterly,Value,,,reported,,,,Table16,G11,21959,"#,##0_);(#,##0)"
+2003-06-30,Destination: other countries,5.654205607476635,%,2003-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,K115,0.05654205607476635,0.0%
+2003-06-30,Destination: other countries,2261,trips,2003-Q2,Quarterly,Value,,,reported,,,,Table16,K11,2261,"#,##0_);(#,##0)"
+2003-06-30,Purpose: international business,27.094594594594597,%,2003-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,E115,0.27094594594594595,0.0%
+2003-06-30,Purpose: international business,1881,trips,2003-Q2,Quarterly,Value,,,reported,,,,Table16,E11,1881,"#,##0_);(#,##0)"
+2003-06-30,Purpose: local business,63.934426229508205,%,2003-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,D115,0.639344262295082,0.0%
+2003-06-30,Purpose: local business,2300,trips,2003-Q2,Quarterly,Value,,,reported,,,,Table16,D11,2300,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2003-06-30,Purpose: other reasons,33.33333333333333,%,2003-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,F115,0.3333333333333333,0.0%
+2003-06-30,Purpose: other reasons,1356,trips,2003-Q2,Quarterly,Value,,,reported,,,,Table16,F11,1356,"#,##0_);(#,##0)"
+2003-06-30,Purpose: vacation,-12.355936746180648,%,2003-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,C115,-0.12355936746180649,0.0%
+2003-06-30,Purpose: vacation,26160,trips,2003-Q2,Quarterly,Value,,,reported,,,,Table16,C11,26160,"#,##0_);(#,##0)"
+2003-06-30,Total trips,-7.351235614238558,%,2003-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,M115,-0.07351235614238558,0.0%
+2003-06-30,Total trips,31155,trips,2003-Q2,Quarterly,Value,,,reported,,,,Table16,M11,31155,"#,##0_);(#,##0)"
+2003-09-30,Destination: Canada,-3.1659388646288207,%,2003-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,H116,-0.03165938864628821,0.0%
+2003-09-30,Destination: Canada,6209,trips,2003-Q3,Quarterly,Value,,,reported,,,,Table16,H12,6209,"#,##0_);(#,##0)"
+2003-09-30,Destination: UK,2.7477689055894783,%,2003-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,I116,0.027477689055894785,0.0%
+2003-09-30,Destination: UK,4375,trips,2003-Q3,Quarterly,Value,,,reported,,,,Table16,I12,4375,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2003-09-30,Destination: USA,-4.791960507757405,%,2003-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,G116,-0.04791960507757405,0.0%
+2003-09-30,Destination: USA,27001,trips,2003-Q3,Quarterly,Value,,,reported,,,,Table16,G12,27001,"#,##0_);(#,##0)"
+2003-09-30,Destination: other countries,-11.38755980861244,%,2003-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,K116,-0.11387559808612441,0.0%
+2003-09-30,Destination: other countries,2778,trips,2003-Q3,Quarterly,Value,,,reported,,,,Table16,K12,2778,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2003-09-30,Purpose: international business,38.71794871794872,%,2003-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,E116,0.3871794871794872,0.0%
+2003-09-30,Purpose: international business,1623,trips,2003-Q3,Quarterly,Value,,,reported,,,,Table16,E12,1623,"#,##0_);(#,##0)"
+2003-09-30,Purpose: local business,77.02818104184458,%,2003-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,D116,0.7702818104184458,0.0%
+2003-09-30,Purpose: local business,2073,trips,2003-Q3,Quarterly,Value,,,reported,,,,Table16,D12,2073,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2003-09-30,Purpose: other reasons,32.5066430469442,%,2003-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,F116,0.325066430469442,0.0%
+2003-09-30,Purpose: other reasons,1496,trips,2003-Q3,Quarterly,Value,,,reported,,,,Table16,F12,1496,"#,##0_);(#,##0)"
+2003-09-30,Purpose: vacation,-6.622672022536387,%,2003-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,C116,-0.06622672022536387,0.0%
+2003-09-30,Purpose: vacation,35799,trips,2003-Q3,Quarterly,Value,,,reported,,,,Table16,C12,35799,"#,##0_);(#,##0)"
+2003-09-30,Total trips,-4.273686706984465,%,2003-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,M116,-0.042736867069844656,0.0%
+2003-09-30,Total trips,40363,trips,2003-Q3,Quarterly,Value,,,reported,,,,Table16,M12,40363,"#,##0_);(#,##0)"
+2003-12-31,Destination: Canada,1.901677028368424,%,2003,Annual,Published percentage change,,,reported,,,,Table16,H118,0.019016770283684238,0.0%
+2003-12-31,Destination: Canada,19505,trips,2003,Annual,Value,,,reported,,,,Table16,H14,19505,"#,##0_);(#,##0)"
+2003-12-31,Destination: UK,5.492380289316934,%,2003,Annual,Published percentage change,,,reported,,,,Table16,I118,0.05492380289316934,0.0%
+2003-12-31,Destination: UK,13637,trips,2003,Annual,Value,,,reported,,,,Table16,I14,13637,"#,##0_);(#,##0)"
+2003-12-31,Destination: USA,-5.186625194401244,%,2003,Annual,Published percentage change,,,reported,,,,Table16,G118,-0.05186625194401244,0.0%
+2003-12-31,Destination: USA,97544,trips,2003,Annual,Value,,,reported,,,,Table16,G14,97544,"#,##0_);(#,##0)"
+2003-12-31,Destination: other countries,-0.8919914679076983,%,2003,Annual,Published percentage change,,,reported,,,,Table16,K118,-0.008919914679076983,0.0%
+2003-12-31,Destination: other countries,10222,trips,2003,Annual,Value,,,reported,,,,Table16,K14,10222,"#,##0_);(#,##0)"
+2003-12-31,Purpose: international business,48.16901408450705,%,2003,Annual,Published percentage change,,,reported,,,,Table16,E118,0.48169014084507045,0.0%
+2003-12-31,Purpose: international business,7364,trips,2003,Annual,Value,,,reported,,,,Table16,E14,7364,"#,##0_);(#,##0)"
+2003-12-31,Purpose: local business,79.33831376734258,%,2003,Annual,Published percentage change,,,reported,,,,Table16,D118,0.7933831376734258,0.0%
+2003-12-31,Purpose: local business,8402,trips,2003,Annual,Value,,,reported,,,,Table16,D14,8402,"#,##0_);(#,##0)"
+2003-12-31,Purpose: other reasons,40.628356605800214,%,2003,Annual,Published percentage change,,,reported,,,,Table16,F118,0.40628356605800214,0.0%
+2003-12-31,Purpose: other reasons,5237,trips,2003,Annual,Value,,,reported,,,,Table16,F14,5237,"#,##0_);(#,##0)"
+2003-12-31,Purpose: vacation,-8.117398001380973,%,2003,Annual,Published percentage change,,,reported,,,,Table16,C118,-0.08117398001380974,0.0%
+2003-12-31,Purpose: vacation,121093,trips,2003,Annual,Value,,,reported,,,,Table16,C14,121093,"#,##0_);(#,##0)"
+2003-12-31,Total trips,-2.9973427324420703,%,2003,Annual,Published percentage change,,,reported,,,,Table16,M118,-0.029973427324420703,0.0%
+2003-12-31,Total trips,140908,trips,2003,Annual,Value,,,reported,,,,Table16,M14,140908,"#,##0_);(#,##0)"
+2003-12-31,Destination: Canada,9.315068493150685,%,2003-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,H117,0.09315068493150686,0.0%
+2003-12-31,Destination: Canada,5586,trips,2003-Q4,Quarterly,Value,,,reported,,,,Table16,H13,5586,"#,##0_);(#,##0)"
+2003-12-31,Destination: UK,1.7656012176560123,%,2003-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,I117,0.017656012176560123,0.0%
+2003-12-31,Destination: UK,3343,trips,2003-Q4,Quarterly,Value,,,reported,,,,Table16,I13,3343,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2003-12-31,Destination: USA,0.16764999838798078,%,2003-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,G117,0.0016764999838798078,0.0%
+2003-12-31,Destination: USA,31069,trips,2003-Q4,Quarterly,Value,,,reported,,,,Table16,G13,31069,"#,##0_);(#,##0)"
+2003-12-31,Destination: other countries,23.717948717948715,%,2003-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,K117,0.23717948717948717,0.0%
+2003-12-31,Destination: other countries,2895,trips,2003-Q4,Quarterly,Value,,,reported,,,,Table16,K13,2895,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2003-12-31,Purpose: international business,87.26415094339622,%,2003-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,E117,0.8726415094339622,0.0%
+2003-12-31,Purpose: international business,1985,trips,2003-Q4,Quarterly,Value,,,reported,,,,Table16,E13,1985,"#,##0_);(#,##0)"
+2003-12-31,Purpose: local business,134.09326424870466,%,2003-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,D117,1.3409326424870467,0.0%
+2003-12-31,Purpose: local business,2259,trips,2003-Q4,Quarterly,Value,,,reported,,,,Table16,D13,2259,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2003-12-31,Purpose: other reasons,56.258411843876175,%,2003-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,F117,0.5625841184387618,0.0%
+2003-12-31,Purpose: other reasons,1161,trips,2003-Q4,Quarterly,Value,,,reported,,,,Table16,F13,1161,"#,##0_);(#,##0)"
+2003-12-31,Purpose: vacation,-5.399731910265813,%,2003-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,C117,-0.053997319102658134,0.0%
+2003-12-31,Purpose: vacation,37404,trips,2003-Q4,Quarterly,Value,,,reported,,,,Table16,C13,37404,"#,##0_);(#,##0)"
+2003-12-31,Total trips,2.7328032190074727,%,2003-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,M117,0.027328032190074725,0.0%
+2003-12-31,Total trips,42893,trips,2003-Q4,Quarterly,Value,,,reported,,,,Table16,M13,42893,"#,##0_);(#,##0)"
+2004-03-31,Destination: Canada,-8.970976253298153,%,2004-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,H120,-0.08970976253298153,0.0%
+2004-03-31,Destination: Canada,3450,trips,2004-Q1,Quarterly,Value,,,reported,,,,Table16,H16,3450,"#,##0_);(#,##0)"
+2004-03-31,Destination: UK,-1.5495867768595042,%,2004-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,I120,-0.015495867768595042,0.0%
+2004-03-31,Destination: UK,2859,trips,2004-Q1,Quarterly,Value,,,reported,,,,Table16,I16,2859,"#,##0_);(#,##0)"
+2004-03-31,Destination: USA,5.772195261204682,%,2004-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,G120,0.057721952612046816,0.0%
+2004-03-31,Destination: USA,18526,trips,2004-Q1,Quarterly,Value,,,reported,,,,Table16,G16,18526,"#,##0_);(#,##0)"
+2004-03-31,Destination: other countries,4.458041958041958,%,2004-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,K120,0.044580419580419584,0.0%
+2004-03-31,Destination: other countries,2390,trips,2004-Q1,Quarterly,Value,,,reported,,,,Table16,K16,2390,"#,##0_);(#,##0)"
+2004-03-31,Purpose: international business,21.866666666666667,%,2004-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,E120,0.21866666666666668,0.0%
+2004-03-31,Purpose: international business,2285,trips,2004-Q1,Quarterly,Value,,,reported,,,,Table16,E16,2285,"#,##0_);(#,##0)"
+2004-03-31,Purpose: local business,33.728813559322035,%,2004-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,D120,0.33728813559322035,0.0%
+2004-03-31,Purpose: local business,2367,trips,2004-Q1,Quarterly,Value,,,reported,,,,Table16,D16,2367,"#,##0_);(#,##0)"
+2004-03-31,Purpose: other reasons,21.977124183006534,%,2004-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,F120,0.21977124183006536,0.0%
+2004-03-31,Purpose: other reasons,1493,trips,2004-Q1,Quarterly,Value,,,reported,,,,Table16,F16,1493,"#,##0_);(#,##0)"
+2004-03-31,Purpose: vacation,0.5706396686608376,%,2004-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,C120,0.005706396686608376,0.0%
+2004-03-31,Purpose: vacation,21854,trips,2004-Q1,Quarterly,Value,,,reported,,,,Table16,C16,21854,"#,##0_);(#,##0)"
+2004-03-31,Total trips,2.747480846888327,%,2004-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,M120,0.02747480846888327,0.0%
+2004-03-31,Total trips,27225,trips,2004-Q1,Quarterly,Value,,,reported,,,,Table16,M16,27225,"#,##0_);(#,##0)"
+2004-06-30,Destination: Canada,24.336734693877553,%,2004-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,H121,0.24336734693877551,0.0%
+2004-06-30,Destination: Canada,4874,trips,2004-Q2,Quarterly,Value,,,reported,,,,Table16,H17,4874,"#,##0_);(#,##0)"
+2004-06-30,Destination: UK,7.529021558872305,%,2004-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,I121,0.07529021558872305,0.0%
+2004-06-30,Destination: UK,3242,trips,2004-Q2,Quarterly,Value,,,reported,,,,Table16,I17,3242,"#,##0_);(#,##0)"
+2004-06-30,Destination: USA,21.38075504349014,%,2004-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,G121,0.2138075504349014,0.0%
+2004-06-30,Destination: USA,26654,trips,2004-Q2,Quarterly,Value,,,reported,,,,Table16,G17,26654,"#,##0_);(#,##0)"
+2004-06-30,Destination: other countries,23.971693940734188,%,2004-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,K121,0.23971693940734187,0.0%
+2004-06-30,Destination: other countries,2803,trips,2004-Q2,Quarterly,Value,,,reported,,,,Table16,K17,2803,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2004-06-30,Purpose: international business,16.48059542796385,%,2004-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,E121,0.16480595427963848,0.0%
+2004-06-30,Purpose: international business,2191,trips,2004-Q2,Quarterly,Value,,,reported,,,,Table16,E17,2191,"#,##0_);(#,##0)"
+2004-06-30,Purpose: local business,16.52173913043478,%,2004-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,D121,0.16521739130434782,0.0%
+2004-06-30,Purpose: local business,2680,trips,2004-Q2,Quarterly,Value,,,reported,,,,Table16,D17,2680,"#,##0_);(#,##0)"
+2004-06-30,Purpose: other reasons,50.66371681415929,%,2004-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,F121,0.5066371681415929,0.0%
+2004-06-30,Purpose: other reasons,2043,trips,2004-Q2,Quarterly,Value,,,reported,,,,Table16,F17,2043,"#,##0_);(#,##0)"
+2004-06-30,Purpose: vacation,15.798929663608563,%,2004-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,C121,0.15798929663608563,0.0%
+2004-06-30,Purpose: vacation,30293,trips,2004-Q2,Quarterly,Value,,,reported,,,,Table16,C17,30293,"#,##0_);(#,##0)"
+2004-06-30,Total trips,20.60022468303643,%,2004-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,M121,0.2060022468303643,0.0%
+2004-06-30,Total trips,37573,trips,2004-Q2,Quarterly,Value,,,reported,,,,Table16,M17,37573,"#,##0_);(#,##0)"
+2004-09-30,Destination: Canada,2.625221452729908,%,2004-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,H122,0.026252214527299082,0.0%
+2004-09-30,Destination: Canada,6372,trips,2004-Q3,Quarterly,Value,,,reported,,,,Table16,H18,6372,"#,##0_);(#,##0)"
+2004-09-30,Destination: UK,5.851428571428571,%,2004-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,I122,0.05851428571428571,0.0%
+2004-09-30,Destination: UK,4631,trips,2004-Q3,Quarterly,Value,,,reported,,,,Table16,I18,4631,"#,##0_);(#,##0)"
+2004-09-30,Destination: USA,17.45861264397615,%,2004-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,G122,0.17458612643976149,0.0%
+2004-09-30,Destination: USA,31715,trips,2004-Q3,Quarterly,Value,,,reported,,,,Table16,G18,31715,"#,##0_);(#,##0)"
+2004-09-30,Destination: other countries,22.606191504679625,%,2004-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,K122,0.22606191504679626,0.0%
+2004-09-30,Destination: other countries,3406,trips,2004-Q3,Quarterly,Value,,,reported,,,,Table16,K18,3406,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2004-09-30,Purpose: international business,12.939001848428836,%,2004-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,E122,0.12939001848428835,0.0%
+2004-09-30,Purpose: international business,1833,trips,2004-Q3,Quarterly,Value,,,reported,,,,Table16,E18,1833,"#,##0_);(#,##0)"
+2004-09-30,Purpose: local business,10.371442354076219,%,2004-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,D122,0.10371442354076219,0.0%
+2004-09-30,Purpose: local business,2288,trips,2004-Q3,Quarterly,Value,,,reported,,,,Table16,D18,2288,"#,##0_);(#,##0)"
+2004-09-30,Purpose: other reasons,209.62566844919786,%,2004-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,F122,2.0962566844919786,0.0%
+2004-09-30,Purpose: other reasons,4632,trips,2004-Q3,Quarterly,Value,,,reported,,,,Table16,F18,4632,"#,##0_);(#,##0)"
+2004-09-30,Purpose: vacation,4.690075141763737,%,2004-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,C122,0.04690075141763737,0.0%
+2004-09-30,Purpose: vacation,37478,trips,2004-Q3,Quarterly,Value,,,reported,,,,Table16,C18,37478,"#,##0_);(#,##0)"
+2004-09-30,Total trips,14.272972772093254,%,2004-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,M122,0.14272972772093254,0.0%
+2004-09-30,Total trips,46124,trips,2004-Q3,Quarterly,Value,,,reported,,,,Table16,M18,46124,"#,##0_);(#,##0)"
+2004-12-31,Destination: Canada,3.029992309664189,%,2004,Annual,Published percentage change,,,reported,,,,Table16,H124,0.03029992309664189,0.0%
+2004-12-31,Destination: Canada,20096,trips,2004,Annual,Value,,,reported,,,,Table16,H20,20096,"#,##0_);(#,##0)"
+2004-12-31,Destination: UK,5.88105888391875,%,2004,Annual,Published percentage change,,,reported,,,,Table16,I124,0.0588105888391875,0.0%
+2004-12-31,Destination: UK,14439,trips,2004,Annual,Value,,,reported,,,,Table16,I20,14439,"#,##0_);(#,##0)"
+2004-12-31,Destination: USA,12.43336340523251,%,2004,Annual,Published percentage change,,,reported,,,,Table16,G124,0.1243336340523251,0.0%
+2004-12-31,Destination: USA,109672,trips,2004,Annual,Value,,,reported,,,,Table16,G20,109672,"#,##0_);(#,##0)"
+2004-12-31,Destination: other countries,11.621991782430053,%,2004,Annual,Published percentage change,,,reported,,,,Table16,K124,0.11621991782430052,0.0%
+2004-12-31,Destination: other countries,11410,trips,2004,Annual,Value,,,reported,,,,Table16,K20,11410,"#,##0_);(#,##0)"
+2004-12-31,Purpose: international business,12.235198261814231,%,2004,Annual,Published percentage change,,,reported,,,,Table16,E124,0.12235198261814231,0.0%
+2004-12-31,Purpose: international business,8265,trips,2004,Annual,Value,,,reported,,,,Table16,E20,8265,"#,##0_);(#,##0)"
+2004-12-31,Purpose: local business,14.329921447274458,%,2004,Annual,Published percentage change,,,reported,,,,Table16,D124,0.14329921447274457,0.0%
+2004-12-31,Purpose: local business,9606,trips,2004,Annual,Value,,,reported,,,,Table16,D20,9606,"#,##0_);(#,##0)"
+2004-12-31,Purpose: other reasons,125.28164979950354,%,2004,Annual,Published percentage change,,,reported,,,,Table16,F124,1.2528164979950354,0.0%
+2004-12-31,Purpose: other reasons,11798,trips,2004,Annual,Value,,,reported,,,,Table16,F20,11798,"#,##0_);(#,##0)"
+2004-12-31,Purpose: vacation,4.490763297630747,%,2004,Annual,Published percentage change,,,reported,,,,Table16,C124,0.04490763297630747,0.0%
+2004-12-31,Purpose: vacation,126531,trips,2004,Annual,Value,,,reported,,,,Table16,C20,126531,"#,##0_);(#,##0)"
+2004-12-31,Total trips,10.438725977233371,%,2004,Annual,Published percentage change,,,reported,,,,Table16,M124,0.10438725977233372,0.0%
+2004-12-31,Total trips,155617,trips,2004,Annual,Value,,,reported,,,,Table16,M20,155617,"#,##0_);(#,##0)"
+2004-12-31,Destination: Canada,-3.329752953813104,%,2004-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,H123,-0.03329752953813104,0.0%
+2004-12-31,Destination: Canada,5400,trips,2004-Q4,Quarterly,Value,,,reported,,,,Table16,H19,5400,"#,##0_);(#,##0)"
+2004-12-31,Destination: UK,10.888423571642237,%,2004-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,I123,0.10888423571642238,0.0%
+2004-12-31,Destination: UK,3707,trips,2004-Q4,Quarterly,Value,,,reported,,,,Table16,I19,3707,"#,##0_);(#,##0)"
+2004-12-31,Destination: USA,5.497441179310567,%,2004-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,G123,0.054974411793105665,0.0%
+2004-12-31,Destination: USA,32777,trips,2004-Q4,Quarterly,Value,,,reported,,,,Table16,G19,32777,"#,##0_);(#,##0)"
+2004-12-31,Destination: other countries,-2.901554404145078,%,2004-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,K123,-0.029015544041450778,0.0%
+2004-12-31,Destination: other countries,2811,trips,2004-Q4,Quarterly,Value,,,reported,,,,Table16,K19,2811,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2004-12-31,Purpose: international business,-1.4609571788413098,%,2004-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,E123,-0.014609571788413099,0.0%
+2004-12-31,Purpose: international business,1956,trips,2004-Q4,Quarterly,Value,,,reported,,,,Table16,E19,1956,"#,##0_);(#,##0)"
+2004-12-31,Purpose: local business,0.5312084993359893,%,2004-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,D123,0.005312084993359893,0.0%
+2004-12-31,Purpose: local business,2271,trips,2004-Q4,Quarterly,Value,,,reported,,,,Table16,D19,2271,"#,##0_);(#,##0)"
+2004-12-31,Purpose: other reasons,212.66149870801036,%,2004-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,F123,2.1266149870801034,0.0%
+2004-12-31,Purpose: other reasons,3630,trips,2004-Q4,Quarterly,Value,,,reported,,,,Table16,F19,3630,"#,##0_);(#,##0)"
+2004-12-31,Purpose: vacation,-1.3314084055181263,%,2004-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,C123,-0.013314084055181264,0.0%
+2004-12-31,Purpose: vacation,36906,trips,2004-Q4,Quarterly,Value,,,reported,,,,Table16,C19,36906,"#,##0_);(#,##0)"
+2004-12-31,Total trips,4.2011517030750944,%,2004-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,M123,0.04201151703075094,0.0%
+2004-12-31,Total trips,44695,trips,2004-Q4,Quarterly,Value,,,reported,,,,Table16,M19,44695,"#,##0_);(#,##0)"
+2005-03-31,Destination: Canada,0.8115942028985508,%,2005-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,H126,0.008115942028985508,0.0%
+2005-03-31,Destination: Canada,3478,trips,2005-Q1,Quarterly,Value,,,reported,,,,Table16,H22,3478,"#,##0_);(#,##0)"
+2005-03-31,Destination: UK,5.141657922350472,%,2005-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,I126,0.05141657922350472,0.0%
+2005-03-31,Destination: UK,3006,trips,2005-Q1,Quarterly,Value,,,reported,,,,Table16,I22,3006,"#,##0_);(#,##0)"
+2005-03-31,Destination: USA,8.744467235236964,%,2005-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,G126,0.08744467235236965,0.0%
+2005-03-31,Destination: USA,20146,trips,2005-Q1,Quarterly,Value,,,reported,,,,Table16,G22,20146,"#,##0_);(#,##0)"
+2005-03-31,Destination: other countries,19.07949790794979,%,2005-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,K126,0.1907949790794979,0.0%
+2005-03-31,Destination: other countries,2846,trips,2005-Q1,Quarterly,Value,,,reported,,,,Table16,K22,2846,"#,##0_);(#,##0)"
+2005-03-31,Purpose: international business,-11.50984682713348,%,2005-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,E126,-0.1150984682713348,0.0%
+2005-03-31,Purpose: international business,2022,trips,2005-Q1,Quarterly,Value,,,reported,,,,Table16,E22,2022,"#,##0_);(#,##0)"
+2005-03-31,Purpose: local business,-9.421208280523869,%,2005-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,D126,-0.0942120828052387,0.0%
+2005-03-31,Purpose: local business,2144,trips,2005-Q1,Quarterly,Value,,,reported,,,,Table16,D22,2144,"#,##0"
+2005-03-31,Purpose: other reasons,0.7367716008037508,%,2005-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,F126,0.007367716008037508,0.0%
+2005-03-31,Purpose: other reasons,1504,trips,2005-Q1,Quarterly,Value,,,reported,,,,Table16,F22,1504,"#,##0"
+2005-03-31,Purpose: vacation,8.831335224672829,%,2005-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,C126,0.08831335224672829,0.0%
+2005-03-31,Purpose: vacation,23784,trips,2005-Q1,Quarterly,Value,,,reported,,,,Table16,C22,23784,"#,##0"
+2005-03-31,Total trips,8.268135904499541,%,2005-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,M126,0.0826813590449954,0.0%
+2005-03-31,Total trips,29476,trips,2005-Q1,Quarterly,Value,,,reported,,,,Table16,M22,29476,"#,##0_);(#,##0)"
+2005-06-30,Destination: Canada,-2.256873204759951,%,2005-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,H127,-0.02256873204759951,0.0%
+2005-06-30,Destination: Canada,4764,trips,2005-Q2,Quarterly,Value,,,reported,,,,Table16,H23,4764,"#,##0_);(#,##0)"
+2005-06-30,Destination: UK,1.9123997532387416,%,2005-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,I127,0.019123997532387416,0.0%
+2005-06-30,Destination: UK,3304,trips,2005-Q2,Quarterly,Value,,,reported,,,,Table16,I23,3304,"#,##0_);(#,##0)"
+2005-06-30,Destination: USA,-2.0034516395287763,%,2005-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,G127,-0.020034516395287763,0.0%
+2005-06-30,Destination: USA,26120,trips,2005-Q2,Quarterly,Value,,,reported,,,,Table16,G23,26120,"#,##0_);(#,##0)"
+2005-06-30,Destination: other countries,5.4584373885123085,%,2005-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,K127,0.054584373885123084,0.0%
+2005-06-30,Destination: other countries,2956,trips,2005-Q2,Quarterly,Value,,,reported,,,,Table16,K23,2956,"#,##0_);(#,##0)"
+2005-06-30,Purpose: international business,8.991328160657234,%,2005-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,E127,0.08991328160657235,0.0%
+2005-06-30,Purpose: international business,2388,trips,2005-Q2,Quarterly,Value,,,reported,,,,Table16,E23,2388,"#,##0_);(#,##0)"
+2005-06-30,Purpose: local business,-11.044776119402986,%,2005-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,D127,-0.11044776119402985,0.0%
+2005-06-30,Purpose: local business,2384,trips,2005-Q2,Quarterly,Value,,,reported,,,,Table16,D23,2384,"#,##0"
+2005-06-30,Purpose: other reasons,-16.495349975526185,%,2005-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,F127,-0.16495349975526186,0.0%
+2005-06-30,Purpose: other reasons,1706,trips,2005-Q2,Quarterly,Value,,,reported,,,,Table16,F23,1706,"#,##0"
+2005-06-30,Purpose: vacation,1.231307562803288,%,2005-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,C127,0.012313075628032879,0.0%
+2005-06-30,Purpose: vacation,30666,trips,2005-Q2,Quarterly,Value,,,reported,,,,Table16,C23,30666,"#,##0"
+2005-06-30,Total trips,-1.14177734011125,%,2005-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,M127,-0.011417773401112502,0.0%
+2005-06-30,Total trips,37144,trips,2005-Q2,Quarterly,Value,,,reported,,,,Table16,M23,37144,"#,##0_);(#,##0)"
+2005-09-30,Destination: Canada,-13.355304456999374,%,2005-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,H128,-0.13355304456999373,0.0%
+2005-09-30,Destination: Canada,5521,trips,2005-Q3,Quarterly,Value,,,reported,,,,Table16,H24,5521,"#,##0_);(#,##0)"
+2005-09-30,Destination: UK,7.989635068019867,%,2005-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,I128,0.07989635068019867,0.0%
+2005-09-30,Destination: UK,5001,trips,2005-Q3,Quarterly,Value,,,reported,,,,Table16,I24,5001,"#,##0_);(#,##0)"
+2005-09-30,Destination: USA,2.2607598927952073,%,2005-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,G128,0.022607598927952072,0.0%
+2005-09-30,Destination: USA,32432,trips,2005-Q3,Quarterly,Value,,,reported,,,,Table16,G24,32432,"#,##0_);(#,##0)"
+2005-09-30,Destination: other countries,45.71344685848502,%,2005-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,K128,0.45713446858485024,0.0%
+2005-09-30,Destination: other countries,4963,trips,2005-Q3,Quarterly,Value,,,reported,,,,Table16,K24,4963,"#,##0_);(#,##0)"
+2005-09-30,Purpose: international business,16.475722858701584,%,2005-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,E128,0.16475722858701583,0.0%
+2005-09-30,Purpose: international business,2135,trips,2005-Q3,Quarterly,Value,,,reported,,,,Table16,E24,2135,"#,##0_);(#,##0)"
+2005-09-30,Purpose: local business,-15.253496503496503,%,2005-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,D128,-0.15253496503496503,0.0%
+2005-09-30,Purpose: local business,1939,trips,2005-Q3,Quarterly,Value,,,reported,,,,Table16,D24,1939,"#,##0"
+2005-09-30,Purpose: other reasons,-41.70984455958549,%,2005-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,F128,-0.4170984455958549,0.0%
+2005-09-30,Purpose: other reasons,2700,trips,2005-Q3,Quarterly,Value,,,reported,,,,Table16,F24,2700,"#,##0"
+2005-09-30,Purpose: vacation,9.779070387960937,%,2005-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,C128,0.09779070387960936,0.0%
+2005-09-30,Purpose: vacation,41143,trips,2005-Q3,Quarterly,Value,,,reported,,,,Table16,C24,41143,"#,##0"
+2005-09-30,Total trips,3.8873471511577486,%,2005-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,M128,0.03887347151157749,0.0%
+2005-09-30,Total trips,47917,trips,2005-Q3,Quarterly,Value,,,reported,,,,Table16,M24,47917,"#,##0_);(#,##0)"
+2005-12-31,Destination: Canada,-5.593152866242038,%,2005,Annual,Published percentage change,,,reported,,,,Table16,H130,-0.055931528662420384,0.0%
+2005-12-31,Destination: Canada,18972,trips,2005,Annual,Value,,,reported,,,,Table16,H26,18972,"#,##0_);(#,##0)"
+2005-12-31,Destination: UK,4.0030473024447675,%,2005,Annual,Published percentage change,,,reported,,,,Table16,I130,0.04003047302444768,0.0%
+2005-12-31,Destination: UK,15017,trips,2005,Annual,Value,,,reported,,,,Table16,I26,15017,"#,##0_);(#,##0)"
+2005-12-31,Destination: USA,2.589539718433146,%,2005,Annual,Published percentage change,,,reported,,,,Table16,G130,0.02589539718433146,0.0%
+2005-12-31,Destination: USA,112512,trips,2005,Annual,Value,,,reported,,,,Table16,G26,112512,"#,##0_);(#,##0)"
+2005-12-31,Destination: other countries,27.92287467134093,%,2005,Annual,Published percentage change,,,reported,,,,Table16,K130,0.2792287467134093,0.0%
+2005-12-31,Destination: other countries,14596,trips,2005,Annual,Value,,,reported,,,,Table16,K26,14596,"#,##0_);(#,##0)"
+2005-12-31,Purpose: international business,6.823956442831217,%,2005,Annual,Published percentage change,,,reported,,,,Table16,E130,0.06823956442831217,0.0%
+2005-12-31,Purpose: international business,8829,trips,2005,Annual,Value,,,reported,,,,Table16,E26,8829,"#,##0_);(#,##0)"
+2005-12-31,Purpose: local business,-11.295023943368728,%,2005,Annual,Published percentage change,,,reported,,,,Table16,D130,-0.11295023943368727,0.0%
+2005-12-31,Purpose: local business,8521,trips,2005,Annual,Value,,,reported,,,,Table16,D26,8521,"#,##0"
+2005-12-31,Purpose: other reasons,-33.99728767587727,%,2005,Annual,Published percentage change,,,reported,,,,Table16,F130,-0.3399728767587727,0.0%
+2005-12-31,Purpose: other reasons,7787,trips,2005,Annual,Value,,,reported,,,,Table16,F26,7787,"#,##0"
+2005-12-31,Purpose: vacation,7.43454173285598,%,2005,Annual,Published percentage change,,,reported,,,,Table16,C130,0.0743454173285598,0.0%
+2005-12-31,Purpose: vacation,135938,trips,2005,Annual,Value,,,reported,,,,Table16,C26,135938,"#,##0"
+2005-12-31,Total trips,3.5214661637224727,%,2005,Annual,Published percentage change,,,reported,,,,Table16,M130,0.035214661637224726,0.0%
+2005-12-31,Total trips,161097,trips,2005,Annual,Value,,,reported,,,,Table16,M26,161097,"#,##0_);(#,##0)"
+2005-12-31,Destination: Canada,-3.537037037037037,%,2005-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,H129,-0.03537037037037037,0.0%
+2005-12-31,Destination: Canada,5209,trips,2005-Q4,Quarterly,Value,,,reported,,,,Table16,H25,5209,"#,##0_);(#,##0)"
+2005-12-31,Destination: UK,-0.02697599136768276,%,2005-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,I129,-0.0002697599136768276,0.0%
+2005-12-31,Destination: UK,3706,trips,2005-Q4,Quarterly,Value,,,reported,,,,Table16,I25,3706,"#,##0_);(#,##0)"
+2005-12-31,Destination: USA,3.1638038868718916,%,2005-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,G129,0.031638038868718917,0.0%
+2005-12-31,Destination: USA,33814,trips,2005-Q4,Quarterly,Value,,,reported,,,,Table16,G25,33814,"#,##0_);(#,##0)"
+2005-12-31,Destination: other countries,36.28601921024546,%,2005-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,K129,0.3628601921024546,0.0%
+2005-12-31,Destination: other countries,3831,trips,2005-Q4,Quarterly,Value,,,reported,,,,Table16,K25,3831,"#,##0_);(#,##0)"
+2005-12-31,Purpose: international business,16.768916155419223,%,2005-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,E129,0.16768916155419222,0.0%
+2005-12-31,Purpose: international business,2284,trips,2005-Q4,Quarterly,Value,,,reported,,,,Table16,E25,2284,"#,##0_);(#,##0)"
+2005-12-31,Purpose: local business,-9.555261999119331,%,2005-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,D129,-0.09555261999119331,0.0%
+2005-12-31,Purpose: local business,2054,trips,2005-Q4,Quarterly,Value,,,reported,,,,Table16,D25,2054,"#,##0"
+2005-12-31,Purpose: other reasons,-48.29201101928375,%,2005-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,F129,-0.4829201101928375,0.0%
+2005-12-31,Purpose: other reasons,1877,trips,2005-Q4,Quarterly,Value,,,reported,,,,Table16,F25,1877,"#,##0"
+2005-12-31,Purpose: vacation,9.31826803229827,%,2005-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,C129,0.09318268032298271,0.0%
+2005-12-31,Purpose: vacation,40345,trips,2005-Q4,Quarterly,Value,,,reported,,,,Table16,C25,40345,"#,##0"
+2005-12-31,Total trips,4.172726255733304,%,2005-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,M129,0.041727262557333035,0.0%
+2005-12-31,Total trips,46560,trips,2005-Q4,Quarterly,Value,,,reported,,,,Table16,M25,46560,"#,##0_);(#,##0)"
+2006-03-31,Destination: Canada,-0.2587694077055779,%,2006-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,H132,-0.002587694077055779,0.0%
+2006-03-31,Destination: Canada,3469,trips,2006-Q1,Quarterly,Value,,,reported,,,,Table16,H28,3469,"#,##0_);(#,##0)"
+2006-03-31,Destination: UK,12.741184298070527,%,2006-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,I132,0.12741184298070526,0.0%
+2006-03-31,Destination: UK,3389,trips,2006-Q1,Quarterly,Value,,,reported,,,,Table16,I28,3389,"#,##0_);(#,##0)"
+2006-03-31,Destination: USA,8.900029782587113,%,2006-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,G132,0.08900029782587114,0.0%
+2006-03-31,Destination: USA,21939,trips,2006-Q1,Quarterly,Value,,,reported,,,,Table16,G28,21939,"#,##0_);(#,##0)"
+2006-03-31,Destination: other countries,13.808854532677442,%,2006-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,K132,0.13808854532677442,0.0%
+2006-03-31,Destination: other countries,3239,trips,2006-Q1,Quarterly,Value,,,reported,,,,Table16,K28,3239,"#,##0_);(#,##0)"
+2006-03-31,Purpose: international business,13.649851632047477,%,2006-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,E132,0.13649851632047477,0.0%
+2006-03-31,Purpose: international business,2298,trips,2006-Q1,Quarterly,Value,,,reported,,,,Table16,E28,2298,"#,##0"
+2006-03-31,Purpose: local business,8.628731343283583,%,2006-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,D132,0.08628731343283583,0.0%
+2006-03-31,Purpose: local business,2329,trips,2006-Q1,Quarterly,Value,,,reported,,,,Table16,D28,2329,"#,##0"
+2006-03-31,Purpose: other reasons,62.965425531914896,%,2006-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,F132,0.629654255319149,0.0%
+2006-03-31,Purpose: other reasons,2451,trips,2006-Q1,Quarterly,Value,,,reported,,,,Table16,F28,2451,"#,##0"
+2006-03-31,Purpose: vacation,4.936091490077363,%,2006-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,C132,0.04936091490077363,0.0%
+2006-03-31,Purpose: vacation,24958,trips,2006-Q1,Quarterly,Value,,,reported,,,,Table16,C28,24958,"#,##0"
+2006-03-31,Total trips,8.685031890351471,%,2006-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,M132,0.08685031890351472,0.0%
+2006-03-31,Total trips,32036,trips,2006-Q1,Quarterly,Value,,,reported,,,,Table16,M28,32036,"#,##0_);(#,##0)"
+2006-06-30,Destination: Canada,-3.9042821158690177,%,2006-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,H133,-0.03904282115869018,0.0%
+2006-06-30,Destination: Canada,4578,trips,2006-Q2,Quarterly,Value,,,reported,,,,Table16,H29,4578,"#,##0_);(#,##0)"
+2006-06-30,Destination: UK,12.257869249394673,%,2006-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,I133,0.12257869249394673,0.0%
+2006-06-30,Destination: UK,3709,trips,2006-Q2,Quarterly,Value,,,reported,,,,Table16,I29,3709,"#,##0_);(#,##0)"
+2006-06-30,Destination: USA,6.7228177641653915,%,2006-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,G133,0.06722817764165391,0.0%
+2006-06-30,Destination: USA,27876,trips,2006-Q2,Quarterly,Value,,,reported,,,,Table16,G29,27876,"#,##0_);(#,##0)"
+2006-06-30,Destination: other countries,11.603518267929633,%,2006-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,K133,0.11603518267929634,0.0%
+2006-06-30,Destination: other countries,3299,trips,2006-Q2,Quarterly,Value,,,reported,,,,Table16,K29,3299,"#,##0_);(#,##0)"
+2006-06-30,Purpose: international business,-33.24958123953099,%,2006-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,E133,-0.3324958123953099,0.0%
+2006-06-30,Purpose: international business,1594,trips,2006-Q2,Quarterly,Value,,,reported,,,,Table16,E29,1594,"#,##0"
+2006-06-30,Purpose: local business,-10.528523489932885,%,2006-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,D133,-0.10528523489932885,0.0%
+2006-06-30,Purpose: local business,2133,trips,2006-Q2,Quarterly,Value,,,reported,,,,Table16,D29,2133,"#,##0"
+2006-06-30,Purpose: other reasons,6.506447831184056,%,2006-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,F133,0.06506447831184056,0.0%
+2006-06-30,Purpose: other reasons,1817,trips,2006-Q2,Quarterly,Value,,,reported,,,,Table16,F29,1817,"#,##0"
+2006-06-30,Purpose: vacation,10.604578360399138,%,2006-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,C133,0.10604578360399139,0.0%
+2006-06-30,Purpose: vacation,33918,trips,2006-Q2,Quarterly,Value,,,reported,,,,Table16,C29,33918,"#,##0"
+2006-06-30,Total trips,6.240577213008831,%,2006-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,M133,0.062405772130088306,0.0%
+2006-06-30,Total trips,39462,trips,2006-Q2,Quarterly,Value,,,reported,,,,Table16,M29,39462,"#,##0_);(#,##0)"
+2006-09-30,Destination: Canada,21.028799130592287,%,2006-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,H134,0.21028799130592285,0.0%
+2006-09-30,Destination: Canada,6682,trips,2006-Q3,Quarterly,Value,,,reported,,,,Table16,H30,6682,"#,##0_);(#,##0)"
+2006-09-30,Destination: UK,4.539092181563687,%,2006-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,I134,0.04539092181563687,0.0%
+2006-09-30,Destination: UK,5228,trips,2006-Q3,Quarterly,Value,,,reported,,,,Table16,I30,5228,"#,##0_);(#,##0)"
+2006-09-30,Destination: USA,3.080291070547607,%,2006-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,G134,0.030802910705476073,0.0%
+2006-09-30,Destination: USA,33431,trips,2006-Q3,Quarterly,Value,,,reported,,,,Table16,G30,33431,"#,##0_);(#,##0)"
+2006-09-30,Destination: other countries,-5.621599838807173,%,2006-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,K134,-0.05621599838807173,0.0%
+2006-09-30,Destination: other countries,4684,trips,2006-Q3,Quarterly,Value,,,reported,,,,Table16,K30,4684,"#,##0_);(#,##0)"
+2006-09-30,Purpose: international business,-15.081967213114755,%,2006-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,E134,-0.15081967213114755,0.0%
+2006-09-30,Purpose: international business,1813,trips,2006-Q3,Quarterly,Value,,,reported,,,,Table16,E30,1813,"#,##0"
+2006-09-30,Purpose: local business,18.5146982980918,%,2006-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,D134,0.185146982980918,0.0%
+2006-09-30,Purpose: local business,2298,trips,2006-Q3,Quarterly,Value,,,reported,,,,Table16,D30,2298,"#,##0"
+2006-09-30,Purpose: other reasons,19.962962962962962,%,2006-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,F134,0.19962962962962963,0.0%
+2006-09-30,Purpose: other reasons,3239,trips,2006-Q3,Quarterly,Value,,,reported,,,,Table16,F30,3239,"#,##0"
+2006-09-30,Purpose: vacation,3.7235981819507575,%,2006-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,C134,0.037235981819507574,0.0%
+2006-09-30,Purpose: vacation,42675,trips,2006-Q3,Quarterly,Value,,,reported,,,,Table16,C30,42675,"#,##0"
+2006-09-30,Total trips,4.399273744182649,%,2006-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,M134,0.04399273744182649,0.0%
+2006-09-30,Total trips,50025,trips,2006-Q3,Quarterly,Value,,,reported,,,,Table16,M30,50025,"#,##0_);(#,##0)"
+2006-12-31,Destination: Canada,4.601518026565465,%,2006,Annual,Published percentage change,,,reported,,,,Table16,H136,0.04601518026565465,0.0%
+2006-12-31,Destination: Canada,19845,trips,2006,Annual,Value,,,reported,,,,Table16,H32,19845,"#,##0_);(#,##0)"
+2006-12-31,Destination: UK,8.477059332756209,%,2006,Annual,Published percentage change,,,reported,,,,Table16,I136,0.0847705933275621,0.0%
+2006-12-31,Destination: UK,16290,trips,2006,Annual,Value,,,reported,,,,Table16,I32,16290,"#,##0_);(#,##0)"
+2006-12-31,Destination: USA,5.849153868031855,%,2006,Annual,Published percentage change,,,reported,,,,Table16,G136,0.05849153868031855,0.0%
+2006-12-31,Destination: USA,119093,trips,2006,Annual,Value,,,reported,,,,Table16,G32,119093,"#,##0_);(#,##0)"
+2006-12-31,Destination: other countries,4.213483146067416,%,2006,Annual,Published percentage change,,,reported,,,,Table16,K136,0.042134831460674156,0.0%
+2006-12-31,Destination: other countries,15211,trips,2006,Annual,Value,,,reported,,,,Table16,K32,15211,"#,##0_);(#,##0)"
+2006-12-31,Purpose: international business,-8.075659757616945,%,2006,Annual,Published percentage change,,,reported,,,,Table16,E136,-0.08075659757616944,0.0%
+2006-12-31,Purpose: international business,8116,trips,2006,Annual,Value,,,reported,,,,Table16,E32,8116,"#,##0"
+2006-12-31,Purpose: local business,7.898134021828423,%,2006,Annual,Published percentage change,,,reported,,,,Table16,D136,0.07898134021828424,0.0%
+2006-12-31,Purpose: local business,9194,trips,2006,Annual,Value,,,reported,,,,Table16,D32,9194,"#,##0"
+2006-12-31,Purpose: other reasons,23.3594452292282,%,2006,Annual,Published percentage change,,,reported,,,,Table16,F136,0.233594452292282,0.0%
+2006-12-31,Purpose: other reasons,9606,trips,2006,Annual,Value,,,reported,,,,Table16,F32,9606,"#,##0"
+2006-12-31,Purpose: vacation,5.57974959172564,%,2006,Annual,Published percentage change,,,reported,,,,Table16,C136,0.0557974959172564,0.0%
+2006-12-31,Purpose: vacation,143523,trips,2006,Annual,Value,,,reported,,,,Table16,C32,143523,"#,##0"
+2006-12-31,Total trips,5.798990670217322,%,2006,Annual,Published percentage change,,,reported,,,,Table16,M136,0.05798990670217322,0.0%
+2006-12-31,Total trips,170439,trips,2006,Annual,Value,,,reported,,,,Table16,M32,170439,"#,##0_);(#,##0)"
+2006-12-31,Destination: Canada,-1.7853714724515264,%,2006-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,H135,-0.017853714724515263,0.0%
+2006-12-31,Destination: Canada,5116,trips,2006-Q4,Quarterly,Value,,,reported,,,,Table16,H31,5116,"#,##0_);(#,##0)"
+2006-12-31,Destination: UK,6.961683756071235,%,2006-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,I135,0.06961683756071235,0.0%
+2006-12-31,Destination: UK,3964,trips,2006-Q4,Quarterly,Value,,,reported,,,,Table16,I31,3964,"#,##0_);(#,##0)"
+2006-12-31,Destination: USA,6.012302596557639,%,2006-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,G135,0.060123025965576386,0.0%
+2006-12-31,Destination: USA,35847,trips,2006-Q4,Quarterly,Value,,,reported,,,,Table16,G31,35847,"#,##0_);(#,##0)"
+2006-12-31,Destination: other countries,4.124249543200209,%,2006-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,K135,0.04124249543200209,0.0%
+2006-12-31,Destination: other countries,3989,trips,2006-Q4,Quarterly,Value,,,reported,,,,Table16,K31,3989,"#,##0_);(#,##0)"
+2006-12-31,Purpose: international business,5.560420315236427,%,2006-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,E135,0.05560420315236427,0.0%
+2006-12-31,Purpose: international business,2411,trips,2006-Q4,Quarterly,Value,,,reported,,,,Table16,E31,2411,"#,##0"
+2006-12-31,Purpose: local business,18.500486854917234,%,2006-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,D135,0.18500486854917234,0.0%
+2006-12-31,Purpose: local business,2434,trips,2006-Q4,Quarterly,Value,,,reported,,,,Table16,D31,2434,"#,##0"
+2006-12-31,Purpose: other reasons,11.827384123601492,%,2006-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,F135,0.11827384123601492,0.0%
+2006-12-31,Purpose: other reasons,2099,trips,2006-Q4,Quarterly,Value,,,reported,,,,Table16,F31,2099,"#,##0"
+2006-12-31,Purpose: vacation,4.032717808898253,%,2006-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,C135,0.04032717808898253,0.0%
+2006-12-31,Purpose: vacation,41972,trips,2006-Q4,Quarterly,Value,,,reported,,,,Table16,C31,41972,"#,##0"
+2006-12-31,Total trips,5.060137457044673,%,2006-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,M135,0.050601374570446736,0.0%
+2006-12-31,Total trips,48916,trips,2006-Q4,Quarterly,Value,,,reported,,,,Table16,M31,48916,"#,##0_);(#,##0)"
+2007-03-31,Destination: Canada,4.266359181320265,%,2007-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,H138,0.04266359181320265,0.0%
+2007-03-31,Destination: Canada,3617,trips,2007-Q1,Quarterly,Value,,,reported,,,,Table16,H34,3617,"#,##0_);(#,##0)"
+2007-03-31,Destination: UK,3.5703747418117437,%,2007-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,I138,0.03570374741811744,0.0%
+2007-03-31,Destination: UK,3510,trips,2007-Q1,Quarterly,Value,,,reported,,,,Table16,I34,3510,"#,##0_);(#,##0)"
+2007-03-31,Destination: USA,9.06148867313916,%,2007-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,G138,0.09061488673139159,0.0%
+2007-03-31,Destination: USA,23927,trips,2007-Q1,Quarterly,Value,,,reported,,,,Table16,G34,23927,"#,##0_);(#,##0)"
+2007-03-31,Destination: other countries,12.225995677678297,%,2007-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,K138,0.12225995677678296,0.0%
+2007-03-31,Destination: other countries,3635,trips,2007-Q1,Quarterly,Value,,,reported,,,,Table16,K34,3635,"#,##0_);(#,##0)"
+2007-03-31,Purpose: international business,10.226283724978243,%,2007-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,E138,0.10226283724978243,0.0%
+2007-03-31,Purpose: international business,2533,trips,2007-Q1,Quarterly,Value,,,reported,,,,Table16,E34,2533,"#,##0"
+2007-03-31,Purpose: local business,11.850579647917561,%,2007-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,D138,0.11850579647917561,0.0%
+2007-03-31,Purpose: local business,2605,trips,2007-Q1,Quarterly,Value,,,reported,,,,Table16,D34,2605,"#,##0"
+2007-03-31,Purpose: other reasons,17.29906160750714,%,2007-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,F138,0.1729906160750714,0.0%
+2007-03-31,Purpose: other reasons,2875,trips,2007-Q1,Quarterly,Value,,,reported,,,,Table16,F34,2875,"#,##0"
+2007-03-31,Purpose: vacation,6.88356438817213,%,2007-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,C138,0.0688356438817213,0.0%
+2007-03-31,Purpose: vacation,26676,trips,2007-Q1,Quarterly,Value,,,reported,,,,Table16,C34,26676,"#,##0"
+2007-03-31,Total trips,8.281308527906106,%,2007-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,M138,0.08281308527906106,0.0%
+2007-03-31,Total trips,34689,trips,2007-Q1,Quarterly,Value,,,reported,,,,Table16,M34,34689,"#,##0_);(#,##0)"
+2007-06-30,Destination: Canada,-0.5679335954565312,%,2007-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,H139,-0.005679335954565312,0.0%
+2007-06-30,Destination: Canada,4552,trips,2007-Q2,Quarterly,Value,,,reported,,,,Table16,H35,4552,"#,##0_);(#,##0)"
+2007-06-30,Destination: UK,16.958748988945807,%,2007-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,I139,0.16958748988945807,0.0%
+2007-06-30,Destination: UK,4338,trips,2007-Q2,Quarterly,Value,,,reported,,,,Table16,I35,4338,"#,##0_);(#,##0)"
+2007-06-30,Destination: USA,9.60324293298895,%,2007-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,G139,0.09603242932988951,0.0%
+2007-06-30,Destination: USA,30553,trips,2007-Q2,Quarterly,Value,,,reported,,,,Table16,G35,30553,"#,##0_);(#,##0)"
+2007-06-30,Destination: other countries,10.06365565322825,%,2007-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,K139,0.10063655653228251,0.0%
+2007-06-30,Destination: other countries,3631,trips,2007-Q2,Quarterly,Value,,,reported,,,,Table16,K35,3631,"#,##0_);(#,##0)"
+2007-06-30,Purpose: international business,53.638644918444164,%,2007-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,E139,0.5363864491844417,0.0%
+2007-06-30,Purpose: international business,2449,trips,2007-Q2,Quarterly,Value,,,reported,,,,Table16,E35,2449,"#,##0"
+2007-06-30,Purpose: local business,25.691514299109237,%,2007-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,D139,0.25691514299109236,0.0%
+2007-06-30,Purpose: local business,2681,trips,2007-Q2,Quarterly,Value,,,reported,,,,Table16,D35,2681,"#,##0"
+2007-06-30,Purpose: other reasons,43.64336818932306,%,2007-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,F139,0.4364336818932306,0.0%
+2007-06-30,Purpose: other reasons,2610,trips,2007-Q2,Quarterly,Value,,,reported,,,,Table16,F35,2610,"#,##0"
+2007-06-30,Purpose: vacation,4.17477445604104,%,2007-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,C139,0.0417477445604104,0.0%
+2007-06-30,Purpose: vacation,35334,trips,2007-Q2,Quarterly,Value,,,reported,,,,Table16,C35,35334,"#,##0"
+2007-06-30,Total trips,9.153109320358826,%,2007-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,M139,0.09153109320358827,0.0%
+2007-06-30,Total trips,43074,trips,2007-Q2,Quarterly,Value,,,reported,,,,Table16,M35,43074,"#,##0_);(#,##0)"
+2007-09-30,Destination: Canada,-4.354983537862915,%,2007-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,H140,-0.04354983537862915,0.0%
+2007-09-30,Destination: Canada,6391,trips,2007-Q3,Quarterly,Value,,,reported,,,,Table16,H36,6391,"#,##0_);(#,##0)"
+2007-09-30,Destination: UK,30.891354246365722,%,2007-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,I140,0.3089135424636572,0.0%
+2007-09-30,Destination: UK,6843,trips,2007-Q3,Quarterly,Value,,,reported,,,,Table16,I36,6843,"#,##0_);(#,##0)"
+2007-09-30,Destination: USA,5.791032275432982,%,2007-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,G140,0.057910322754329814,0.0%
+2007-09-30,Destination: USA,35367,trips,2007-Q3,Quarterly,Value,,,reported,,,,Table16,G36,35367,"#,##0_);(#,##0)"
+2007-09-30,Destination: other countries,-17.933390264731,%,2007-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,K140,-0.17933390264731,0.0%
+2007-09-30,Destination: other countries,3844,trips,2007-Q3,Quarterly,Value,,,reported,,,,Table16,K36,3844,"#,##0_);(#,##0)"
+2007-09-30,Purpose: international business,46.05626034197463,%,2007-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,E140,0.46056260341974625,0.0%
+2007-09-30,Purpose: international business,2648,trips,2007-Q3,Quarterly,Value,,,reported,,,,Table16,E36,2648,"#,##0"
+2007-09-30,Purpose: local business,-9.878154917319408,%,2007-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,D140,-0.09878154917319408,0.0%
+2007-09-30,Purpose: local business,2071,trips,2007-Q3,Quarterly,Value,,,reported,,,,Table16,D36,2071,"#,##0"
+2007-09-30,Purpose: other reasons,0.216116085211485,%,2007-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,F140,0.00216116085211485,0.0%
+2007-09-30,Purpose: other reasons,3246,trips,2007-Q3,Quarterly,Value,,,reported,,,,Table16,F36,3246,"#,##0"
+2007-09-30,Purpose: vacation,4.229642647920328,%,2007-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,C140,0.04229642647920328,0.0%
+2007-09-30,Purpose: vacation,44480,trips,2007-Q3,Quarterly,Value,,,reported,,,,Table16,C36,44480,"#,##0"
+2007-09-30,Total trips,4.837581209395302,%,2007-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,M140,0.04837581209395302,0.0%
+2007-09-30,Total trips,52445,trips,2007-Q3,Quarterly,Value,,,reported,,,,Table16,M36,52445,"#,##0_);(#,##0)"
+2007-12-31,Destination: Canada,-3.305618543713782,%,2007,Annual,Published percentage change,,,reported,,,,Table16,H142,-0.03305618543713782,0.0%
+2007-12-31,Destination: Canada,19189,trips,2007,Annual,Value,,,reported,,,,Table16,H38,19189,"#,##0_);(#,##0)"
+2007-12-31,Destination: UK,20.276243093922652,%,2007,Annual,Published percentage change,,,reported,,,,Table16,I142,0.20276243093922652,0.0%
+2007-12-31,Destination: UK,19593,trips,2007,Annual,Value,,,reported,,,,Table16,I38,19593,"#,##0_);(#,##0)"
+2007-12-31,Destination: USA,6.306835834180011,%,2007,Annual,Published percentage change,,,reported,,,,Table16,G142,0.06306835834180011,0.0%
+2007-12-31,Destination: USA,126604,trips,2007,Annual,Value,,,reported,,,,Table16,G38,126604,"#,##0_);(#,##0)"
+2007-12-31,Destination: other countries,2.7085661692196434,%,2007,Annual,Published percentage change,,,reported,,,,Table16,K142,0.027085661692196436,0.0%
+2007-12-31,Destination: other countries,15623,trips,2007,Annual,Value,,,reported,,,,Table16,K38,15623,"#,##0_);(#,##0)"
+2007-12-31,Purpose: international business,26.552488910793492,%,2007,Annual,Published percentage change,,,reported,,,,Table16,E142,0.2655248891079349,0.0%
+2007-12-31,Purpose: international business,10271,trips,2007,Annual,Value,,,reported,,,,Table16,E38,10271,"#,##0"
+2007-12-31,Purpose: local business,7.831194257124212,%,2007,Annual,Published percentage change,,,reported,,,,Table16,D142,0.07831194257124212,0.0%
+2007-12-31,Purpose: local business,9914,trips,2007,Annual,Value,,,reported,,,,Table16,D38,9914,"#,##0"
+2007-12-31,Purpose: other reasons,16.99979179679367,%,2007,Annual,Published percentage change,,,reported,,,,Table16,F142,0.1699979179679367,0.0%
+2007-12-31,Purpose: other reasons,11239,trips,2007,Annual,Value,,,reported,,,,Table16,F38,11239,"#,##0"
+2007-12-31,Purpose: vacation,4.223713272437171,%,2007,Annual,Published percentage change,,,reported,,,,Table16,C142,0.042237132724371705,0.0%
+2007-12-31,Purpose: vacation,149585,trips,2007,Annual,Value,,,reported,,,,Table16,C38,149585,"#,##0"
+2007-12-31,Total trips,6.201632255528371,%,2007,Annual,Published percentage change,,,reported,,,,Table16,M142,0.06201632255528371,0.0%
+2007-12-31,Total trips,181009,trips,2007,Annual,Value,,,reported,,,,Table16,M38,181009,"#,##0_);(#,##0)"
+2007-12-31,Destination: Canada,-9.519155590304926,%,2007-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,H141,-0.09519155590304926,0.0%
+2007-12-31,Destination: Canada,4629,trips,2007-Q4,Quarterly,Value,,,reported,,,,Table16,H37,4629,"#,##0_);(#,##0)"
+2007-12-31,Destination: UK,23.662966700302725,%,2007-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,I141,0.23662966700302723,0.0%
+2007-12-31,Destination: UK,4902,trips,2007-Q4,Quarterly,Value,,,reported,,,,Table16,I37,4902,"#,##0_);(#,##0)"
+2007-12-31,Destination: USA,2.5385666861941028,%,2007-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,G141,0.025385666861941027,0.0%
+2007-12-31,Destination: USA,36757,trips,2007-Q4,Quarterly,Value,,,reported,,,,Table16,G37,36757,"#,##0_);(#,##0)"
+2007-12-31,Destination: other countries,13.136124341940336,%,2007-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,K141,0.13136124341940336,0.0%
+2007-12-31,Destination: other countries,4513,trips,2007-Q4,Quarterly,Value,,,reported,,,,Table16,K37,4513,"#,##0_);(#,##0)"
+2007-12-31,Purpose: international business,9.539610120282042,%,2007-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,E141,0.09539610120282041,0.0%
+2007-12-31,Purpose: international business,2641,trips,2007-Q4,Quarterly,Value,,,reported,,,,Table16,E37,2641,"#,##0"
+2007-12-31,Purpose: local business,5.0534100246507805,%,2007-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,D141,0.050534100246507806,0.0%
+2007-12-31,Purpose: local business,2557,trips,2007-Q4,Quarterly,Value,,,reported,,,,Table16,D37,2557,"#,##0"
+2007-12-31,Purpose: other reasons,19.485469271081467,%,2007-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,F141,0.19485469271081468,0.0%
+2007-12-31,Purpose: other reasons,2508,trips,2007-Q4,Quarterly,Value,,,reported,,,,Table16,F37,2508,"#,##0"
+2007-12-31,Purpose: vacation,2.67559325264462,%,2007-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,C141,0.026755932526446202,0.0%
+2007-12-31,Purpose: vacation,43095,trips,2007-Q4,Quarterly,Value,,,reported,,,,Table16,C37,43095,"#,##0"
+2007-12-31,Total trips,3.853544852400033,%,2007-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,M141,0.03853544852400033,0.0%
+2007-12-31,Total trips,50801,trips,2007-Q4,Quarterly,Value,,,reported,,,,Table16,M37,50801,"#,##0_);(#,##0)"
+2008-03-31,Destination: Canada,-3.8982582250483824,%,2008-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,H144,-0.03898258225048382,0.0%
+2008-03-31,Destination: Canada,3476,trips,2008-Q1,Quarterly,Value,,,reported,,,,Table16,H40,3476,"#,##0_);(#,##0)"
+2008-03-31,Destination: UK,4.7578347578347575,%,2008-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,I144,0.04757834757834758,0.0%
+2008-03-31,Destination: UK,3677,trips,2008-Q1,Quarterly,Value,,,reported,,,,Table16,I40,3677,"#,##0_);(#,##0)"
+2008-03-31,Destination: USA,10.807873949931041,%,2008-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,G144,0.1080787394993104,0.0%
+2008-03-31,Destination: USA,26513,trips,2008-Q1,Quarterly,Value,,,reported,,,,Table16,G40,26513,"#,##0_);(#,##0)"
+2008-03-31,Destination: other countries,7.290233837689134,%,2008-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,K144,0.07290233837689133,0.0%
+2008-03-31,Destination: other countries,3900,trips,2008-Q1,Quarterly,Value,,,reported,,,,Table16,K40,3900,"#,##0_);(#,##0)"
+2008-03-31,Purpose: international business,-2.0529016975917886,%,2008-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,E144,-0.020529016975917885,0.0%
+2008-03-31,Purpose: international business,2481,trips,2008-Q1,Quarterly,Value,,,reported,,,,Table16,E40,2481,"#,##0"
+2008-03-31,Purpose: local business,-3.3397312859884836,%,2008-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,D144,-0.033397312859884835,0.0%
+2008-03-31,Purpose: local business,2518,trips,2008-Q1,Quarterly,Value,,,reported,,,,Table16,D40,2518,"#,##0"
+2008-03-31,Purpose: other reasons,21.182608695652174,%,2008-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,F144,0.21182608695652175,0.0%
+2008-03-31,Purpose: other reasons,3484,trips,2008-Q1,Quarterly,Value,,,reported,,,,Table16,F40,3484,"#,##0"
+2008-03-31,Purpose: vacation,9.02309191782876,%,2008-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,C144,0.0902309191782876,0.0%
+2008-03-31,Purpose: vacation,29083,trips,2008-Q1,Quarterly,Value,,,reported,,,,Table16,C40,29083,"#,##0"
+2008-03-31,Total trips,8.293695407766151,%,2008-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,M144,0.08293695407766151,0.0%
+2008-03-31,Total trips,37566,trips,2008-Q1,Quarterly,Value,,,reported,,,,Table16,M40,37566,"#,##0_);(#,##0)"
+2008-06-30,Destination: Canada,-40.81722319859403,%,2008-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,H145,-0.40817223198594027,0.0%
+2008-06-30,Destination: Canada,2694,trips,2008-Q2,Quarterly,Value,,,reported,,,,Table16,H41,2694,"#,##0_);(#,##0)"
+2008-06-30,Destination: UK,-36.975564776394656,%,2008-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,I145,-0.36975564776394654,0.0%
+2008-06-30,Destination: UK,2734,trips,2008-Q2,Quarterly,Value,,,reported,,,,Table16,I41,2734,"#,##0_);(#,##0)"
+2008-06-30,Destination: USA,-31.168788662324488,%,2008-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,G145,-0.31168788662324487,0.0%
+2008-06-30,Destination: USA,21030,trips,2008-Q2,Quarterly,Value,,,reported,,,,Table16,G41,21030,"#,##0_);(#,##0)"
+2008-06-30,Destination: other countries,-19.99449187551639,%,2008-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,K145,-0.19994491875516388,0.0%
+2008-06-30,Destination: other countries,2905,trips,2008-Q2,Quarterly,Value,,,reported,,,,Table16,K41,2905,"#,##0_);(#,##0)"
+2008-06-30,Purpose: international business,-22.008983258472846,%,2008-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,E145,-0.22008983258472847,0.0%
+2008-06-30,Purpose: international business,1910,trips,2008-Q2,Quarterly,Value,,,reported,,,,Table16,E41,1910,"#,##0"
+2008-06-30,Purpose: local business,-24.729578515479297,%,2008-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,D145,-0.24729578515479297,0.0%
+2008-06-30,Purpose: local business,2018,trips,2008-Q2,Quarterly,Value,,,reported,,,,Table16,D41,2018,"#,##0"
+2008-06-30,Purpose: other reasons,-31.724137931034484,%,2008-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,F145,-0.31724137931034485,0.0%
+2008-06-30,Purpose: other reasons,1782,trips,2008-Q2,Quarterly,Value,,,reported,,,,Table16,F41,1782,"#,##0"
+2008-06-30,Purpose: vacation,-33.05598007584762,%,2008-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,C145,-0.33055980075847624,0.0%
+2008-06-30,Purpose: vacation,23654,trips,2008-Q2,Quarterly,Value,,,reported,,,,Table16,C41,23654,"#,##0"
+2008-06-30,Total trips,-31.831267121697543,%,2008-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,M145,-0.31831267121697543,0.0%
+2008-06-30,Total trips,29363,trips,2008-Q2,Quarterly,Value,,,reported,,,,Table16,M41,29363,"#,##0_);(#,##0)"
+2008-09-30,Destination: Canada,-100,%,2008-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,H146,-1,0.0%
+2008-09-30,Destination: Canada,,trips,2008-Q3,Quarterly,Value,,,blank in source,,,,Table16,H42,,"#,##0_);(#,##0)"
+2008-09-30,Destination: UK,-100,%,2008-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,I146,-1,0.0%
+2008-09-30,Destination: UK,,trips,2008-Q3,Quarterly,Value,,,blank in source,,,,Table16,I42,,"#,##0_);(#,##0)"
+2008-09-30,Destination: USA,-100,%,2008-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,G146,-1,0.0%
+2008-09-30,Destination: USA,,trips,2008-Q3,Quarterly,Value,,,blank in source,,,,Table16,G42,,"#,##0_);(#,##0)"
+2008-09-30,Destination: other countries,-100,%,2008-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,K146,-1,0.0%
+2008-09-30,Destination: other countries,,trips,2008-Q3,Quarterly,Value,,,blank in source,,,,Table16,K42,,"#,##0_);(#,##0)"
+2008-09-30,Purpose: international business,-100,%,2008-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,E146,-1,0.0%
+2008-09-30,Purpose: international business,,trips,2008-Q3,Quarterly,Value,,,blank in source,,,,Table16,E42,,"#,##0"
+2008-09-30,Purpose: local business,-100,%,2008-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,D146,-1,0.0%
+2008-09-30,Purpose: local business,,trips,2008-Q3,Quarterly,Value,,,blank in source,,,,Table16,D42,,"#,##0"
+2008-09-30,Purpose: other reasons,-100,%,2008-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,F146,-1,0.0%
+2008-09-30,Purpose: other reasons,,trips,2008-Q3,Quarterly,Value,,,blank in source,,,,Table16,F42,,"#,##0"
+2008-09-30,Purpose: vacation,-100,%,2008-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,C146,-1,0.0%
+2008-09-30,Purpose: vacation,,trips,2008-Q3,Quarterly,Value,,,blank in source,,,,Table16,C42,,"#,##0"
+2008-09-30,Total trips,-100,%,2008-Q3,Quarterly,Published percentage change,,,reported,,,,Table16,M146,-1,0.0%
+2008-09-30,Total trips,0,trips,2008-Q3,Quarterly,Value,,,reported,,,,Table16,M42,0,"#,##0_);(#,##0)"
+2008-12-31,Destination: Canada,-67.84616186356767,%,2008,Annual,Published percentage change,,,reported,,,,Table16,H148,-0.6784616186356767,0.0%
+2008-12-31,Destination: Canada,6170,trips,2008,Annual,Value,,,reported,,,,Table16,H44,6170,"#,##0_);(#,##0)"
+2008-12-31,Destination: UK,-67.27913030163835,%,2008,Annual,Published percentage change,,,reported,,,,Table16,I148,-0.6727913030163835,0.0%
+2008-12-31,Destination: UK,6411,trips,2008,Annual,Value,,,reported,,,,Table16,I44,6411,"#,##0_);(#,##0)"
+2008-12-31,Destination: USA,-62.44747401345929,%,2008,Annual,Published percentage change,,,reported,,,,Table16,G148,-0.6244747401345929,0.0%
+2008-12-31,Destination: USA,47543,trips,2008,Annual,Value,,,reported,,,,Table16,G44,47543,"#,##0_);(#,##0)"
+2008-12-31,Destination: other countries,-56.44242463035268,%,2008,Annual,Published percentage change,,,reported,,,,Table16,K148,-0.5644242463035268,0.0%
+2008-12-31,Destination: other countries,6805,trips,2008,Annual,Value,,,reported,,,,Table16,K44,6805,"#,##0_);(#,##0)"
+2008-12-31,Purpose: international business,-57.248563917826885,%,2008,Annual,Published percentage change,,,reported,,,,Table16,E148,-0.5724856391782689,0.0%
+2008-12-31,Purpose: international business,4391,trips,2008,Annual,Value,,,reported,,,,Table16,E44,4391,"#,##0"
+2008-12-31,Purpose: local business,-54.24652007262457,%,2008,Annual,Published percentage change,,,reported,,,,Table16,D148,-0.5424652007262457,0.0%
+2008-12-31,Purpose: local business,4536,trips,2008,Annual,Value,,,reported,,,,Table16,D44,4536,"#,##0"
+2008-12-31,Purpose: other reasons,-53.145297624343804,%,2008,Annual,Published percentage change,,,reported,,,,Table16,F148,-0.531452976243438,0.0%
+2008-12-31,Purpose: other reasons,5266,trips,2008,Annual,Value,,,reported,,,,Table16,F44,5266,"#,##0"
+2008-12-31,Purpose: vacation,-64.74445967175853,%,2008,Annual,Published percentage change,,,reported,,,,Table16,C148,-0.6474445967175854,0.0%
+2008-12-31,Purpose: vacation,52737,trips,2008,Annual,Value,,,reported,,,,Table16,C44,52737,"#,##0"
+2008-12-31,Total trips,-63.02449049494776,%,2008,Annual,Published percentage change,,,reported,,,,Table16,M148,-0.6302449049494776,0.0%
+2008-12-31,Total trips,66929,trips,2008,Annual,Value,,,reported,,,,Table16,M44,66929,"#,##0_);(#,##0)"
+2008-12-31,Destination: Canada,-100,%,2008-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,H147,-1,0.0%
+2008-12-31,Destination: Canada,,trips,2008-Q4,Quarterly,Value,,,blank in source,,,,Table16,H43,,"#,##0_);(#,##0)"
+2008-12-31,Destination: UK,-100,%,2008-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,I147,-1,0.0%
+2008-12-31,Destination: UK,,trips,2008-Q4,Quarterly,Value,,,blank in source,,,,Table16,I43,,"#,##0_);(#,##0)"
+2008-12-31,Destination: USA,-100,%,2008-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,G147,-1,0.0%
+2008-12-31,Destination: USA,,trips,2008-Q4,Quarterly,Value,,,blank in source,,,,Table16,G43,,"#,##0_);(#,##0)"
+2008-12-31,Destination: other countries,-100,%,2008-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,K147,-1,0.0%
+2008-12-31,Destination: other countries,,trips,2008-Q4,Quarterly,Value,,,blank in source,,,,Table16,K43,,"#,##0_);(#,##0)"
+2008-12-31,Purpose: international business,-100,%,2008-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,E147,-1,0.0%
+2008-12-31,Purpose: international business,,trips,2008-Q4,Quarterly,Value,,,blank in source,,,,Table16,E43,,"#,##0"
+2008-12-31,Purpose: local business,-100,%,2008-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,D147,-1,0.0%
+2008-12-31,Purpose: local business,,trips,2008-Q4,Quarterly,Value,,,blank in source,,,,Table16,D43,,"#,##0"
+2008-12-31,Purpose: other reasons,-100,%,2008-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,F147,-1,0.0%
+2008-12-31,Purpose: other reasons,,trips,2008-Q4,Quarterly,Value,,,blank in source,,,,Table16,F43,,"#,##0"
+2008-12-31,Purpose: vacation,-100,%,2008-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,C147,-1,0.0%
+2008-12-31,Purpose: vacation,,trips,2008-Q4,Quarterly,Value,,,blank in source,,,,Table16,C43,,"#,##0"
+2008-12-31,Total trips,-100,%,2008-Q4,Quarterly,Published percentage change,,,reported,,,,Table16,M147,-1,0.0%
+2008-12-31,Total trips,0,trips,2008-Q4,Quarterly,Value,,,reported,,,,Table16,M43,0,"#,##0_);(#,##0)"
+2009-03-31,Destination: Canada,-100,%,2009-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,H150,-1,0.0%
+2009-03-31,Destination: Canada,,trips,2009-Q1,Quarterly,Value,,,blank in source,,,,Table16,H46,,"#,##0_);(#,##0)"
+2009-03-31,Destination: UK,-100,%,2009-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,I150,-1,0.0%
+2009-03-31,Destination: UK,,trips,2009-Q1,Quarterly,Value,,,blank in source,,,,Table16,I46,,"#,##0_);(#,##0)"
+2009-03-31,Destination: USA,-100,%,2009-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,G150,-1,0.0%
+2009-03-31,Destination: USA,,trips,2009-Q1,Quarterly,Value,,,blank in source,,,,Table16,G46,,"#,##0_);(#,##0)"
+2009-03-31,Destination: other countries,-100,%,2009-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,K150,-1,0.0%
+2009-03-31,Destination: other countries,,trips,2009-Q1,Quarterly,Value,,,blank in source,,,,Table16,K46,,"#,##0_);(#,##0)"
+2009-03-31,Purpose: international business,-100,%,2009-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,E150,-1,0.0%
+2009-03-31,Purpose: international business,,trips,2009-Q1,Quarterly,Value,,,blank in source,,,,Table16,E46,,"#,##0"
+2009-03-31,Purpose: local business,-100,%,2009-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,D150,-1,0.0%
+2009-03-31,Purpose: local business,,trips,2009-Q1,Quarterly,Value,,,blank in source,,,,Table16,D46,,"#,##0"
+2009-03-31,Purpose: other reasons,-100,%,2009-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,F150,-1,0.0%
+2009-03-31,Purpose: other reasons,,trips,2009-Q1,Quarterly,Value,,,blank in source,,,,Table16,F46,,"#,##0"
+2009-03-31,Purpose: vacation,-100,%,2009-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,C150,-1,0.0%
+2009-03-31,Purpose: vacation,,trips,2009-Q1,Quarterly,Value,,,blank in source,,,,Table16,C46,,"#,##0"
+2009-03-31,Total trips,-100,%,2009-Q1,Quarterly,Published percentage change,,,reported,,,,Table16,M150,-1,0.0%
+2009-03-31,Total trips,0,trips,2009-Q1,Quarterly,Value,,,reported,,,,Table16,M46,0,"#,##0_);(#,##0)"
+2009-06-30,Destination: Canada,-100,%,2009-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,H151,-1,0.0%
+2009-06-30,Destination: Canada,,trips,2009-Q2,Quarterly,Value,,,blank in source,,,,Table16,H47,,"#,##0_);(#,##0)"
+2009-06-30,Destination: UK,-100,%,2009-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,I151,-1,0.0%
+2009-06-30,Destination: UK,,trips,2009-Q2,Quarterly,Value,,,blank in source,,,,Table16,I47,,"#,##0_);(#,##0)"
+2009-06-30,Destination: USA,-100,%,2009-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,G151,-1,0.0%
+2009-06-30,Destination: USA,,trips,2009-Q2,Quarterly,Value,,,blank in source,,,,Table16,G47,,"#,##0_);(#,##0)"
+2009-06-30,Destination: other countries,-100,%,2009-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,K151,-1,0.0%
+2009-06-30,Destination: other countries,,trips,2009-Q2,Quarterly,Value,,,blank in source,,,,Table16,K47,,"#,##0_);(#,##0)"
+2009-06-30,Purpose: international business,-100,%,2009-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,E151,-1,0.0%
+2009-06-30,Purpose: international business,,trips,2009-Q2,Quarterly,Value,,,blank in source,,,,Table16,E47,,"#,##0"
+2009-06-30,Purpose: local business,-100,%,2009-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,D151,-1,0.0%
+2009-06-30,Purpose: local business,,trips,2009-Q2,Quarterly,Value,,,blank in source,,,,Table16,D47,,"#,##0"
+2009-06-30,Purpose: other reasons,-100,%,2009-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,F151,-1,0.0%
+2009-06-30,Purpose: other reasons,,trips,2009-Q2,Quarterly,Value,,,blank in source,,,,Table16,F47,,"#,##0"
+2009-06-30,Purpose: vacation,-100,%,2009-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,C151,-1,0.0%
+2009-06-30,Purpose: vacation,,trips,2009-Q2,Quarterly,Value,,,blank in source,,,,Table16,C47,,"#,##0"
+2009-06-30,Total trips,-100,%,2009-Q2,Quarterly,Published percentage change,,,reported,,,,Table16,M151,-1,0.0%
+2009-06-30,Total trips,0,trips,2009-Q2,Quarterly,Value,,,reported,,,,Table16,M47,0,"#,##0_);(#,##0)"
+2009-09-30,Destination: Canada,,%,2009-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H152,#DIV/0!,0.0%
+2009-09-30,Destination: Canada,,trips,2009-Q3,Quarterly,Value,,,blank in source,,,,Table16,H48,,"#,##0_);(#,##0)"
+2009-09-30,Destination: UK,,%,2009-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I152,#DIV/0!,0.0%
+2009-09-30,Destination: UK,,trips,2009-Q3,Quarterly,Value,,,blank in source,,,,Table16,I48,,"#,##0_);(#,##0)"
+2009-09-30,Destination: USA,,%,2009-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G152,#DIV/0!,0.0%
+2009-09-30,Destination: USA,,trips,2009-Q3,Quarterly,Value,,,blank in source,,,,Table16,G48,,"#,##0_);(#,##0)"
+2009-09-30,Destination: other countries,,%,2009-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K152,#DIV/0!,0.0%
+2009-09-30,Destination: other countries,,trips,2009-Q3,Quarterly,Value,,,blank in source,,,,Table16,K48,,"#,##0_);(#,##0)"
+2009-09-30,Purpose: international business,,%,2009-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E152,#DIV/0!,0.0%
+2009-09-30,Purpose: international business,,trips,2009-Q3,Quarterly,Value,,,blank in source,,,,Table16,E48,,"#,##0"
+2009-09-30,Purpose: local business,,%,2009-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D152,#DIV/0!,0.0%
+2009-09-30,Purpose: local business,,trips,2009-Q3,Quarterly,Value,,,blank in source,,,,Table16,D48,,"#,##0"
+2009-09-30,Purpose: other reasons,,%,2009-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F152,#DIV/0!,0.0%
+2009-09-30,Purpose: other reasons,,trips,2009-Q3,Quarterly,Value,,,blank in source,,,,Table16,F48,,"#,##0"
+2009-09-30,Purpose: vacation,,%,2009-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C152,#DIV/0!,0.0%
+2009-09-30,Purpose: vacation,,trips,2009-Q3,Quarterly,Value,,,blank in source,,,,Table16,C48,,"#,##0"
+2009-09-30,Total trips,,%,2009-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M152,#DIV/0!,0.0%
+2009-09-30,Total trips,0,trips,2009-Q3,Quarterly,Value,,,reported,,,,Table16,M48,0,"#,##0_);(#,##0)"
+2009-12-31,Destination: Canada,-100,%,2009,Annual,Published percentage change,,,reported,,,,Table16,H154,-1,0.0%
+2009-12-31,Destination: Canada,0,trips,2009,Annual,Value,,,reported,,,,Table16,H50,0,"#,##0_);(#,##0)"
+2009-12-31,Destination: UK,-100,%,2009,Annual,Published percentage change,,,reported,,,,Table16,I154,-1,0.0%
+2009-12-31,Destination: UK,0,trips,2009,Annual,Value,,,reported,,,,Table16,I50,0,"#,##0_);(#,##0)"
+2009-12-31,Destination: USA,-100,%,2009,Annual,Published percentage change,,,reported,,,,Table16,G154,-1,0.0%
+2009-12-31,Destination: USA,0,trips,2009,Annual,Value,,,reported,,,,Table16,G50,0,"#,##0_);(#,##0)"
+2009-12-31,Destination: other countries,-100,%,2009,Annual,Published percentage change,,,reported,,,,Table16,K154,-1,0.0%
+2009-12-31,Destination: other countries,0,trips,2009,Annual,Value,,,reported,,,,Table16,K50,0,"#,##0_);(#,##0)"
+2009-12-31,Purpose: international business,-100,%,2009,Annual,Published percentage change,,,reported,,,,Table16,E154,-1,0.0%
+2009-12-31,Purpose: international business,0,trips,2009,Annual,Value,,,reported,,,,Table16,E50,0,"#,##0"
+2009-12-31,Purpose: local business,-100,%,2009,Annual,Published percentage change,,,reported,,,,Table16,D154,-1,0.0%
+2009-12-31,Purpose: local business,0,trips,2009,Annual,Value,,,reported,,,,Table16,D50,0,"#,##0"
+2009-12-31,Purpose: other reasons,-100,%,2009,Annual,Published percentage change,,,reported,,,,Table16,F154,-1,0.0%
+2009-12-31,Purpose: other reasons,0,trips,2009,Annual,Value,,,reported,,,,Table16,F50,0,"#,##0"
+2009-12-31,Purpose: vacation,-100,%,2009,Annual,Published percentage change,,,reported,,,,Table16,C154,-1,0.0%
+2009-12-31,Purpose: vacation,0,trips,2009,Annual,Value,,,reported,,,,Table16,C50,0,"#,##0"
+2009-12-31,Total trips,-100,%,2009,Annual,Published percentage change,,,reported,,,,Table16,M154,-1,0.0%
+2009-12-31,Total trips,0,trips,2009,Annual,Value,,,reported,,,,Table16,M50,0,"#,##0_);(#,##0)"
+2009-12-31,Destination: Canada,,%,2009-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H153,#DIV/0!,0.0%
+2009-12-31,Destination: Canada,,trips,2009-Q4,Quarterly,Value,,,blank in source,,,,Table16,H49,,"#,##0_);(#,##0)"
+2009-12-31,Destination: UK,,%,2009-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I153,#DIV/0!,0.0%
+2009-12-31,Destination: UK,,trips,2009-Q4,Quarterly,Value,,,blank in source,,,,Table16,I49,,"#,##0_);(#,##0)"
+2009-12-31,Destination: USA,,%,2009-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G153,#DIV/0!,0.0%
+2009-12-31,Destination: USA,,trips,2009-Q4,Quarterly,Value,,,blank in source,,,,Table16,G49,,"#,##0_);(#,##0)"
+2009-12-31,Destination: other countries,,%,2009-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K153,#DIV/0!,0.0%
+2009-12-31,Destination: other countries,,trips,2009-Q4,Quarterly,Value,,,blank in source,,,,Table16,K49,,"#,##0_);(#,##0)"
+2009-12-31,Purpose: international business,,%,2009-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E153,#DIV/0!,0.0%
+2009-12-31,Purpose: international business,,trips,2009-Q4,Quarterly,Value,,,blank in source,,,,Table16,E49,,"#,##0"
+2009-12-31,Purpose: local business,,%,2009-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D153,#DIV/0!,0.0%
+2009-12-31,Purpose: local business,,trips,2009-Q4,Quarterly,Value,,,blank in source,,,,Table16,D49,,"#,##0"
+2009-12-31,Purpose: other reasons,,%,2009-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F153,#DIV/0!,0.0%
+2009-12-31,Purpose: other reasons,,trips,2009-Q4,Quarterly,Value,,,blank in source,,,,Table16,F49,,"#,##0"
+2009-12-31,Purpose: vacation,,%,2009-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C153,#DIV/0!,0.0%
+2009-12-31,Purpose: vacation,,trips,2009-Q4,Quarterly,Value,,,blank in source,,,,Table16,C49,,"#,##0"
+2009-12-31,Total trips,,%,2009-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M153,#DIV/0!,0.0%
+2009-12-31,Total trips,0,trips,2009-Q4,Quarterly,Value,,,reported,,,,Table16,M49,0,"#,##0_);(#,##0)"
+2010-03-31,Destination: Canada,,%,2010-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H156,#DIV/0!,0.0%
+2010-03-31,Destination: Canada,,trips,2010-Q1,Quarterly,Value,,,blank in source,,,,Table16,H52,,"#,##0_);(#,##0)"
+2010-03-31,Destination: UK,,%,2010-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I156,#DIV/0!,0.0%
+2010-03-31,Destination: UK,,trips,2010-Q1,Quarterly,Value,,,blank in source,,,,Table16,I52,,"#,##0_);(#,##0)"
+2010-03-31,Destination: USA,,%,2010-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G156,#DIV/0!,0.0%
+2010-03-31,Destination: USA,,trips,2010-Q1,Quarterly,Value,,,blank in source,,,,Table16,G52,,"#,##0_);(#,##0)"
+2010-03-31,Destination: other countries,,%,2010-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K156,#DIV/0!,0.0%
+2010-03-31,Destination: other countries,,trips,2010-Q1,Quarterly,Value,,,blank in source,,,,Table16,K52,,"#,##0_);(#,##0)"
+2010-03-31,Purpose: international business,,%,2010-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E156,#DIV/0!,0.0%
+2010-03-31,Purpose: international business,,trips,2010-Q1,Quarterly,Value,,,blank in source,,,,Table16,E52,,"#,##0"
+2010-03-31,Purpose: local business,,%,2010-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D156,#DIV/0!,0.0%
+2010-03-31,Purpose: local business,,trips,2010-Q1,Quarterly,Value,,,blank in source,,,,Table16,D52,,"#,##0"
+2010-03-31,Purpose: other reasons,,%,2010-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F156,#DIV/0!,0.0%
+2010-03-31,Purpose: other reasons,,trips,2010-Q1,Quarterly,Value,,,blank in source,,,,Table16,F52,,"#,##0"
+2010-03-31,Purpose: vacation,,%,2010-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C156,#DIV/0!,0.0%
+2010-03-31,Purpose: vacation,,trips,2010-Q1,Quarterly,Value,,,blank in source,,,,Table16,C52,,"#,##0"
+2010-03-31,Total trips,,%,2010-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M156,#DIV/0!,0.0%
+2010-03-31,Total trips,0,trips,2010-Q1,Quarterly,Value,,,reported,,,,Table16,M52,0,"#,##0_);(#,##0)"
+2010-06-30,Destination: Canada,,%,2010-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H157,#DIV/0!,0.0%
+2010-06-30,Destination: Canada,,trips,2010-Q2,Quarterly,Value,,,blank in source,,,,Table16,H53,,"#,##0_);(#,##0)"
+2010-06-30,Destination: UK,,%,2010-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I157,#DIV/0!,0.0%
+2010-06-30,Destination: UK,,trips,2010-Q2,Quarterly,Value,,,blank in source,,,,Table16,I53,,"#,##0_);(#,##0)"
+2010-06-30,Destination: USA,,%,2010-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G157,#DIV/0!,0.0%
+2010-06-30,Destination: USA,,trips,2010-Q2,Quarterly,Value,,,blank in source,,,,Table16,G53,,"#,##0_);(#,##0)"
+2010-06-30,Destination: other countries,,%,2010-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K157,#DIV/0!,0.0%
+2010-06-30,Destination: other countries,,trips,2010-Q2,Quarterly,Value,,,blank in source,,,,Table16,K53,,"#,##0_);(#,##0)"
+2010-06-30,Purpose: international business,,%,2010-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E157,#DIV/0!,0.0%
+2010-06-30,Purpose: international business,,trips,2010-Q2,Quarterly,Value,,,blank in source,,,,Table16,E53,,"#,##0"
+2010-06-30,Purpose: local business,,%,2010-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D157,#DIV/0!,0.0%
+2010-06-30,Purpose: local business,,trips,2010-Q2,Quarterly,Value,,,blank in source,,,,Table16,D53,,"#,##0"
+2010-06-30,Purpose: other reasons,,%,2010-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F157,#DIV/0!,0.0%
+2010-06-30,Purpose: other reasons,,trips,2010-Q2,Quarterly,Value,,,blank in source,,,,Table16,F53,,"#,##0"
+2010-06-30,Purpose: vacation,,%,2010-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C157,#DIV/0!,0.0%
+2010-06-30,Purpose: vacation,,trips,2010-Q2,Quarterly,Value,,,blank in source,,,,Table16,C53,,"#,##0"
+2010-06-30,Total trips,,%,2010-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M157,#DIV/0!,0.0%
+2010-06-30,Total trips,0,trips,2010-Q2,Quarterly,Value,,,reported,,,,Table16,M53,0,"#,##0_);(#,##0)"
+2010-09-30,Destination: Canada,,%,2010-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H158,#DIV/0!,0.0%
+2010-09-30,Destination: Canada,,trips,2010-Q3,Quarterly,Value,,,blank in source,,,,Table16,H54,,"#,##0_);(#,##0)"
+2010-09-30,Destination: UK,,%,2010-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I158,#DIV/0!,0.0%
+2010-09-30,Destination: UK,,trips,2010-Q3,Quarterly,Value,,,blank in source,,,,Table16,I54,,"#,##0_);(#,##0)"
+2010-09-30,Destination: USA,,%,2010-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G158,#DIV/0!,0.0%
+2010-09-30,Destination: USA,,trips,2010-Q3,Quarterly,Value,,,blank in source,,,,Table16,G54,,"#,##0_);(#,##0)"
+2010-09-30,Destination: other countries,,%,2010-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K158,#DIV/0!,0.0%
+2010-09-30,Destination: other countries,,trips,2010-Q3,Quarterly,Value,,,blank in source,,,,Table16,K54,,"#,##0_);(#,##0)"
+2010-09-30,Purpose: international business,,%,2010-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E158,#DIV/0!,0.0%
+2010-09-30,Purpose: international business,,trips,2010-Q3,Quarterly,Value,,,blank in source,,,,Table16,E54,,"#,##0"
+2010-09-30,Purpose: local business,,%,2010-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D158,#DIV/0!,0.0%
+2010-09-30,Purpose: local business,,trips,2010-Q3,Quarterly,Value,,,blank in source,,,,Table16,D54,,"#,##0"
+2010-09-30,Purpose: other reasons,,%,2010-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F158,#DIV/0!,0.0%
+2010-09-30,Purpose: other reasons,,trips,2010-Q3,Quarterly,Value,,,blank in source,,,,Table16,F54,,"#,##0"
+2010-09-30,Purpose: vacation,,%,2010-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C158,#DIV/0!,0.0%
+2010-09-30,Purpose: vacation,,trips,2010-Q3,Quarterly,Value,,,blank in source,,,,Table16,C54,,"#,##0"
+2010-09-30,Total trips,,%,2010-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M158,#DIV/0!,0.0%
+2010-09-30,Total trips,0,trips,2010-Q3,Quarterly,Value,,,reported,,,,Table16,M54,0,"#,##0_);(#,##0)"
+2010-12-31,Destination: Canada,,%,2010,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,H160,#DIV/0!,0.0%
+2010-12-31,Destination: Canada,0,trips,2010,Annual,Value,,,reported,,,,Table16,H56,0,"#,##0_);(#,##0)"
+2010-12-31,Destination: UK,,%,2010,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,I160,#DIV/0!,0.0%
+2010-12-31,Destination: UK,0,trips,2010,Annual,Value,,,reported,,,,Table16,I56,0,"#,##0_);(#,##0)"
+2010-12-31,Destination: USA,,%,2010,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,G160,#DIV/0!,0.0%
+2010-12-31,Destination: USA,0,trips,2010,Annual,Value,,,reported,,,,Table16,G56,0,"#,##0_);(#,##0)"
+2010-12-31,Destination: other countries,,%,2010,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,K160,#DIV/0!,0.0%
+2010-12-31,Destination: other countries,0,trips,2010,Annual,Value,,,reported,,,,Table16,K56,0,"#,##0_);(#,##0)"
+2010-12-31,Purpose: international business,,%,2010,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,E160,#DIV/0!,0.0%
+2010-12-31,Purpose: international business,0,trips,2010,Annual,Value,,,reported,,,,Table16,E56,0,"#,##0"
+2010-12-31,Purpose: local business,,%,2010,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,D160,#DIV/0!,0.0%
+2010-12-31,Purpose: local business,0,trips,2010,Annual,Value,,,reported,,,,Table16,D56,0,"#,##0"
+2010-12-31,Purpose: other reasons,,%,2010,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,F160,#DIV/0!,0.0%
+2010-12-31,Purpose: other reasons,0,trips,2010,Annual,Value,,,reported,,,,Table16,F56,0,"#,##0"
+2010-12-31,Purpose: vacation,,%,2010,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,C160,#DIV/0!,0.0%
+2010-12-31,Purpose: vacation,0,trips,2010,Annual,Value,,,reported,,,,Table16,C56,0,"#,##0"
+2010-12-31,Total trips,,%,2010,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,M160,#DIV/0!,0.0%
+2010-12-31,Total trips,0,trips,2010,Annual,Value,,,reported,,,,Table16,M56,0,"#,##0_);(#,##0)"
+2010-12-31,Destination: Canada,,%,2010-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H159,#DIV/0!,0.0%
+2010-12-31,Destination: Canada,,trips,2010-Q4,Quarterly,Value,,,blank in source,,,,Table16,H55,,"#,##0_);(#,##0)"
+2010-12-31,Destination: UK,,%,2010-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I159,#DIV/0!,0.0%
+2010-12-31,Destination: UK,,trips,2010-Q4,Quarterly,Value,,,blank in source,,,,Table16,I55,,"#,##0_);(#,##0)"
+2010-12-31,Destination: USA,,%,2010-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G159,#DIV/0!,0.0%
+2010-12-31,Destination: USA,,trips,2010-Q4,Quarterly,Value,,,blank in source,,,,Table16,G55,,"#,##0_);(#,##0)"
+2010-12-31,Destination: other countries,,%,2010-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K159,#DIV/0!,0.0%
+2010-12-31,Destination: other countries,,trips,2010-Q4,Quarterly,Value,,,blank in source,,,,Table16,K55,,"#,##0_);(#,##0)"
+2010-12-31,Purpose: international business,,%,2010-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E159,#DIV/0!,0.0%
+2010-12-31,Purpose: international business,,trips,2010-Q4,Quarterly,Value,,,blank in source,,,,Table16,E55,,"#,##0"
+2010-12-31,Purpose: local business,,%,2010-Q4,Quarterly,Published percentage change,,,source error,#VALUE!,,,Table16,D159,#VALUE!,0.0%
+2010-12-31,Purpose: local business,,trips,2010-Q4,Quarterly,Value,,,blank in source,,,,Table16,D55, ,"#,##0"
+2010-12-31,Purpose: other reasons,,%,2010-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F159,#DIV/0!,0.0%
+2010-12-31,Purpose: other reasons,,trips,2010-Q4,Quarterly,Value,,,blank in source,,,,Table16,F55,,"#,##0"
+2010-12-31,Purpose: vacation,,%,2010-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C159,#DIV/0!,0.0%
+2010-12-31,Purpose: vacation,,trips,2010-Q4,Quarterly,Value,,,blank in source,,,,Table16,C55,,"#,##0"
+2010-12-31,Total trips,,%,2010-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M159,#DIV/0!,0.0%
+2010-12-31,Total trips,0,trips,2010-Q4,Quarterly,Value,,,reported,,,,Table16,M55,0,"#,##0_);(#,##0)"
+2011-03-31,Destination: Canada,,%,2011-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H162,#DIV/0!,0.0%
+2011-03-31,Destination: Canada,,trips,2011-Q1,Quarterly,Value,,,blank in source,,,,Table16,H58,,"#,##0_);(#,##0)"
+2011-03-31,Destination: UK,,%,2011-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I162,#DIV/0!,0.0%
+2011-03-31,Destination: UK,,trips,2011-Q1,Quarterly,Value,,,blank in source,,,,Table16,I58,,"#,##0_);(#,##0)"
+2011-03-31,Destination: USA,,%,2011-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G162,#DIV/0!,0.0%
+2011-03-31,Destination: USA,,trips,2011-Q1,Quarterly,Value,,,blank in source,,,,Table16,G58,,"#,##0_);(#,##0)"
+2011-03-31,Destination: other countries,,%,2011-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K162,#DIV/0!,0.0%
+2011-03-31,Destination: other countries,,trips,2011-Q1,Quarterly,Value,,,blank in source,,,,Table16,K58,,"#,##0_);(#,##0)"
+2011-03-31,Purpose: international business,,%,2011-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E162,#DIV/0!,0.0%
+2011-03-31,Purpose: international business,,trips,2011-Q1,Quarterly,Value,,,blank in source,,,,Table16,E58,,"#,##0"
+2011-03-31,Purpose: local business,,%,2011-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D162,#DIV/0!,0.0%
+2011-03-31,Purpose: local business,,trips,2011-Q1,Quarterly,Value,,,blank in source,,,,Table16,D58,,"#,##0"
+2011-03-31,Purpose: other reasons,,%,2011-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F162,#DIV/0!,0.0%
+2011-03-31,Purpose: other reasons,,trips,2011-Q1,Quarterly,Value,,,blank in source,,,,Table16,F58,,"#,##0"
+2011-03-31,Purpose: vacation,,%,2011-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C162,#DIV/0!,0.0%
+2011-03-31,Purpose: vacation,,trips,2011-Q1,Quarterly,Value,,,blank in source,,,,Table16,C58,,"#,##0"
+2011-03-31,Total trips,,%,2011-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M162,#DIV/0!,0.0%
+2011-03-31,Total trips,0,trips,2011-Q1,Quarterly,Value,,,reported,,,,Table16,M58,0,"#,##0_);(#,##0)"
+2011-06-30,Destination: Canada,,%,2011-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H163,#DIV/0!,0.0%
+2011-06-30,Destination: Canada,,trips,2011-Q2,Quarterly,Value,,,blank in source,,,,Table16,H59,,"#,##0_);(#,##0)"
+2011-06-30,Destination: UK,,%,2011-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I163,#DIV/0!,0.0%
+2011-06-30,Destination: UK,,trips,2011-Q2,Quarterly,Value,,,blank in source,,,,Table16,I59,,"#,##0_);(#,##0)"
+2011-06-30,Destination: USA,,%,2011-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G163,#DIV/0!,0.0%
+2011-06-30,Destination: USA,,trips,2011-Q2,Quarterly,Value,,,blank in source,,,,Table16,G59,,"#,##0_);(#,##0)"
+2011-06-30,Destination: other countries,,%,2011-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K163,#DIV/0!,0.0%
+2011-06-30,Destination: other countries,,trips,2011-Q2,Quarterly,Value,,,blank in source,,,,Table16,K59,,"#,##0_);(#,##0)"
+2011-06-30,Purpose: international business,,%,2011-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E163,#DIV/0!,0.0%
+2011-06-30,Purpose: international business,,trips,2011-Q2,Quarterly,Value,,,blank in source,,,,Table16,E59,,"#,##0"
+2011-06-30,Purpose: local business,,%,2011-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D163,#DIV/0!,0.0%
+2011-06-30,Purpose: local business,,trips,2011-Q2,Quarterly,Value,,,blank in source,,,,Table16,D59,,"#,##0"
+2011-06-30,Purpose: other reasons,,%,2011-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F163,#DIV/0!,0.0%
+2011-06-30,Purpose: other reasons,,trips,2011-Q2,Quarterly,Value,,,blank in source,,,,Table16,F59,,"#,##0"
+2011-06-30,Purpose: vacation,,%,2011-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C163,#DIV/0!,0.0%
+2011-06-30,Purpose: vacation,,trips,2011-Q2,Quarterly,Value,,,blank in source,,,,Table16,C59,,"#,##0"
+2011-06-30,Total trips,,%,2011-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M163,#DIV/0!,0.0%
+2011-06-30,Total trips,0,trips,2011-Q2,Quarterly,Value,,,reported,,,,Table16,M59,0,"#,##0_);(#,##0)"
+2011-09-30,Destination: Canada,,%,2011-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H164,#DIV/0!,0.0%
+2011-09-30,Destination: Canada,,trips,2011-Q3,Quarterly,Value,,,blank in source,,,,Table16,H60,,"#,##0_);(#,##0)"
+2011-09-30,Destination: UK,,%,2011-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I164,#DIV/0!,0.0%
+2011-09-30,Destination: UK,,trips,2011-Q3,Quarterly,Value,,,blank in source,,,,Table16,I60,,"#,##0_);(#,##0)"
+2011-09-30,Destination: USA,,%,2011-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G164,#DIV/0!,0.0%
+2011-09-30,Destination: USA,,trips,2011-Q3,Quarterly,Value,,,blank in source,,,,Table16,G60,,"#,##0_);(#,##0)"
+2011-09-30,Destination: other countries,,%,2011-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K164,#DIV/0!,0.0%
+2011-09-30,Destination: other countries,,trips,2011-Q3,Quarterly,Value,,,blank in source,,,,Table16,K60,,"#,##0_);(#,##0)"
+2011-09-30,Purpose: international business,,%,2011-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E164,#DIV/0!,0.0%
+2011-09-30,Purpose: international business,,trips,2011-Q3,Quarterly,Value,,,blank in source,,,,Table16,E60,,"#,##0"
+2011-09-30,Purpose: local business,,%,2011-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D164,#DIV/0!,0.0%
+2011-09-30,Purpose: local business,,trips,2011-Q3,Quarterly,Value,,,blank in source,,,,Table16,D60,,"#,##0"
+2011-09-30,Purpose: other reasons,,%,2011-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F164,#DIV/0!,0.0%
+2011-09-30,Purpose: other reasons,,trips,2011-Q3,Quarterly,Value,,,blank in source,,,,Table16,F60,,"#,##0"
+2011-09-30,Purpose: vacation,,%,2011-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C164,#DIV/0!,0.0%
+2011-09-30,Purpose: vacation,,trips,2011-Q3,Quarterly,Value,,,blank in source,,,,Table16,C60,,"#,##0"
+2011-09-30,Total trips,,%,2011-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M164,#DIV/0!,0.0%
+2011-09-30,Total trips,0,trips,2011-Q3,Quarterly,Value,,,reported,,,,Table16,M60,0,"#,##0_);(#,##0)"
+2011-12-31,Destination: Canada,,%,2011,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,H166,#DIV/0!,0.0%
+2011-12-31,Destination: Canada,0,trips,2011,Annual,Value,,,reported,,,,Table16,H62,0,"#,##0_);(#,##0)"
+2011-12-31,Destination: UK,,%,2011,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,I166,#DIV/0!,0.0%
+2011-12-31,Destination: UK,0,trips,2011,Annual,Value,,,reported,,,,Table16,I62,0,"#,##0_);(#,##0)"
+2011-12-31,Destination: USA,,%,2011,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,G166,#DIV/0!,0.0%
+2011-12-31,Destination: USA,0,trips,2011,Annual,Value,,,reported,,,,Table16,G62,0,"#,##0_);(#,##0)"
+2011-12-31,Destination: other countries,,%,2011,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,K166,#DIV/0!,0.0%
+2011-12-31,Destination: other countries,0,trips,2011,Annual,Value,,,reported,,,,Table16,K62,0,"#,##0_);(#,##0)"
+2011-12-31,Purpose: international business,,%,2011,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,E166,#DIV/0!,0.0%
+2011-12-31,Purpose: international business,0,trips,2011,Annual,Value,,,reported,,,,Table16,E62,0,"#,##0"
+2011-12-31,Purpose: local business,,%,2011,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,D166,#DIV/0!,0.0%
+2011-12-31,Purpose: local business,0,trips,2011,Annual,Value,,,reported,,,,Table16,D62,0,"#,##0"
+2011-12-31,Purpose: other reasons,,%,2011,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,F166,#DIV/0!,0.0%
+2011-12-31,Purpose: other reasons,0,trips,2011,Annual,Value,,,reported,,,,Table16,F62,0,"#,##0"
+2011-12-31,Purpose: vacation,,%,2011,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,C166,#DIV/0!,0.0%
+2011-12-31,Purpose: vacation,0,trips,2011,Annual,Value,,,reported,,,,Table16,C62,0,"#,##0"
+2011-12-31,Total trips,,%,2011,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,M166,#DIV/0!,0.0%
+2011-12-31,Total trips,0,trips,2011,Annual,Value,,,reported,,,,Table16,M62,0,"#,##0_);(#,##0)"
+2011-12-31,Destination: Canada,,%,2011-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H165,#DIV/0!,0.0%
+2011-12-31,Destination: Canada,,trips,2011-Q4,Quarterly,Value,,,blank in source,,,,Table16,H61,,"#,##0_);(#,##0)"
+2011-12-31,Destination: UK,,%,2011-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I165,#DIV/0!,0.0%
+2011-12-31,Destination: UK,,trips,2011-Q4,Quarterly,Value,,,blank in source,,,,Table16,I61,,"#,##0_);(#,##0)"
+2011-12-31,Destination: USA,,%,2011-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G165,#DIV/0!,0.0%
+2011-12-31,Destination: USA,,trips,2011-Q4,Quarterly,Value,,,blank in source,,,,Table16,G61,,"#,##0_);(#,##0)"
+2011-12-31,Destination: other countries,,%,2011-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K165,#DIV/0!,0.0%
+2011-12-31,Destination: other countries,,trips,2011-Q4,Quarterly,Value,,,blank in source,,,,Table16,K61,,"#,##0_);(#,##0)"
+2011-12-31,Purpose: international business,,%,2011-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E165,#DIV/0!,0.0%
+2011-12-31,Purpose: international business,,trips,2011-Q4,Quarterly,Value,,,blank in source,,,,Table16,E61,,"#,##0"
+2011-12-31,Purpose: local business,,%,2011-Q4,Quarterly,Published percentage change,,,source error,#VALUE!,,,Table16,D165,#VALUE!,0.0%
+2011-12-31,Purpose: local business,,trips,2011-Q4,Quarterly,Value,,,blank in source,,,,Table16,D61,,"#,##0"
+2011-12-31,Purpose: other reasons,,%,2011-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F165,#DIV/0!,0.0%
+2011-12-31,Purpose: other reasons,,trips,2011-Q4,Quarterly,Value,,,blank in source,,,,Table16,F61,,"#,##0"
+2011-12-31,Purpose: vacation,,%,2011-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C165,#DIV/0!,0.0%
+2011-12-31,Purpose: vacation,,trips,2011-Q4,Quarterly,Value,,,blank in source,,,,Table16,C61,,"#,##0"
+2011-12-31,Total trips,,%,2011-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M165,#DIV/0!,0.0%
+2011-12-31,Total trips,0,trips,2011-Q4,Quarterly,Value,,,reported,,,,Table16,M61,0,"#,##0_);(#,##0)"
+2012-03-31,Destination: Canada,,%,2012-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H168,#DIV/0!,0.0%
+2012-03-31,Destination: Canada,,trips,2012-Q1,Quarterly,Value,,,blank in source,,,,Table16,H64,,"#,##0_);(#,##0)"
+2012-03-31,Destination: UK,,%,2012-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I168,#DIV/0!,0.0%
+2012-03-31,Destination: UK,,trips,2012-Q1,Quarterly,Value,,,blank in source,,,,Table16,I64,,"#,##0_);(#,##0)"
+2012-03-31,Destination: USA,,%,2012-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G168,#DIV/0!,0.0%
+2012-03-31,Destination: USA,,trips,2012-Q1,Quarterly,Value,,,blank in source,,,,Table16,G64,,"#,##0_);(#,##0)"
+2012-03-31,Destination: other countries,,%,2012-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K168,#DIV/0!,0.0%
+2012-03-31,Destination: other countries,,trips,2012-Q1,Quarterly,Value,,,blank in source,,,,Table16,K64,,"#,##0_);(#,##0)"
+2012-03-31,Purpose: international business,,%,2012-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E168,#DIV/0!,0.0%
+2012-03-31,Purpose: international business,,trips,2012-Q1,Quarterly,Value,,,blank in source,,,,Table16,E64,,"#,##0"
+2012-03-31,Purpose: local business,,%,2012-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D168,#DIV/0!,0.0%
+2012-03-31,Purpose: local business,,trips,2012-Q1,Quarterly,Value,,,blank in source,,,,Table16,D64,,"#,##0"
+2012-03-31,Purpose: other reasons,,%,2012-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F168,#DIV/0!,0.0%
+2012-03-31,Purpose: other reasons,,trips,2012-Q1,Quarterly,Value,,,blank in source,,,,Table16,F64,,"#,##0"
+2012-03-31,Purpose: vacation,,%,2012-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C168,#DIV/0!,0.0%
+2012-03-31,Purpose: vacation,,trips,2012-Q1,Quarterly,Value,,,blank in source,,,,Table16,C64,,"#,##0"
+2012-03-31,Total trips,,%,2012-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M168,#DIV/0!,0.0%
+2012-03-31,Total trips,0,trips,2012-Q1,Quarterly,Value,,,reported,,,,Table16,M64,0,"#,##0_);(#,##0)"
+2012-06-30,Destination: Canada,,%,2012-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H169,#DIV/0!,0.0%
+2012-06-30,Destination: Canada,,trips,2012-Q2,Quarterly,Value,,,blank in source,,,,Table16,H65,,"#,##0_);(#,##0)"
+2012-06-30,Destination: UK,,%,2012-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I169,#DIV/0!,0.0%
+2012-06-30,Destination: UK,,trips,2012-Q2,Quarterly,Value,,,blank in source,,,,Table16,I65,,"#,##0_);(#,##0)"
+2012-06-30,Destination: USA,,%,2012-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G169,#DIV/0!,0.0%
+2012-06-30,Destination: USA,,trips,2012-Q2,Quarterly,Value,,,blank in source,,,,Table16,G65,,"#,##0_);(#,##0)"
+2012-06-30,Destination: other countries,,%,2012-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K169,#DIV/0!,0.0%
+2012-06-30,Destination: other countries,,trips,2012-Q2,Quarterly,Value,,,blank in source,,,,Table16,K65,,"#,##0_);(#,##0)"
+2012-06-30,Purpose: international business,,%,2012-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E169,#DIV/0!,0.0%
+2012-06-30,Purpose: international business,,trips,2012-Q2,Quarterly,Value,,,blank in source,,,,Table16,E65,,"#,##0"
+2012-06-30,Purpose: local business,,%,2012-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D169,#DIV/0!,0.0%
+2012-06-30,Purpose: local business,,trips,2012-Q2,Quarterly,Value,,,blank in source,,,,Table16,D65,,"#,##0"
+2012-06-30,Purpose: other reasons,,%,2012-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F169,#DIV/0!,0.0%
+2012-06-30,Purpose: other reasons,,trips,2012-Q2,Quarterly,Value,,,blank in source,,,,Table16,F65,,"#,##0"
+2012-06-30,Purpose: vacation,,%,2012-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C169,#DIV/0!,0.0%
+2012-06-30,Purpose: vacation,,trips,2012-Q2,Quarterly,Value,,,blank in source,,,,Table16,C65,,"#,##0"
+2012-06-30,Total trips,,%,2012-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M169,#DIV/0!,0.0%
+2012-06-30,Total trips,0,trips,2012-Q2,Quarterly,Value,,,reported,,,,Table16,M65,0,"#,##0_);(#,##0)"
+2012-09-30,Destination: Canada,,%,2012-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H170,#DIV/0!,0.0%
+2012-09-30,Destination: Canada,,trips,2012-Q3,Quarterly,Value,,,blank in source,,,,Table16,H66,,"#,##0_);(#,##0)"
+2012-09-30,Destination: UK,,%,2012-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I170,#DIV/0!,0.0%
+2012-09-30,Destination: UK,,trips,2012-Q3,Quarterly,Value,,,blank in source,,,,Table16,I66,,"#,##0_);(#,##0)"
+2012-09-30,Destination: USA,,%,2012-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G170,#DIV/0!,0.0%
+2012-09-30,Destination: USA,,trips,2012-Q3,Quarterly,Value,,,blank in source,,,,Table16,G66,,"#,##0_);(#,##0)"
+2012-09-30,Destination: other countries,,%,2012-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K170,#DIV/0!,0.0%
+2012-09-30,Destination: other countries,,trips,2012-Q3,Quarterly,Value,,,blank in source,,,,Table16,K66,,"#,##0_);(#,##0)"
+2012-09-30,Purpose: international business,,%,2012-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E170,#DIV/0!,0.0%
+2012-09-30,Purpose: international business,,trips,2012-Q3,Quarterly,Value,,,blank in source,,,,Table16,E66,,"#,##0"
+2012-09-30,Purpose: local business,,%,2012-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D170,#DIV/0!,0.0%
+2012-09-30,Purpose: local business,,trips,2012-Q3,Quarterly,Value,,,blank in source,,,,Table16,D66,,"#,##0"
+2012-09-30,Purpose: other reasons,,%,2012-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F170,#DIV/0!,0.0%
+2012-09-30,Purpose: other reasons,,trips,2012-Q3,Quarterly,Value,,,blank in source,,,,Table16,F66,,"#,##0"
+2012-09-30,Purpose: vacation,,%,2012-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C170,#DIV/0!,0.0%
+2012-09-30,Purpose: vacation,,trips,2012-Q3,Quarterly,Value,,,blank in source,,,,Table16,C66,,"#,##0"
+2012-09-30,Total trips,,%,2012-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M170,#DIV/0!,0.0%
+2012-09-30,Total trips,0,trips,2012-Q3,Quarterly,Value,,,reported,,,,Table16,M66,0,"#,##0_);(#,##0)"
+2012-12-31,Destination: Canada,,%,2012,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,H172,#DIV/0!,0.0%
+2012-12-31,Destination: Canada,0,trips,2012,Annual,Value,,,reported,,,,Table16,H68,0,"#,##0_);(#,##0)"
+2012-12-31,Destination: UK,,%,2012,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,I172,#DIV/0!,0.0%
+2012-12-31,Destination: UK,0,trips,2012,Annual,Value,,,reported,,,,Table16,I68,0,"#,##0_);(#,##0)"
+2012-12-31,Destination: USA,,%,2012,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,G172,#DIV/0!,0.0%
+2012-12-31,Destination: USA,0,trips,2012,Annual,Value,,,reported,,,,Table16,G68,0,"#,##0_);(#,##0)"
+2012-12-31,Destination: other countries,,%,2012,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,K172,#DIV/0!,0.0%
+2012-12-31,Destination: other countries,0,trips,2012,Annual,Value,,,reported,,,,Table16,K68,0,"#,##0_);(#,##0)"
+2012-12-31,Purpose: international business,,%,2012,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,E172,#DIV/0!,0.0%
+2012-12-31,Purpose: international business,0,trips,2012,Annual,Value,,,reported,,,,Table16,E68,0,"#,##0"
+2012-12-31,Purpose: local business,,%,2012,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,D172,#DIV/0!,0.0%
+2012-12-31,Purpose: local business,0,trips,2012,Annual,Value,,,reported,,,,Table16,D68,0,"#,##0"
+2012-12-31,Purpose: other reasons,,%,2012,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,F172,#DIV/0!,0.0%
+2012-12-31,Purpose: other reasons,0,trips,2012,Annual,Value,,,reported,,,,Table16,F68,0,"#,##0"
+2012-12-31,Purpose: vacation,,%,2012,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,C172,#DIV/0!,0.0%
+2012-12-31,Purpose: vacation,0,trips,2012,Annual,Value,,,reported,,,,Table16,C68,0,"#,##0"
+2012-12-31,Total trips,,%,2012,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,M172,#DIV/0!,0.0%
+2012-12-31,Total trips,0,trips,2012,Annual,Value,,,reported,,,,Table16,M68,0,"#,##0_);(#,##0)"
+2012-12-31,Destination: Canada,,%,2012-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H171,#DIV/0!,0.0%
+2012-12-31,Destination: Canada,,trips,2012-Q4,Quarterly,Value,,,blank in source,,,,Table16,H67,,"#,##0_);(#,##0)"
+2012-12-31,Destination: UK,,%,2012-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I171,#DIV/0!,0.0%
+2012-12-31,Destination: UK,,trips,2012-Q4,Quarterly,Value,,,blank in source,,,,Table16,I67,,"#,##0_);(#,##0)"
+2012-12-31,Destination: USA,,%,2012-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G171,#DIV/0!,0.0%
+2012-12-31,Destination: USA,,trips,2012-Q4,Quarterly,Value,,,blank in source,,,,Table16,G67,,"#,##0_);(#,##0)"
+2012-12-31,Destination: other countries,,%,2012-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K171,#DIV/0!,0.0%
+2012-12-31,Destination: other countries,,trips,2012-Q4,Quarterly,Value,,,blank in source,,,,Table16,K67,,"#,##0_);(#,##0)"
+2012-12-31,Purpose: international business,,%,2012-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E171,#DIV/0!,0.0%
+2012-12-31,Purpose: international business,,trips,2012-Q4,Quarterly,Value,,,blank in source,,,,Table16,E67,,"#,##0"
+2012-12-31,Purpose: local business,,%,2012-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D171,#DIV/0!,0.0%
+2012-12-31,Purpose: local business,,trips,2012-Q4,Quarterly,Value,,,blank in source,,,,Table16,D67,,"#,##0"
+2012-12-31,Purpose: other reasons,,%,2012-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F171,#DIV/0!,0.0%
+2012-12-31,Purpose: other reasons,,trips,2012-Q4,Quarterly,Value,,,blank in source,,,,Table16,F67,,"#,##0"
+2012-12-31,Purpose: vacation,,%,2012-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C171,#DIV/0!,0.0%
+2012-12-31,Purpose: vacation,,trips,2012-Q4,Quarterly,Value,,,blank in source,,,,Table16,C67,,"#,##0"
+2012-12-31,Total trips,,%,2012-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M171,#DIV/0!,0.0%
+2012-12-31,Total trips,0,trips,2012-Q4,Quarterly,Value,,,reported,,,,Table16,M67,0,"#,##0_);(#,##0)"
+2013-03-31,Destination: Canada,,%,2013-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H174,#DIV/0!,0.0%
+2013-03-31,Destination: Canada,,trips,2013-Q1,Quarterly,Value,,,blank in source,,,,Table16,H70,,"#,##0_);(#,##0)"
+2013-03-31,Destination: UK,,%,2013-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I174,#DIV/0!,0.0%
+2013-03-31,Destination: UK,,trips,2013-Q1,Quarterly,Value,,,blank in source,,,,Table16,I70,,"#,##0_);(#,##0)"
+2013-03-31,Destination: USA,,%,2013-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G174,#DIV/0!,0.0%
+2013-03-31,Destination: USA,,trips,2013-Q1,Quarterly,Value,,,blank in source,,,,Table16,G70,,"#,##0_);(#,##0)"
+2013-03-31,Destination: other countries,,%,2013-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K174,#DIV/0!,0.0%
+2013-03-31,Destination: other countries,,trips,2013-Q1,Quarterly,Value,,,blank in source,,,,Table16,K70,,"#,##0_);(#,##0)"
+2013-03-31,Purpose: international business,,%,2013-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E174,#DIV/0!,0.0%
+2013-03-31,Purpose: international business,,trips,2013-Q1,Quarterly,Value,,,blank in source,,,,Table16,E70,,"#,##0"
+2013-03-31,Purpose: local business,,%,2013-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D174,#DIV/0!,0.0%
+2013-03-31,Purpose: local business,,trips,2013-Q1,Quarterly,Value,,,blank in source,,,,Table16,D70,,"#,##0"
+2013-03-31,Purpose: other reasons,,%,2013-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F174,#DIV/0!,0.0%
+2013-03-31,Purpose: other reasons,,trips,2013-Q1,Quarterly,Value,,,blank in source,,,,Table16,F70,,"#,##0"
+2013-03-31,Purpose: vacation,,%,2013-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C174,#DIV/0!,0.0%
+2013-03-31,Purpose: vacation,,trips,2013-Q1,Quarterly,Value,,,blank in source,,,,Table16,C70,,"#,##0"
+2013-03-31,Total trips,,%,2013-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M174,#DIV/0!,0.0%
+2013-03-31,Total trips,0,trips,2013-Q1,Quarterly,Value,,,reported,,,,Table16,M70,0,"#,##0_);(#,##0)"
+2013-06-30,Destination: Canada,,%,2013-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H175,#DIV/0!,0.0%
+2013-06-30,Destination: Canada,,trips,2013-Q2,Quarterly,Value,,,blank in source,,,,Table16,H71,,"#,##0_);(#,##0)"
+2013-06-30,Destination: UK,,%,2013-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I175,#DIV/0!,0.0%
+2013-06-30,Destination: UK,,trips,2013-Q2,Quarterly,Value,,,blank in source,,,,Table16,I71,,"#,##0_);(#,##0)"
+2013-06-30,Destination: USA,,%,2013-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G175,#DIV/0!,0.0%
+2013-06-30,Destination: USA,,trips,2013-Q2,Quarterly,Value,,,blank in source,,,,Table16,G71,,"#,##0_);(#,##0)"
+2013-06-30,Destination: other countries,,%,2013-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K175,#DIV/0!,0.0%
+2013-06-30,Destination: other countries,,trips,2013-Q2,Quarterly,Value,,,blank in source,,,,Table16,K71,,"#,##0_);(#,##0)"
+2013-06-30,Purpose: international business,,%,2013-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E175,#DIV/0!,0.0%
+2013-06-30,Purpose: international business,,trips,2013-Q2,Quarterly,Value,,,blank in source,,,,Table16,E71,,"#,##0"
+2013-06-30,Purpose: local business,,%,2013-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D175,#DIV/0!,0.0%
+2013-06-30,Purpose: local business,,trips,2013-Q2,Quarterly,Value,,,blank in source,,,,Table16,D71,,"#,##0"
+2013-06-30,Purpose: other reasons,,%,2013-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F175,#DIV/0!,0.0%
+2013-06-30,Purpose: other reasons,,trips,2013-Q2,Quarterly,Value,,,blank in source,,,,Table16,F71,,"#,##0"
+2013-06-30,Purpose: vacation,,%,2013-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C175,#DIV/0!,0.0%
+2013-06-30,Purpose: vacation,,trips,2013-Q2,Quarterly,Value,,,blank in source,,,,Table16,C71,,"#,##0"
+2013-06-30,Total trips,,%,2013-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M175,#DIV/0!,0.0%
+2013-06-30,Total trips,0,trips,2013-Q2,Quarterly,Value,,,reported,,,,Table16,M71,0,"#,##0_);(#,##0)"
+2013-09-30,Destination: Canada,,%,2013-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H176,#DIV/0!,0.0%
+2013-09-30,Destination: Canada,,trips,2013-Q3,Quarterly,Value,,,blank in source,,,,Table16,H72,,"#,##0_);(#,##0)"
+2013-09-30,Destination: UK,,%,2013-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I176,#DIV/0!,0.0%
+2013-09-30,Destination: UK,,trips,2013-Q3,Quarterly,Value,,,blank in source,,,,Table16,I72,,"#,##0_);(#,##0)"
+2013-09-30,Destination: USA,,%,2013-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G176,#DIV/0!,0.0%
+2013-09-30,Destination: USA,,trips,2013-Q3,Quarterly,Value,,,blank in source,,,,Table16,G72,,"#,##0_);(#,##0)"
+2013-09-30,Destination: other countries,,%,2013-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K176,#DIV/0!,0.0%
+2013-09-30,Destination: other countries,,trips,2013-Q3,Quarterly,Value,,,blank in source,,,,Table16,K72,,"#,##0_);(#,##0)"
+2013-09-30,Purpose: international business,,%,2013-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E176,#DIV/0!,0.0%
+2013-09-30,Purpose: international business,,trips,2013-Q3,Quarterly,Value,,,blank in source,,,,Table16,E72,,"#,##0"
+2013-09-30,Purpose: local business,,%,2013-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D176,#DIV/0!,0.0%
+2013-09-30,Purpose: local business,,trips,2013-Q3,Quarterly,Value,,,blank in source,,,,Table16,D72,,"#,##0"
+2013-09-30,Purpose: other reasons,,%,2013-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F176,#DIV/0!,0.0%
+2013-09-30,Purpose: other reasons,,trips,2013-Q3,Quarterly,Value,,,blank in source,,,,Table16,F72,,"#,##0"
+2013-09-30,Purpose: vacation,,%,2013-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C176,#DIV/0!,0.0%
+2013-09-30,Purpose: vacation,,trips,2013-Q3,Quarterly,Value,,,blank in source,,,,Table16,C72,,"#,##0"
+2013-09-30,Total trips,,%,2013-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M176,#DIV/0!,0.0%
+2013-09-30,Total trips,0,trips,2013-Q3,Quarterly,Value,,,reported,,,,Table16,M72,0,"#,##0_);(#,##0)"
+2013-12-31,Destination: Canada,,%,2013,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,H178,#DIV/0!,0.0%
+2013-12-31,Destination: Canada,0,trips,2013,Annual,Value,,,reported,,,,Table16,H74,0,"#,##0_);(#,##0)"
+2013-12-31,Destination: UK,,%,2013,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,I178,#DIV/0!,0.0%
+2013-12-31,Destination: UK,0,trips,2013,Annual,Value,,,reported,,,,Table16,I74,0,"#,##0_);(#,##0)"
+2013-12-31,Destination: USA,,%,2013,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,G178,#DIV/0!,0.0%
+2013-12-31,Destination: USA,0,trips,2013,Annual,Value,,,reported,,,,Table16,G74,0,"#,##0_);(#,##0)"
+2013-12-31,Destination: other countries,,%,2013,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,K178,#DIV/0!,0.0%
+2013-12-31,Destination: other countries,0,trips,2013,Annual,Value,,,reported,,,,Table16,K74,0,"#,##0_);(#,##0)"
+2013-12-31,Purpose: international business,,%,2013,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,E178,#DIV/0!,0.0%
+2013-12-31,Purpose: international business,0,trips,2013,Annual,Value,,,reported,,,,Table16,E74,0,"#,##0"
+2013-12-31,Purpose: local business,,%,2013,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,D178,#DIV/0!,0.0%
+2013-12-31,Purpose: local business,0,trips,2013,Annual,Value,,,reported,,,,Table16,D74,0,"#,##0"
+2013-12-31,Purpose: other reasons,,%,2013,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,F178,#DIV/0!,0.0%
+2013-12-31,Purpose: other reasons,0,trips,2013,Annual,Value,,,reported,,,,Table16,F74,0,"#,##0"
+2013-12-31,Purpose: vacation,,%,2013,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,C178,#DIV/0!,0.0%
+2013-12-31,Purpose: vacation,0,trips,2013,Annual,Value,,,reported,,,,Table16,C74,0,"#,##0"
+2013-12-31,Total trips,,%,2013,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,M178,#DIV/0!,0.0%
+2013-12-31,Total trips,0,trips,2013,Annual,Value,,,reported,,,,Table16,M74,0,"#,##0_);(#,##0)"
+2013-12-31,Destination: Canada,,%,2013-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H177,#DIV/0!,0.0%
+2013-12-31,Destination: Canada,,trips,2013-Q4,Quarterly,Value,,,blank in source,,,,Table16,H73,,"#,##0_);(#,##0)"
+2013-12-31,Destination: UK,,%,2013-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I177,#DIV/0!,0.0%
+2013-12-31,Destination: UK,,trips,2013-Q4,Quarterly,Value,,,blank in source,,,,Table16,I73,,"#,##0_);(#,##0)"
+2013-12-31,Destination: USA,,%,2013-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G177,#DIV/0!,0.0%
+2013-12-31,Destination: USA,,trips,2013-Q4,Quarterly,Value,,,blank in source,,,,Table16,G73,,"#,##0_);(#,##0)"
+2013-12-31,Destination: other countries,,%,2013-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K177,#DIV/0!,0.0%
+2013-12-31,Destination: other countries,,trips,2013-Q4,Quarterly,Value,,,blank in source,,,,Table16,K73,,"#,##0_);(#,##0)"
+2013-12-31,Purpose: international business,,%,2013-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E177,#DIV/0!,0.0%
+2013-12-31,Purpose: international business,,trips,2013-Q4,Quarterly,Value,,,blank in source,,,,Table16,E73,,"#,##0"
+2013-12-31,Purpose: local business,,%,2013-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D177,#DIV/0!,0.0%
+2013-12-31,Purpose: local business,,trips,2013-Q4,Quarterly,Value,,,blank in source,,,,Table16,D73,,"#,##0"
+2013-12-31,Purpose: other reasons,,%,2013-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F177,#DIV/0!,0.0%
+2013-12-31,Purpose: other reasons,,trips,2013-Q4,Quarterly,Value,,,blank in source,,,,Table16,F73,,"#,##0"
+2013-12-31,Purpose: vacation,,%,2013-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C177,#DIV/0!,0.0%
+2013-12-31,Purpose: vacation,,trips,2013-Q4,Quarterly,Value,,,blank in source,,,,Table16,C73,,"#,##0"
+2013-12-31,Total trips,,%,2013-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M177,#DIV/0!,0.0%
+2013-12-31,Total trips,0,trips,2013-Q4,Quarterly,Value,,,reported,,,,Table16,M73,0,"#,##0_);(#,##0)"
+2014-03-31,Destination: Canada,,%,2014-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H180,#DIV/0!,0.0%
+2014-03-31,Destination: Canada,,trips,2014-Q1,Quarterly,Value,,,blank in source,,,,Table16,H76,,"#,##0_);(#,##0)"
+2014-03-31,Destination: UK,,%,2014-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I180,#DIV/0!,0.0%
+2014-03-31,Destination: UK,,trips,2014-Q1,Quarterly,Value,,,blank in source,,,,Table16,I76,,"#,##0_);(#,##0)"
+2014-03-31,Destination: USA,,%,2014-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G180,#DIV/0!,0.0%
+2014-03-31,Destination: USA,,trips,2014-Q1,Quarterly,Value,,,blank in source,,,,Table16,G76,,"#,##0_);(#,##0)"
+2014-03-31,Destination: other countries,,%,2014-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K180,#DIV/0!,0.0%
+2014-03-31,Destination: other countries,,trips,2014-Q1,Quarterly,Value,,,blank in source,,,,Table16,K76,,"#,##0_);(#,##0)"
+2014-03-31,Purpose: international business,,%,2014-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E180,#DIV/0!,0.0%
+2014-03-31,Purpose: international business,,trips,2014-Q1,Quarterly,Value,,,blank in source,,,,Table16,E76,,"#,##0"
+2014-03-31,Purpose: local business,,%,2014-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D180,#DIV/0!,0.0%
+2014-03-31,Purpose: local business,,trips,2014-Q1,Quarterly,Value,,,blank in source,,,,Table16,D76,,"#,##0"
+2014-03-31,Purpose: other reasons,,%,2014-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F180,#DIV/0!,0.0%
+2014-03-31,Purpose: other reasons,,trips,2014-Q1,Quarterly,Value,,,blank in source,,,,Table16,F76,,"#,##0"
+2014-03-31,Purpose: vacation,,%,2014-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C180,#DIV/0!,0.0%
+2014-03-31,Purpose: vacation,,trips,2014-Q1,Quarterly,Value,,,blank in source,,,,Table16,C76,,"#,##0"
+2014-03-31,Total trips,,%,2014-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M180,#DIV/0!,0.0%
+2014-03-31,Total trips,0,trips,2014-Q1,Quarterly,Value,,,reported,,,,Table16,M76,0,"#,##0_);(#,##0)"
+2014-06-30,Destination: Canada,,%,2014-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H181,#DIV/0!,0.0%
+2014-06-30,Destination: Canada,,trips,2014-Q2,Quarterly,Value,,,blank in source,,,,Table16,H77,,"#,##0_);(#,##0)"
+2014-06-30,Destination: UK,,%,2014-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I181,#DIV/0!,0.0%
+2014-06-30,Destination: UK,,trips,2014-Q2,Quarterly,Value,,,blank in source,,,,Table16,I77,,"#,##0_);(#,##0)"
+2014-06-30,Destination: USA,,%,2014-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G181,#DIV/0!,0.0%
+2014-06-30,Destination: USA,,trips,2014-Q2,Quarterly,Value,,,blank in source,,,,Table16,G77,,"#,##0_);(#,##0)"
+2014-06-30,Destination: other countries,,%,2014-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K181,#DIV/0!,0.0%
+2014-06-30,Destination: other countries,,trips,2014-Q2,Quarterly,Value,,,blank in source,,,,Table16,K77,,"#,##0_);(#,##0)"
+2014-06-30,Purpose: international business,,%,2014-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E181,#DIV/0!,0.0%
+2014-06-30,Purpose: international business,,trips,2014-Q2,Quarterly,Value,,,blank in source,,,,Table16,E77,,"#,##0"
+2014-06-30,Purpose: local business,,%,2014-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D181,#DIV/0!,0.0%
+2014-06-30,Purpose: local business,,trips,2014-Q2,Quarterly,Value,,,blank in source,,,,Table16,D77,,"#,##0"
+2014-06-30,Purpose: other reasons,,%,2014-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F181,#DIV/0!,0.0%
+2014-06-30,Purpose: other reasons,,trips,2014-Q2,Quarterly,Value,,,blank in source,,,,Table16,F77,,"#,##0"
+2014-06-30,Purpose: vacation,,%,2014-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C181,#DIV/0!,0.0%
+2014-06-30,Purpose: vacation,,trips,2014-Q2,Quarterly,Value,,,blank in source,,,,Table16,C77,,"#,##0"
+2014-06-30,Total trips,,%,2014-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M181,#DIV/0!,0.0%
+2014-06-30,Total trips,0,trips,2014-Q2,Quarterly,Value,,,reported,,,,Table16,M77,0,"#,##0_);(#,##0)"
+2014-09-30,Destination: Canada,,%,2014-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H182,#DIV/0!,0.0%
+2014-09-30,Destination: Canada,,trips,2014-Q3,Quarterly,Value,,,blank in source,,,,Table16,H78,,"#,##0_);(#,##0)"
+2014-09-30,Destination: UK,,%,2014-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I182,#DIV/0!,0.0%
+2014-09-30,Destination: UK,,trips,2014-Q3,Quarterly,Value,,,blank in source,,,,Table16,I78,,"#,##0_);(#,##0)"
+2014-09-30,Destination: USA,,%,2014-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G182,#DIV/0!,0.0%
+2014-09-30,Destination: USA,,trips,2014-Q3,Quarterly,Value,,,blank in source,,,,Table16,G78,,"#,##0_);(#,##0)"
+2014-09-30,Destination: other countries,,%,2014-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K182,#DIV/0!,0.0%
+2014-09-30,Destination: other countries,,trips,2014-Q3,Quarterly,Value,,,blank in source,,,,Table16,K78,,"#,##0_);(#,##0)"
+2014-09-30,Purpose: international business,,%,2014-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E182,#DIV/0!,0.0%
+2014-09-30,Purpose: international business,,trips,2014-Q3,Quarterly,Value,,,blank in source,,,,Table16,E78,,"#,##0"
+2014-09-30,Purpose: local business,,%,2014-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D182,#DIV/0!,0.0%
+2014-09-30,Purpose: local business,,trips,2014-Q3,Quarterly,Value,,,blank in source,,,,Table16,D78,,"#,##0"
+2014-09-30,Purpose: other reasons,,%,2014-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F182,#DIV/0!,0.0%
+2014-09-30,Purpose: other reasons,,trips,2014-Q3,Quarterly,Value,,,blank in source,,,,Table16,F78,,"#,##0"
+2014-09-30,Purpose: vacation,,%,2014-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C182,#DIV/0!,0.0%
+2014-09-30,Purpose: vacation,,trips,2014-Q3,Quarterly,Value,,,blank in source,,,,Table16,C78,,"#,##0"
+2014-09-30,Total trips,,%,2014-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M182,#DIV/0!,0.0%
+2014-09-30,Total trips,0,trips,2014-Q3,Quarterly,Value,,,reported,,,,Table16,M78,0,"#,##0_);(#,##0)"
+2014-12-31,Destination: Canada,,%,2014,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,H184,#DIV/0!,0.0%
+2014-12-31,Destination: Canada,0,trips,2014,Annual,Value,,,reported,,,,Table16,H80,0,"#,##0_);(#,##0)"
+2014-12-31,Destination: UK,,%,2014,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,I184,#DIV/0!,0.0%
+2014-12-31,Destination: UK,0,trips,2014,Annual,Value,,,reported,,,,Table16,I80,0,"#,##0_);(#,##0)"
+2014-12-31,Destination: USA,,%,2014,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,G184,#DIV/0!,0.0%
+2014-12-31,Destination: USA,0,trips,2014,Annual,Value,,,reported,,,,Table16,G80,0,"#,##0_);(#,##0)"
+2014-12-31,Destination: other countries,,%,2014,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,K184,#DIV/0!,0.0%
+2014-12-31,Destination: other countries,0,trips,2014,Annual,Value,,,reported,,,,Table16,K80,0,"#,##0_);(#,##0)"
+2014-12-31,Purpose: international business,,%,2014,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,E184,#DIV/0!,0.0%
+2014-12-31,Purpose: international business,0,trips,2014,Annual,Value,,,reported,,,,Table16,E80,0,"#,##0"
+2014-12-31,Purpose: local business,,%,2014,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,D184,#DIV/0!,0.0%
+2014-12-31,Purpose: local business,0,trips,2014,Annual,Value,,,reported,,,,Table16,D80,0,"#,##0"
+2014-12-31,Purpose: other reasons,,%,2014,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,F184,#DIV/0!,0.0%
+2014-12-31,Purpose: other reasons,0,trips,2014,Annual,Value,,,reported,,,,Table16,F80,0,"#,##0"
+2014-12-31,Purpose: vacation,,%,2014,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,C184,#DIV/0!,0.0%
+2014-12-31,Purpose: vacation,0,trips,2014,Annual,Value,,,reported,,,,Table16,C80,0,"#,##0"
+2014-12-31,Total trips,,%,2014,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,M184,#DIV/0!,0.0%
+2014-12-31,Total trips,0,trips,2014,Annual,Value,,,reported,,,,Table16,M80,0,"#,##0_);(#,##0)"
+2014-12-31,Destination: Canada,,%,2014-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H183,#DIV/0!,0.0%
+2014-12-31,Destination: Canada,,trips,2014-Q4,Quarterly,Value,,,blank in source,,,,Table16,H79,,"#,##0_);(#,##0)"
+2014-12-31,Destination: UK,,%,2014-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I183,#DIV/0!,0.0%
+2014-12-31,Destination: UK,,trips,2014-Q4,Quarterly,Value,,,blank in source,,,,Table16,I79,,"#,##0_);(#,##0)"
+2014-12-31,Destination: USA,,%,2014-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G183,#DIV/0!,0.0%
+2014-12-31,Destination: USA,,trips,2014-Q4,Quarterly,Value,,,blank in source,,,,Table16,G79,,"#,##0_);(#,##0)"
+2014-12-31,Destination: other countries,,%,2014-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K183,#DIV/0!,0.0%
+2014-12-31,Destination: other countries,,trips,2014-Q4,Quarterly,Value,,,blank in source,,,,Table16,K79,,"#,##0_);(#,##0)"
+2014-12-31,Purpose: international business,,%,2014-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E183,#DIV/0!,0.0%
+2014-12-31,Purpose: international business,,trips,2014-Q4,Quarterly,Value,,,blank in source,,,,Table16,E79,,"#,##0"
+2014-12-31,Purpose: local business,,%,2014-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D183,#DIV/0!,0.0%
+2014-12-31,Purpose: local business,,trips,2014-Q4,Quarterly,Value,,,blank in source,,,,Table16,D79,,"#,##0"
+2014-12-31,Purpose: other reasons,,%,2014-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F183,#DIV/0!,0.0%
+2014-12-31,Purpose: other reasons,,trips,2014-Q4,Quarterly,Value,,,blank in source,,,,Table16,F79,,"#,##0"
+2014-12-31,Purpose: vacation,,%,2014-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C183,#DIV/0!,0.0%
+2014-12-31,Purpose: vacation,,trips,2014-Q4,Quarterly,Value,,,blank in source,,,,Table16,C79,,"#,##0"
+2014-12-31,Total trips,,%,2014-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M183,#DIV/0!,0.0%
+2014-12-31,Total trips,0,trips,2014-Q4,Quarterly,Value,,,reported,,,,Table16,M79,0,"#,##0_);(#,##0)"
+2015-03-31,Destination: Canada,,%,2015-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H186,#DIV/0!,0.0%
+2015-03-31,Destination: Canada,,trips,2015-Q1,Quarterly,Value,,,blank in source,,,,Table16,H82,,"#,##0_);(#,##0)"
+2015-03-31,Destination: UK,,%,2015-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I186,#DIV/0!,0.0%
+2015-03-31,Destination: UK,,trips,2015-Q1,Quarterly,Value,,,blank in source,,,,Table16,I82,,"#,##0_);(#,##0)"
+2015-03-31,Destination: USA,,%,2015-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G186,#DIV/0!,0.0%
+2015-03-31,Destination: USA,,trips,2015-Q1,Quarterly,Value,,,blank in source,,,,Table16,G82,,"#,##0_);(#,##0)"
+2015-03-31,Destination: other countries,,%,2015-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K186,#DIV/0!,0.0%
+2015-03-31,Destination: other countries,,trips,2015-Q1,Quarterly,Value,,,blank in source,,,,Table16,K82,,"#,##0_);(#,##0)"
+2015-03-31,Purpose: international business,,%,2015-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E186,#DIV/0!,0.0%
+2015-03-31,Purpose: international business,,trips,2015-Q1,Quarterly,Value,,,blank in source,,,,Table16,E82,,"#,##0"
+2015-03-31,Purpose: local business,,%,2015-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D186,#DIV/0!,0.0%
+2015-03-31,Purpose: local business,,trips,2015-Q1,Quarterly,Value,,,blank in source,,,,Table16,D82,,"#,##0"
+2015-03-31,Purpose: other reasons,,%,2015-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F186,#DIV/0!,0.0%
+2015-03-31,Purpose: other reasons,,trips,2015-Q1,Quarterly,Value,,,blank in source,,,,Table16,F82,,"#,##0"
+2015-03-31,Purpose: vacation,,%,2015-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C186,#DIV/0!,0.0%
+2015-03-31,Purpose: vacation,,trips,2015-Q1,Quarterly,Value,,,blank in source,,,,Table16,C82,,"#,##0"
+2015-03-31,Total trips,,%,2015-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M186,#DIV/0!,0.0%
+2015-03-31,Total trips,0,trips,2015-Q1,Quarterly,Value,,,reported,,,,Table16,M82,0,"#,##0_);(#,##0)"
+2015-06-30,Destination: Canada,,%,2015-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H187,#DIV/0!,0.0%
+2015-06-30,Destination: Canada,,trips,2015-Q2,Quarterly,Value,,,blank in source,,,,Table16,H83,,"#,##0_);(#,##0)"
+2015-06-30,Destination: UK,,%,2015-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I187,#DIV/0!,0.0%
+2015-06-30,Destination: UK,,trips,2015-Q2,Quarterly,Value,,,blank in source,,,,Table16,I83,,"#,##0_);(#,##0)"
+2015-06-30,Destination: USA,,%,2015-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G187,#DIV/0!,0.0%
+2015-06-30,Destination: USA,,trips,2015-Q2,Quarterly,Value,,,blank in source,,,,Table16,G83,,"#,##0_);(#,##0)"
+2015-06-30,Destination: other countries,,%,2015-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K187,#DIV/0!,0.0%
+2015-06-30,Destination: other countries,,trips,2015-Q2,Quarterly,Value,,,blank in source,,,,Table16,K83,,"#,##0_);(#,##0)"
+2015-06-30,Purpose: international business,,%,2015-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E187,#DIV/0!,0.0%
+2015-06-30,Purpose: international business,,trips,2015-Q2,Quarterly,Value,,,blank in source,,,,Table16,E83,,"#,##0"
+2015-06-30,Purpose: local business,,%,2015-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D187,#DIV/0!,0.0%
+2015-06-30,Purpose: local business,,trips,2015-Q2,Quarterly,Value,,,blank in source,,,,Table16,D83,,"#,##0"
+2015-06-30,Purpose: other reasons,,%,2015-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F187,#DIV/0!,0.0%
+2015-06-30,Purpose: other reasons,,trips,2015-Q2,Quarterly,Value,,,blank in source,,,,Table16,F83,,"#,##0"
+2015-06-30,Purpose: vacation,,%,2015-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C187,#DIV/0!,0.0%
+2015-06-30,Purpose: vacation,,trips,2015-Q2,Quarterly,Value,,,blank in source,,,,Table16,C83,,"#,##0"
+2015-06-30,Total trips,,%,2015-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M187,#DIV/0!,0.0%
+2015-06-30,Total trips,0,trips,2015-Q2,Quarterly,Value,,,reported,,,,Table16,M83,0,"#,##0_);(#,##0)"
+2015-09-30,Destination: Canada,,%,2015-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H188,#DIV/0!,0.0%
+2015-09-30,Destination: Canada,,trips,2015-Q3,Quarterly,Value,,,blank in source,,,,Table16,H84,,"#,##0_);(#,##0)"
+2015-09-30,Destination: UK,,%,2015-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I188,#DIV/0!,0.0%
+2015-09-30,Destination: UK,,trips,2015-Q3,Quarterly,Value,,,blank in source,,,,Table16,I84,,"#,##0_);(#,##0)"
+2015-09-30,Destination: USA,,%,2015-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G188,#DIV/0!,0.0%
+2015-09-30,Destination: USA,,trips,2015-Q3,Quarterly,Value,,,blank in source,,,,Table16,G84,,"#,##0_);(#,##0)"
+2015-09-30,Destination: other countries,,%,2015-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K188,#DIV/0!,0.0%
+2015-09-30,Destination: other countries,,trips,2015-Q3,Quarterly,Value,,,blank in source,,,,Table16,K84,,"#,##0_);(#,##0)"
+2015-09-30,Purpose: international business,,%,2015-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E188,#DIV/0!,0.0%
+2015-09-30,Purpose: international business,,trips,2015-Q3,Quarterly,Value,,,blank in source,,,,Table16,E84,,"#,##0"
+2015-09-30,Purpose: local business,,%,2015-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D188,#DIV/0!,0.0%
+2015-09-30,Purpose: local business,,trips,2015-Q3,Quarterly,Value,,,blank in source,,,,Table16,D84,,"#,##0"
+2015-09-30,Purpose: other reasons,,%,2015-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F188,#DIV/0!,0.0%
+2015-09-30,Purpose: other reasons,,trips,2015-Q3,Quarterly,Value,,,blank in source,,,,Table16,F84,,"#,##0"
+2015-09-30,Purpose: vacation,,%,2015-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C188,#DIV/0!,0.0%
+2015-09-30,Purpose: vacation,,trips,2015-Q3,Quarterly,Value,,,blank in source,,,,Table16,C84,,"#,##0"
+2015-09-30,Total trips,,%,2015-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M188,#DIV/0!,0.0%
+2015-09-30,Total trips,0,trips,2015-Q3,Quarterly,Value,,,reported,,,,Table16,M84,0,"#,##0_);(#,##0)"
+2015-12-31,Destination: Canada,,%,2015,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,H190,#DIV/0!,0.0%
+2015-12-31,Destination: Canada,0,trips,2015,Annual,Value,,,reported,,,,Table16,H86,0,"#,##0_);(#,##0)"
+2015-12-31,Destination: UK,,%,2015,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,I190,#DIV/0!,0.0%
+2015-12-31,Destination: UK,0,trips,2015,Annual,Value,,,reported,,,,Table16,I86,0,"#,##0_);(#,##0)"
+2015-12-31,Destination: USA,,%,2015,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,G190,#DIV/0!,0.0%
+2015-12-31,Destination: USA,0,trips,2015,Annual,Value,,,reported,,,,Table16,G86,0,"#,##0_);(#,##0)"
+2015-12-31,Destination: other countries,,%,2015,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,K190,#DIV/0!,0.0%
+2015-12-31,Destination: other countries,0,trips,2015,Annual,Value,,,reported,,,,Table16,K86,0,"#,##0_);(#,##0)"
+2015-12-31,Purpose: international business,,%,2015,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,E190,#DIV/0!,0.0%
+2015-12-31,Purpose: international business,0,trips,2015,Annual,Value,,,reported,,,,Table16,E86,0,"#,##0"
+2015-12-31,Purpose: local business,,%,2015,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,D190,#DIV/0!,0.0%
+2015-12-31,Purpose: local business,0,trips,2015,Annual,Value,,,reported,,,,Table16,D86,0,"#,##0"
+2015-12-31,Purpose: other reasons,,%,2015,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,F190,#DIV/0!,0.0%
+2015-12-31,Purpose: other reasons,0,trips,2015,Annual,Value,,,reported,,,,Table16,F86,0,"#,##0"
+2015-12-31,Purpose: vacation,,%,2015,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,C190,#DIV/0!,0.0%
+2015-12-31,Purpose: vacation,0,trips,2015,Annual,Value,,,reported,,,,Table16,C86,0,"#,##0"
+2015-12-31,Total trips,,%,2015,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,M190,#DIV/0!,0.0%
+2015-12-31,Total trips,0,trips,2015,Annual,Value,,,reported,,,,Table16,M86,0,"#,##0_);(#,##0)"
+2015-12-31,Destination: Canada,,%,2015-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H189,#DIV/0!,0.0%
+2015-12-31,Destination: Canada,,trips,2015-Q4,Quarterly,Value,,,blank in source,,,,Table16,H85,,"#,##0_);(#,##0)"
+2015-12-31,Destination: UK,,%,2015-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I189,#DIV/0!,0.0%
+2015-12-31,Destination: UK,,trips,2015-Q4,Quarterly,Value,,,blank in source,,,,Table16,I85,,"#,##0_);(#,##0)"
+2015-12-31,Destination: USA,,%,2015-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G189,#DIV/0!,0.0%
+2015-12-31,Destination: USA,,trips,2015-Q4,Quarterly,Value,,,blank in source,,,,Table16,G85,,"#,##0_);(#,##0)"
+2015-12-31,Destination: other countries,,%,2015-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K189,#DIV/0!,0.0%
+2015-12-31,Destination: other countries,,trips,2015-Q4,Quarterly,Value,,,blank in source,,,,Table16,K85,,"#,##0_);(#,##0)"
+2015-12-31,Purpose: international business,,%,2015-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E189,#DIV/0!,0.0%
+2015-12-31,Purpose: international business,,trips,2015-Q4,Quarterly,Value,,,blank in source,,,,Table16,E85,,"#,##0"
+2015-12-31,Purpose: local business,,%,2015-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D189,#DIV/0!,0.0%
+2015-12-31,Purpose: local business,,trips,2015-Q4,Quarterly,Value,,,blank in source,,,,Table16,D85,,"#,##0"
+2015-12-31,Purpose: other reasons,,%,2015-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F189,#DIV/0!,0.0%
+2015-12-31,Purpose: other reasons,,trips,2015-Q4,Quarterly,Value,,,blank in source,,,,Table16,F85,,"#,##0"
+2015-12-31,Purpose: vacation,,%,2015-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C189,#DIV/0!,0.0%
+2015-12-31,Purpose: vacation,,trips,2015-Q4,Quarterly,Value,,,blank in source,,,,Table16,C85,,"#,##0"
+2015-12-31,Total trips,,%,2015-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M189,#DIV/0!,0.0%
+2015-12-31,Total trips,0,trips,2015-Q4,Quarterly,Value,,,reported,,,,Table16,M85,0,"#,##0_);(#,##0)"
+2016-03-31,Destination: Canada,,%,2016-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H192,#DIV/0!,0.0%
+2016-03-31,Destination: Canada,,trips,2016-Q1,Quarterly,Value,,,blank in source,,,,Table16,H88,,"#,##0_);(#,##0)"
+2016-03-31,Destination: UK,,%,2016-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I192,#DIV/0!,0.0%
+2016-03-31,Destination: UK,,trips,2016-Q1,Quarterly,Value,,,blank in source,,,,Table16,I88,,"#,##0_);(#,##0)"
+2016-03-31,Destination: USA,,%,2016-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G192,#DIV/0!,0.0%
+2016-03-31,Destination: USA,,trips,2016-Q1,Quarterly,Value,,,blank in source,,,,Table16,G88,,"#,##0_);(#,##0)"
+2016-03-31,Destination: other countries,,%,2016-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K192,#DIV/0!,0.0%
+2016-03-31,Destination: other countries,,trips,2016-Q1,Quarterly,Value,,,blank in source,,,,Table16,K88,,"#,##0_);(#,##0)"
+2016-03-31,Purpose: international business,,%,2016-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E192,#DIV/0!,0.0%
+2016-03-31,Purpose: international business,,trips,2016-Q1,Quarterly,Value,,,blank in source,,,,Table16,E88,,"#,##0"
+2016-03-31,Purpose: local business,,%,2016-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D192,#DIV/0!,0.0%
+2016-03-31,Purpose: local business,,trips,2016-Q1,Quarterly,Value,,,blank in source,,,,Table16,D88,,"#,##0"
+2016-03-31,Purpose: other reasons,,%,2016-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F192,#DIV/0!,0.0%
+2016-03-31,Purpose: other reasons,,trips,2016-Q1,Quarterly,Value,,,blank in source,,,,Table16,F88,,"#,##0"
+2016-03-31,Purpose: vacation,,%,2016-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C192,#DIV/0!,0.0%
+2016-03-31,Purpose: vacation,,trips,2016-Q1,Quarterly,Value,,,blank in source,,,,Table16,C88,,"#,##0"
+2016-03-31,Total trips,,%,2016-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M192,#DIV/0!,0.0%
+2016-03-31,Total trips,0,trips,2016-Q1,Quarterly,Value,,,reported,,,,Table16,M88,0,"#,##0_);(#,##0)"
+2016-06-30,Destination: Canada,,%,2016-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H193,#DIV/0!,0.0%
+2016-06-30,Destination: Canada,,trips,2016-Q2,Quarterly,Value,,,blank in source,,,,Table16,H89,,"#,##0_);(#,##0)"
+2016-06-30,Destination: UK,,%,2016-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I193,#DIV/0!,0.0%
+2016-06-30,Destination: UK,,trips,2016-Q2,Quarterly,Value,,,blank in source,,,,Table16,I89,,"#,##0_);(#,##0)"
+2016-06-30,Destination: USA,,%,2016-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G193,#DIV/0!,0.0%
+2016-06-30,Destination: USA,,trips,2016-Q2,Quarterly,Value,,,blank in source,,,,Table16,G89,,"#,##0_);(#,##0)"
+2016-06-30,Destination: other countries,,%,2016-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K193,#DIV/0!,0.0%
+2016-06-30,Destination: other countries,,trips,2016-Q2,Quarterly,Value,,,blank in source,,,,Table16,K89,,"#,##0_);(#,##0)"
+2016-06-30,Purpose: international business,,%,2016-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E193,#DIV/0!,0.0%
+2016-06-30,Purpose: international business,,trips,2016-Q2,Quarterly,Value,,,blank in source,,,,Table16,E89,,"#,##0"
+2016-06-30,Purpose: local business,,%,2016-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D193,#DIV/0!,0.0%
+2016-06-30,Purpose: local business,,trips,2016-Q2,Quarterly,Value,,,blank in source,,,,Table16,D89,,"#,##0"
+2016-06-30,Purpose: other reasons,,%,2016-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F193,#DIV/0!,0.0%
+2016-06-30,Purpose: other reasons,,trips,2016-Q2,Quarterly,Value,,,blank in source,,,,Table16,F89,,"#,##0"
+2016-06-30,Purpose: vacation,,%,2016-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C193,#DIV/0!,0.0%
+2016-06-30,Purpose: vacation,,trips,2016-Q2,Quarterly,Value,,,blank in source,,,,Table16,C89,,"#,##0"
+2016-06-30,Total trips,,%,2016-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M193,#DIV/0!,0.0%
+2016-06-30,Total trips,0,trips,2016-Q2,Quarterly,Value,,,reported,,,,Table16,M89,0,"#,##0_);(#,##0)"
+2016-09-30,Destination: Canada,,%,2016-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H194,#DIV/0!,0.0%
+2016-09-30,Destination: Canada,,trips,2016-Q3,Quarterly,Value,,,blank in source,,,,Table16,H90,,"#,##0_);(#,##0)"
+2016-09-30,Destination: UK,,%,2016-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I194,#DIV/0!,0.0%
+2016-09-30,Destination: UK,,trips,2016-Q3,Quarterly,Value,,,blank in source,,,,Table16,I90,,"#,##0_);(#,##0)"
+2016-09-30,Destination: USA,,%,2016-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G194,#DIV/0!,0.0%
+2016-09-30,Destination: USA,,trips,2016-Q3,Quarterly,Value,,,blank in source,,,,Table16,G90,,"#,##0_);(#,##0)"
+2016-09-30,Destination: other countries,,%,2016-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K194,#DIV/0!,0.0%
+2016-09-30,Destination: other countries,,trips,2016-Q3,Quarterly,Value,,,blank in source,,,,Table16,K90,,"#,##0_);(#,##0)"
+2016-09-30,Purpose: international business,,%,2016-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E194,#DIV/0!,0.0%
+2016-09-30,Purpose: international business,,trips,2016-Q3,Quarterly,Value,,,blank in source,,,,Table16,E90,,"#,##0"
+2016-09-30,Purpose: local business,,%,2016-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D194,#DIV/0!,0.0%
+2016-09-30,Purpose: local business,,trips,2016-Q3,Quarterly,Value,,,blank in source,,,,Table16,D90,,"#,##0"
+2016-09-30,Purpose: other reasons,,%,2016-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F194,#DIV/0!,0.0%
+2016-09-30,Purpose: other reasons,,trips,2016-Q3,Quarterly,Value,,,blank in source,,,,Table16,F90,,"#,##0"
+2016-09-30,Purpose: vacation,,%,2016-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C194,#DIV/0!,0.0%
+2016-09-30,Purpose: vacation,,trips,2016-Q3,Quarterly,Value,,,blank in source,,,,Table16,C90,,"#,##0"
+2016-09-30,Total trips,,%,2016-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M194,#DIV/0!,0.0%
+2016-09-30,Total trips,0,trips,2016-Q3,Quarterly,Value,,,reported,,,,Table16,M90,0,"#,##0_);(#,##0)"
+2016-12-31,Destination: Canada,,%,2016,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,H196,#DIV/0!,0.0%
+2016-12-31,Destination: Canada,0,trips,2016,Annual,Value,,,reported,,,,Table16,H92,0,"#,##0_);(#,##0)"
+2016-12-31,Destination: UK,,%,2016,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,I196,#DIV/0!,0.0%
+2016-12-31,Destination: UK,0,trips,2016,Annual,Value,,,reported,,,,Table16,I92,0,"#,##0_);(#,##0)"
+2016-12-31,Destination: USA,,%,2016,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,G196,#DIV/0!,0.0%
+2016-12-31,Destination: USA,0,trips,2016,Annual,Value,,,reported,,,,Table16,G92,0,"#,##0_);(#,##0)"
+2016-12-31,Destination: other countries,,%,2016,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,K196,#DIV/0!,0.0%
+2016-12-31,Destination: other countries,0,trips,2016,Annual,Value,,,reported,,,,Table16,K92,0,"#,##0_);(#,##0)"
+2016-12-31,Purpose: international business,,%,2016,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,E196,#DIV/0!,0.0%
+2016-12-31,Purpose: international business,0,trips,2016,Annual,Value,,,reported,,,,Table16,E92,0,"#,##0"
+2016-12-31,Purpose: local business,,%,2016,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,D196,#DIV/0!,0.0%
+2016-12-31,Purpose: local business,0,trips,2016,Annual,Value,,,reported,,,,Table16,D92,0,"#,##0"
+2016-12-31,Purpose: other reasons,,%,2016,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,F196,#DIV/0!,0.0%
+2016-12-31,Purpose: other reasons,0,trips,2016,Annual,Value,,,reported,,,,Table16,F92,0,"#,##0"
+2016-12-31,Purpose: vacation,,%,2016,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,C196,#DIV/0!,0.0%
+2016-12-31,Purpose: vacation,0,trips,2016,Annual,Value,,,reported,,,,Table16,C92,0,"#,##0"
+2016-12-31,Total trips,,%,2016,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,M196,#DIV/0!,0.0%
+2016-12-31,Total trips,0,trips,2016,Annual,Value,,,reported,,,,Table16,M92,0,"#,##0_);(#,##0)"
+2016-12-31,Destination: Canada,,%,2016-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H195,#DIV/0!,0.0%
+2016-12-31,Destination: Canada,,trips,2016-Q4,Quarterly,Value,,,blank in source,,,,Table16,H91,,"#,##0_);(#,##0)"
+2016-12-31,Destination: UK,,%,2016-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I195,#DIV/0!,0.0%
+2016-12-31,Destination: UK,,trips,2016-Q4,Quarterly,Value,,,blank in source,,,,Table16,I91,,"#,##0_);(#,##0)"
+2016-12-31,Destination: USA,,%,2016-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G195,#DIV/0!,0.0%
+2016-12-31,Destination: USA,,trips,2016-Q4,Quarterly,Value,,,blank in source,,,,Table16,G91,,"#,##0_);(#,##0)"
+2016-12-31,Destination: other countries,,%,2016-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K195,#DIV/0!,0.0%
+2016-12-31,Destination: other countries,,trips,2016-Q4,Quarterly,Value,,,blank in source,,,,Table16,K91,,"#,##0_);(#,##0)"
+2016-12-31,Purpose: international business,,%,2016-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E195,#DIV/0!,0.0%
+2016-12-31,Purpose: international business,,trips,2016-Q4,Quarterly,Value,,,blank in source,,,,Table16,E91,,"#,##0"
+2016-12-31,Purpose: local business,,%,2016-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D195,#DIV/0!,0.0%
+2016-12-31,Purpose: local business,,trips,2016-Q4,Quarterly,Value,,,blank in source,,,,Table16,D91,,"#,##0"
+2016-12-31,Purpose: other reasons,,%,2016-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F195,#DIV/0!,0.0%
+2016-12-31,Purpose: other reasons,,trips,2016-Q4,Quarterly,Value,,,blank in source,,,,Table16,F91,,"#,##0"
+2016-12-31,Purpose: vacation,,%,2016-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C195,#DIV/0!,0.0%
+2016-12-31,Purpose: vacation,,trips,2016-Q4,Quarterly,Value,,,blank in source,,,,Table16,C91,,"#,##0"
+2016-12-31,Total trips,,%,2016-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M195,#DIV/0!,0.0%
+2016-12-31,Total trips,0,trips,2016-Q4,Quarterly,Value,,,reported,,,,Table16,M91,0,"#,##0_);(#,##0)"
+2017-03-31,Destination: Canada,,%,2017-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H198,#DIV/0!,0.0%
+2017-03-31,Destination: Canada,,trips,2017-Q1,Quarterly,Value,,,blank in source,,,,Table16,H94,,"#,##0_);(#,##0)"
+2017-03-31,Destination: UK,,%,2017-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I198,#DIV/0!,0.0%
+2017-03-31,Destination: UK,,trips,2017-Q1,Quarterly,Value,,,blank in source,,,,Table16,I94,,"#,##0_);(#,##0)"
+2017-03-31,Destination: USA,,%,2017-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G198,#DIV/0!,0.0%
+2017-03-31,Destination: USA,,trips,2017-Q1,Quarterly,Value,,,blank in source,,,,Table16,G94,,"#,##0_);(#,##0)"
+2017-03-31,Destination: other countries,,%,2017-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K198,#DIV/0!,0.0%
+2017-03-31,Destination: other countries,,trips,2017-Q1,Quarterly,Value,,,blank in source,,,,Table16,K94,,"#,##0_);(#,##0)"
+2017-03-31,Purpose: international business,,%,2017-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E198,#DIV/0!,0.0%
+2017-03-31,Purpose: international business,,trips,2017-Q1,Quarterly,Value,,,blank in source,,,,Table16,E94,,"#,##0"
+2017-03-31,Purpose: local business,,%,2017-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D198,#DIV/0!,0.0%
+2017-03-31,Purpose: local business,,trips,2017-Q1,Quarterly,Value,,,blank in source,,,,Table16,D94,,"#,##0"
+2017-03-31,Purpose: other reasons,,%,2017-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F198,#DIV/0!,0.0%
+2017-03-31,Purpose: other reasons,,trips,2017-Q1,Quarterly,Value,,,blank in source,,,,Table16,F94,,"#,##0"
+2017-03-31,Purpose: vacation,,%,2017-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C198,#DIV/0!,0.0%
+2017-03-31,Purpose: vacation,,trips,2017-Q1,Quarterly,Value,,,blank in source,,,,Table16,C94,,"#,##0"
+2017-03-31,Total trips,,%,2017-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M198,#DIV/0!,0.0%
+2017-03-31,Total trips,0,trips,2017-Q1,Quarterly,Value,,,reported,,,,Table16,M94,0,"#,##0_);(#,##0)"
+2017-06-30,Destination: Canada,,%,2017-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H199,#DIV/0!,0.0%
+2017-06-30,Destination: Canada,,trips,2017-Q2,Quarterly,Value,,,blank in source,,,,Table16,H95,,"#,##0_);(#,##0)"
+2017-06-30,Destination: UK,,%,2017-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I199,#DIV/0!,0.0%
+2017-06-30,Destination: UK,,trips,2017-Q2,Quarterly,Value,,,blank in source,,,,Table16,I95,,"#,##0_);(#,##0)"
+2017-06-30,Destination: USA,,%,2017-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G199,#DIV/0!,0.0%
+2017-06-30,Destination: USA,,trips,2017-Q2,Quarterly,Value,,,blank in source,,,,Table16,G95,,"#,##0_);(#,##0)"
+2017-06-30,Destination: other countries,,%,2017-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K199,#DIV/0!,0.0%
+2017-06-30,Destination: other countries,,trips,2017-Q2,Quarterly,Value,,,blank in source,,,,Table16,K95,,"#,##0_);(#,##0)"
+2017-06-30,Purpose: international business,,%,2017-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E199,#DIV/0!,0.0%
+2017-06-30,Purpose: international business,,trips,2017-Q2,Quarterly,Value,,,blank in source,,,,Table16,E95,,"#,##0"
+2017-06-30,Purpose: local business,,%,2017-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D199,#DIV/0!,0.0%
+2017-06-30,Purpose: local business,,trips,2017-Q2,Quarterly,Value,,,blank in source,,,,Table16,D95,,"#,##0"
+2017-06-30,Purpose: other reasons,,%,2017-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F199,#DIV/0!,0.0%
+2017-06-30,Purpose: other reasons,,trips,2017-Q2,Quarterly,Value,,,blank in source,,,,Table16,F95,,"#,##0"
+2017-06-30,Purpose: vacation,,%,2017-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C199,#DIV/0!,0.0%
+2017-06-30,Purpose: vacation,,trips,2017-Q2,Quarterly,Value,,,blank in source,,,,Table16,C95,,"#,##0"
+2017-06-30,Total trips,,%,2017-Q2,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M199,#DIV/0!,0.0%
+2017-06-30,Total trips,0,trips,2017-Q2,Quarterly,Value,,,reported,,,,Table16,M95,0,"#,##0_);(#,##0)"
+2017-09-30,Destination: Canada,,%,2017-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H200,#DIV/0!,0.0%
+2017-09-30,Destination: Canada,,trips,2017-Q3,Quarterly,Value,,,blank in source,,,,Table16,H96,,"#,##0_);(#,##0)"
+2017-09-30,Destination: UK,,%,2017-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I200,#DIV/0!,0.0%
+2017-09-30,Destination: UK,,trips,2017-Q3,Quarterly,Value,,,blank in source,,,,Table16,I96,,"#,##0_);(#,##0)"
+2017-09-30,Destination: USA,,%,2017-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G200,#DIV/0!,0.0%
+2017-09-30,Destination: USA,,trips,2017-Q3,Quarterly,Value,,,blank in source,,,,Table16,G96,,"#,##0_);(#,##0)"
+2017-09-30,Destination: other countries,,%,2017-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K200,#DIV/0!,0.0%
+2017-09-30,Destination: other countries,,trips,2017-Q3,Quarterly,Value,,,blank in source,,,,Table16,K96,,"#,##0_);(#,##0)"
+2017-09-30,Purpose: international business,,%,2017-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E200,#DIV/0!,0.0%
+2017-09-30,Purpose: international business,,trips,2017-Q3,Quarterly,Value,,,blank in source,,,,Table16,E96,,"#,##0"
+2017-09-30,Purpose: local business,,%,2017-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D200,#DIV/0!,0.0%
+2017-09-30,Purpose: local business,,trips,2017-Q3,Quarterly,Value,,,blank in source,,,,Table16,D96,,"#,##0"
+2017-09-30,Purpose: other reasons,,%,2017-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F200,#DIV/0!,0.0%
+2017-09-30,Purpose: other reasons,,trips,2017-Q3,Quarterly,Value,,,blank in source,,,,Table16,F96,,"#,##0"
+2017-09-30,Purpose: vacation,,%,2017-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C200,#DIV/0!,0.0%
+2017-09-30,Purpose: vacation,,trips,2017-Q3,Quarterly,Value,,,blank in source,,,,Table16,C96,,"#,##0"
+2017-09-30,Total trips,,%,2017-Q3,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M200,#DIV/0!,0.0%
+2017-09-30,Total trips,0,trips,2017-Q3,Quarterly,Value,,,reported,,,,Table16,M96,0,"#,##0_);(#,##0)"
+2017-12-31,Destination: Canada,,%,2017,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,H202,#DIV/0!,0.0%
+2017-12-31,Destination: Canada,0,trips,2017,Annual,Value,,,reported,,,,Table16,H98,0,"#,##0_);(#,##0)"
+2017-12-31,Destination: UK,,%,2017,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,I202,#DIV/0!,0.0%
+2017-12-31,Destination: UK,0,trips,2017,Annual,Value,,,reported,,,,Table16,I98,0,"#,##0_);(#,##0)"
+2017-12-31,Destination: USA,,%,2017,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,G202,#DIV/0!,0.0%
+2017-12-31,Destination: USA,0,trips,2017,Annual,Value,,,reported,,,,Table16,G98,0,"#,##0_);(#,##0)"
+2017-12-31,Destination: other countries,,%,2017,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,K202,#DIV/0!,0.0%
+2017-12-31,Destination: other countries,0,trips,2017,Annual,Value,,,reported,,,,Table16,K98,0,"#,##0_);(#,##0)"
+2017-12-31,Purpose: international business,,%,2017,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,E202,#DIV/0!,0.0%
+2017-12-31,Purpose: international business,0,trips,2017,Annual,Value,,,reported,,,,Table16,E98,0,"#,##0"
+2017-12-31,Purpose: local business,,%,2017,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,D202,#DIV/0!,0.0%
+2017-12-31,Purpose: local business,0,trips,2017,Annual,Value,,,reported,,,,Table16,D98,0,"#,##0"
+2017-12-31,Purpose: other reasons,,%,2017,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,F202,#DIV/0!,0.0%
+2017-12-31,Purpose: other reasons,0,trips,2017,Annual,Value,,,reported,,,,Table16,F98,0,"#,##0"
+2017-12-31,Purpose: vacation,,%,2017,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,C202,#DIV/0!,0.0%
+2017-12-31,Purpose: vacation,0,trips,2017,Annual,Value,,,reported,,,,Table16,C98,0,"#,##0"
+2017-12-31,Total trips,,%,2017,Annual,Published percentage change,,,source error,#DIV/0!,,,Table16,M202,#DIV/0!,0.0%
+2017-12-31,Total trips,0,trips,2017,Annual,Value,,,reported,,,,Table16,M98,0,"#,##0_);(#,##0)"
+2017-12-31,Destination: Canada,,%,2017-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,H201,#DIV/0!,0.0%
+2017-12-31,Destination: Canada,,trips,2017-Q4,Quarterly,Value,,,blank in source,,,,Table16,H97,,"#,##0_);(#,##0)"
+2017-12-31,Destination: UK,,%,2017-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,I201,#DIV/0!,0.0%
+2017-12-31,Destination: UK,,trips,2017-Q4,Quarterly,Value,,,blank in source,,,,Table16,I97,,"#,##0_);(#,##0)"
+2017-12-31,Destination: USA,,%,2017-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,G201,#DIV/0!,0.0%
+2017-12-31,Destination: USA,,trips,2017-Q4,Quarterly,Value,,,blank in source,,,,Table16,G97,,"#,##0_);(#,##0)"
+2017-12-31,Destination: other countries,,%,2017-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,K201,#DIV/0!,0.0%
+2017-12-31,Destination: other countries,,trips,2017-Q4,Quarterly,Value,,,blank in source,,,,Table16,K97,,"#,##0_);(#,##0)"
+2017-12-31,Purpose: international business,,%,2017-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,E201,#DIV/0!,0.0%
+2017-12-31,Purpose: international business,,trips,2017-Q4,Quarterly,Value,,,blank in source,,,,Table16,E97,,"#,##0"
+2017-12-31,Purpose: local business,,%,2017-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,D201,#DIV/0!,0.0%
+2017-12-31,Purpose: local business,,trips,2017-Q4,Quarterly,Value,,,blank in source,,,,Table16,D97,,"#,##0"
+2017-12-31,Purpose: other reasons,,%,2017-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,F201,#DIV/0!,0.0%
+2017-12-31,Purpose: other reasons,,trips,2017-Q4,Quarterly,Value,,,blank in source,,,,Table16,F97,,"#,##0"
+2017-12-31,Purpose: vacation,,%,2017-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,C201,#DIV/0!,0.0%
+2017-12-31,Purpose: vacation,,trips,2017-Q4,Quarterly,Value,,,blank in source,,,,Table16,C97,,"#,##0"
+2017-12-31,Total trips,,%,2017-Q4,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table16,M201,#DIV/0!,0.0%
+2017-12-31,Total trips,0,trips,2017-Q4,Quarterly,Value,,,reported,,,,Table16,M97,0,"#,##0_);(#,##0)"

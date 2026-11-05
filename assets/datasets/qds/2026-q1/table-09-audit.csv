@@ -1,0 +1,81 @@
+﻿source_cell,source_value,reason,row_context
+A10,2002,Year heading or reference value,
+A16,2003,Year heading or reference value,
+A22,2004,Year heading or reference value,
+A28,2005,Year heading or reference value,
+D33,0,Not assigned: no unambiguous dated series,Year
+A34,2006,Year heading or reference value,
+D39,0,Not assigned: no unambiguous dated series,Year
+A40,2007,Year heading or reference value,
+A46,2008,Year heading or reference value,
+A52,2009,Year heading or reference value,
+A58,2010,Year heading or reference value,
+D59,17.6,Not assigned: no unambiguous dated series,1st Qtr
+A64,2011,Year heading or reference value,
+A70,2012,Year heading or reference value,
+A76,2013,Year heading or reference value,
+A82,2014,Year heading or reference value,
+A88,2015,Year heading or reference value,
+A94,2016,Year heading or reference value,
+A100,2017,Year heading or reference value,
+A106,2018,Year heading or reference value,
+A112,2019,Year heading or reference value,
+A118,2020,Year heading or reference value,
+A124,2021,Year heading or reference value,
+D125,8280.45193,Not assigned: no unambiguous dated series,1st Qtr
+D126,4090.38978,Not assigned: no unambiguous dated series,2nd Qtr
+A130,2022,Year heading or reference value,
+A136,2023,Year heading or reference value,
+D138,0,Not assigned: no unambiguous dated series,2nd Qtr
+A142,2024,Year heading or reference value,
+D145,0,Not assigned: no unambiguous dated series,3rd Qtr
+D146,0,Not assigned: no unambiguous dated series,4th Qtr
+A148,2025,Year heading or reference value,
+D149,0,Not assigned: no unambiguous dated series,1st Qtr
+D150,0,Not assigned: no unambiguous dated series,2nd Qtr
+D151,0,Not assigned: no unambiguous dated series,3rd Qtr
+D152,0,Not assigned: no unambiguous dated series,4th Qtr
+A154,2026,Year heading or reference value,
+D159,0,Not assigned: no unambiguous dated series,
+A171,2002,Year heading or reference value,
+A177,2003,Year heading or reference value,
+A183,2004,Year heading or reference value,
+A189,2005,Year heading or reference value,
+A195,2006,Year heading or reference value,
+A201,2007,Year heading or reference value,
+A207,2008,Year heading or reference value,
+D212,#DIV/0!,Not assigned: no unambiguous dated series,Year | #DIV/0!
+A213,2009,Year heading or reference value,
+D218,#DIV/0!,Not assigned: no unambiguous dated series,Year | #DIV/0!
+A219,2010,Year heading or reference value,
+D224,#DIV/0!,Not assigned: no unambiguous dated series,Year | #DIV/0!
+A225,2011,Year heading or reference value,
+D227,#DIV/0!,Not assigned: no unambiguous dated series,2nd Qtr | #DIV/0! | #DIV/0!
+D230,#DIV/0!,Not assigned: no unambiguous dated series,Year | #DIV/0! | #DIV/0!
+A231,2012,Year heading or reference value,
+D233,#DIV/0!,Not assigned: no unambiguous dated series,2nd Qtr | #DIV/0! | #DIV/0! | #DIV/0!
+D236,#DIV/0!,Not assigned: no unambiguous dated series,Year | #DIV/0!
+A237,2013,Year heading or reference value,
+D239,#DIV/0!,Not assigned: no unambiguous dated series,2nd Qtr | #DIV/0!
+D242,#DIV/0!,Not assigned: no unambiguous dated series,Year | #DIV/0!
+A243,2014,Year heading or reference value,
+D245,#DIV/0!,Not assigned: no unambiguous dated series,2nd Qtr | #DIV/0!
+D248,#DIV/0!,Not assigned: no unambiguous dated series,Year | #DIV/0!
+A249,2015,Year heading or reference value,
+D254,#DIV/0!,Not assigned: no unambiguous dated series,Year | #DIV/0!
+A255,2016,Year heading or reference value,
+D260,#DIV/0!,Not assigned: no unambiguous dated series,Year | #DIV/0!
+A261,2017,Year heading or reference value,
+D266,#DIV/0!,Not assigned: no unambiguous dated series,Year | #DIV/0!
+A267,2018,Year heading or reference value,
+D272,#DIV/0!,Not assigned: no unambiguous dated series,Year | #DIV/0!
+A273,2019,Year heading or reference value,
+D275,#DIV/0!,Not assigned: no unambiguous dated series,2nd Qtr | #DIV/0!
+D278,#DIV/0!,Not assigned: no unambiguous dated series,Year | #DIV/0!
+A279,2020,Year heading or reference value,
+A285,2021,Year heading or reference value,
+A291,2022,Year heading or reference value,
+A297,2023,Year heading or reference value,
+A303,2024,Year heading or reference value,
+A309,2025,Year heading or reference value,
+A315,2026,Year heading or reference value,

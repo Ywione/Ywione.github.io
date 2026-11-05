@@ -1,0 +1,1111 @@
+﻿date,series,value,units,period,frequency,measure,classification,index_base,status,source_marker,revision,availability,source_sheet,source_cell,source_value,source_format
+2003-03-31,Air visitors: accommodation and food,-15.040650406504074,%,2003-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,C164,-0.15040650406504075,0.0%
+2003-03-31,Air visitors: accommodation and food,20.9,$million,2003-Q1,Quarterly,Value,,,reported,,,,Table3,C10,20.9,0.0
+2003-03-31,"Air visitors: shopping, entertainment, transport and other",8.917197452229313,%,2003-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,D164,0.08917197452229314,0.0%
+2003-03-31,"Air visitors: shopping, entertainment, transport and other",17.1,$million,2003-Q1,Quarterly,Value,,,reported,,,,Table3,D10,17.1,0.0
+2003-03-31,Air visitors: total,-5.707196029776669,%,2003-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,E164,-0.057071960297766684,0.0%
+2003-03-31,Air visitors: total,38,$million,2003-Q1,Quarterly,Value,,,reported,,,,Table3,E10,38,0.0
+2003-03-31,Cruise visitors,-70,%,2003-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,F164,-0.7000000000000001,0.0%
+2003-03-31,Cruise visitors,0.03,$million,2003-Q1,Quarterly,Value,,,reported,,,,Table3,F10,0.03,0.0
+2003-03-31,Total expenditure,,%,2003-Q1,Quarterly,Published percentage change,,,source error,#REF!,,,Table3,G164,#REF!,0.0%
+2003-03-31,Total expenditure,38.03,$million,2003-Q1,Quarterly,Value,,,reported,,,,Table3,G10,38.03,0.0
+2003-06-30,Air visitors: accommodation and food,-10.078534031413614,%,2003-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,C165,-0.10078534031413615,0.0%
+2003-06-30,Air visitors: accommodation and food,68.7,$million,2003-Q2,Quarterly,Value,,,reported,,,,Table3,C11,68.7,0.0
+2003-06-30,"Air visitors: shopping, entertainment, transport and other",33.57314148681055,%,2003-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,D165,0.3357314148681055,0.0%
+2003-06-30,"Air visitors: shopping, entertainment, transport and other",55.7,$million,2003-Q2,Quarterly,Value,,,reported,,,,Table3,D11,55.7,0.0
+2003-06-30,Air visitors: total,5.334462320067749,%,2003-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,E165,0.05334462320067749,0.0%
+2003-06-30,Air visitors: total,124.4,$million,2003-Q2,Quarterly,Value,,,reported,,,,Table3,E11,124.4,0.0
+2003-06-30,Cruise visitors,15.337423312883436,%,2003-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,F165,0.15337423312883436,0.0%
+2003-06-30,Cruise visitors,18.8,$million,2003-Q2,Quarterly,Value,,,reported,,,,Table3,F11,18.8,0.0
+2003-06-30,Total expenditure,6.547619047619056,%,2003-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,G165,0.06547619047619056,0.0%
+2003-06-30,Total expenditure,143.20000000000002,$million,2003-Q2,Quarterly,Value,,,reported,,,,Table3,G11,143.20000000000002,0.0
+2003-09-30,Air visitors: accommodation and food,-50.326797385620914,%,2003-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,C166,-0.5032679738562091,0.0%
+2003-09-30,Air visitors: accommodation and food,38,$million,2003-Q3,Quarterly,Value,,,reported,,,,Table3,C12,38,0.0
+2003-09-30,"Air visitors: shopping, entertainment, transport and other",15.012722646310447,%,2003-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,D166,0.15012722646310447,0.0%
+2003-09-30,"Air visitors: shopping, entertainment, transport and other",45.2,$million,2003-Q3,Quarterly,Value,,,reported,,,,Table3,D12,45.2,0.0
+2003-09-30,Air visitors: total,-28.151986183074264,%,2003-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,E166,-0.2815198618307426,0.0%
+2003-09-30,Air visitors: total,83.2,$million,2003-Q3,Quarterly,Value,,,reported,,,,Table3,E12,83.2,0.0
+2003-09-30,Cruise visitors,34.883720930232556,%,2003-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,F166,0.3488372093023256,0.0%
+2003-09-30,Cruise visitors,29,$million,2003-Q3,Quarterly,Value,,,reported,,,,Table3,F12,29,0.0
+2003-09-30,Total expenditure,-18.28113619810634,%,2003-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,G166,-0.1828113619810634,0.0%
+2003-09-30,Total expenditure,112.2,$million,2003-Q3,Quarterly,Value,,,reported,,,,Table3,G12,112.2,0.0
+2003-12-31,Air visitors: accommodation and food,-30.58548009367682,%,2003,Annual,Published percentage change,,,reported,,,,Table3,C168,-0.3058548009367682,0.0%
+2003-12-31,Air visitors: accommodation and food,148.2,$million,2003,Annual,Value,,,reported,,,,Table3,C14,148.2,0.0
+2003-12-31,"Air visitors: shopping, entertainment, transport and other",19.666666666666686,%,2003,Annual,Published percentage change,,,reported,,,,Table3,D168,0.19666666666666685,0.0%
+2003-12-31,"Air visitors: shopping, entertainment, transport and other",143.60000000000002,$million,2003,Annual,Value,,,reported,,,,Table3,D14,143.60000000000002,0.0
+2003-12-31,Air visitors: total,-12.503748125937028,%,2003,Annual,Published percentage change,,,reported,,,,Table3,E168,-0.12503748125937028,0.0%
+2003-12-31,Air visitors: total,291.8,$million,2003,Annual,Value,,,reported,,,,Table3,E14,291.8,0.0
+2003-12-31,Cruise visitors,23.907284768211916,%,2003,Annual,Published percentage change,,,reported,,,,Table3,F168,0.23907284768211917,0.0%
+2003-12-31,Cruise visitors,56.129999999999995,$million,2003,Annual,Value,,,reported,,,,Table3,F14,56.129999999999995,0.0
+2003-12-31,Total expenditure,-8.149419218585006,%,2003,Annual,Published percentage change,,,reported,,,,Table3,G168,-0.08149419218585006,0.0%
+2003-12-31,Total expenditure,347.93,$million,2003,Annual,Value,,,reported,,,,Table3,G14,347.93,0.0
+2003-12-31,Air visitors: accommodation and food,-42.77777777777778,%,2003-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,C167,-0.42777777777777776,0.0%
+2003-12-31,Air visitors: accommodation and food,20.6,$million,2003-Q4,Quarterly,Value,,,reported,,,,Table3,C13,20.6,0.0
+2003-12-31,"Air visitors: shopping, entertainment, transport and other",9.871244635193136,%,2003-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,D167,0.09871244635193135,0.0%
+2003-12-31,"Air visitors: shopping, entertainment, transport and other",25.6,$million,2003-Q4,Quarterly,Value,,,reported,,,,Table3,D13,25.6,0.0
+2003-12-31,Air visitors: total,-22.091062394603703,%,2003-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,E167,-0.22091062394603703,0.0%
+2003-12-31,Air visitors: total,46.2,$million,2003-Q4,Quarterly,Value,,,reported,,,,Table3,E13,46.2,0.0
+2003-12-31,Cruise visitors,12.162162162162167,%,2003-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,F167,0.12162162162162167,0.0%
+2003-12-31,Cruise visitors,8.3,$million,2003-Q4,Quarterly,Value,,,reported,,,,Table3,F13,8.3,0.0
+2003-12-31,Total expenditure,-18.29085457271365,%,2003-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,G167,-0.18290854572713647,0.0%
+2003-12-31,Total expenditure,54.5,$million,2003-Q4,Quarterly,Value,,,reported,,,,Table3,G13,54.5,0.0
+2004-03-31,Air visitors: accommodation and food,61.72248803827751,%,2004-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,C170,0.6172248803827751,0.0%
+2004-03-31,Air visitors: accommodation and food,33.8,$million,2004-Q1,Quarterly,Value,,,reported,,,,Table3,C16,33.8,0.0
+2004-03-31,"Air visitors: shopping, entertainment, transport and other",-38.59649122807018,%,2004-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,D170,-0.3859649122807018,0.0%
+2004-03-31,"Air visitors: shopping, entertainment, transport and other",10.5,$million,2004-Q1,Quarterly,Value,,,reported,,,,Table3,D16,10.5,0.0
+2004-03-31,Air visitors: total,16.578947368421044,%,2004-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,E170,0.16578947368421046,0.0%
+2004-03-31,Air visitors: total,44.3,$million,2004-Q1,Quarterly,Value,,,reported,,,,Table3,E16,44.3,0.0
+2004-03-31,Cruise visitors,566.6666666666667,%,2004-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,F170,5.666666666666667,0.0%
+2004-03-31,Cruise visitors,0.2,$million,2004-Q1,Quarterly,Value,,,reported,,,,Table3,F16,0.2,0.0
+2004-03-31,Total expenditure,17.012884564817245,%,2004-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,G170,0.17012884564817246,0.0%
+2004-03-31,Total expenditure,44.5,$million,2004-Q1,Quarterly,Value,,,reported,,,,Table3,G16,44.5,0.0
+2004-06-30,Air visitors: accommodation and food,24.59970887918485,%,2004-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,C171,0.24599708879184848,0.0%
+2004-06-30,Air visitors: accommodation and food,85.6,$million,2004-Q2,Quarterly,Value,,,reported,,,,Table3,C17,85.6,0.0
+2004-06-30,"Air visitors: shopping, entertainment, transport and other",-52.6032315978456,%,2004-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,D171,-0.526032315978456,0.0%
+2004-06-30,"Air visitors: shopping, entertainment, transport and other",26.4,$million,2004-Q2,Quarterly,Value,,,reported,,,,Table3,D17,26.4,0.0
+2004-06-30,Air visitors: total,-9.967845659163991,%,2004-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,E171,-0.09967845659163992,0.0%
+2004-06-30,Air visitors: total,112,$million,2004-Q2,Quarterly,Value,,,reported,,,,Table3,E17,112,0.0
+2004-06-30,Cruise visitors,-1.0638297872340388,%,2004-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,F171,-0.010638297872340387,0.0%
+2004-06-30,Cruise visitors,18.6,$million,2004-Q2,Quarterly,Value,,,reported,,,,Table3,F17,18.6,0.0
+2004-06-30,Total expenditure,-8.79888268156426,%,2004-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,G171,-0.0879888268156426,0.0%
+2004-06-30,Total expenditure,130.6,$million,2004-Q2,Quarterly,Value,,,reported,,,,Table3,G17,130.6,0.0
+2004-09-30,Air visitors: accommodation and food,134.21052631578948,%,2004-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,C172,1.3421052631578947,0.0%
+2004-09-30,Air visitors: accommodation and food,89,$million,2004-Q3,Quarterly,Value,,,reported,,,,Table3,C18,89,0.0
+2004-09-30,"Air visitors: shopping, entertainment, transport and other",-39.15929203539824,%,2004-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,D172,-0.39159292035398235,0.0%
+2004-09-30,"Air visitors: shopping, entertainment, transport and other",27.5,$million,2004-Q3,Quarterly,Value,,,reported,,,,Table3,D18,27.5,0.0
+2004-09-30,Air visitors: total,40.02403846153846,%,2004-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,E172,0.4002403846153846,0.0%
+2004-09-30,Air visitors: total,116.5,$million,2004-Q3,Quarterly,Value,,,reported,,,,Table3,E18,116.5,0.0
+2004-09-30,Cruise visitors,-14.827586206896553,%,2004-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,F172,-0.14827586206896554,0.0%
+2004-09-30,Cruise visitors,24.7,$million,2004-Q3,Quarterly,Value,,,reported,,,,Table3,F18,24.7,0.0
+2004-09-30,Total expenditure,25.846702317290536,%,2004-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,G172,0.2584670231729054,0.0%
+2004-09-30,Total expenditure,141.2,$million,2004-Q3,Quarterly,Value,,,reported,,,,Table3,G18,141.2,0.0
+2004-12-31,Air visitors: accommodation and food,76.85560053981105,%,2004,Annual,Published percentage change,,,reported,,,,Table3,C174,0.7685560053981105,0.0%
+2004-12-31,Air visitors: accommodation and food,262.09999999999997,$million,2004,Annual,Value,,,reported,,,,Table3,C20,262.09999999999997,0.0
+2004-12-31,"Air visitors: shopping, entertainment, transport and other",-43.593314763231206,%,2004,Annual,Published percentage change,,,reported,,,,Table3,D174,-0.43593314763231206,0.0%
+2004-12-31,"Air visitors: shopping, entertainment, transport and other",81,$million,2004,Annual,Value,,,reported,,,,Table3,D20,81,0.0
+2004-12-31,Air visitors: total,17.580534612748462,%,2004,Annual,Published percentage change,,,reported,,,,Table3,E174,0.1758053461274846,0.0%
+2004-12-31,Air visitors: total,343.1,$million,2004,Annual,Value,,,reported,,,,Table3,E20,343.1,0.0
+2004-12-31,Cruise visitors,-10.386602529841438,%,2004,Annual,Published percentage change,,,reported,,,,Table3,F174,-0.10386602529841438,0.0%
+2004-12-31,Cruise visitors,50.3,$million,2004,Annual,Value,,,reported,,,,Table3,F20,50.3,0.0
+2004-12-31,Total expenditure,13.068720719684984,%,2004,Annual,Published percentage change,,,reported,,,,Table3,G174,0.13068720719684984,0.0%
+2004-12-31,Total expenditure,393.4,$million,2004,Annual,Value,,,reported,,,,Table3,G20,393.4,0.0
+2004-12-31,Air visitors: accommodation and food,160.67961165048544,%,2004-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,C173,1.6067961165048543,0.0%
+2004-12-31,Air visitors: accommodation and food,53.7,$million,2004-Q4,Quarterly,Value,,,reported,,,,Table3,C19,53.7,0.0
+2004-12-31,"Air visitors: shopping, entertainment, transport and other",-35.15625,%,2004-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,D173,-0.3515625,0.0%
+2004-12-31,"Air visitors: shopping, entertainment, transport and other",16.6,$million,2004-Q4,Quarterly,Value,,,reported,,,,Table3,D19,16.6,0.0
+2004-12-31,Air visitors: total,52.164502164502146,%,2004-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,E173,0.5216450216450215,0.0%
+2004-12-31,Air visitors: total,70.3,$million,2004-Q4,Quarterly,Value,,,reported,,,,Table3,E19,70.3,0.0
+2004-12-31,Cruise visitors,-18.072289156626514,%,2004-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,F173,-0.18072289156626514,0.0%
+2004-12-31,Cruise visitors,6.8,$million,2004-Q4,Quarterly,Value,,,reported,,,,Table3,F19,6.8,0.0
+2004-12-31,Total expenditure,41.46788990825687,%,2004-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,G173,0.4146788990825687,0.0%
+2004-12-31,Total expenditure,77.1,$million,2004-Q4,Quarterly,Value,,,reported,,,,Table3,G19,77.1,0.0
+2005-03-31,Air visitors: accommodation and food,14.49704142011836,%,2005-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,C176,0.14497041420118362,0.0%
+2005-03-31,Air visitors: accommodation and food,38.7,$million,2005-Q1,Quarterly,Value,,,reported,,,,Table3,C22,38.7,General
+2005-03-31,"Air visitors: shopping, entertainment, transport and other",4.761904761904762,%,2005-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,D176,0.047619047619047616,0.0%
+2005-03-31,"Air visitors: shopping, entertainment, transport and other",11,$million,2005-Q1,Quarterly,Value,,,reported,,,,Table3,D22,11,0.0
+2005-03-31,Air visitors: total,12.189616252821683,%,2005-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,E176,0.12189616252821683,0.0%
+2005-03-31,Air visitors: total,49.7,$million,2005-Q1,Quarterly,Value,,,reported,,,,Table3,E22,49.7,0.0
+2005-03-31,Cruise visitors,-50,%,2005-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,F176,-0.5,0.0%
+2005-03-31,Cruise visitors,0.1,$million,2005-Q1,Quarterly,Value,,,reported,,,,Table3,F22,0.1,0.0
+2005-03-31,Total expenditure,11.910112359550572,%,2005-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,G176,0.11910112359550572,0.0%
+2005-03-31,Total expenditure,49.800000000000004,$million,2005-Q1,Quarterly,Value,,,reported,,,,Table3,G22,49.800000000000004,0.0
+2005-06-30,Air visitors: accommodation and food,5.724299065420568,%,2005-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,C177,0.057242990654205676,0.0%
+2005-06-30,Air visitors: accommodation and food,90.5,$million,2005-Q2,Quarterly,Value,,,reported,,,,Table3,C23,90.5,General
+2005-06-30,"Air visitors: shopping, entertainment, transport and other",-2.272727272727265,%,2005-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,D177,-0.022727272727272648,0.0%
+2005-06-30,"Air visitors: shopping, entertainment, transport and other",25.8,$million,2005-Q2,Quarterly,Value,,,reported,,,,Table3,D23,25.8,General
+2005-06-30,Air visitors: total,3.8392857142857117,%,2005-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,E177,0.03839285714285712,0.0%
+2005-06-30,Air visitors: total,116.3,$million,2005-Q2,Quarterly,Value,,,reported,,,,Table3,E23,116.3,0.0
+2005-06-30,Cruise visitors,-3.2258064516129106,%,2005-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,F177,-0.03225806451612911,0.0%
+2005-06-30,Cruise visitors,18,$million,2005-Q2,Quarterly,Value,,,reported,,,,Table3,F23,18,0.0
+2005-06-30,Total expenditure,2.8330781010719885,%,2005-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,G177,0.028330781010719886,0.0%
+2005-06-30,Total expenditure,134.3,$million,2005-Q2,Quarterly,Value,,,reported,,,,Table3,G23,134.3,0.0
+2005-09-30,Air visitors: accommodation and food,-7.752808988764051,%,2005-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,C178,-0.07752808988764051,0.0%
+2005-09-30,Air visitors: accommodation and food,82.1,$million,2005-Q3,Quarterly,Value,,,reported,,,,Table3,C24,82.1,General
+2005-09-30,"Air visitors: shopping, entertainment, transport and other",-14.909090909090914,%,2005-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,D178,-0.14909090909090914,0.0%
+2005-09-30,"Air visitors: shopping, entertainment, transport and other",23.4,$million,2005-Q3,Quarterly,Value,,,reported,,,,Table3,D24,23.4,General
+2005-09-30,Air visitors: total,-9.44206008583691,%,2005-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,E178,-0.0944206008583691,0.0%
+2005-09-30,Air visitors: total,105.5,$million,2005-Q3,Quarterly,Value,,,reported,,,,Table3,E24,105.5,0.0
+2005-09-30,Cruise visitors,-1.6194331983805612,%,2005-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,F178,-0.016194331983805613,0.0%
+2005-09-30,Cruise visitors,24.3,$million,2005-Q3,Quarterly,Value,,,reported,,,,Table3,F24,24.3,0.0
+2005-09-30,Total expenditure,-8.073654390934829,%,2005-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,G178,-0.08073654390934829,0.0%
+2005-09-30,Total expenditure,129.8,$million,2005-Q3,Quarterly,Value,,,reported,,,,Table3,G24,129.8,0.0
+2005-12-31,Air visitors: accommodation and food,1.1064479206409898,%,2005,Annual,Published percentage change,,,reported,,,,Table3,C180,0.011064479206409898,0.0%
+2005-12-31,Air visitors: accommodation and food,265,$million,2005,Annual,Value,,,reported,,,,Table3,C26,265,0.0
+2005-12-31,"Air visitors: shopping, entertainment, transport and other",-6.790123456790123,%,2005,Annual,Published percentage change,,,reported,,,,Table3,D180,-0.06790123456790123,0.0%
+2005-12-31,"Air visitors: shopping, entertainment, transport and other",75.5,$million,2005,Annual,Value,,,reported,,,,Table3,D26,75.5,General
+2005-12-31,Air visitors: total,-0.7577965607694616,%,2005,Annual,Published percentage change,,,reported,,,,Table3,E180,-0.007577965607694616,0.0%
+2005-12-31,Air visitors: total,340.5,$million,2005,Annual,Value,,,reported,,,,Table3,E26,340.5,0.0
+2005-12-31,Cruise visitors,6.75944333996025,%,2005,Annual,Published percentage change,,,reported,,,,Table3,F180,0.0675944333996025,0.0%
+2005-12-31,Cruise visitors,53.7,$million,2005,Annual,Value,,,reported,,,,Table3,F26,53.7,0.0
+2005-12-31,Total expenditure,0.2033553634977296,%,2005,Annual,Published percentage change,,,reported,,,,Table3,G180,0.002033553634977296,0.0%
+2005-12-31,Total expenditure,394.20000000000005,$million,2005,Annual,Value,,,reported,,,,Table3,G26,394.20000000000005,0.0
+2005-12-31,Air visitors: accommodation and food,0,%,2005-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,C179,0,0.0%
+2005-12-31,Air visitors: accommodation and food,53.7,$million,2005-Q4,Quarterly,Value,,,reported,,,,Table3,C25,53.7,0.0
+2005-12-31,"Air visitors: shopping, entertainment, transport and other",-7.8313253012048225,%,2005-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,D179,-0.07831325301204822,0.0%
+2005-12-31,"Air visitors: shopping, entertainment, transport and other",15.3,$million,2005-Q4,Quarterly,Value,,,reported,,,,Table3,D25,15.3,General
+2005-12-31,Air visitors: total,-1.8492176386913188,%,2005-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,E179,-0.018492176386913188,0.0%
+2005-12-31,Air visitors: total,69,$million,2005-Q4,Quarterly,Value,,,reported,,,,Table3,E25,69,0.0
+2005-12-31,Cruise visitors,66.17647058823532,%,2005-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,F179,0.6617647058823531,0.0%
+2005-12-31,Cruise visitors,11.3,$million,2005-Q4,Quarterly,Value,,,reported,,,,Table3,F25,11.3,0.0
+2005-12-31,Total expenditure,4.150453955901431,%,2005-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,G179,0.04150453955901431,0.0%
+2005-12-31,Total expenditure,80.3,$million,2005-Q4,Quarterly,Value,,,reported,,,,Table3,G25,80.3,0.0
+2006-03-31,Air visitors: accommodation and food,3.3591731266149796,%,2006-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,C182,0.033591731266149796,0.0%
+2006-03-31,Air visitors: accommodation and food,40,$million,2006-Q1,Quarterly,Value,,,reported,,,,Table3,C28,40,0.0
+2006-03-31,"Air visitors: shopping, entertainment, transport and other",-3.63636363636364,%,2006-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,D182,-0.0363636363636364,0.0%
+2006-03-31,"Air visitors: shopping, entertainment, transport and other",10.6,$million,2006-Q1,Quarterly,Value,,,reported,,,,Table3,D28,10.6,0.0
+2006-03-31,Air visitors: total,1.8108651911468783,%,2006-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,E182,0.018108651911468782,0.0%
+2006-03-31,Air visitors: total,50.6,$million,2006-Q1,Quarterly,Value,,,reported,,,,Table3,E28,50.6,0.0
+2006-03-31,Cruise visitors,0,%,2006-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,F182,0,0.0%
+2006-03-31,Cruise visitors,0.1,$million,2006-Q1,Quarterly,Value,,,reported,,,,Table3,F28,0.1,0.0
+2006-03-31,Total expenditure,1.8072289156626478,%,2006-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,G182,0.018072289156626477,0.0%
+2006-03-31,Total expenditure,50.7,$million,2006-Q1,Quarterly,Value,,,reported,,,,Table3,G28,50.7,0.0
+2006-06-30,Air visitors: accommodation and food,14.917127071823206,%,2006-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,C183,0.14917127071823205,0.0%
+2006-06-30,Air visitors: accommodation and food,104,$million,2006-Q2,Quarterly,Value,,,reported,,,,Table3,C29,104,0.0
+2006-06-30,"Air visitors: shopping, entertainment, transport and other",6.589147286821702,%,2006-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,D183,0.06589147286821702,0.0%
+2006-06-30,"Air visitors: shopping, entertainment, transport and other",27.5,$million,2006-Q2,Quarterly,Value,,,reported,,,,Table3,D29,27.5,General
+2006-06-30,Air visitors: total,13.06964746345658,%,2006-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,E183,0.1306964746345658,0.0%
+2006-06-30,Air visitors: total,131.5,$million,2006-Q2,Quarterly,Value,,,reported,,,,Table3,E29,131.5,0.0
+2006-06-30,Cruise visitors,32.22222222222222,%,2006-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,F183,0.32222222222222224,0.0%
+2006-06-30,Cruise visitors,23.8,$million,2006-Q2,Quarterly,Value,,,reported,,,,Table3,F29,23.8,0.0
+2006-06-30,Total expenditure,15.63663440059568,%,2006-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,G183,0.1563663440059568,0.0%
+2006-06-30,Total expenditure,155.3,$million,2006-Q2,Quarterly,Value,,,reported,,,,Table3,G29,155.3,0.0
+2006-09-30,Air visitors: accommodation and food,21.193666260657743,%,2006-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,C184,0.21193666260657743,0.0%
+2006-09-30,Air visitors: accommodation and food,99.5,$million,2006-Q3,Quarterly,Value,,,reported,,,,Table3,C30,99.5,0.0
+2006-09-30,"Air visitors: shopping, entertainment, transport and other",12.393162393162402,%,2006-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,D184,0.12393162393162403,0.0%
+2006-09-30,"Air visitors: shopping, entertainment, transport and other",26.3,$million,2006-Q3,Quarterly,Value,,,reported,,,,Table3,D30,26.3,0.0
+2006-09-30,Air visitors: total,19.241706161137436,%,2006-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,E184,0.19241706161137437,0.0%
+2006-09-30,Air visitors: total,125.8,$million,2006-Q3,Quarterly,Value,,,reported,,,,Table3,E30,125.8,0.0
+2006-09-30,Cruise visitors,31.275720164609044,%,2006-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,F184,0.31275720164609044,0.0%
+2006-09-30,Cruise visitors,31.9,$million,2006-Q3,Quarterly,Value,,,reported,,,,Table3,F30,31.9,0.0
+2006-09-30,Total expenditure,21.494607087827408,%,2006-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,G184,0.21494607087827408,0.0%
+2006-09-30,Total expenditure,157.7,$million,2006-Q3,Quarterly,Value,,,reported,,,,Table3,G30,157.7,0.0
+2006-12-31,Air visitors: accommodation and food,16.075471698113216,%,2006,Annual,Published percentage change,,,reported,,,,Table3,C186,0.16075471698113217,0.0%
+2006-12-31,Air visitors: accommodation and food,307.6,$million,2006,Annual,Value,,,reported,,,,Table3,C32,307.6,0.0
+2006-12-31,"Air visitors: shopping, entertainment, transport and other",7.6821192052980285,%,2006,Annual,Published percentage change,,,reported,,,,Table3,D186,0.07682119205298028,0.0%
+2006-12-31,"Air visitors: shopping, entertainment, transport and other",81.30000000000001,$million,2006,Annual,Value,,,reported,,,,Table3,D32,81.30000000000001,0.0
+2006-12-31,Air visitors: total,14.214390602055794,%,2006,Annual,Published percentage change,,,reported,,,,Table3,E186,0.14214390602055793,0.0%
+2006-12-31,Air visitors: total,388.9,$million,2006,Annual,Value,,,reported,,,,Table3,E32,388.9,0.0
+2006-12-31,Cruise visitors,21.601489757914326,%,2006,Annual,Published percentage change,,,reported,,,,Table3,F186,0.21601489757914327,0.0%
+2006-12-31,Cruise visitors,65.3,$million,2006,Annual,Value,,,reported,,,,Table3,F32,65.3,0.0
+2006-12-31,Total expenditure,15.220700152206984,%,2006,Annual,Published percentage change,,,reported,,,,Table3,G186,0.15220700152206984,0.0%
+2006-12-31,Total expenditure,454.2,$million,2006,Annual,Value,,,reported,,,,Table3,G32,454.2,0.0
+2006-12-31,Air visitors: accommodation and food,19.36685288640594,%,2006-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,C185,0.1936685288640594,0.0%
+2006-12-31,Air visitors: accommodation and food,64.1,$million,2006-Q4,Quarterly,Value,,,reported,,,,Table3,C31,64.1,0.0
+2006-12-31,"Air visitors: shopping, entertainment, transport and other",10.457516339869265,%,2006-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,D185,0.10457516339869266,0.0%
+2006-12-31,"Air visitors: shopping, entertainment, transport and other",16.9,$million,2006-Q4,Quarterly,Value,,,reported,,,,Table3,D31,16.9,0.0
+2006-12-31,Air visitors: total,17.391304347826086,%,2006-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,E185,0.17391304347826086,0.0%
+2006-12-31,Air visitors: total,81,$million,2006-Q4,Quarterly,Value,,,reported,,,,Table3,E31,81,0.0
+2006-12-31,Cruise visitors,-15.929203539823014,%,2006-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,F185,-0.15929203539823014,0.0%
+2006-12-31,Cruise visitors,9.5,$million,2006-Q4,Quarterly,Value,,,reported,,,,Table3,F31,9.5,0.0
+2006-12-31,Total expenditure,12.702366127023664,%,2006-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,G185,0.12702366127023665,0.0%
+2006-12-31,Total expenditure,90.5,$million,2006-Q4,Quarterly,Value,,,reported,,,,Table3,G31,90.5,0.0
+2007-03-31,Air visitors: accommodation and food,30.250000000000004,%,2007-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,C188,0.30250000000000005,0.0%
+2007-03-31,Air visitors: accommodation and food,52.1,$million,2007-Q1,Quarterly,Value,,,reported,,,,Table3,C34,52.1,0.0
+2007-03-31,"Air visitors: shopping, entertainment, transport and other",34.9056603773585,%,2007-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,D188,0.349056603773585,0.0%
+2007-03-31,"Air visitors: shopping, entertainment, transport and other",14.3,$million,2007-Q1,Quarterly,Value,,,reported,,,,Table3,D34,14.3,0.0
+2007-03-31,Air visitors: total,31.225296442687757,%,2007-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,E188,0.31225296442687756,0.0%
+2007-03-31,Air visitors: total,66.4,$million,2007-Q1,Quarterly,Value,,,reported,,,,Table3,E34,66.4,0.0
+2007-03-31,Cruise visitors,400,%,2007-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,F188,4,0.0%
+2007-03-31,Cruise visitors,0.5,$million,2007-Q1,Quarterly,Value,,,reported,,,,Table3,F34,0.5,0.0
+2007-03-31,Total expenditure,31.952662721893493,%,2007-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,G188,0.31952662721893493,0.0%
+2007-03-31,Total expenditure,66.9,$million,2007-Q1,Quarterly,Value,,,reported,,,,Table3,G34,66.9,0.0
+2007-06-30,Air visitors: accommodation and food,8.84615384615385,%,2007-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,C189,0.0884615384615385,0.0%
+2007-06-30,Air visitors: accommodation and food,113.2,$million,2007-Q2,Quarterly,Value,,,reported,,,,Table3,C35,113.2,0.0
+2007-06-30,"Air visitors: shopping, entertainment, transport and other",13.090909090909095,%,2007-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,D189,0.13090909090909095,0.0%
+2007-06-30,"Air visitors: shopping, entertainment, transport and other",31.1,$million,2007-Q2,Quarterly,Value,,,reported,,,,Table3,D35,31.1,0.0
+2007-06-30,Air visitors: total,9.733840304182518,%,2007-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,E189,0.09733840304182519,0.0%
+2007-06-30,Air visitors: total,144.3,$million,2007-Q2,Quarterly,Value,,,reported,,,,Table3,E35,144.3,0.0
+2007-06-30,Cruise visitors,9.243697478991592,%,2007-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,F189,0.09243697478991593,0.0%
+2007-06-30,Cruise visitors,26,$million,2007-Q2,Quarterly,Value,,,reported,,,,Table3,F35,26,0.0
+2007-06-30,Total expenditure,9.658725048293624,%,2007-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,G189,0.09658725048293625,0.0%
+2007-06-30,Total expenditure,170.3,$million,2007-Q2,Quarterly,Value,,,reported,,,,Table3,G35,170.3,0.0
+2007-09-30,Air visitors: accommodation and food,11.859296482412057,%,2007-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,C190,0.11859296482412057,0.0%
+2007-09-30,Air visitors: accommodation and food,111.3,$million,2007-Q3,Quarterly,Value,,,reported,,,,Table3,C36,111.3,0.0
+2007-09-30,"Air visitors: shopping, entertainment, transport and other",15.969581749049427,%,2007-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,D190,0.15969581749049427,0.0%
+2007-09-30,"Air visitors: shopping, entertainment, transport and other",30.5,$million,2007-Q3,Quarterly,Value,,,reported,,,,Table3,D36,30.5,0.0
+2007-09-30,Air visitors: total,12.718600953895084,%,2007-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,E190,0.12718600953895084,0.0%
+2007-09-30,Air visitors: total,141.8,$million,2007-Q3,Quarterly,Value,,,reported,,,,Table3,E36,141.8,0.0
+2007-09-30,Cruise visitors,9.404388714733543,%,2007-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,F190,0.09404388714733543,0.0%
+2007-09-30,Cruise visitors,34.9,$million,2007-Q3,Quarterly,Value,,,reported,,,,Table3,F36,34.9,0.0
+2007-09-30,Total expenditure,12.048192771084357,%,2007-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,G190,0.12048192771084357,0.0%
+2007-09-30,Total expenditure,176.70000000000002,$million,2007-Q3,Quarterly,Value,,,reported,,,,Table3,G36,176.70000000000002,0.0
+2007-12-31,Air visitors: accommodation and food,12.938881664499352,%,2007,Annual,Published percentage change,,,reported,,,,Table3,C192,0.12938881664499352,0.0%
+2007-12-31,Air visitors: accommodation and food,347.40000000000003,$million,2007,Annual,Value,,,reported,,,,Table3,C38,347.40000000000003,0.0
+2007-12-31,"Air visitors: shopping, entertainment, transport and other",17.220172201722015,%,2007,Annual,Published percentage change,,,reported,,,,Table3,D192,0.17220172201722014,0.0%
+2007-12-31,"Air visitors: shopping, entertainment, transport and other",95.30000000000001,$million,2007,Annual,Value,,,reported,,,,Table3,D38,95.30000000000001,0.0
+2007-12-31,Air visitors: total,13.833890460272569,%,2007,Annual,Published percentage change,,,reported,,,,Table3,E192,0.1383389046027257,0.0%
+2007-12-31,Air visitors: total,442.7,$million,2007,Annual,Value,,,reported,,,,Table3,E38,442.7,0.0
+2007-12-31,Cruise visitors,7.963246554364477,%,2007,Annual,Published percentage change,,,reported,,,,Table3,F192,0.07963246554364477,0.0%
+2007-12-31,Cruise visitors,70.5,$million,2007,Annual,Value,,,reported,,,,Table3,F38,70.5,0.0
+2007-12-31,Total expenditure,12.989872302950257,%,2007,Annual,Published percentage change,,,reported,,,,Table3,G192,0.12989872302950256,0.0%
+2007-12-31,Total expenditure,513.2,$million,2007,Annual,Value,,,reported,,,,Table3,G38,513.2,0.0
+2007-12-31,Air visitors: accommodation and food,10.452418096723875,%,2007-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,C191,0.10452418096723874,0.0%
+2007-12-31,Air visitors: accommodation and food,70.8,$million,2007-Q4,Quarterly,Value,,,reported,,,,Table3,C37,70.8,0.0
+2007-12-31,"Air visitors: shopping, entertainment, transport and other",14.792899408284024,%,2007-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,D191,0.14792899408284024,0.0%
+2007-12-31,"Air visitors: shopping, entertainment, transport and other",19.4,$million,2007-Q4,Quarterly,Value,,,reported,,,,Table3,D37,19.4,0.0
+2007-12-31,Air visitors: total,11.358024691358011,%,2007-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,E191,0.11358024691358011,0.0%
+2007-12-31,Air visitors: total,90.19999999999999,$million,2007-Q4,Quarterly,Value,,,reported,,,,Table3,E37,90.19999999999999,0.0
+2007-12-31,Cruise visitors,-4.210526315789478,%,2007-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,F191,-0.04210526315789478,0.0%
+2007-12-31,Cruise visitors,9.1,$million,2007-Q4,Quarterly,Value,,,reported,,,,Table3,F37,9.1,0.0
+2007-12-31,Total expenditure,9.72375690607733,%,2007-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,G191,0.0972375690607733,0.0%
+2007-12-31,Total expenditure,99.29999999999998,$million,2007-Q4,Quarterly,Value,,,reported,,,,Table3,G37,99.29999999999998,0.0
+2008-03-31,Air visitors: accommodation and food,-19.193857965451055,%,2008-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,C194,-0.19193857965451055,0.0%
+2008-03-31,Air visitors: accommodation and food,42.1,$million,2008-Q1,Quarterly,Value,,,reported,,,,Table3,C40,42.1,0.0
+2008-03-31,"Air visitors: shopping, entertainment, transport and other",-13.286713286713288,%,2008-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,D194,-0.1328671328671329,0.0%
+2008-03-31,"Air visitors: shopping, entertainment, transport and other",12.4,$million,2008-Q1,Quarterly,Value,,,reported,,,,Table3,D40,12.4,0.0
+2008-03-31,Air visitors: total,-17.92168674698796,%,2008-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,E194,-0.17921686746987958,0.0%
+2008-03-31,Air visitors: total,54.5,$million,2008-Q1,Quarterly,Value,,,reported,,,,Table3,E40,54.5,0.0
+2008-03-31,Cruise visitors,-19.999999999999996,%,2008-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,F194,-0.19999999999999996,0.0%
+2008-03-31,Cruise visitors,0.4,$million,2008-Q1,Quarterly,Value,,,reported,,,,Table3,F40,0.4,0.0
+2008-03-31,Total expenditure,-17.937219730941713,%,2008-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,G194,-0.17937219730941714,0.0%
+2008-03-31,Total expenditure,54.9,$million,2008-Q1,Quarterly,Value,,,reported,,,,Table3,G40,54.9,0.0
+2008-06-30,Air visitors: accommodation and food,-22.084805653710244,%,2008-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,C195,-0.22084805653710246,0.0%
+2008-06-30,Air visitors: accommodation and food,88.2,$million,2008-Q2,Quarterly,Value,,,reported,,,,Table3,C41,88.2,0.0
+2008-06-30,"Air visitors: shopping, entertainment, transport and other",-13.826366559485532,%,2008-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,D195,-0.1382636655948553,0.0%
+2008-06-30,"Air visitors: shopping, entertainment, transport and other",26.8,$million,2008-Q2,Quarterly,Value,,,reported,,,,Table3,D41,26.8,0.0
+2008-06-30,Air visitors: total,-20.304920304920312,%,2008-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,E195,-0.20304920304920313,0.0%
+2008-06-30,Air visitors: total,115,$million,2008-Q2,Quarterly,Value,,,reported,,,,Table3,E41,115,0.0
+2008-06-30,Cruise visitors,0.3846153846153901,%,2008-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,F195,0.003846153846153901,0.0%
+2008-06-30,Cruise visitors,26.1,$million,2008-Q2,Quarterly,Value,,,reported,,,,Table3,F41,26.1,0.0
+2008-06-30,Total expenditure,-17.146212566059905,%,2008-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,G195,-0.17146212566059904,0.0%
+2008-06-30,Total expenditure,141.1,$million,2008-Q2,Quarterly,Value,,,reported,,,,Table3,G41,141.1,0.0
+2008-09-30,Air visitors: accommodation and food,-23.53998203054807,%,2008-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,C196,-0.2353998203054807,0.0%
+2008-09-30,Air visitors: accommodation and food,85.1,$million,2008-Q3,Quarterly,Value,,,reported,,,,Table3,C42,85.1,0.0
+2008-09-30,"Air visitors: shopping, entertainment, transport and other",-14.754098360655737,%,2008-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,D196,-0.14754098360655737,0.0%
+2008-09-30,"Air visitors: shopping, entertainment, transport and other",26,$million,2008-Q3,Quarterly,Value,,,reported,,,,Table3,D42,26,0.0
+2008-09-30,Air visitors: total,-21.65021156558534,%,2008-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,E196,-0.21650211565585342,0.0%
+2008-09-30,Air visitors: total,111.1,$million,2008-Q3,Quarterly,Value,,,reported,,,,Table3,E42,111.1,0.0
+2008-09-30,Cruise visitors,-33.81088825214899,%,2008-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,F196,-0.3381088825214899,0.0%
+2008-09-30,Cruise visitors,23.1,$million,2008-Q3,Quarterly,Value,,,reported,,,,Table3,F42,23.1,0.0
+2008-09-30,Total expenditure,-24.052065647990958,%,2008-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,G196,-0.24052065647990958,0.0%
+2008-09-30,Total expenditure,134.2,$million,2008-Q3,Quarterly,Value,,,reported,,,,Table3,G42,134.2,0.0
+2008-12-31,Air visitors: accommodation and food,-23.488773747841112,%,2008,Annual,Published percentage change,,,reported,,,,Table3,C198,-0.2348877374784111,0.0%
+2008-12-31,Air visitors: accommodation and food,265.8,$million,2008,Annual,Value,,,reported,,,,Table3,C44,265.8,0.0
+2008-12-31,"Air visitors: shopping, entertainment, transport and other",-15.52990556138511,%,2008,Annual,Published percentage change,,,reported,,,,Table3,D198,-0.1552990556138511,0.0%
+2008-12-31,"Air visitors: shopping, entertainment, transport and other",80.5,$million,2008,Annual,Value,,,reported,,,,Table3,D44,80.5,0.0
+2008-12-31,Air visitors: total,-21.775468714705212,%,2008,Annual,Published percentage change,,,reported,,,,Table3,E198,-0.21775468714705212,0.0%
+2008-12-31,Air visitors: total,346.3,$million,2008,Annual,Value,,,reported,,,,Table3,E44,346.3,0.0
+2008-12-31,Cruise visitors,-18.15602836879432,%,2008,Annual,Published percentage change,,,reported,,,,Table3,F198,-0.18156028368794322,0.0%
+2008-12-31,Cruise visitors,57.7,$million,2008,Annual,Value,,,reported,,,,Table3,F44,57.7,0.0
+2008-12-31,Total expenditure,-21.27825409197195,%,2008,Annual,Published percentage change,,,reported,,,,Table3,G198,-0.2127825409197195,0.0%
+2008-12-31,Total expenditure,404,$million,2008,Annual,Value,,,reported,,,,Table3,G44,404,0.0
+2008-12-31,Air visitors: accommodation and food,-28.8135593220339,%,2008-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,C197,-0.288135593220339,0.0%
+2008-12-31,Air visitors: accommodation and food,50.4,$million,2008-Q4,Quarterly,Value,,,reported,,,,Table3,C43,50.4,0.0
+2008-12-31,"Air visitors: shopping, entertainment, transport and other",-21.134020618556693,%,2008-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,D197,-0.21134020618556693,0.0%
+2008-12-31,"Air visitors: shopping, entertainment, transport and other",15.3,$million,2008-Q4,Quarterly,Value,,,reported,,,,Table3,D43,15.3,0.0
+2008-12-31,Air visitors: total,-27.161862527716174,%,2008-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,E197,-0.27161862527716174,0.0%
+2008-12-31,Air visitors: total,65.7,$million,2008-Q4,Quarterly,Value,,,reported,,,,Table3,E43,65.7,0.0
+2008-12-31,Cruise visitors,-10.989010989010989,%,2008-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,F197,-0.10989010989010989,0.0%
+2008-12-31,Cruise visitors,8.1,$million,2008-Q4,Quarterly,Value,,,reported,,,,Table3,F43,8.1,0.0
+2008-12-31,Total expenditure,-25.67975830815709,%,2008-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,G197,-0.2567975830815709,0.0%
+2008-12-31,Total expenditure,73.8,$million,2008-Q4,Quarterly,Value,,,reported,,,,Table3,G43,73.8,0.0
+2009-03-31,Air visitors: accommodation and food,-46.55581947743468,%,2009-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,C200,-0.4655581947743468,0.0%
+2009-03-31,Air visitors: accommodation and food,22.5,$million,2009-Q1,Quarterly,Value,,,reported,,,,Table3,C46,22.5,0.0
+2009-03-31,"Air visitors: shopping, entertainment, transport and other",-33.064516129032256,%,2009-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,D200,-0.33064516129032256,0.0%
+2009-03-31,"Air visitors: shopping, entertainment, transport and other",8.3,$million,2009-Q1,Quarterly,Value,,,reported,,,,Table3,D46,8.3,0.0
+2009-03-31,Air visitors: total,-43.486238532110086,%,2009-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,E200,-0.4348623853211009,0.0%
+2009-03-31,Air visitors: total,30.8,$million,2009-Q1,Quarterly,Value,,,reported,,,,Table3,E46,30.8,0.0
+2009-03-31,Cruise visitors,-100,%,2009-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,F200,-1,0.0%
+2009-03-31,Cruise visitors,0,$million,2009-Q1,Quarterly,Value,,,reported,,,,Table3,F46,0,0.0
+2009-03-31,Total expenditure,-43.897996357012744,%,2009-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,G200,-0.4389799635701275,0.0%
+2009-03-31,Total expenditure,30.8,$million,2009-Q1,Quarterly,Value,,,reported,,,,Table3,G46,30.8,0.0
+2009-06-30,Air visitors: accommodation and food,-24.931972789115655,%,2009-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,C201,-0.24931972789115656,0.0%
+2009-06-30,Air visitors: accommodation and food,66.21,$million,2009-Q2,Quarterly,Value,,,reported,,,,Table3,C47,66.21,0.0
+2009-06-30,"Air visitors: shopping, entertainment, transport and other",-20.895522388059707,%,2009-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,D201,-0.20895522388059706,0.0%
+2009-06-30,"Air visitors: shopping, entertainment, transport and other",21.2,$million,2009-Q2,Quarterly,Value,,,reported,,,,Table3,D47,21.2,0.0
+2009-06-30,Air visitors: total,-23.99130434782609,%,2009-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,E201,-0.2399130434782609,0.0%
+2009-06-30,Air visitors: total,87.41,$million,2009-Q2,Quarterly,Value,,,reported,,,,Table3,E47,87.41,0.0
+2009-06-30,Cruise visitors,-18.007662835249054,%,2009-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,F201,-0.18007662835249053,0.0%
+2009-06-30,Cruise visitors,21.4,$million,2009-Q2,Quarterly,Value,,,reported,,,,Table3,F47,21.4,0.0
+2009-06-30,Total expenditure,-22.88447909284195,%,2009-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,G201,-0.2288447909284195,0.0%
+2009-06-30,Total expenditure,108.81,$million,2009-Q2,Quarterly,Value,,,reported,,,,Table3,G47,108.81,0.0
+2009-09-30,Air visitors: accommodation and food,-11.868390129259689,%,2009-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,C202,-0.11868390129259689,0.0%
+2009-09-30,Air visitors: accommodation and food,75,$million,2009-Q3,Quarterly,Value,,,reported,,,,Table3,C48,75,0.0
+2009-09-30,"Air visitors: shopping, entertainment, transport and other",-19.230769230769234,%,2009-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,D202,-0.19230769230769232,0.0%
+2009-09-30,"Air visitors: shopping, entertainment, transport and other",21,$million,2009-Q3,Quarterly,Value,,,reported,,,,Table3,D48,21,0.0
+2009-09-30,Air visitors: total,-13.591359135913587,%,2009-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,E202,-0.13591359135913586,0.0%
+2009-09-30,Air visitors: total,96,$million,2009-Q3,Quarterly,Value,,,reported,,,,Table3,E48,96,0.0
+2009-09-30,Cruise visitors,5.627705627705614,%,2009-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,F202,0.05627705627705615,0.0%
+2009-09-30,Cruise visitors,24.4,$million,2009-Q3,Quarterly,Value,,,reported,,,,Table3,F48,24.4,0.0
+2009-09-30,Total expenditure,-10.283159463487321,%,2009-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,G202,-0.10283159463487321,0.0%
+2009-09-30,Total expenditure,120.4,$million,2009-Q3,Quarterly,Value,,,reported,,,,Table3,G48,120.4,0.0
+2009-12-31,Air visitors: accommodation and food,-22.194130925507906,%,2009,Annual,Published percentage change,,,reported,,,,Table3,C204,-0.22194130925507907,0.0%
+2009-12-31,Air visitors: accommodation and food,206.808,$million,2009,Annual,Value,,,reported,,,,Table3,C50,206.808,0.0
+2009-12-31,"Air visitors: shopping, entertainment, transport and other",-21.863354037267083,%,2009,Annual,Published percentage change,,,reported,,,,Table3,D204,-0.21863354037267083,0.0%
+2009-12-31,"Air visitors: shopping, entertainment, transport and other",62.9,$million,2009,Annual,Value,,,reported,,,,Table3,D50,62.9,0.0
+2009-12-31,Air visitors: total,-22.117239387814045,%,2009,Annual,Published percentage change,,,reported,,,,Table3,E204,-0.22117239387814044,0.0%
+2009-12-31,Air visitors: total,269.70799999999997,$million,2009,Annual,Value,,,reported,,,,Table3,E50,269.70799999999997,0.0
+2009-12-31,Cruise visitors,-5.025996533795504,%,2009,Annual,Published percentage change,,,reported,,,,Table3,F204,-0.050259965337955036,0.0%
+2009-12-31,Cruise visitors,54.8,$million,2009,Annual,Value,,,reported,,,,Table3,F50,54.8,0.0
+2009-12-31,Total expenditure,-19.67623762376238,%,2009,Annual,Published percentage change,,,reported,,,,Table3,G204,-0.1967623762376238,0.0%
+2009-12-31,Total expenditure,324.508,$million,2009,Annual,Value,,,reported,,,,Table3,G50,324.508,0.0
+2009-12-31,Air visitors: accommodation and food,-14.488095238095239,%,2009-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,C203,-0.1448809523809524,0.0%
+2009-12-31,Air visitors: accommodation and food,43.098,$million,2009-Q4,Quarterly,Value,,,reported,,,,Table3,C49,43.098,0.0
+2009-12-31,"Air visitors: shopping, entertainment, transport and other",-18.954248366013076,%,2009-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,D203,-0.18954248366013074,0.0%
+2009-12-31,"Air visitors: shopping, entertainment, transport and other",12.4,$million,2009-Q4,Quarterly,Value,,,reported,,,,Table3,D49,12.4,0.0
+2009-12-31,Air visitors: total,-15.52815829528159,%,2009-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,E203,-0.1552815829528159,0.0%
+2009-12-31,Air visitors: total,55.498,$million,2009-Q4,Quarterly,Value,,,reported,,,,Table3,E49,55.498,0.0
+2009-12-31,Cruise visitors,11.111111111111116,%,2009-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,F203,0.11111111111111116,0.0%
+2009-12-31,Cruise visitors,9,$million,2009-Q4,Quarterly,Value,,,reported,,,,Table3,F49,9,0.0
+2009-12-31,Total expenditure,-12.604336043360442,%,2009-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,G203,-0.12604336043360442,0.0%
+2009-12-31,Total expenditure,64.49799999999999,$million,2009-Q4,Quarterly,Value,,,reported,,,,Table3,G49,64.49799999999999,0.0
+2010-03-31,Air visitors: accommodation and food,5.822222222222217,%,2010-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,C206,0.05822222222222217,0.0%
+2010-03-31,Air visitors: accommodation and food,23.81,$million,2010-Q1,Quarterly,Value,,,reported,,,,Table3,C52,23.81,0.0
+2010-03-31,"Air visitors: shopping, entertainment, transport and other",-18.072289156626514,%,2010-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,D206,-0.18072289156626514,0.0%
+2010-03-31,"Air visitors: shopping, entertainment, transport and other",6.8,$million,2010-Q1,Quarterly,Value,,,reported,,,,Table3,D52,6.8,0.0
+2010-03-31,Air visitors: total,-0.616883116883121,%,2010-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,E206,-0.00616883116883121,0.0%
+2010-03-31,Air visitors: total,30.61,$million,2010-Q1,Quarterly,Value,,,reported,,,,Table3,E52,30.61,0.0
+2010-03-31,Cruise visitors,,%,2010-Q1,Quarterly,Published percentage change,,,source marker,n.a.,,,Table3,F206,n.a.,0.0%
+2010-03-31,Cruise visitors,0.17,$million,2010-Q1,Quarterly,Value,,,reported,,,,Table3,F52,0.17,0.0
+2010-03-31,Total expenditure,-0.06493506493506354,%,2010-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,G206,-0.0006493506493506355,0.0%
+2010-03-31,Total expenditure,30.78,$million,2010-Q1,Quarterly,Value,,,reported,,,,Table3,G52,30.78,0.0
+2010-06-30,Air visitors: accommodation and food,42.87871922670292,%,2010-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,C207,0.4287871922670292,0.0%
+2010-06-30,Air visitors: accommodation and food,94.6,$million,2010-Q2,Quarterly,Value,,,reported,,,,Table3,C53,94.6,0.0
+2010-06-30,"Air visitors: shopping, entertainment, transport and other",9.433962264150944,%,2010-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,D207,0.09433962264150944,0.0%
+2010-06-30,"Air visitors: shopping, entertainment, transport and other",23.2,$million,2010-Q2,Quarterly,Value,,,reported,,,,Table3,D53,23.2,0.0
+2010-06-30,Air visitors: total,34.76718910879762,%,2010-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,E207,0.34767189108797625,0.0%
+2010-06-30,Air visitors: total,117.8,$million,2010-Q2,Quarterly,Value,,,reported,,,,Table3,E53,117.8,0.0
+2010-06-30,Cruise visitors,43.92523364485982,%,2010-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,F207,0.43925233644859824,0.0%
+2010-06-30,Cruise visitors,30.8,$million,2010-Q2,Quarterly,Value,,,reported,,,,Table3,F53,30.8,0.0
+2010-06-30,Total expenditure,36.568330116717206,%,2010-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,G207,0.36568330116717207,0.0%
+2010-06-30,Total expenditure,148.6,$million,2010-Q2,Quarterly,Value,,,reported,,,,Table3,G53,148.6,0.0
+2010-09-30,Air visitors: accommodation and food,20.266666666666673,%,2010-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,C208,0.20266666666666672,0.0%
+2010-09-30,Air visitors: accommodation and food,90.2,$million,2010-Q3,Quarterly,Value,,,reported,,,,Table3,C54,90.2,0.0
+2010-09-30,"Air visitors: shopping, entertainment, transport and other",12.857142857142852,%,2010-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,D208,0.12857142857142853,0.0%
+2010-09-30,"Air visitors: shopping, entertainment, transport and other",23.7,$million,2010-Q3,Quarterly,Value,,,reported,,,,Table3,D54,23.7,0.0
+2010-09-30,Air visitors: total,18.64583333333334,%,2010-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,E208,0.1864583333333334,0.0%
+2010-09-30,Air visitors: total,113.9,$million,2010-Q3,Quarterly,Value,,,reported,,,,Table3,E54,113.9,0.0
+2010-09-30,Cruise visitors,9.836065573770501,%,2010-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,F208,0.09836065573770501,0.0%
+2010-09-30,Cruise visitors,26.8,$million,2010-Q3,Quarterly,Value,,,reported,,,,Table3,F54,26.8,0.0
+2010-09-30,Total expenditure,16.860465116279077,%,2010-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,G208,0.16860465116279078,0.0%
+2010-09-30,Total expenditure,140.70000000000002,$million,2010-Q3,Quarterly,Value,,,reported,,,,Table3,G54,140.70000000000002,0.0
+2010-12-31,Air visitors: accommodation and food,24.41975165370779,%,2010,Annual,Published percentage change,,,reported,,,,Table3,C210,0.2441975165370779,0.0%
+2010-12-31,Air visitors: accommodation and food,257.31,$million,2010,Annual,Value,,,reported,,,,Table3,C56,257.31,0.0
+2010-12-31,"Air visitors: shopping, entertainment, transport and other",8.10810810810811,%,2010,Annual,Published percentage change,,,reported,,,,Table3,D210,0.0810810810810811,0.0%
+2010-12-31,"Air visitors: shopping, entertainment, transport and other",68,$million,2010,Annual,Value,,,reported,,,,Table3,D56,68,0.0
+2010-12-31,Air visitors: total,20.615628754059962,%,2010,Annual,Published percentage change,,,reported,,,,Table3,E210,0.20615628754059961,0.0%
+2010-12-31,Air visitors: total,325.31,$million,2010,Annual,Value,,,reported,,,,Table3,E56,325.31,0.0
+2010-12-31,Cruise visitors,14.178832116788328,%,2010,Annual,Published percentage change,,,reported,,,,Table3,F210,0.14178832116788329,0.0%
+2010-12-31,Cruise visitors,62.57,$million,2010,Annual,Value,,,reported,,,,Table3,F56,62.57,0.0
+2010-12-31,Total expenditure,19.528640280054752,%,2010,Annual,Published percentage change,,,reported,,,,Table3,G210,0.19528640280054751,0.0%
+2010-12-31,Total expenditure,387.88000000000005,$million,2010,Annual,Value,,,reported,,,,Table3,G56,387.88000000000005,0.0
+2010-12-31,Air visitors: accommodation and food,12.998282982969055,%,2010-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,C209,0.12998282982969056,0.0%
+2010-12-31,Air visitors: accommodation and food,48.7,$million,2010-Q4,Quarterly,Value,,,reported,,,,Table3,C55,48.7,0.0
+2010-12-31,"Air visitors: shopping, entertainment, transport and other",15.322580645161294,%,2010-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,D209,0.15322580645161293,0.0%
+2010-12-31,"Air visitors: shopping, entertainment, transport and other",14.3,$million,2010-Q4,Quarterly,Value,,,reported,,,,Table3,D55,14.3,0.0
+2010-12-31,Air visitors: total,13.517604237990563,%,2010-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,E209,0.13517604237990563,0.0%
+2010-12-31,Air visitors: total,63,$million,2010-Q4,Quarterly,Value,,,reported,,,,Table3,E55,63,0.0
+2010-12-31,Cruise visitors,-46.666666666666664,%,2010-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,F209,-0.4666666666666667,0.0%
+2010-12-31,Cruise visitors,4.8,$million,2010-Q4,Quarterly,Value,,,reported,,,,Table3,F55,4.8,0.0
+2010-12-31,Total expenditure,5.119538590343898,%,2010-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,G209,0.05119538590343898,0.0%
+2010-12-31,Total expenditure,67.8,$million,2010-Q4,Quarterly,Value,,,reported,,,,Table3,G55,67.8,0.0
+2011-03-31,Air visitors: accommodation and food,25.157496850063012,%,2011-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,C212,0.2515749685006301,0.0%
+2011-03-31,Air visitors: accommodation and food,29.8,$million,2011-Q1,Quarterly,Value,,,reported,,,,Table3,C58,29.8,0.0
+2011-03-31,"Air visitors: shopping, entertainment, transport and other",51.47058823529414,%,2011-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,D212,0.5147058823529413,0.0%
+2011-03-31,"Air visitors: shopping, entertainment, transport and other",10.3,$million,2011-Q1,Quarterly,Value,,,reported,,,,Table3,D58,10.3,0.0
+2011-03-31,Air visitors: total,31.00294021561582,%,2011-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,E212,0.3100294021561582,0.0%
+2011-03-31,Air visitors: total,40.1,$million,2011-Q1,Quarterly,Value,,,reported,,,,Table3,E58,40.1,0.0
+2011-03-31,Cruise visitors,-41.1764705882353,%,2011-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,F212,-0.411764705882353,0.0%
+2011-03-31,Cruise visitors,0.1,$million,2011-Q1,Quarterly,Value,,,reported,,,,Table3,F58,0.1,0.0
+2011-03-31,Total expenditure,30.604288499025344,%,2011-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,G212,0.30604288499025345,0.0%
+2011-03-31,Total expenditure,40.2,$million,2011-Q1,Quarterly,Value,,,reported,,,,Table3,G58,40.2,0.0
+2011-06-30,Air visitors: accommodation and food,6.976744186046521,%,2011-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,C213,0.06976744186046521,0.0%
+2011-06-30,Air visitors: accommodation and food,101.2,$million,2011-Q2,Quarterly,Value,,,reported,,,,Table3,C59,101.2,0.0
+2011-06-30,"Air visitors: shopping, entertainment, transport and other",14.655172413793114,%,2011-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,D213,0.14655172413793113,0.0%
+2011-06-30,"Air visitors: shopping, entertainment, transport and other",26.6,$million,2011-Q2,Quarterly,Value,,,reported,,,,Table3,D59,26.6,0.0
+2011-06-30,Air visitors: total,8.488964346349757,%,2011-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,E213,0.08488964346349757,0.0%
+2011-06-30,Air visitors: total,127.80000000000001,$million,2011-Q2,Quarterly,Value,,,reported,,,,Table3,E59,127.80000000000001,0.0
+2011-06-30,Cruise visitors,8.766233766233764,%,2011-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,F213,0.08766233766233764,0.0%
+2011-06-30,Cruise visitors,33.5,$million,2011-Q2,Quarterly,Value,,,reported,,,,Table3,F59,33.5,0.0
+2011-06-30,Total expenditure,8.546433378196513,%,2011-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,G213,0.08546433378196512,0.0%
+2011-06-30,Total expenditure,161.3,$million,2011-Q2,Quarterly,Value,,,reported,,,,Table3,G59,161.3,0.0
+2011-09-30,Air visitors: accommodation and food,7.871396895787133,%,2011-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,C214,0.07871396895787133,0.0%
+2011-09-30,Air visitors: accommodation and food,97.3,$million,2011-Q3,Quarterly,Value,,,reported,,,,Table3,C60,97.3,0.0
+2011-09-30,"Air visitors: shopping, entertainment, transport and other",3.3755274261603407,%,2011-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,D214,0.03375527426160341,0.0%
+2011-09-30,"Air visitors: shopping, entertainment, transport and other",24.5,$million,2011-Q3,Quarterly,Value,,,reported,,,,Table3,D60,24.5,0.0
+2011-09-30,Air visitors: total,6.9359086918349355,%,2011-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,E214,0.06935908691834936,0.0%
+2011-09-30,Air visitors: total,121.8,$million,2011-Q3,Quarterly,Value,,,reported,,,,Table3,E60,121.8,0.0
+2011-09-30,Cruise visitors,45.14925373134327,%,2011-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,F214,0.45149253731343275,0.0%
+2011-09-30,Cruise visitors,38.9,$million,2011-Q3,Quarterly,Value,,,reported,,,,Table3,F60,38.9,0.0
+2011-09-30,Total expenditure,14.2146410803127,%,2011-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,G214,0.142146410803127,0.0%
+2011-09-30,Total expenditure,160.7,$million,2011-Q3,Quarterly,Value,,,reported,,,,Table3,G60,160.7,0.0
+2011-12-31,Air visitors: accommodation and food,6.292021297267886,%,2011,Annual,Published percentage change,,,reported,,,,Table3,C216,0.06292021297267886,0.0%
+2011-12-31,Air visitors: accommodation and food,273.5,$million,2011,Annual,Value,,,reported,,,,Table3,C62,273.5,0.0
+2011-12-31,"Air visitors: shopping, entertainment, transport and other",13.970588235294118,%,2011,Annual,Published percentage change,,,reported,,,,Table3,D216,0.13970588235294118,0.0%
+2011-12-31,"Air visitors: shopping, entertainment, transport and other",77.5,$million,2011,Annual,Value,,,reported,,,,Table3,D62,77.5,0.0
+2011-12-31,Air visitors: total,7.897082782576619,%,2011,Annual,Published percentage change,,,reported,,,,Table3,E216,0.07897082782576618,0.0%
+2011-12-31,Air visitors: total,351,$million,2011,Annual,Value,,,reported,,,,Table3,E62,351,0.0
+2011-12-31,Cruise visitors,38.08534441425604,%,2011,Annual,Published percentage change,,,reported,,,,Table3,F216,0.3808534441425604,0.0%
+2011-12-31,Cruise visitors,86.4,$million,2011,Annual,Value,,,reported,,,,Table3,F62,86.4,0.0
+2011-12-31,Total expenditure,12.76683510364028,%,2011,Annual,Published percentage change,,,reported,,,,Table3,G216,0.1276683510364028,0.0%
+2011-12-31,Total expenditure,437.4,$million,2011,Annual,Value,,,reported,,,,Table3,G62,437.4,0.0
+2011-12-31,Air visitors: accommodation and food,-7.186858316221765,%,2011-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,C215,-0.07186858316221766,0.0%
+2011-12-31,Air visitors: accommodation and food,45.2,$million,2011-Q4,Quarterly,Value,,,reported,,,,Table3,C61,45.2,0.0
+2011-12-31,"Air visitors: shopping, entertainment, transport and other",12.587412587412592,%,2011-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,D215,0.12587412587412591,0.0%
+2011-12-31,"Air visitors: shopping, entertainment, transport and other",16.1,$million,2011-Q4,Quarterly,Value,,,reported,,,,Table3,D61,16.1,0.0
+2011-12-31,Air visitors: total,-2.6984126984126915,%,2011-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,E215,-0.026984126984126916,0.0%
+2011-12-31,Air visitors: total,61.300000000000004,$million,2011-Q4,Quarterly,Value,,,reported,,,,Table3,E61,61.300000000000004,0.0
+2011-12-31,Cruise visitors,189.58333333333337,%,2011-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,F215,1.8958333333333337,0.0%
+2011-12-31,Cruise visitors,13.9,$million,2011-Q4,Quarterly,Value,,,reported,,,,Table3,F61,13.9,0.0
+2011-12-31,Total expenditure,10.914454277286143,%,2011-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,G215,0.10914454277286144,0.0%
+2011-12-31,Total expenditure,75.2,$million,2011-Q4,Quarterly,Value,,,reported,,,,Table3,G61,75.2,0.0
+2012-03-31,Air visitors: accommodation and food,-11.073825503355707,%,2012-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,C218,-0.11073825503355707,0.0%
+2012-03-31,Air visitors: accommodation and food,26.5,$million,2012-Q1,Quarterly,Value,,,reported,,,,Table3,C64,26.5,0.0
+2012-03-31,"Air visitors: shopping, entertainment, transport and other",-13.59223300970874,%,2012-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,D218,-0.1359223300970874,0.0%
+2012-03-31,"Air visitors: shopping, entertainment, transport and other",8.9,$million,2012-Q1,Quarterly,Value,,,reported,,,,Table3,D64,8.9,0.0
+2012-03-31,Air visitors: total,-11.720698254364097,%,2012-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,E218,-0.11720698254364097,0.0%
+2012-03-31,Air visitors: total,35.4,$million,2012-Q1,Quarterly,Value,,,reported,,,,Table3,E64,35.4,0.0
+2012-03-31,Cruise visitors,500,%,2012-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,F218,5,0.0%
+2012-03-31,Cruise visitors,0.6,$million,2012-Q1,Quarterly,Value,,,reported,,,,Table3,F64,0.6,0.0
+2012-03-31,Total expenditure,-10.447761194029857,%,2012-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,G218,-0.10447761194029857,0.0%
+2012-03-31,Total expenditure,36,$million,2012-Q1,Quarterly,Value,,,reported,,,,Table3,G64,36,0.0
+2012-06-30,Air visitors: accommodation and food,-24.110671936758898,%,2012-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,C219,-0.24110671936758898,0.0%
+2012-06-30,Air visitors: accommodation and food,76.8,$million,2012-Q2,Quarterly,Value,,,reported,,,,Table3,C65,76.8,0.0
+2012-06-30,"Air visitors: shopping, entertainment, transport and other",-12.781954887218053,%,2012-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,D219,-0.12781954887218053,0.0%
+2012-06-30,"Air visitors: shopping, entertainment, transport and other",23.2,$million,2012-Q2,Quarterly,Value,,,reported,,,,Table3,D65,23.2,0.0
+2012-06-30,Air visitors: total,-21.752738654147112,%,2012-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,E219,-0.2175273865414711,0.0%
+2012-06-30,Air visitors: total,100,$million,2012-Q2,Quarterly,Value,,,reported,,,,Table3,E65,100,0.0
+2012-06-30,Cruise visitors,2.0895522388059784,%,2012-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,F219,0.020895522388059785,0.0%
+2012-06-30,Cruise visitors,34.2,$million,2012-Q2,Quarterly,Value,,,reported,,,,Table3,F65,34.2,0.0
+2012-06-30,Total expenditure,-16.800991940483584,%,2012-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,G219,-0.16800991940483584,0.0%
+2012-06-30,Total expenditure,134.2,$million,2012-Q2,Quarterly,Value,,,reported,,,,Table3,G65,134.2,0.0
+2012-09-30,Air visitors: accommodation and food,-2.980472764645418,%,2012-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,C220,-0.029804727646454178,0.0%
+2012-09-30,Air visitors: accommodation and food,94.4,$million,2012-Q3,Quarterly,Value,,,reported,,,,Table3,C66,94.4,0.0
+2012-09-30,"Air visitors: shopping, entertainment, transport and other",4.897959183673466,%,2012-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,D220,0.048979591836734664,0.0%
+2012-09-30,"Air visitors: shopping, entertainment, transport and other",25.7,$million,2012-Q3,Quarterly,Value,,,reported,,,,Table3,D66,25.7,0.0
+2012-09-30,Air visitors: total,-1.3957307060755244,%,2012-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,E220,-0.013957307060755243,0.0%
+2012-09-30,Air visitors: total,120.10000000000001,$million,2012-Q3,Quarterly,Value,,,reported,,,,Table3,E66,120.10000000000001,0.0
+2012-09-30,Cruise visitors,-2.570694087403599,%,2012-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,F220,-0.02570694087403599,0.0%
+2012-09-30,Cruise visitors,37.9,$million,2012-Q3,Quarterly,Value,,,reported,,,,Table3,F66,37.9,0.0
+2012-09-30,Total expenditure,-1.6801493466085806,%,2012-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,G220,-0.016801493466085806,0.0%
+2012-09-30,Total expenditure,158,$million,2012-Q3,Quarterly,Value,,,reported,,,,Table3,G66,158,0.0
+2012-12-31,Air visitors: accommodation and food,-11.627056672760517,%,2012,Annual,Published percentage change,,,reported,,,,Table3,C222,-0.11627056672760516,0.0%
+2012-12-31,Air visitors: accommodation and food,241.7,$million,2012,Annual,Value,,,reported,,,,Table3,C68,241.7,0.0
+2012-12-31,"Air visitors: shopping, entertainment, transport and other",-6.322580645161298,%,2012,Annual,Published percentage change,,,reported,,,,Table3,D222,-0.06322580645161298,0.0%
+2012-12-31,"Air visitors: shopping, entertainment, transport and other",72.6,$million,2012,Annual,Value,,,reported,,,,Table3,D68,72.6,0.0
+2012-12-31,Air visitors: total,-10.455840455840452,%,2012,Annual,Published percentage change,,,reported,,,,Table3,E222,-0.10455840455840452,0.0%
+2012-12-31,Air visitors: total,314.3,$million,2012,Annual,Value,,,reported,,,,Table3,E68,314.3,0.0
+2012-12-31,Cruise visitors,-7.2916666666666625,%,2012,Annual,Published percentage change,,,reported,,,,Table3,F222,-0.07291666666666663,0.0%
+2012-12-31,Cruise visitors,80.10000000000001,$million,2012,Annual,Value,,,reported,,,,Table3,F68,80.10000000000001,0.0
+2012-12-31,Total expenditure,-9.830818472793782,%,2012,Annual,Published percentage change,,,reported,,,,Table3,G222,-0.09830818472793781,0.0%
+2012-12-31,Total expenditure,394.4,$million,2012,Annual,Value,,,reported,,,,Table3,G68,394.4,0.0
+2012-12-31,Air visitors: accommodation and food,-2.6548672566371745,%,2012-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,C221,-0.026548672566371743,0.0%
+2012-12-31,Air visitors: accommodation and food,44,$million,2012-Q4,Quarterly,Value,,,reported,,,,Table3,C67,44,0.0
+2012-12-31,"Air visitors: shopping, entertainment, transport and other",-8.074534161490687,%,2012-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,D221,-0.08074534161490687,0.0%
+2012-12-31,"Air visitors: shopping, entertainment, transport and other",14.8,$million,2012-Q4,Quarterly,Value,,,reported,,,,Table3,D67,14.8,0.0
+2012-12-31,Air visitors: total,-4.078303425774889,%,2012-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,E221,-0.04078303425774889,0.0%
+2012-12-31,Air visitors: total,58.8,$million,2012-Q4,Quarterly,Value,,,reported,,,,Table3,E67,58.8,0.0
+2012-12-31,Cruise visitors,-46.76258992805755,%,2012-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,F221,-0.4676258992805755,0.0%
+2012-12-31,Cruise visitors,7.4,$million,2012-Q4,Quarterly,Value,,,reported,,,,Table3,F67,7.4,0.0
+2012-12-31,Total expenditure,-11.968085106382977,%,2012-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,G221,-0.11968085106382978,0.0%
+2012-12-31,Total expenditure,66.2,$million,2012-Q4,Quarterly,Value,,,reported,,,,Table3,G67,66.2,0.0
+2013-03-31,Air visitors: accommodation and food,-8.698113207547168,%,2013-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,C224,-0.08698113207547169,0.0%
+2013-03-31,Air visitors: accommodation and food,24.195,$million,2013-Q1,Quarterly,Value,,,reported,,,,Table3,C70,24.195,0.0
+2013-03-31,"Air visitors: shopping, entertainment, transport and other",11.12359550561798,%,2013-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,D224,0.1112359550561798,0.0%
+2013-03-31,"Air visitors: shopping, entertainment, transport and other",9.89,$million,2013-Q1,Quarterly,Value,,,reported,,,,Table3,D70,9.89,0.0
+2013-03-31,Air visitors: total,-3.714689265536717,%,2013-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,E224,-0.03714689265536717,0.0%
+2013-03-31,Air visitors: total,34.085,$million,2013-Q1,Quarterly,Value,,,reported,,,,Table3,E70,34.085,0.0
+2013-03-31,Cruise visitors,-50,%,2013-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,F224,-0.5,0.0%
+2013-03-31,Cruise visitors,0.3,$million,2013-Q1,Quarterly,Value,,,reported,,,,Table3,F70,0.3,0.0
+2013-03-31,Total expenditure,-4.486111111111116,%,2013-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,G224,-0.044861111111111164,0.0%
+2013-03-31,Total expenditure,34.385,$million,2013-Q1,Quarterly,Value,,,reported,,,,Table3,G70,34.385,0.0
+2013-06-30,Air visitors: accommodation and food,2.0833333333333446,%,2013-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,C225,0.020833333333333447,0.0%
+2013-06-30,Air visitors: accommodation and food,78.4,$million,2013-Q2,Quarterly,Value,,,reported,,,,Table3,C71,78.4,0.0
+2013-06-30,"Air visitors: shopping, entertainment, transport and other",6.034482758620699,%,2013-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,D225,0.06034482758620699,0.0%
+2013-06-30,"Air visitors: shopping, entertainment, transport and other",24.6,$million,2013-Q2,Quarterly,Value,,,reported,,,,Table3,D71,24.6,0.0
+2013-06-30,Air visitors: total,3,%,2013-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,E225,0.03,0.0%
+2013-06-30,Air visitors: total,103,$million,2013-Q2,Quarterly,Value,,,reported,,,,Table3,E71,103,0.0
+2013-06-30,Cruise visitors,-16.08187134502925,%,2013-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,F225,-0.1608187134502925,0.0%
+2013-06-30,Cruise visitors,28.7,$million,2013-Q2,Quarterly,Value,,,reported,,,,Table3,F71,28.7,0.0
+2013-06-30,Total expenditure,-1.8628912071535026,%,2013-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,G225,-0.018628912071535025,0.0%
+2013-06-30,Total expenditure,131.7,$million,2013-Q2,Quarterly,Value,,,reported,,,,Table3,G71,131.7,0.0
+2013-09-30,Air visitors: accommodation and food,-5.932203389830517,%,2013-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,C226,-0.05932203389830517,0.0%
+2013-09-30,Air visitors: accommodation and food,88.8,$million,2013-Q3,Quarterly,Value,,,reported,,,,Table3,C72,88.8,0.0
+2013-09-30,"Air visitors: shopping, entertainment, transport and other",25.291828793774336,%,2013-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,D226,0.25291828793774335,0.0%
+2013-09-30,"Air visitors: shopping, entertainment, transport and other",32.2,$million,2013-Q3,Quarterly,Value,,,reported,,,,Table3,D72,32.2,0.0
+2013-09-30,Air visitors: total,0.7493755203996598,%,2013-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,E226,0.007493755203996598,0.0%
+2013-09-30,Air visitors: total,121,$million,2013-Q3,Quarterly,Value,,,reported,,,,Table3,E72,121,0.0
+2013-09-30,Cruise visitors,-11.08179419525065,%,2013-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,F226,-0.1108179419525065,0.0%
+2013-09-30,Cruise visitors,33.7,$million,2013-Q3,Quarterly,Value,,,reported,,,,Table3,F72,33.7,0.0
+2013-09-30,Total expenditure,-2.088607594936716,%,2013-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,G226,-0.020886075949367162,0.0%
+2013-09-30,Total expenditure,154.7,$million,2013-Q3,Quarterly,Value,,,reported,,,,Table3,G72,154.7,0.0
+2013-12-31,Air visitors: accommodation and food,-3.1464625568887126,%,2013,Annual,Published percentage change,,,reported,,,,Table3,C228,-0.03146462556888713,0.0%
+2013-12-31,Air visitors: accommodation and food,234.09499999999997,$million,2013,Annual,Value,,,reported,,,,Table3,C74,234.09499999999997,0.0
+2013-12-31,"Air visitors: shopping, entertainment, transport and other",19.407713498622595,%,2013,Annual,Published percentage change,,,reported,,,,Table3,D228,0.19407713498622595,0.0%
+2013-12-31,"Air visitors: shopping, entertainment, transport and other",86.69,$million,2013,Annual,Value,,,reported,,,,Table3,D74,86.69,0.0
+2013-12-31,Air visitors: total,2.063315303849829,%,2013,Annual,Published percentage change,,,reported,,,,Table3,E228,0.020633153038498293,0.0%
+2013-12-31,Air visitors: total,320.785,$million,2013,Annual,Value,,,reported,,,,Table3,E74,320.785,0.0
+2013-12-31,Cruise visitors,-9.113607990012497,%,2013,Annual,Published percentage change,,,reported,,,,Table3,F228,-0.09113607990012497,0.0%
+2013-12-31,Cruise visitors,72.8,$million,2013,Annual,Value,,,reported,,,,Table3,F74,72.8,0.0
+2013-12-31,Total expenditure,-0.206643002028397,%,2013,Annual,Published percentage change,,,reported,,,,Table3,G228,-0.00206643002028397,0.0%
+2013-12-31,Total expenditure,393.585,$million,2013,Annual,Value,,,reported,,,,Table3,G74,393.585,0.0
+2013-12-31,Air visitors: accommodation and food,-2.9545454545454484,%,2013-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,C227,-0.029545454545454482,0.0%
+2013-12-31,Air visitors: accommodation and food,42.7,$million,2013-Q4,Quarterly,Value,,,reported,,,,Table3,C73,42.7,0.0
+2013-12-31,"Air visitors: shopping, entertainment, transport and other",35.13513513513512,%,2013-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,D227,0.35135135135135126,0.0%
+2013-12-31,"Air visitors: shopping, entertainment, transport and other",20,$million,2013-Q4,Quarterly,Value,,,reported,,,,Table3,D73,20,0.0
+2013-12-31,Air visitors: total,6.6326530612245,%,2013-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,E227,0.066326530612245,0.0%
+2013-12-31,Air visitors: total,62.7,$million,2013-Q4,Quarterly,Value,,,reported,,,,Table3,E73,62.7,0.0
+2013-12-31,Cruise visitors,36.48648648648648,%,2013-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,F227,0.36486486486486475,0.0%
+2013-12-31,Cruise visitors,10.1,$million,2013-Q4,Quarterly,Value,,,reported,,,,Table3,F73,10.1,0.0
+2013-12-31,Total expenditure,9.969788519637452,%,2013-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,G227,0.09969788519637453,0.0%
+2013-12-31,Total expenditure,72.8,$million,2013-Q4,Quarterly,Value,,,reported,,,,Table3,G73,72.8,0.0
+2014-03-31,Air visitors: accommodation and food,-2.8724943170076473,%,2014-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,C230,-0.028724943170076473,0.0%
+2014-03-31,Air visitors: accommodation and food,23.5,$million,2014-Q1,Quarterly,Value,,,reported,,,,Table3,C76,23.5,0.0
+2014-03-31,"Air visitors: shopping, entertainment, transport and other",-28.210313447927206,%,2014-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,D230,-0.28210313447927204,0.0%
+2014-03-31,"Air visitors: shopping, entertainment, transport and other",7.1,$million,2014-Q1,Quarterly,Value,,,reported,,,,Table3,D76,7.1,0.0
+2014-03-31,Air visitors: total,-10.22443890274314,%,2014-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,E230,-0.1022443890274314,0.0%
+2014-03-31,Air visitors: total,30.6,$million,2014-Q1,Quarterly,Value,,,reported,,,,Table3,E76,30.6,0.0
+2014-03-31,Cruise visitors,-100,%,2014-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,F230,-1,0.0%
+2014-03-31,Cruise visitors,0,$million,2014-Q1,Quarterly,Value,,,reported,,,,Table3,F76,0,0.0
+2014-03-31,Total expenditure,-11.00770684891667,%,2014-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,G230,-0.1100770684891667,0.0%
+2014-03-31,Total expenditure,30.6,$million,2014-Q1,Quarterly,Value,,,reported,,,,Table3,G76,30.6,0.0
+2014-06-30,Air visitors: accommodation and food,-12.11734693877551,%,2014-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,C231,-0.1211734693877551,0.0%
+2014-06-30,Air visitors: accommodation and food,68.9,$million,2014-Q2,Quarterly,Value,,,reported,,,,Table3,C77,68.9,0.0
+2014-06-30,"Air visitors: shopping, entertainment, transport and other",-9.349593495934961,%,2014-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,D231,-0.09349593495934962,0.0%
+2014-06-30,"Air visitors: shopping, entertainment, transport and other",22.3,$million,2014-Q2,Quarterly,Value,,,reported,,,,Table3,D77,22.3,0.0
+2014-06-30,Air visitors: total,-11.456310679611647,%,2014-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,E231,-0.11456310679611648,0.0%
+2014-06-30,Air visitors: total,91.2,$million,2014-Q2,Quarterly,Value,,,reported,,,,Table3,E77,91.2,0.0
+2014-06-30,Cruise visitors,-23.689895470383274,%,2014-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,F231,-0.23689895470383274,0.0%
+2014-06-30,Cruise visitors,21.901,$million,2014-Q2,Quarterly,Value,,,reported,,,,Table3,F77,21.901,0.0
+2014-06-30,Total expenditure,-14.122247532270304,%,2014-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,G231,-0.14122247532270304,0.0%
+2014-06-30,Total expenditure,113.101,$million,2014-Q2,Quarterly,Value,,,reported,,,,Table3,G77,113.101,0.0
+2014-09-30,Air visitors: accommodation and food,-15.427927927927932,%,2014-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,C232,-0.1542792792792793,0.0%
+2014-09-30,Air visitors: accommodation and food,75.1,$million,2014-Q3,Quarterly,Value,,,reported,,,,Table3,C78,75.1,0.0
+2014-09-30,"Air visitors: shopping, entertainment, transport and other",-24.844720496894418,%,2014-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,D232,-0.24844720496894418,0.0%
+2014-09-30,"Air visitors: shopping, entertainment, transport and other",24.2,$million,2014-Q3,Quarterly,Value,,,reported,,,,Table3,D78,24.2,0.0
+2014-09-30,Air visitors: total,-17.933884297520663,%,2014-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,E232,-0.17933884297520664,0.0%
+2014-09-30,Air visitors: total,99.3,$million,2014-Q3,Quarterly,Value,,,reported,,,,Table3,E78,99.3,0.0
+2014-09-30,Cruise visitors,-23.504451038575674,%,2014-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,F232,-0.23504451038575674,0.0%
+2014-09-30,Cruise visitors,25.779,$million,2014-Q3,Quarterly,Value,,,reported,,,,Table3,F78,25.779,0.0
+2014-09-30,Total expenditure,-19.14738202973497,%,2014-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,G232,-0.1914738202973497,0.0%
+2014-09-30,Total expenditure,125.079,$million,2014-Q3,Quarterly,Value,,,reported,,,,Table3,G78,125.079,0.0
+2014-12-31,Air visitors: accommodation and food,-11.446207736175468,%,2014,Annual,Published percentage change,,,reported,,,,Table3,C234,-0.11446207736175468,0.0%
+2014-12-31,Air visitors: accommodation and food,207.3,$million,2014,Annual,Value,,,reported,,,,Table3,C80,207.3,0.0
+2014-12-31,"Air visitors: shopping, entertainment, transport and other",-21.67493367170378,%,2014,Annual,Published percentage change,,,reported,,,,Table3,D234,-0.2167493367170378,0.0%
+2014-12-31,"Air visitors: shopping, entertainment, transport and other",67.89999999999999,$million,2014,Annual,Value,,,reported,,,,Table3,D80,67.89999999999999,0.0
+2014-12-31,Air visitors: total,-14.21045248375079,%,2014,Annual,Published percentage change,,,reported,,,,Table3,E234,-0.1421045248375079,0.0%
+2014-12-31,Air visitors: total,275.20000000000005,$million,2014,Annual,Value,,,reported,,,,Table3,E80,275.20000000000005,0.0
+2014-12-31,Cruise visitors,-27.54670329670329,%,2014,Annual,Published percentage change,,,reported,,,,Table3,F234,-0.2754670329670329,0.0%
+2014-12-31,Cruise visitors,52.746,$million,2014,Annual,Value,,,reported,,,,Table3,F80,52.746,0.0
+2014-12-31,Total expenditure,-16.67721076768678,%,2014,Annual,Published percentage change,,,reported,,,,Table3,G234,-0.16677210767686781,0.0%
+2014-12-31,Total expenditure,327.94599999999997,$million,2014,Annual,Value,,,reported,,,,Table3,G80,327.94599999999997,0.0
+2014-12-31,Air visitors: accommodation and food,-6.791569086651067,%,2014-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,C233,-0.06791569086651067,0.0%
+2014-12-31,Air visitors: accommodation and food,39.8,$million,2014-Q4,Quarterly,Value,,,reported,,,,Table3,C79,39.8,0.0
+2014-12-31,"Air visitors: shopping, entertainment, transport and other",-28.499999999999996,%,2014-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,D233,-0.285,0.0%
+2014-12-31,"Air visitors: shopping, entertainment, transport and other",14.3,$million,2014-Q4,Quarterly,Value,,,reported,,,,Table3,D79,14.3,0.0
+2014-12-31,Air visitors: total,-13.716108452950571,%,2014-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,E233,-0.1371610845295057,0.0%
+2014-12-31,Air visitors: total,54.099999999999994,$million,2014-Q4,Quarterly,Value,,,reported,,,,Table3,E79,54.099999999999994,0.0
+2014-12-31,Cruise visitors,-49.84158415841584,%,2014-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,F233,-0.4984158415841584,0.0%
+2014-12-31,Cruise visitors,5.066,$million,2014-Q4,Quarterly,Value,,,reported,,,,Table3,F79,5.066,0.0
+2014-12-31,Total expenditure,-18.72802197802198,%,2014-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,G233,-0.1872802197802198,0.0%
+2014-12-31,Total expenditure,59.166,$million,2014-Q4,Quarterly,Value,,,reported,,,,Table3,G79,59.166,0.0
+2015-03-31,Air visitors: accommodation and food,17.446808510638302,%,2015-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,C236,0.17446808510638304,0.0%
+2015-03-31,Air visitors: accommodation and food,27.6,$million,2015-Q1,Quarterly,Value,,,reported,,,,Table3,C82,27.6,0.0
+2015-03-31,"Air visitors: shopping, entertainment, transport and other",25.35211267605635,%,2015-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,D236,0.2535211267605635,0.0%
+2015-03-31,"Air visitors: shopping, entertainment, transport and other",8.9,$million,2015-Q1,Quarterly,Value,,,reported,,,,Table3,D82,8.9,0.0
+2015-03-31,Air visitors: total,19.281045751633982,%,2015-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,E236,0.19281045751633982,0.0%
+2015-03-31,Air visitors: total,36.5,$million,2015-Q1,Quarterly,Value,,,reported,,,,Table3,E82,36.5,0.0
+2015-03-31,Cruise visitors,,%,2015-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table3,F236,#DIV/0!,0.0%
+2015-03-31,Cruise visitors,0,$million,2015-Q1,Quarterly,Value,,,reported,,,,Table3,F82,0,0.0
+2015-03-31,Total expenditure,19.281045751633982,%,2015-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,G236,0.19281045751633982,0.0%
+2015-03-31,Total expenditure,36.5,$million,2015-Q1,Quarterly,Value,,,reported,,,,Table3,G82,36.5,0.0
+2015-06-30,Air visitors: accommodation and food,-9.767779390420905,%,2015-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,C237,-0.09767779390420905,0.0%
+2015-06-30,Air visitors: accommodation and food,62.17,$million,2015-Q2,Quarterly,Value,,,reported,,,,Table3,C83,62.17,0.0
+2015-06-30,"Air visitors: shopping, entertainment, transport and other",21.439461883408065,%,2015-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,D237,0.21439461883408065,0.0%
+2015-06-30,"Air visitors: shopping, entertainment, transport and other",27.081,$million,2015-Q2,Quarterly,Value,,,reported,,,,Table3,D83,27.081,0.0
+2015-06-30,Air visitors: total,-2.1370614035087696,%,2015-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,E237,-0.021370614035087696,0.0%
+2015-06-30,Air visitors: total,89.251,$million,2015-Q2,Quarterly,Value,,,reported,,,,Table3,E83,89.251,0.0
+2015-06-30,Cruise visitors,14.597050362997122,%,2015-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,F237,0.14597050362997122,0.0%
+2015-06-30,Cruise visitors,25.0979,$million,2015-Q2,Quarterly,Value,,,reported,,,,Table3,F83,25.0979,0.0
+2015-06-30,Total expenditure,1.1033501030052797,%,2015-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,G237,0.011033501030052796,0.0%
+2015-06-30,Total expenditure,114.3489,$million,2015-Q2,Quarterly,Value,,,reported,,,,Table3,G83,114.3489,0.0
+2015-09-30,Air visitors: accommodation and food,-11.318242343541945,%,2015-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,C238,-0.11318242343541945,0.0%
+2015-09-30,Air visitors: accommodation and food,66.6,$million,2015-Q3,Quarterly,Value,,,reported,,,,Table3,C84,66.6,0.0
+2015-09-30,"Air visitors: shopping, entertainment, transport and other",21.67355371900827,%,2015-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,D238,0.2167355371900827,0.0%
+2015-09-30,"Air visitors: shopping, entertainment, transport and other",29.445,$million,2015-Q3,Quarterly,Value,,,reported,,,,Table3,D84,29.445,0.0
+2015-09-30,Air visitors: total,-3.2779456193353576,%,2015-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,E238,-0.032779456193353575,0.0%
+2015-09-30,Air visitors: total,96.04499999999999,$million,2015-Q3,Quarterly,Value,,,reported,,,,Table3,E84,96.04499999999999,0.0
+2015-09-30,Cruise visitors,21.416656968850617,%,2015-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,F238,0.21416656968850617,0.0%
+2015-09-30,Cruise visitors,31.3,$million,2015-Q3,Quarterly,Value,,,reported,,,,Table3,F84,31.3,0.0
+2015-09-30,Total expenditure,1.8116550340184934,%,2015-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,G238,0.018116550340184934,0.0%
+2015-09-30,Total expenditure,127.34499999999998,$million,2015-Q3,Quarterly,Value,,,reported,,,,Table3,G84,127.34499999999998,0.0
+2015-12-31,Air visitors: accommodation and food,-7.973950795947901,%,2015,Annual,Published percentage change,,,reported,,,,Table3,C240,-0.07973950795947901,0.0%
+2015-12-31,Air visitors: accommodation and food,190.77,$million,2015,Annual,Value,,,reported,,,,Table3,C86,190.77,0.0
+2015-12-31,"Air visitors: shopping, entertainment, transport and other",21.658321060382924,%,2015,Annual,Published percentage change,,,reported,,,,Table3,D240,0.21658321060382923,0.0%
+2015-12-31,"Air visitors: shopping, entertainment, transport and other",82.606,$million,2015,Annual,Value,,,reported,,,,Table3,D86,82.606,0.0
+2015-12-31,Air visitors: total,-0.6627906976744437,%,2015,Annual,Published percentage change,,,reported,,,,Table3,E240,-0.0066279069767444364,0.0%
+2015-12-31,Air visitors: total,273.376,$million,2015,Annual,Value,,,reported,,,,Table3,E86,273.376,0.0
+2015-12-31,Cruise visitors,17.919652675084354,%,2015,Annual,Published percentage change,,,reported,,,,Table3,F240,0.17919652675084355,0.0%
+2015-12-31,Cruise visitors,62.1979,$million,2015,Annual,Value,,,reported,,,,Table3,F86,62.1979,0.0
+2015-12-31,Total expenditure,2.325962201094086,%,2015,Annual,Published percentage change,,,reported,,,,Table3,G240,0.02325962201094086,0.0%
+2015-12-31,Total expenditure,335.5739,$million,2015,Annual,Value,,,reported,,,,Table3,G86,335.5739,0.0
+2015-12-31,Air visitors: accommodation and food,-13.567839195979897,%,2015-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,C239,-0.13567839195979897,0.0%
+2015-12-31,Air visitors: accommodation and food,34.4,$million,2015-Q4,Quarterly,Value,,,reported,,,,Table3,C85,34.4,0.0
+2015-12-31,"Air visitors: shopping, entertainment, transport and other",20.139860139860133,%,2015-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,D239,0.20139860139860133,0.0%
+2015-12-31,"Air visitors: shopping, entertainment, transport and other",17.18,$million,2015-Q4,Quarterly,Value,,,reported,,,,Table3,D85,17.18,0.0
+2015-12-31,Air visitors: total,-4.658040665434374,%,2015-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,E239,-0.04658040665434374,0.0%
+2015-12-31,Air visitors: total,51.58,$million,2015-Q4,Quarterly,Value,,,reported,,,,Table3,E85,51.58,0.0
+2015-12-31,Cruise visitors,14.488748519542044,%,2015-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,F239,0.14488748519542044,0.0%
+2015-12-31,Cruise visitors,5.8,$million,2015-Q4,Quarterly,Value,,,reported,,,,Table3,F85,5.8,0.0
+2015-12-31,Total expenditure,-3.0186255619781655,%,2015-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,G239,-0.030186255619781655,0.0%
+2015-12-31,Total expenditure,57.379999999999995,$million,2015-Q4,Quarterly,Value,,,reported,,,,Table3,G85,57.379999999999995,0.0
+2016-03-31,Air visitors: accommodation and food,-7.170289855072473,%,2016-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,C242,-0.07170289855072473,0.0%
+2016-03-31,Air visitors: accommodation and food,25.621,$million,2016-Q1,Quarterly,Value,,,reported,,,,Table3,C88,25.621,0.0
+2016-03-31,"Air visitors: shopping, entertainment, transport and other",33.25842696629212,%,2016-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,D242,0.3325842696629212,0.0%
+2016-03-31,"Air visitors: shopping, entertainment, transport and other",11.86,$million,2016-Q1,Quarterly,Value,,,reported,,,,Table3,D88,11.86,0.0
+2016-03-31,Air visitors: total,2.6876712328766974,%,2016-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,E242,0.026876712328766972,0.0%
+2016-03-31,Air visitors: total,37.480999999999995,$million,2016-Q1,Quarterly,Value,,,reported,,,,Table3,E88,37.480999999999995,0.0
+2016-03-31,Cruise visitors,,%,2016-Q1,Quarterly,Published percentage change,,,source error,#DIV/0!,,,Table3,F242,#DIV/0!,0.0%
+2016-03-31,Cruise visitors,0.377533,$million,2016-Q1,Quarterly,Value,,,reported,,,,Table3,F88,0.377533,0.0
+2016-03-31,Total expenditure,3.722008219178066,%,2016-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,G242,0.03722008219178066,0.0%
+2016-03-31,Total expenditure,37.858532999999994,$million,2016-Q1,Quarterly,Value,,,reported,,,,Table3,G88,37.858532999999994,0.0
+2016-06-30,Air visitors: accommodation and food,19.189319607527732,%,2016-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,C243,0.19189319607527733,0.0%
+2016-06-30,Air visitors: accommodation and food,74.1,$million,2016-Q2,Quarterly,Value,,,reported,,,,Table3,C89,74.1,0.0
+2016-06-30,"Air visitors: shopping, entertainment, transport and other",15.948450943465895,%,2016-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,D243,0.15948450943465894,0.0%
+2016-06-30,"Air visitors: shopping, entertainment, transport and other",31.4,$million,2016-Q2,Quarterly,Value,,,reported,,,,Table3,D89,31.4,0.0
+2016-06-30,Air visitors: total,18.205958476655717,%,2016-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,E243,0.18205958476655718,0.0%
+2016-06-30,Air visitors: total,105.5,$million,2016-Q2,Quarterly,Value,,,reported,,,,Table3,E89,105.5,0.0
+2016-06-30,Cruise visitors,-0.3900724761832632,%,2016-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,F243,-0.003900724761832632,0.0%
+2016-06-30,Cruise visitors,25,$million,2016-Q2,Quarterly,Value,,,reported,,,,Table3,F89,25,0.0
+2016-06-30,Total expenditure,14.124403470431284,%,2016-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,G243,0.14124403470431285,0.0%
+2016-06-30,Total expenditure,130.5,$million,2016-Q2,Quarterly,Value,,,reported,,,,Table3,G89,130.5,0.0
+2016-09-30,Air visitors: accommodation and food,28.376241741741747,%,2016-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,C244,0.2837624174174175,0.0%
+2016-09-30,Air visitors: accommodation and food,85.498577,$million,2016-Q3,Quarterly,Value,,,reported,,,,Table3,C90,85.498577,0.0
+2016-09-30,"Air visitors: shopping, entertainment, transport and other",31.285722533537097,%,2016-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,D244,0.31285722533537097,0.0%
+2016-09-30,"Air visitors: shopping, entertainment, transport and other",38.657081,$million,2016-Q3,Quarterly,Value,,,reported,,,,Table3,D90,38.657081,0.0
+2016-09-30,Air visitors: total,29.268215940444588,%,2016-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,E244,0.29268215940444586,0.0%
+2016-09-30,Air visitors: total,124.15565799999999,$million,2016-Q3,Quarterly,Value,,,reported,,,,Table3,E90,124.15565799999999,0.0
+2016-09-30,Cruise visitors,2.2364217252396146,%,2016-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,F244,0.022364217252396144,0.0%
+2016-09-30,Cruise visitors,32,$million,2016-Q3,Quarterly,Value,,,reported,,,,Table3,F90,32,0.00
+2016-09-30,Total expenditure,22.624098315599362,%,2016-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,G244,0.2262409831559936,0.0%
+2016-09-30,Total expenditure,156.155658,$million,2016-Q3,Quarterly,Value,,,reported,,,,Table3,G90,156.155658,0.0
+2016-12-31,Air visitors: accommodation and food,20.39028306337474,%,2016,Annual,Published percentage change,,,reported,,,,Table3,C246,0.20390283063374737,0.0%
+2016-12-31,Air visitors: accommodation and food,229.668543,$million,2016,Annual,Value,,,reported,,,,Table3,C92,229.668543,0.0
+2016-12-31,"Air visitors: shopping, entertainment, transport and other",24.817302617243296,%,2016,Annual,Published percentage change,,,reported,,,,Table3,D246,0.24817302617243298,0.0%
+2016-12-31,"Air visitors: shopping, entertainment, transport and other",103.10658099999999,$million,2016,Annual,Value,,,reported,,,,Table3,D92,103.10658099999999,0.0
+2016-12-31,Air visitors: total,21.727995142221715,%,2016,Annual,Published percentage change,,,reported,,,,Table3,E246,0.21727995142221715,0.0%
+2016-12-31,Air visitors: total,332.775124,$million,2016,Annual,Value,,,reported,,,,Table3,E92,332.775124,0.0
+2016-12-31,Cruise visitors,5.23409954355373,%,2016,Annual,Published percentage change,,,reported,,,,Table3,F246,0.052340995435537295,0.0%
+2016-12-31,Cruise visitors,65.4534,$million,2016,Annual,Value,,,reported,,,,Table3,F92,65.4534,0.0
+2016-12-31,Total expenditure,18.670887098192086,%,2016,Annual,Published percentage change,,,reported,,,,Table3,G246,0.18670887098192088,0.0%
+2016-12-31,Total expenditure,398.228524,$million,2016,Annual,Value,,,reported,,,,Table3,G92,398.228524,0.0
+2016-12-31,Air visitors: accommodation and food,29.212110465116282,%,2016-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,C245,0.2921211046511628,0.0%
+2016-12-31,Air visitors: accommodation and food,44.448966,$million,2016-Q4,Quarterly,Value,,,reported,,,,Table3,C91,44.448966,0.0
+2016-12-31,"Air visitors: shopping, entertainment, transport and other",23.338183934807912,%,2016-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,D245,0.23338183934807913,0.0%
+2016-12-31,"Air visitors: shopping, entertainment, transport and other",21.1895,$million,2016-Q4,Quarterly,Value,,,reported,,,,Table3,D91,21.1895,0.0
+2016-12-31,Air visitors: total,27.255653354013177,%,2016-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,E245,0.27255653354013176,0.0%
+2016-12-31,Air visitors: total,65.638466,$million,2016-Q4,Quarterly,Value,,,reported,,,,Table3,E91,65.638466,0.0
+2016-12-31,Cruise visitors,39.239086206896566,%,2016-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,F245,0.3923908620689657,0.0%
+2016-12-31,Cruise visitors,8.075867,$million,2016-Q4,Quarterly,Value,,,reported,,,,Table3,F91,8.075867,0.0
+2016-12-31,Total expenditure,28.466944928546532,%,2016-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,G245,0.28466944928546534,0.0%
+2016-12-31,Total expenditure,73.714333,$million,2016-Q4,Quarterly,Value,,,reported,,,,Table3,G91,73.714333,0.0
+2017-03-31,Air visitors: accommodation and food,23.276488037157034,%,2017-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,C248,0.23276488037157034,0.0%
+2017-03-31,Air visitors: accommodation and food,31.584669,$million,2017-Q1,Quarterly,Value,,,reported,,,,Table3,C94,31.584669,0.0
+2017-03-31,"Air visitors: shopping, entertainment, transport and other",18.16419055649241,%,2017-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,D248,0.1816419055649241,0.0%
+2017-03-31,"Air visitors: shopping, entertainment, transport and other",14.014273,$million,2017-Q1,Quarterly,Value,,,reported,,,,Table3,D94,14.014273,0.0
+2017-03-31,Air visitors: total,21.658819135028434,%,2017-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,E248,0.21658819135028434,0.0%
+2017-03-31,Air visitors: total,45.598942,$million,2017-Q1,Quarterly,Value,,,reported,,,,Table3,E94,45.598942,0.0
+2017-03-31,Cruise visitors,181.4842676004482,%,2017-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,F248,1.8148426760044818,0.0%
+2017-03-31,Cruise visitors,1.062696,$million,2017-Q1,Quarterly,Value,,,reported,,,,Table3,F94,1.062696,0.0
+2017-03-31,Total expenditure,23.25263105149904,%,2017-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,G248,0.2325263105149904,0.0%
+2017-03-31,Total expenditure,46.661638,$million,2017-Q1,Quarterly,Value,,,reported,,,,Table3,G94,46.661638,0.0
+2017-06-30,Air visitors: accommodation and food,26.878211875843473,%,2017-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,C249,0.2687821187584347,0.0%
+2017-06-30,Air visitors: accommodation and food,94.016755,$million,2017-Q2,Quarterly,Value,,,reported,,,,Table3,C95,94.016755,0.0
+2017-06-30,"Air visitors: shopping, entertainment, transport and other",39.50288535031847,%,2017-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,D249,0.39502885350318473,0.0%
+2017-06-30,"Air visitors: shopping, entertainment, transport and other",43.803906,$million,2017-Q2,Quarterly,Value,,,reported,,,,Table3,D95,43.803906,0.0
+2017-06-30,Air visitors: total,30.635697630331755,%,2017-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,E249,0.30635697630331754,0.0%
+2017-06-30,Air visitors: total,137.820661,$million,2017-Q2,Quarterly,Value,,,reported,,,,Table3,E95,137.820661,0.0
+2017-06-30,Cruise visitors,3.507536000000002,%,2017-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,F249,0.03507536000000002,0.0%
+2017-06-30,Cruise visitors,25.876884,$million,2017-Q2,Quarterly,Value,,,reported,,,,Table3,F95,25.876884,0.0
+2017-06-30,Total expenditure,25.438731800766277,%,2017-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,G249,0.2543873180076628,0.0%
+2017-06-30,Total expenditure,163.697545,$million,2017-Q2,Quarterly,Value,,,reported,,,,Table3,G95,163.697545,0.0
+2017-09-30,Air visitors: accommodation and food,14.208843499231572,%,2017-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,C250,0.14208843499231572,0.0%
+2017-09-30,Air visitors: accommodation and food,97.646936,$million,2017-Q3,Quarterly,Value,,,reported,,,,Table3,C96,97.646936,0.0
+2017-09-30,"Air visitors: shopping, entertainment, transport and other",8.589647521498064,%,2017-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,D250,0.08589647521498064,0.0%
+2017-09-30,"Air visitors: shopping, entertainment, transport and other",41.977588,$million,2017-Q3,Quarterly,Value,,,reported,,,,Table3,D96,41.977588,0.0
+2017-09-30,Air visitors: total,12.459251756371845,%,2017-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,E250,0.12459251756371845,0.0%
+2017-09-30,Air visitors: total,139.624524,$million,2017-Q3,Quarterly,Value,,,reported,,,,Table3,E96,139.624524,0.0
+2017-09-30,Cruise visitors,0.32516562500000123,%,2017-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,F250,0.0032516562500000123,0.0%
+2017-09-30,Cruise visitors,32.104053,$million,2017-Q3,Quarterly,Value,,,reported,,,,Table3,F96,32.104053,0.0
+2017-09-30,Total expenditure,9.972689558261164,%,2017-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,G250,0.09972689558261164,0.0%
+2017-09-30,Total expenditure,171.728577,$million,2017-Q3,Quarterly,Value,,,reported,,,,Table3,G96,171.728577,0.0
+2017-12-31,Air visitors: accommodation and food,21.455580444902292,%,2017,Annual,Published percentage change,,,reported,,,,Table3,C252,0.21455580444902292,0.0%
+2017-12-31,Air visitors: accommodation and food,278.945262,$million,2017,Annual,Value,,,reported,,,,Table3,C98,278.945262,0.0
+2017-12-31,"Air visitors: shopping, entertainment, transport and other",20.043839878659163,%,2017,Annual,Published percentage change,,,reported,,,,Table3,D252,0.20043839878659164,0.0%
+2017-12-31,"Air visitors: shopping, entertainment, transport and other",123.773099,$million,2017,Annual,Value,,,reported,,,,Table3,D98,123.773099,0.0
+2017-12-31,Air visitors: total,21.018168713836918,%,2017,Annual,Published percentage change,,,reported,,,,Table3,E252,0.21018168713836918,0.0%
+2017-12-31,Air visitors: total,402.718361,$million,2017,Annual,Value,,,reported,,,,Table3,E98,402.718361,0.0
+2017-12-31,Cruise visitors,0.8967127758069066,%,2017,Annual,Published percentage change,,,reported,,,,Table3,F252,0.008967127758069066,0.0%
+2017-12-31,Cruise visitors,66.040329,$million,2017,Annual,Value,,,reported,,,,Table3,F98,66.040329,0.0
+2017-12-31,Total expenditure,17.71097793085259,%,2017,Annual,Published percentage change,,,reported,,,,Table3,G252,0.1771097793085259,0.0%
+2017-12-31,Total expenditure,468.75869,$million,2017,Annual,Value,,,reported,,,,Table3,G98,468.75869,0.0
+2017-12-31,Air visitors: accommodation and food,25.305281567179772,%,2017-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,C251,0.2530528156717977,0.0%
+2017-12-31,Air visitors: accommodation and food,55.696902,$million,2017-Q4,Quarterly,Value,,,reported,,,,Table3,C97,55.696902,0.0
+2017-12-31,"Air visitors: shopping, entertainment, transport and other",13.156667217253837,%,2017-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,D251,0.13156667217253837,0.0%
+2017-12-31,"Air visitors: shopping, entertainment, transport and other",23.977332,$million,2017-Q4,Quarterly,Value,,,reported,,,,Table3,D97,23.977332,0.0
+2017-12-31,Air visitors: total,21.383449150076125,%,2017-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,E251,0.21383449150076125,0.0%
+2017-12-31,Air visitors: total,79.674234,$million,2017-Q4,Quarterly,Value,,,reported,,,,Table3,E97,79.674234,0.0
+2017-12-31,Cruise visitors,-13.362911994464502,%,2017-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,F251,-0.13362911994464502,0.0%
+2017-12-31,Cruise visitors,6.996696,$million,2017-Q4,Quarterly,Value,,,reported,,,,Table3,F97,6.996696,0.0
+2017-12-31,Total expenditure,17.57676760094947,%,2017-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,G251,0.1757676760094947,0.0%
+2017-12-31,Total expenditure,86.67093,$million,2017-Q4,Quarterly,Value,,,reported,,,,Table3,G97,86.67093,0.0
+2018-03-31,Air visitors: accommodation and food,13.979348651714533,%,2018-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,C254,0.13979348651714532,0.0%
+2018-03-31,Air visitors: accommodation and food,36,$million,2018-Q1,Quarterly,Value,,,reported,,,,Table3,C100,36,0.0
+2018-03-31,"Air visitors: shopping, entertainment, transport and other",11.42822749349896,%,2018-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,D254,0.1142822749349896,0.0%
+2018-03-31,"Air visitors: shopping, entertainment, transport and other",15.615856,$million,2018-Q1,Quarterly,Value,,,reported,,,,Table3,D100,15.615856,0.0
+2018-03-31,Air visitors: total,13.195292996052407,%,2018-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,E254,0.13195292996052407,0.0%
+2018-03-31,Air visitors: total,51.615856,$million,2018-Q1,Quarterly,Value,,,reported,,,,Table3,E100,51.615856,0.0
+2018-03-31,Cruise visitors,0.2546353802027932,%,2018-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,F254,0.002546353802027932,0.0%
+2018-03-31,Cruise visitors,1.065402,$million,2018-Q1,Quarterly,Value,,,reported,,,,Table3,F100,1.065402,0.0
+2018-03-31,Total expenditure,12.90057584347981,%,2018-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,G254,0.1290057584347981,0.0%
+2018-03-31,Total expenditure,52.681258,$million,2018-Q1,Quarterly,Value,,,reported,,,,Table3,G100,52.681258,0.0
+2018-06-30,Air visitors: accommodation and food,1.6174212777286312,%,2018-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,C255,0.016174212777286312,0.0%
+2018-06-30,Air visitors: accommodation and food,95.537402,$million,2018-Q2,Quarterly,Value,,,reported,,,,Table3,C101,95.537402,0.0
+2018-06-30,"Air visitors: shopping, entertainment, transport and other",-12.957360469178248,%,2018-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,D255,-0.12957360469178247,0.0%
+2018-06-30,"Air visitors: shopping, entertainment, transport and other",38.128076,$million,2018-Q2,Quarterly,Value,,,reported,,,,Table3,D101,38.128076,0.0
+2018-06-30,Air visitors: total,-3.0149202375397066,%,2018-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,E255,-0.030149202375397068,0.0%
+2018-06-30,Air visitors: total,133.665478,$million,2018-Q2,Quarterly,Value,,,reported,,,,Table3,E101,133.665478,0.0
+2018-06-30,Cruise visitors,106.68962306280771,%,2018-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,F255,1.0668962306280771,0.0%
+2018-06-30,Cruise visitors,53.484834,$million,2018-Q2,Quarterly,Value,,,reported,,,,Table3,F101,53.484834,0.0
+2018-06-30,Total expenditure,14.326889874860385,%,2018-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,G255,0.14326889874860385,0.0%
+2018-06-30,Total expenditure,187.150312,$million,2018-Q2,Quarterly,Value,,,reported,,,,Table3,G101,187.150312,0.0
+2018-09-30,Air visitors: accommodation and food,6.8952946972140605,%,2018-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,C256,0.0689529469721406,0.0%
+2018-09-30,Air visitors: accommodation and food,104.37998,$million,2018-Q3,Quarterly,Value,,,reported,,,,Table3,C102,104.37998,0.0
+2018-09-30,"Air visitors: shopping, entertainment, transport and other",-4.2932957462920465,%,2018-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,D256,-0.04293295746292047,0.0%
+2018-09-30,"Air visitors: shopping, entertainment, transport and other",40.175366,$million,2018-Q3,Quarterly,Value,,,reported,,,,Table3,D102,40.175366,0.0
+2018-09-30,Air visitors: total,3.5314870616855085,%,2018-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,E256,0.035314870616855086,0.0%
+2018-09-30,Air visitors: total,144.555346,$million,2018-Q3,Quarterly,Value,,,reported,,,,Table3,E102,144.555346,0.0
+2018-09-30,Cruise visitors,62.79153600948765,%,2018-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,F256,0.6279153600948765,0.0%
+2018-09-30,Cruise visitors,52.262681,$million,2018-Q3,Quarterly,Value,,,reported,,,,Table3,F102,52.262681,0.0
+2018-09-30,Total expenditure,14.609944622088127,%,2018-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,G256,0.14609944622088128,0.0%
+2018-09-30,Total expenditure,196.81802699999997,$million,2018-Q3,Quarterly,Value,,,reported,,,,Table3,G102,196.81802699999997,0.0
+2018-12-31,Air visitors: accommodation and food,5.523910995842612,%,2018,Annual,Published percentage change,,,reported,,,,Table3,C258,0.05523910995842612,0.0%
+2018-12-31,Air visitors: accommodation and food,294.35395,$million,2018,Annual,Value,,,reported,,,,Table3,C104,294.35395,0.0
+2018-12-31,"Air visitors: shopping, entertainment, transport and other",-3.730003560789897,%,2018,Annual,Published percentage change,,,reported,,,,Table3,D258,-0.03730003560789897,0.0%
+2018-12-31,"Air visitors: shopping, entertainment, transport and other",119.156358,$million,2018,Annual,Value,,,reported,,,,Table3,D104,119.156358,0.0
+2018-12-31,Air visitors: total,2.679775258620501,%,2018,Annual,Published percentage change,,,reported,,,,Table3,E258,0.02679775258620501,0.0%
+2018-12-31,Air visitors: total,413.510308,$million,2018,Annual,Value,,,reported,,,,Table3,E104,413.510308,0.0
+2018-12-31,Cruise visitors,97.85694283867062,%,2018,Annual,Published percentage change,,,reported,,,,Table3,F258,0.9785694283867061,0.0%
+2018-12-31,Cruise visitors,130.665376,$million,2018,Annual,Value,,,reported,,,,Table3,F104,130.665376,0.0
+2018-12-31,Total expenditure,16.088660457686647,%,2018,Annual,Published percentage change,,,reported,,,,Table3,G258,0.16088660457686646,0.0%
+2018-12-31,Total expenditure,544.1756839999999,$million,2018,Annual,Value,,,reported,,,,Table3,G104,544.1756839999999,0.0
+2018-12-31,Air visitors: accommodation and food,4.9188839982518235,%,2018-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,C257,0.04918883998251823,0.0%
+2018-12-31,Air visitors: accommodation and food,58.436568,$million,2018-Q4,Quarterly,Value,,,reported,,,,Table3,C103,58.436568,0.0
+2018-12-31,"Air visitors: shopping, entertainment, transport and other",5.253828908070335,%,2018-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,D257,0.05253828908070335,0.0%
+2018-12-31,"Air visitors: shopping, entertainment, transport and other",25.23706,$million,2018-Q4,Quarterly,Value,,,reported,,,,Table3,D103,25.23706,0.0
+2018-12-31,Air visitors: total,5.019683025757122,%,2018-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,E257,0.05019683025757122,0.0%
+2018-12-31,Air visitors: total,83.67362800000001,$million,2018-Q4,Quarterly,Value,,,reported,,,,Table3,E103,83.67362800000001,0.0
+2018-12-31,Cruise visitors,240.91032395862274,%,2018-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,F257,2.4091032395862273,0.0%
+2018-12-31,Cruise visitors,23.852459,$million,2018-Q4,Quarterly,Value,,,reported,,,,Table3,F103,23.852459,0.0
+2018-12-31,Total expenditure,24.062459004420518,%,2018-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,G257,0.2406245900442052,0.0%
+2018-12-31,Total expenditure,107.526087,$million,2018-Q4,Quarterly,Value,,,reported,,,,Table3,G103,107.526087,0.0
+2019-03-31,Air visitors: accommodation and food,-2.058783333333341,%,2019-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,C260,-0.02058783333333341,0.0%
+2019-03-31,Air visitors: accommodation and food,35.258838,$million,2019-Q1,Quarterly,Value,,,reported,,,,Table3,C106,35.258838,0.0
+2019-03-31,"Air visitors: shopping, entertainment, transport and other",2.211732741387982,%,2019-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,D260,0.022117327413879822,0.0%
+2019-03-31,"Air visitors: shopping, entertainment, transport and other",15.961237,$million,2019-Q1,Quarterly,Value,,,reported,,,,Table3,D106,15.961237,0.0
+2019-03-31,Air visitors: total,-0.7667818199120956,%,2019-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,E260,-0.007667818199120956,0.0%
+2019-03-31,Air visitors: total,51.220074999999994,$million,2019-Q1,Quarterly,Value,,,reported,,,,Table3,E106,51.220074999999994,0.0
+2019-03-31,Cruise visitors,134.2026765483827,%,2019-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,F260,1.342026765483827,0.0%
+2019-03-31,Cruise visitors,2.4952,$million,2019-Q1,Quarterly,Value,,,reported,,,,Table3,F106,2.4952,0.0
+2019-03-31,Total expenditure,1.9627796283831938,%,2019-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,G260,0.019627796283831937,0.0%
+2019-03-31,Total expenditure,53.71527499999999,$million,2019-Q1,Quarterly,Value,,,reported,,,,Table3,G106,53.71527499999999,0.0
+2019-06-30,Air visitors: accommodation and food,5.456922515016687,%,2019-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,C261,0.054569225150166864,0.0%
+2019-06-30,Air visitors: accommodation and food,100.750804,$million,2019-Q2,Quarterly,Value,,,reported,,,,Table3,C107,100.750804,0.0
+2019-06-30,"Air visitors: shopping, entertainment, transport and other",7.913753633936311,%,2019-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,D261,0.07913753633936312,0.0%
+2019-06-30,"Air visitors: shopping, entertainment, transport and other",41.145438,$million,2019-Q2,Quarterly,Value,,,reported,,,,Table3,D107,41.145438,0.0
+2019-06-30,Air visitors: total,6.15773356228898,%,2019-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,E261,0.0615773356228898,0.0%
+2019-06-30,Air visitors: total,141.896242,$million,2019-Q2,Quarterly,Value,,,reported,,,,Table3,E107,141.896242,0.0
+2019-06-30,Cruise visitors,10.577245130834653,%,2019-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,F261,0.10577245130834653,0.0%
+2019-06-30,Cruise visitors,59.142056,$million,2019-Q2,Quarterly,Value,,,reported,,,,Table3,F107,59.142056,0.0
+2019-06-30,Total expenditure,7.4207656143260845,%,2019-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,G261,0.07420765614326084,0.0%
+2019-06-30,Total expenditure,201.038298,$million,2019-Q2,Quarterly,Value,,,reported,,,,Table3,G107,201.038298,0.0
+2019-09-30,Air visitors: accommodation and food,-1.5410780879628418,%,2019-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,C262,-0.01541078087962842,0.0%
+2019-09-30,Air visitors: accommodation and food,102.771403,$million,2019-Q3,Quarterly,Value,,,reported,,,,Table3,C108,102.771403,0.0
+2019-09-30,"Air visitors: shopping, entertainment, transport and other",1.9716435190658936,%,2019-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,D262,0.019716435190658937,0.0%
+2019-09-30,"Air visitors: shopping, entertainment, transport and other",40.967481,$million,2019-Q3,Quarterly,Value,,,reported,,,,Table3,D108,40.967481,0.0
+2019-09-30,Air visitors: total,-0.5648092738126566,%,2019-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,E262,-0.0056480927381265655,0.0%
+2019-09-30,Air visitors: total,143.738884,$million,2019-Q3,Quarterly,Value,,,reported,,,,Table3,E108,143.738884,0.0
+2019-09-30,Cruise visitors,10.01924872549114,%,2019-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,F262,0.10019248725491141,0.0%
+2019-09-30,Cruise visitors,57.499009,$million,2019-Q3,Quarterly,Value,,,reported,,,,Table3,F108,57.499009,0.0
+2019-09-30,Total expenditure,2.245661165986611,%,2019-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,G262,0.022456611659866108,0.0%
+2019-09-30,Total expenditure,201.237893,$million,2019-Q3,Quarterly,Value,,,reported,,,,Table3,G108,201.237893,0.0
+2019-12-31,Air visitors: accommodation and food,0.013689301604416934,%,2019,Annual,Published percentage change,,,reported,,,,Table3,C264,0.00013689301604416935,0.0%
+2019-12-31,Air visitors: accommodation and food,294.394245,$million,2019,Annual,Value,,,reported,,,,Table3,C110,294.394245,0.0
+2019-12-31,"Air visitors: shopping, entertainment, transport and other",1.034592715564534,%,2019,Annual,Published percentage change,,,reported,,,,Table3,D264,0.01034592715564534,0.0%
+2019-12-31,"Air visitors: shopping, entertainment, transport and other",120.389141,$million,2019,Annual,Value,,,reported,,,,Table3,D110,120.389141,0.0
+2019-12-31,Air visitors: total,0.307870922530894,%,2019,Annual,Published percentage change,,,reported,,,,Table3,E264,0.00307870922530894,0.0%
+2019-12-31,Air visitors: total,414.78338599999995,$million,2019,Annual,Value,,,reported,,,,Table3,E110,414.78338599999995,0.0
+2019-12-31,Cruise visitors,8.47661204449448,%,2019,Annual,Published percentage change,,,reported,,,,Table3,F264,0.0847661204449448,0.0%
+2019-12-31,Cruise visitors,141.741373,$million,2019,Annual,Value,,,reported,,,,Table3,F110,141.741373,0.0
+2019-12-31,Total expenditure,2.269317678663511,%,2019,Annual,Published percentage change,,,reported,,,,Table3,G264,0.022693176786635114,0.0%
+2019-12-31,Total expenditure,556.524759,$million,2019,Annual,Value,,,reported,,,,Table3,G110,556.524759,0.0
+2019-12-31,Air visitors: accommodation and food,-4.831508927765919,%,2019-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,C263,-0.048315089277659186,0.0%
+2019-12-31,Air visitors: accommodation and food,55.6132,$million,2019-Q4,Quarterly,Value,,,reported,,,,Table3,C109,55.6132,0.0
+2019-12-31,"Air visitors: shopping, entertainment, transport and other",-11.578507956156539,%,2019-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,D263,-0.11578507956156539,0.0%
+2019-12-31,"Air visitors: shopping, entertainment, transport and other",22.314985,$million,2019-Q4,Quarterly,Value,,,reported,,,,Table3,D109,22.314985,0.0
+2019-12-31,Air visitors: total,-6.866492032591211,%,2019-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,E263,-0.06866492032591211,0.0%
+2019-12-31,Air visitors: total,77.928185,$million,2019-Q4,Quarterly,Value,,,reported,,,,Table3,E109,77.928185,0.0
+2019-12-31,Cruise visitors,-5.229444058576931,%,2019-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,F263,-0.052294440585769306,0.0%
+2019-12-31,Cruise visitors,22.605108,$million,2019-Q4,Quarterly,Value,,,reported,,,,Table3,F109,22.605108,0.0
+2019-12-31,Total expenditure,-6.503346485583543,%,2019-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,G263,-0.06503346485583543,0.0%
+2019-12-31,Total expenditure,100.533293,$million,2019-Q4,Quarterly,Value,,,reported,,,,Table3,G109,100.533293,0.0
+2020-03-31,Air visitors: accommodation and food,-31.052240008590175,%,2020-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,C266,-0.31052240008590176,0.0%
+2020-03-31,Air visitors: accommodation and food,24.310179,$million,2020-Q1,Quarterly,Value,,,reported,,,,Table3,C112,24.310179,0.0
+2020-03-31,"Air visitors: shopping, entertainment, transport and other",-37.24678732607003,%,2020-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,D266,-0.37246787326070024,0.0%
+2020-03-31,"Air visitors: shopping, entertainment, transport and other",10.016189,$million,2020-Q1,Quarterly,Value,,,reported,,,,Table3,D112,10.016189,0.0
+2020-03-31,Air visitors: total,-32.98258934607182,%,2020-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,E266,-0.32982589346071817,0.0%
+2020-03-31,Air visitors: total,34.326368,$million,2020-Q1,Quarterly,Value,,,reported,,,,Table3,E112,34.326368,0.0
+2020-03-31,Cruise visitors,-15.727035908945181,%,2020-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,F266,-0.1572703590894518,0.0%
+2020-03-31,Cruise visitors,2.102779,$million,2020-Q1,Quarterly,Value,,,reported,,,,Table3,F112,2.102779,0.0
+2020-03-31,Total expenditure,-32.18102858079009,%,2020-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,G266,-0.3218102858079009,0.0%
+2020-03-31,Total expenditure,36.429147,$million,2020-Q1,Quarterly,Value,,,reported,,,,Table3,G112,36.429147,0.0
+2020-06-30,Air visitors: accommodation and food,-99.75831557632037,%,2020-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,C267,-0.9975831557632037,0.0%
+2020-06-30,Air visitors: accommodation and food,0.243499,$million,2020-Q2,Quarterly,Value,,,reported,,,,Table3,C113,0.243499,0.0
+2020-06-30,"Air visitors: shopping, entertainment, transport and other",-99.83219524847445,%,2020-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,D267,-0.9983219524847445,0.0%
+2020-06-30,"Air visitors: shopping, entertainment, transport and other",0.069044,$million,2020-Q2,Quarterly,Value,,,reported,,,,Table3,D113,0.069044,0.0
+2020-06-30,Air visitors: total,-99.7797383527606,%,2020-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,E267,-0.997797383527606,0.0%
+2020-06-30,Air visitors: total,0.312543,$million,2020-Q2,Quarterly,Value,,,reported,,,,Table3,E113,0.312543,0.0
+2020-06-30,Cruise visitors,-100,%,2020-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,F267,-1,0.0%
+2020-06-30,Cruise visitors,0,$million,2020-Q2,Quarterly,Value,,,reported,,,,Table3,F113,0,0.0
+2020-06-30,Total expenditure,-99.84453559191991,%,2020-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,G267,-0.998445355919199,0.0%
+2020-06-30,Total expenditure,0.312543,$million,2020-Q2,Quarterly,Value,,,reported,,,,Table3,G113,0.312543,0.0
+2020-09-30,Air visitors: accommodation and food,-89.55954897297646,%,2020-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,C268,-0.8955954897297645,0.0%
+2020-09-30,Air visitors: accommodation and food,10.729798,$million,2020-Q3,Quarterly,Value,,,reported,,,,Table3,C114,10.729798,0.0
+2020-09-30,"Air visitors: shopping, entertainment, transport and other",-86.67131376713154,%,2020-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,D268,-0.8667131376713154,0.0%
+2020-09-30,"Air visitors: shopping, entertainment, transport and other",5.460427,$million,2020-Q3,Quarterly,Value,,,reported,,,,Table3,D114,5.460427,0.0
+2020-09-30,Air visitors: total,-88.73636378031154,%,2020-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,E268,-0.8873636378031153,0.0%
+2020-09-30,Air visitors: total,16.190225,$million,2020-Q3,Quarterly,Value,,,reported,,,,Table3,E114,16.190225,0.0
+2020-09-30,Cruise visitors,-100,%,2020-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,F268,-1,0.0%
+2020-09-30,Cruise visitors,0,$million,2020-Q3,Quarterly,Value,,,reported,,,,Table3,F114,0,0.0
+2020-09-30,Total expenditure,-91.95468370363031,%,2020-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,G268,-0.9195468370363031,0.0%
+2020-09-30,Total expenditure,16.190225,$million,2020-Q3,Quarterly,Value,,,reported,,,,Table3,G114,16.190225,0.0
+2020-12-31,Air visitors: accommodation and food,-76.919184654003,%,2020-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,C269,-0.76919184654003,0.0%
+2020-12-31,Air visitors: accommodation and food,12.83598,$million,2020-Q4,Quarterly,Value,,,reported,,,,Table3,C115,12.83598,0.0
+2020-12-31,"Air visitors: shopping, entertainment, transport and other",-75.66894174475134,%,2020-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,D269,-0.7566894174475134,0.0%
+2020-12-31,"Air visitors: shopping, entertainment, transport and other",5.429472,$million,2020-Q4,Quarterly,Value,,,reported,,,,Table3,D115,5.429472,0.0
+2020-12-31,Air visitors: total,-76.56117359848686,%,2020-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,E269,-0.7656117359848686,0.0%
+2020-12-31,Air visitors: total,18.265452,$million,2020-Q4,Quarterly,Value,,,reported,,,,Table3,E115,18.265452,0.0
+2020-12-31,Cruise visitors,-100,%,2020-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,F269,-1,0.0%
+2020-12-31,Cruise visitors,0,$million,2020-Q4,Quarterly,Value,,,reported,,,,Table3,F115,0,0.0
+2020-12-31,Total expenditure,-81.83143966049138,%,2020-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,G269,-0.8183143966049138,0.0%
+2020-12-31,Total expenditure,18.265452,$million,2020-Q4,Quarterly,Value,,,reported,,,,Table3,G115,18.265452,0.0
+2021-03-31,Air visitors: accommodation and food,-84.91658165083852,%,2021-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,C272,-0.8491658165083852,0.0%
+2021-03-31,Air visitors: accommodation and food,3.666806,$million,2021-Q1,Quarterly,Value,,,reported,,,,Table3,C118,3.666806,0.0
+2021-03-31,"Air visitors: shopping, entertainment, transport and other",-81.2018822727886,%,2021-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,D272,-0.812018822727886,0.0%
+2021-03-31,"Air visitors: shopping, entertainment, transport and other",1.882855,$million,2021-Q1,Quarterly,Value,,,reported,,,,Table3,D118,1.882855,0.0
+2021-03-31,Air visitors: total,-83.83265890524741,%,2021-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,E272,-0.8383265890524741,0.0%
+2021-03-31,Air visitors: total,5.5496609999999995,$million,2021-Q1,Quarterly,Value,,,reported,,,,Table3,E118,5.5496609999999995,0.0
+2021-03-31,Cruise visitors,-100,%,2021-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,F272,-1,0.0%
+2021-03-31,Cruise visitors,0,$million,2021-Q1,Quarterly,Value,,,reported,,,,Table3,F118,0,0.0
+2021-03-31,Total expenditure,-84.76587716972895,%,2021-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,G272,-0.8476587716972895,0.0%
+2021-03-31,Total expenditure,5.5496609999999995,$million,2021-Q1,Quarterly,Value,,,reported,,,,Table3,G118,5.5496609999999995,0.0
+2021-06-30,Air visitors: accommodation and food,9357.558347262207,%,2021-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,C273,93.57558347262207,0.0%
+2021-06-30,Air visitors: accommodation and food,23.02906,$million,2021-Q2,Quarterly,Value,,,reported,,,,Table3,C119,23.02906,0.0
+2021-06-30,"Air visitors: shopping, entertainment, transport and other",11687.833845084297,%,2021-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,D273,116.87833845084296,0.0%
+2021-06-30,"Air visitors: shopping, entertainment, transport and other",8.138792,$million,2021-Q2,Quarterly,Value,,,reported,,,,Table3,D119,8.138792,0.0
+2021-06-30,Air visitors: total,9872.340445954636,%,2021-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,E273,98.72340445954637,0.0%
+2021-06-30,Air visitors: total,31.167852000000003,$million,2021-Q2,Quarterly,Value,,,reported,,,,Table3,E119,31.167852000000003,0.0
+2021-06-30,Cruise visitors,,%,2021-Q2,Quarterly,Published percentage change,,,source marker,**,,,Table3,F273, ** ,0.0%
+2021-06-30,Cruise visitors,0,$million,2021-Q2,Quarterly,Value,,,reported,,,,Table3,F119,0,0.0
+2021-06-30,Total expenditure,9872.340445954636,%,2021-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,G273,98.72340445954637,0.0%
+2021-06-30,Total expenditure,31.167852000000003,$million,2021-Q2,Quarterly,Value,,,reported,,,,Table3,G119,31.167852000000003,0.0
+2021-09-30,Air visitors: accommodation and food,309.06461612790844,%,2021-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,C274,3.0906461612790843,0.0%
+2021-09-30,Air visitors: accommodation and food,43.891807,$million,2021-Q3,Quarterly,Value,,,reported,,,,Table3,C120,43.891807,0.0
+2021-09-30,"Air visitors: shopping, entertainment, transport and other",222.46811467308322,%,2021-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,D274,2.2246811467308323,0.0%
+2021-09-30,"Air visitors: shopping, entertainment, transport and other",17.608136,$million,2021-Q3,Quarterly,Value,,,reported,,,,Table3,D120,17.608136,0.0
+2021-09-30,Air visitors: total,279.8584825102801,%,2021-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,E274,2.798584825102801,0.0%
+2021-09-30,Air visitors: total,61.499943,$million,2021-Q3,Quarterly,Value,,,reported,,,,Table3,E120,61.499943,0.0
+2021-09-30,Cruise visitors,,%,2021-Q3,Quarterly,Published percentage change,,,source marker,**,,,Table3,F274, ** ,0.0%
+2021-09-30,Cruise visitors,1.81551,$million,2021-Q3,Quarterly,Value,,,reported,,,,Table3,F120,1.81551,0.0
+2021-09-30,Total expenditure,291.0721006039138,%,2021-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,G274,2.9107210060391377,0.0%
+2021-09-30,Total expenditure,63.315453000000005,$million,2021-Q3,Quarterly,Value,,,reported,,,,Table3,G120,63.315453000000005,0.0
+2021-12-31,Air visitors: accommodation and food,77.15774720745905,%,2021-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,C275,0.7715774720745905,0.0%
+2021-12-31,Air visitors: accommodation and food,22.739933,$million,2021-Q4,Quarterly,Value,,,reported,,,,Table3,C121,22.739933,0.0
+2021-12-31,"Air visitors: shopping, entertainment, transport and other",63.12785110596389,%,2021-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,D275,0.631278511059639,0.0%
+2021-12-31,"Air visitors: shopping, entertainment, transport and other",8.856981,$million,2021-Q4,Quarterly,Value,,,reported,,,,Table3,D121,8.856981,0.0
+2021-12-31,Air visitors: total,72.98730959409052,%,2021-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,E275,0.7298730959409052,0.0%
+2021-12-31,Air visitors: total,31.596913999999998,$million,2021-Q4,Quarterly,Value,,,reported,,,,Table3,E121,31.596913999999998,0.0
+2021-12-31,Cruise visitors,,%,2021-Q4,Quarterly,Published percentage change,,,source marker,**,,,Table3,F275, ** ,0.0%
+2021-12-31,Cruise visitors,3.155288,$million,2021-Q4,Quarterly,Value,,,reported,,,,Table3,F121,3.155288,0.0
+2021-12-31,Total expenditure,90.26193274603878,%,2021-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,G275,0.9026193274603879,0.0%
+2021-12-31,Total expenditure,34.752202,$million,2021-Q4,Quarterly,Value,,,reported,,,,Table3,G121,34.752202,0.0
+2022-03-31,Air visitors: accommodation and food,339.7088910621397,%,2022-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,C278,3.3970889106213966,0.0%
+2022-03-31,Air visitors: accommodation and food,16.123272,$million,2022-Q1,Quarterly,Value,,,reported,,,,Table3,C124,16.123272,0.0
+2022-03-31,"Air visitors: shopping, entertainment, transport and other",241.6033629780307,%,2022-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,D278,2.416033629780307,0.0%
+2022-03-31,"Air visitors: shopping, entertainment, transport and other",6.431896,$million,2022-Q1,Quarterly,Value,,,reported,,,,Table3,D124,6.431896,0.0
+2022-03-31,Air visitors: total,306.4242482558845,%,2022-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,E278,3.064242482558845,0.0%
+2022-03-31,Air visitors: total,22.555168000000002,$million,2022-Q1,Quarterly,Value,,,reported,,,,Table3,E124,22.555168000000002,0.0
+2022-03-31,Cruise visitors,,%,2022-Q1,Quarterly,Published percentage change,,,source marker,**,,,Table3,F278, ** ,0.0%
+2022-03-31,Cruise visitors,0,$million,2022-Q1,Quarterly,Value,,,reported,,,,Table3,F124,0,0.0
+2022-03-31,Total expenditure,306.4242482558845,%,2022-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,G278,3.064242482558845,0.0%
+2022-03-31,Total expenditure,22.555168000000002,$million,2022-Q1,Quarterly,Value,,,reported,,,,Table3,G124,22.555168000000002,0.0
+2022-06-30,Air visitors: accommodation and food,210.44512455132772,%,2022-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,C279,2.1044512455132773,0.0%
+2022-06-30,Air visitors: accommodation and food,71.492594,$million,2022-Q2,Quarterly,Value,,,reported,,,,Table3,C125,71.492594,0.0
+2022-06-30,"Air visitors: shopping, entertainment, transport and other",223.25104266087646,%,2022-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,D279,2.2325104266087648,0.0%
+2022-06-30,"Air visitors: shopping, entertainment, transport and other",26.30873,$million,2022-Q2,Quarterly,Value,,,reported,,,,Table3,D125,26.30873,0.0
+2022-06-30,Air visitors: total,213.78910551808312,%,2022-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,E279,2.1378910551808312,0.0%
+2022-06-30,Air visitors: total,97.801324,$million,2022-Q2,Quarterly,Value,,,reported,,,,Table3,E125,97.801324,0.0
+2022-06-30,Cruise visitors,,%,2022-Q2,Quarterly,Published percentage change,,,source marker,**,,,Table3,F279, ** ,0.0%
+2022-06-30,Cruise visitors,32.16913,$million,2022-Q2,Quarterly,Value,,,reported,,,,Table3,F125,32.16913,0.0
+2022-06-30,Total expenditure,317.0016400231879,%,2022-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,G279,3.170016400231879,0.0%
+2022-06-30,Total expenditure,129.970454,$million,2022-Q2,Quarterly,Value,,,reported,,,,Table3,G125,129.970454,0.0
+2022-09-30,Air visitors: accommodation and food,26.774493593162557,%,2022-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,C280,0.26774493593162557,0.0%
+2022-09-30,Air visitors: accommodation and food,55.643616053138274,$million,2022-Q3,Quarterly,Value,,,reported,,,,Table3,C126,55.643616053138274,0.0
+2022-09-30,"Air visitors: shopping, entertainment, transport and other",11.704724125481196,%,2022-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,D280,0.11704724125481196,0.0%
+2022-09-30,"Air visitors: shopping, entertainment, transport and other",19.669119742439538,$million,2022-Q3,Quarterly,Value,,,reported,,,,Table3,D126,19.669119742439538,0.0
+2022-09-30,Air visitors: total,22.45984650030945,%,2022-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,E280,0.2245984650030945,0.0%
+2022-09-30,Air visitors: total,75.31273579557781,$million,2022-Q3,Quarterly,Value,,,reported,,,,Table3,E126,75.31273579557781,0.0
+2022-09-30,Cruise visitors,2352.7665256640694,%,2022-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,F280,23.527665256640695,0.0%
+2022-09-30,Cruise visitors,44.53022155008375,$million,2022-Q3,Quarterly,Value,,,reported,,,,Table3,F126,44.53022155008375,0.0
+2022-09-30,Total expenditure,89.27915961631287,%,2022-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,G280,0.8927915961631286,0.0%
+2022-09-30,Total expenditure,119.84295734566156,$million,2022-Q3,Quarterly,Value,,,reported,,,,Table3,G126,119.84295734566156,0.0
+2022-12-31,Air visitors: accommodation and food,104.23564471206868,%,2022-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,C281,1.0423564471206868,0.0%
+2022-12-31,Air visitors: accommodation and food,46.44304876964246,$million,2022-Q4,Quarterly,Value,,,reported,,,,Table3,C127,46.44304876964246,0.0
+2022-12-31,"Air visitors: shopping, entertainment, transport and other",91.18109007552668,%,2022-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,D281,0.9118109007552668,0.0%
+2022-12-31,"Air visitors: shopping, entertainment, transport and other",16.932872823582283,$million,2022-Q4,Quarterly,Value,,,reported,,,,Table3,D127,16.932872823582283,0.0
+2022-12-31,Air visitors: total,100.5763018287949,%,2022-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,E281,1.005763018287949,0.0%
+2022-12-31,Air visitors: total,63.375921593224746,$million,2022-Q4,Quarterly,Value,,,reported,,,,Table3,E127,63.375921593224746,0.0
+2022-12-31,Cruise visitors,636.2830210418077,%,2022-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,F281,6.362830210418077,0.0%
+2022-12-31,Cruise visitors,23.231849808969635,$million,2022-Q4,Quarterly,Value,,,reported,,,,Table3,F127,23.231849808969635,0.0
+2022-12-31,Total expenditure,149.21520484426966,%,2022-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,G281,1.4921520484426967,0.0%
+2022-12-31,Total expenditure,86.60777140219437,$million,2022-Q4,Quarterly,Value,,,reported,,,,Table3,G127,86.60777140219437,0.0
+2023-03-31,Air visitors: accommodation and food,65.0762512720743,%,2023-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,C284,0.650762512720743,0.0%
+2023-03-31,Air visitors: accommodation and food,26.615693,$million,2023-Q1,Quarterly,Value,,,reported,,,,Table3,C130,26.615693,0.0
+2023-03-31,"Air visitors: shopping, entertainment, transport and other",49.18560561302609,%,2023-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,D284,0.4918560561302609,0.0%
+2023-03-31,"Air visitors: shopping, entertainment, transport and other",9.595463,$million,2023-Q1,Quarterly,Value,,,reported,,,,Table3,D130,9.595463,0.0
+2023-03-31,Air visitors: total,60.54482945992687,%,2023-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,E284,0.6054482945992687,0.0%
+2023-03-31,Air visitors: total,36.211156,$million,2023-Q1,Quarterly,Value,,,reported,,,,Table3,E130,36.211156,0.0
+2023-03-31,Cruise visitors,,%,2023-Q1,Quarterly,Published percentage change,,,source marker,**,,,Table3,F284, ** ,0.0%
+2023-03-31,Cruise visitors,5.299504065354066,$million,2023-Q1,Quarterly,Value,,,reported,,,,Table3,F130,5.299504065354066,0.0
+2023-03-31,Total expenditure,84.04057139079639,%,2023-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,G284,0.8404057139079639,0.0%
+2023-03-31,Total expenditure,41.51066006535407,$million,2023-Q1,Quarterly,Value,,,reported,,,,Table3,G130,41.51066006535407,0.0
+2023-06-30,Air visitors: accommodation and food,23.393933642972886,%,2023-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,C285,0.23393933642972886,0.0%
+2023-06-30,Air visitors: accommodation and food,88.21752400000001,$million,2023-Q2,Quarterly,Value,,,reported,,,,Table3,C131,88.21752400000001,0.0
+2023-06-30,"Air visitors: shopping, entertainment, transport and other",-17.07826611540805,%,2023-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,D285,-0.1707826611540805,0.0%
+2023-06-30,"Air visitors: shopping, entertainment, transport and other",25.168524495544077,$million,2023-Q2,Quarterly,Value,,,reported,,,,Table3,D131,25.168524495544077,0.0
+2023-06-30,Air visitors: total,15.935085393674317,%,2023-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,E285,0.15935085393674317,0.0%
+2023-06-30,Air visitors: total,113.38604849554409,$million,2023-Q2,Quarterly,Value,,,reported,,,,Table3,E131,113.38604849554409,0.0
+2023-06-30,Cruise visitors,144.90943971168363,%,2023-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,F285,1.4490943971168362,0.0%
+2023-06-30,Cruise visitors,78.78523604312313,$million,2023-Q2,Quarterly,Value,,,reported,,,,Table3,F131,78.78523604312313,0.0
+2023-06-30,Total expenditure,47.87127181664758,%,2023-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,G285,0.47871271816647576,0.0%
+2023-06-30,Total expenditure,192.17128453866724,$million,2023-Q2,Quarterly,Value,,,reported,,,,Table3,G131,192.17128453866724,0.0
+2023-09-30,Air visitors: accommodation and food,60.79590498675685,%,2023-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,C286,0.6079590498675685,0.0%
+2023-09-30,Air visitors: accommodation and food,89.472656,$million,2023-Q3,Quarterly,Value,,,reported,,,,Table3,C132,89.472656,0.0
+2023-09-30,"Air visitors: shopping, entertainment, transport and other",49.02612513336833,%,2023-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,D286,0.4902612513336833,0.0%
+2023-09-30,"Air visitors: shopping, entertainment, transport and other",29.312127,$million,2023-Q3,Quarterly,Value,,,reported,,,,Table3,D132,29.312127,0.0
+2023-09-30,Air visitors: total,57.722039632737356,%,2023-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,E286,0.5772203963273735,0.0%
+2023-09-30,Air visitors: total,118.784783,$million,2023-Q3,Quarterly,Value,,,reported,,,,Table3,E132,118.784783,0.0
+2023-09-30,Cruise visitors,18.094548307723596,%,2023-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,F286,0.18094548307723596,0.0%
+2023-09-30,Cruise visitors,52.587764,$million,2023-Q3,Quarterly,Value,,,reported,,,,Table3,F132,52.587764,0.0
+2023-09-30,Total expenditure,42.99759518259574,%,2023-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,G286,0.4299759518259574,0.0%
+2023-09-30,Total expenditure,171.372547,$million,2023-Q3,Quarterly,Value,,,reported,,,,Table3,G132,171.372547,0.0
+2023-12-31,Air visitors: accommodation and food,18.895547262379043,%,2023-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,C287,0.18895547262379042,0.0%
+2023-12-31,Air visitors: accommodation and food,55.218717,$million,2023-Q4,Quarterly,Value,,,reported,,,,Table3,C133,55.218717,0.0
+2023-12-31,"Air visitors: shopping, entertainment, transport and other",-1.2793329628070338,%,2023-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,D287,-0.012793329628070338,0.0%
+2023-12-31,"Air visitors: shopping, entertainment, transport and other",16.716245,$million,2023-Q4,Quarterly,Value,,,reported,,,,Table3,D133,16.716245,0.0
+2023-12-31,Air visitors: total,13.50519281078236,%,2023-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,E287,0.1350519281078236,0.0%
+2023-12-31,Air visitors: total,71.934962,$million,2023-Q4,Quarterly,Value,,,reported,,,,Table3,E133,71.934962,0.0
+2023-12-31,Cruise visitors,13.99767643849668,%,2023-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,F287,0.13997676438496678,0.0%
+2023-12-31,Cruise visitors,26.483768975906713,$million,2023-Q4,Quarterly,Value,,,reported,,,,Table3,F133,26.483768975906713,0.0
+2023-12-31,Total expenditure,13.63729764949602,%,2023-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,G287,0.1363729764949602,0.0%
+2023-12-31,Total expenditure,98.41873097590671,$million,2023-Q4,Quarterly,Value,,,reported,,,,Table3,G133,98.41873097590671,0.0
+2024-03-31,Air visitors: accommodation and food,36.95982644709785,%,2024-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,C290,0.36959826447097854,0.0%
+2024-03-31,Air visitors: accommodation and food,36.45280694049237,$million,2024-Q1,Quarterly,Value,,,reported,,,,Table3,C136,36.45280694049237,0.0
+2024-03-31,"Air visitors: shopping, entertainment, transport and other",-4.4010848738858375,%,2024-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,D290,-0.044010848738858376,0.0%
+2024-03-31,"Air visitors: shopping, entertainment, transport and other",9.173158529327688,$million,2024-Q1,Quarterly,Value,,,reported,,,,Table3,D136,9.173158529327688,0.0
+2024-03-31,Air visitors: total,25.9997484471914,%,2024-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,E290,0.259997484471914,0.0%
+2024-03-31,Air visitors: total,45.62596546982006,$million,2024-Q1,Quarterly,Value,,,reported,,,,Table3,E136,45.62596546982006,0.0
+2024-03-31,Cruise visitors,32.52682028683751,%,2024-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,F290,0.3252682028683751,0.0%
+2024-03-31,Cruise visitors,7.023264228785431,$million,2024-Q1,Quarterly,Value,,,reported,,,,Table3,F136,7.023264228785431,0.0
+2024-03-31,Total expenditure,26.833034251237976,%,2024-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,G290,0.26833034251237975,0.0%
+2024-03-31,Total expenditure,52.64922969860549,$million,2024-Q1,Quarterly,Value,,,reported,,,,Table3,G136,52.64922969860549,0.0
+2024-06-30,Air visitors: accommodation and food,30.030615005698852,%,2024-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,C291,0.3003061500569885,0.0%
+2024-06-30,Air visitors: accommodation and food,114.709789,$million,2024-Q2,Quarterly,Value,,,reported,,,,Table3,C137,114.709789,0.0
+2024-06-30,"Air visitors: shopping, entertainment, transport and other",8.274626924691725,%,2024-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,D291,0.08274626924691726,0.0%
+2024-06-30,"Air visitors: shopping, entertainment, transport and other",27.251126,$million,2024-Q2,Quarterly,Value,,,reported,,,,Table3,D137,27.251126,0.0
+2024-06-30,Air visitors: total,25.20139548348302,%,2024-Q2,Quarterly,Published percentage change,,,reported,,,,Table3,E291,0.2520139548348302,0.0%
+2024-06-30,Air visitors: total,141.960915,$million,2024-Q2,Quarterly,Value,,,reported,,,,Table3,E137,141.960915,0.0
+2024-06-30,Cruise visitors,,%,2024-Q2,Quarterly,Published percentage change,,,source marker,-45.8%,,,Table3,F291,-45.8%,0.0%
+2024-06-30,Cruise visitors,45.137625,$million,2024-Q2,Quarterly,Value,,,reported,,,,Table3,F137,45.137625,0.0
+2024-06-30,Total expenditure,,%,2024-Q2,Quarterly,Published percentage change,,,source marker,-7.0%,,,Table3,G291,-7.0%,0.0%
+2024-06-30,Total expenditure,187.09854,$million,2024-Q2,Quarterly,Value,,,reported,,,,Table3,G137,187.09854,0.0
+2024-09-30,Air visitors: accommodation and food,29.91683179719175,%,2024-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,C292,0.2991683179719175,0.0%
+2024-09-30,Air visitors: accommodation and food,116.24004,$million,2024-Q3,Quarterly,Value,,,reported,,,,Table3,C138,116.24004,0.0
+2024-09-30,"Air visitors: shopping, entertainment, transport and other",-4.570009539055282,%,2024-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,D292,-0.04570009539055282,0.0%
+2024-09-30,"Air visitors: shopping, entertainment, transport and other",27.97256,$million,2024-Q3,Quarterly,Value,,,reported,,,,Table3,D138,27.97256,0.0
+2024-09-30,Air visitors: total,21.406628322080618,%,2024-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,E292,0.21406628322080617,0.0%
+2024-09-30,Air visitors: total,144.2126,$million,2024-Q3,Quarterly,Value,,,reported,,,,Table3,E138,144.2126,0.0
+2024-09-30,Cruise visitors,-11.090954542201107,%,2024-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,F292,-0.11090954542201106,0.0%
+2024-09-30,Cruise visitors,46.755279,$million,2024-Q3,Quarterly,Value,,,reported,,,,Table3,F138,46.755279,0.0
+2024-09-30,Total expenditure,11.434347182807532,%,2024-Q3,Quarterly,Published percentage change,,,reported,,,,Table3,G292,0.11434347182807532,0.0%
+2024-09-30,Total expenditure,190.967879,$million,2024-Q3,Quarterly,Value,,,reported,,,,Table3,G138,190.967879,0.0
+2024-12-31,Air visitors: accommodation and food,19.206531002884393,%,2024-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,C293,0.19206531002884394,0.0%
+2024-12-31,Air visitors: accommodation and food,65.824317,$million,2024-Q4,Quarterly,Value,,,reported,,,,Table3,C139,65.824317,0.0
+2024-12-31,"Air visitors: shopping, entertainment, transport and other",3.038965987875866,%,2024-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,D293,0.030389659878758662,0.0%
+2024-12-31,"Air visitors: shopping, entertainment, transport and other",17.224246,$million,2024-Q4,Quarterly,Value,,,reported,,,,Table3,D139,17.224246,0.0
+2024-12-31,Air visitors: total,15.449512574984055,%,2024-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,E293,0.15449512574984056,0.0%
+2024-12-31,Air visitors: total,83.048563,$million,2024-Q4,Quarterly,Value,,,reported,,,,Table3,E139,83.048563,0.0
+2024-12-31,Cruise visitors,-37.37609622298035,%,2024-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,F293,-0.37376096222980354,0.0%
+2024-12-31,Cruise visitors,16.58517,$million,2024-Q4,Quarterly,Value,,,reported,,,,Table3,F139,16.58517,0.0
+2024-12-31,Total expenditure,1.2345231563600754,%,2024-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,G293,0.012345231563600753,0.0%
+2024-12-31,Total expenditure,99.633733,$million,2024-Q4,Quarterly,Value,,,reported,,,,Table3,G139,99.633733,0.0
+2025-03-31,Air visitors: accommodation and food,3.5449270384503766,%,2025-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,C296,0.03544927038450377,0.0%
+2025-03-31,Air visitors: accommodation and food,37.74503235,$million,2025-Q1,Quarterly,Value,,,reported,,,,Table3,C142,37.74503235,0.0
+2025-03-31,"Air visitors: shopping, entertainment, transport and other",17.580818706187863,%,2025-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,D296,0.17580818706187862,0.0%
+2025-03-31,"Air visitors: shopping, entertainment, transport and other",10.785874899999998,$million,2025-Q1,Quarterly,Value,,,reported,,,,Table3,D142,10.785874899999998,0.0
+2025-03-31,Air visitors: total,6.366860953553857,%,2025-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,E296,0.06366860953553857,0.0%
+2025-03-31,Air visitors: total,48.53090725,$million,2025-Q1,Quarterly,Value,,,reported,,,,Table3,E142,48.53090725,0.0
+2025-03-31,Cruise visitors,-60.02884259296225,%,2025-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,F296,-0.6002884259296225,0.0%
+2025-03-31,Cruise visitors,2.80728,$million,2025-Q1,Quarterly,Value,,,reported,,,,Table3,F142,2.80728,0.0
+2025-03-31,Total expenditure,-2.4901455464983115,%,2025-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,G296,-0.024901455464983117,0.0%
+2025-03-31,Total expenditure,51.33818725,$million,2025-Q1,Quarterly,Value,,,reported,,,,Table3,G142,51.33818725,0.0
+2025-06-30,Air visitors: accommodation and food,-1.224916384424704,%,2025-Q2,Quarterly,Published percentage change,,,reported; conflicting source period,,,,Table3,C297,-0.01224916384424704,0.0%
+2025-06-30,Air visitors: accommodation and food,-1.224916384424704,%,2025-Q2,Quarterly,Published percentage change,,,reported; conflicting source period,,,,Table3,C300,-0.01224916384424704,0.0%
+2025-06-30,Air visitors: accommodation and food,113.30469,$million,2025-Q2,Quarterly,Value,,,reported,,,,Table3,C143,113.30469,0.0
+2025-06-30,"Air visitors: shopping, entertainment, transport and other",-0.8983518699374058,%,2025-Q2,Quarterly,Published percentage change,,,reported; conflicting source period,,,,Table3,D297,-0.008983518699374058,0.0%
+2025-06-30,"Air visitors: shopping, entertainment, transport and other",-0.8983518699374058,%,2025-Q2,Quarterly,Published percentage change,,,reported; conflicting source period,,,,Table3,D300,-0.008983518699374058,0.0%
+2025-06-30,"Air visitors: shopping, entertainment, transport and other",27.006315,$million,2025-Q2,Quarterly,Value,,,reported,,,,Table3,D143,27.006315,0.0
+2025-06-30,Air visitors: total,-1.162228349965204,%,2025-Q2,Quarterly,Published percentage change,,,reported; conflicting source period,,,,Table3,E297,-0.011622283499652039,0.0%
+2025-06-30,Air visitors: total,-1.162228349965204,%,2025-Q2,Quarterly,Published percentage change,,,reported; conflicting source period,,,,Table3,E300,-0.011622283499652039,0.0%
+2025-06-30,Air visitors: total,140.311005,$million,2025-Q2,Quarterly,Value,,,reported,,,,Table3,E143,140.311005,0.0
+2025-06-30,Cruise visitors,-11.609605138914862,%,2025-Q2,Quarterly,Published percentage change,,,reported; conflicting source period,,,,Table3,F297,-0.11609605138914862,0.0%
+2025-06-30,Cruise visitors,-11.609605138914862,%,2025-Q2,Quarterly,Published percentage change,,,reported; conflicting source period,,,,Table3,F300,-0.11609605138914862,0.0%
+2025-06-30,Cruise visitors,39.89732496841588,$million,2025-Q2,Quarterly,Value,,,reported,,,,Table3,F143,39.89732496841588,0.0
+2025-06-30,Total expenditure,-3.6826637084309324,%,2025-Q2,Quarterly,Published percentage change,,,reported; conflicting source period,,,,Table3,G297,-0.036826637084309326,0.0%
+2025-06-30,Total expenditure,-3.6826637084309324,%,2025-Q2,Quarterly,Published percentage change,,,reported; conflicting source period,,,,Table3,G300,-0.036826637084309326,0.0%
+2025-06-30,Total expenditure,180.20832996841588,$million,2025-Q2,Quarterly,Value,,,reported,,,,Table3,G143,180.20832996841588,0.0
+2025-09-30,Air visitors: accommodation and food,2.0505955131489437,%,2025-Q3,Quarterly,Published percentage change,,,reported; conflicting source period,,,,Table3,C298,0.020505955131489437,0.0%
+2025-09-30,Air visitors: accommodation and food,2.0505955131489437,%,2025-Q3,Quarterly,Published percentage change,,,reported; conflicting source period,,,,Table3,C301,0.020505955131489437,0.0%
+2025-09-30,Air visitors: accommodation and food,118.62365304472253,$million,2025-Q3,Quarterly,Value,,,reported,,,,Table3,C144,118.62365304472253,0.0
+2025-09-30,"Air visitors: shopping, entertainment, transport and other",-19.452063204901663,%,2025-Q3,Quarterly,Published percentage change,,,reported; conflicting source period,,,,Table3,D298,-0.19452063204901662,0.0%
+2025-09-30,"Air visitors: shopping, entertainment, transport and other",-19.452063204901663,%,2025-Q3,Quarterly,Published percentage change,,,reported; conflicting source period,,,,Table3,D301,-0.19452063204901662,0.0%
+2025-09-30,"Air visitors: shopping, entertainment, transport and other",22.53131994877096,$million,2025-Q3,Quarterly,Value,,,reported,,,,Table3,D144,22.53131994877096,0.0
+2025-09-30,Air visitors: total,-2.120221815920746,%,2025-Q3,Quarterly,Published percentage change,,,reported; conflicting source period,,,,Table3,E298,-0.021202218159207458,0.0%
+2025-09-30,Air visitors: total,-2.120221815920746,%,2025-Q3,Quarterly,Published percentage change,,,reported; conflicting source period,,,,Table3,E301,-0.021202218159207458,0.0%
+2025-09-30,Air visitors: total,141.1549729934935,$million,2025-Q3,Quarterly,Value,,,reported,,,,Table3,E144,141.1549729934935,0.0
+2025-09-30,Cruise visitors,36.9319810457857,%,2025-Q3,Quarterly,Published percentage change,,,reported; conflicting source period,,,,Table3,F298,0.36931981045785695,0.0%
+2025-09-30,Cruise visitors,36.9319810457857,%,2025-Q3,Quarterly,Published percentage change,,,reported; conflicting source period,,,,Table3,F301,0.36931981045785695,0.0%
+2025-09-30,Cruise visitors,64.02292977818422,$million,2025-Q3,Quarterly,Value,,,reported,,,,Table3,F144,64.02292977818422,0.0
+2025-09-30,Total expenditure,7.4410544045879545,%,2025-Q3,Quarterly,Published percentage change,,,reported; conflicting source period,,,,Table3,G298,0.07441054404587955,0.0%
+2025-09-30,Total expenditure,7.4410544045879545,%,2025-Q3,Quarterly,Published percentage change,,,reported; conflicting source period,,,,Table3,G301,0.07441054404587955,0.0%
+2025-09-30,Total expenditure,205.1779027716777,$million,2025-Q3,Quarterly,Value,,,reported,,,,Table3,G144,205.1779027716777,0.0
+2025-12-31,Air visitors: accommodation and food,1.0999660640500282,%,2025-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,C299,0.010999660640500283,0.0%
+2025-12-31,Air visitors: accommodation and food,66.5483621488927,$million,2025-Q4,Quarterly,Value,,,reported,,,,Table3,C145,66.5483621488927,0.0
+2025-12-31,"Air visitors: shopping, entertainment, transport and other",-19.915286252100493,%,2025-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,D299,-0.19915286252100492,0.0%
+2025-12-31,"Air visitors: shopping, entertainment, transport and other",13.793988104334032,$million,2025-Q4,Quarterly,Value,,,reported,,,,Table3,D145,13.793988104334032,0.0
+2025-12-31,Air visitors: total,-3.258590695631014,%,2025-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,E299,-0.03258590695631014,0.0%
+2025-12-31,Air visitors: total,80.34235025322674,$million,2025-Q4,Quarterly,Value,,,reported,,,,Table3,E145,80.34235025322674,0.0
+2025-12-31,Cruise visitors,-54.11127630608045,%,2025-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,F299,-0.5411127630608045,0.0%
+2025-12-31,Cruise visitors,7.610722835466838,$million,2025-Q4,Quarterly,Value,,,reported,,,,Table3,F145,7.610722835466838,0.0
+2025-12-31,Total expenditure,-11.723599587808714,%,2025-Q4,Quarterly,Published percentage change,,,reported,,,,Table3,G299,-0.11723599587808714,0.0%
+2025-12-31,Total expenditure,87.95307308869357,$million,2025-Q4,Quarterly,Value,,,reported,,,,Table3,G145,87.95307308869357,0.0
+2026-03-31,Air visitors: accommodation and food,19.332968626364522,%,2026-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,C304,0.19332968626364522,0.0%
+2026-03-31,Air visitors: accommodation and food,45.04226761223664,$million,2026-Q1,Quarterly,Value,,,reported,,,,Table3,C148,45.04226761223664,0.0
+2026-03-31,"Air visitors: shopping, entertainment, transport and other",-4.997581950310983,%,2026-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,D304,-0.04997581950310983,0.0%
+2026-03-31,"Air visitors: shopping, entertainment, transport and other",10.246841962814475,$million,2026-Q1,Quarterly,Value,,,reported,,,,Table3,D148,10.246841962814475,0.0
+2026-03-31,Air visitors: total,13.925563538792316,%,2026-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,E304,0.13925563538792315,0.0%
+2026-03-31,Air visitors: total,55.289109575051114,$million,2026-Q1,Quarterly,Value,,,reported,,,,Table3,E148,55.289109575051114,0.0
+2026-03-31,Cruise visitors,11.569016008601292,%,2026-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,F304,0.11569016008601292,0.0%
+2026-03-31,Cruise visitors,3.1320546726062624,$million,2026-Q1,Quarterly,Value,,,reported,,,,Table3,F148,3.1320546726062624,0.0
+2026-03-31,Total expenditure,13.796702565997549,%,2026-Q1,Quarterly,Published percentage change,,,reported,,,,Table3,G304,0.13796702565997548,0.0%
+2026-03-31,Total expenditure,58.42116424765737,$million,2026-Q1,Quarterly,Value,,,reported,,,,Table3,G148,58.42116424765737,0.0

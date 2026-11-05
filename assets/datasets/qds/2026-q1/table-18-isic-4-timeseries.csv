@@ -1,0 +1,1025 @@
+﻿date,series,value,units,period,frequency,measure,classification,index_base,status,source_marker,revision,availability,source_sheet,source_cell,source_value,source_format
+2009-12-31,Industry: Accommodation and Food Service Activities,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F68,#REF!,0.0%
+2009-12-31,Industry: Accommodation and Food Service Activities,4782,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F25,4782,"#,##0"
+2009-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F80,#REF!,0.0%
+2009-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,22,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F37,22,"#,##0"
+2009-12-31,"Industry: Activities of Households as Employers, etc",,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F79,#REF!,0.0%
+2009-12-31,"Industry: Activities of Households as Employers, etc",625,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F36,625,"#,##0"
+2009-12-31,Industry: Administrative and Support Services,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F73,#REF!,0.0%
+2009-12-31,Industry: Administrative and Support Services,1829,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F30,1829,"#,##0"
+2009-12-31,"Industry: Agriculture, Forestry and Fishing",,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F62,#REF!,0.0%
+2009-12-31,"Industry: Agriculture, Forestry and Fishing",239,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F19,239,"#,##0"
+2009-12-31,"Industry: Arts, Entertainment and Recreation",,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F77,#REF!,0.0%
+2009-12-31,"Industry: Arts, Entertainment and Recreation",494,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F34,494,"#,##0"
+2009-12-31,Industry: Construction and Quarrying,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F65,#REF!,0.0%
+2009-12-31,Industry: Construction and Quarrying,3486,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F22,3486,"#,##0"
+2009-12-31,Industry: Education,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F75,#REF!,0.0%
+2009-12-31,Industry: Education,958,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F32,958,"#,##0"
+2009-12-31,"Industry: Electricity, Water Supply and Waste Management",,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F64,#REF!,0.0%
+2009-12-31,"Industry: Electricity, Water Supply and Waste Management",458,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F21,458,"#,##0"
+2009-12-31,Industry: Financial and Insurance Activities,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F70,#REF!,0.0%
+2009-12-31,Industry: Financial and Insurance Activities,2756,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F27,2756,"#,##0"
+2009-12-31,Industry: Human Health and Social Work,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F76,#REF!,0.0%
+2009-12-31,Industry: Human Health and Social Work,2654,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F33,2654,"#,##0"
+2009-12-31,Industry: Information and Communication,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F69,#REF!,0.0%
+2009-12-31,Industry: Information and Communication,1186,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F26,1186,"#,##0"
+2009-12-31,Industry: International Business Activity,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F81,#REF!,0.0%
+2009-12-31,Industry: International Business Activity,4470,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F38,4470,"#,##0"
+2009-12-31,Industry: Manufacturing,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F63,#REF!,0.0%
+2009-12-31,Industry: Manufacturing,539,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F20,539,"#,##0"
+2009-12-31,Industry: Other Service Activities,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F78,#REF!,0.0%
+2009-12-31,Industry: Other Service Activities,857,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F35,857,"#,##0"
+2009-12-31,"Industry: Professional, Scientific and Technical Activities",,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F72,#REF!,0.0%
+2009-12-31,"Industry: Professional, Scientific and Technical Activities",2745,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F29,2745,"#,##0"
+2009-12-31,Industry: Public Administration,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F74,#REF!,0.0%
+2009-12-31,Industry: Public Administration,4322,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F31,4322,"#,##0"
+2009-12-31,Industry: Real Estate Activities,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F71,#REF!,0.0%
+2009-12-31,Industry: Real Estate Activities,408,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F28,408,"#,##0"
+2009-12-31,Industry: Total,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F82,#REF!,0.0%
+2009-12-31,Industry: Total,39520,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F39,39520,"#,##0"
+2009-12-31,Industry: Transportation and Storage,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F67,#REF!,0.0%
+2009-12-31,Industry: Transportation and Storage,1761,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F24,1761,"#,##0"
+2009-12-31,Industry: Wholesale and Retail Trade,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F66,#REF!,0.0%
+2009-12-31,Industry: Wholesale and Retail Trade,4929,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F23,4929,"#,##0"
+2009-12-31,Occupation: Armed Forces,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F58,#REF!,0.0%
+2009-12-31,Occupation: Armed Forces,29,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F15,29,"#,##0"
+2009-12-31,Occupation: Clerks,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F52,#REF!,0.0%
+2009-12-31,Occupation: Clerks,6531,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F9,6531,"#,##0"
+2009-12-31,Occupation: Craft and Related Trade Workers,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F55,#REF!,0.0%
+2009-12-31,Occupation: Craft and Related Trade Workers,3758,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F12,3758,"#,##0"
+2009-12-31,Occupation: Elementary Occupations,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F57,#REF!,0.0%
+2009-12-31,Occupation: Elementary Occupations,1397,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F14,1397,"#,##0"
+2009-12-31,Occupation: Plant and Machine Operators and Assemblers,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F56,#REF!,0.0%
+2009-12-31,Occupation: Plant and Machine Operators and Assemblers,1904,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F13,1904,"#,##0"
+2009-12-31,Occupation: Professionals,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F50,#REF!,0.0%
+2009-12-31,Occupation: Professionals,7507,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F7,7507,"#,##0"
+2009-12-31,Occupation: Senior Officials and Managers,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F49,#REF!,0.0%
+2009-12-31,Occupation: Senior Officials and Managers,7009,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F6,7009,"#,##0"
+2009-12-31,Occupation: Service Workers and Shop and Market Sales Workers,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F53,#REF!,0.0%
+2009-12-31,Occupation: Service Workers and Shop and Market Sales Workers,7472,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F10,7472,"#,##0"
+2009-12-31,Occupation: Skilled Agricultural and Fishery Workers,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F54,#REF!,0.0%
+2009-12-31,Occupation: Skilled Agricultural and Fishery Workers,972,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F11,972,"#,##0"
+2009-12-31,Occupation: Technicians and Associate Professionals,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F51,#REF!,0.0%
+2009-12-31,Occupation: Technicians and Associate Professionals,2941,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F8,2941,"#,##0"
+2009-12-31,Occupation: Total,,%,2009,Annual,Published percentage change,ISIC Rev. 4,,source error,#REF!,,,Table 18 ISIC 4,F59,#REF!,0.0%
+2009-12-31,Occupation: Total,39520,employment,2009,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,F16,39520,"#,##0"
+2010-12-31,Industry: Accommodation and Food Service Activities,-7.256378084483483,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G68,-0.07256378084483484,0.0%
+2010-12-31,Industry: Accommodation and Food Service Activities,4435,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G25,4435,"#,##0"
+2010-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,18.181818181818187,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G80,0.18181818181818188,0.0%
+2010-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,26,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G37,26,"#,##0"
+2010-12-31,"Industry: Activities of Households as Employers, etc",4.160000000000008,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G79,0.04160000000000008,0.0%
+2010-12-31,"Industry: Activities of Households as Employers, etc",651,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G36,651,"#,##0"
+2010-12-31,Industry: Administrative and Support Services,-6.913996627318719,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G73,-0.06913996627318719,0.0%
+2010-12-31,Industry: Administrative and Support Services,1809,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G30,1809,"#,##0"
+2010-12-31,"Industry: Agriculture, Forestry and Fishing",-5.020920502092052,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G62,-0.05020920502092052,0.0%
+2010-12-31,"Industry: Agriculture, Forestry and Fishing",227,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G19,227,"#,##0"
+2010-12-31,"Industry: Arts, Entertainment and Recreation",-1.0934937124111532,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G77,-0.010934937124111532,0.0%
+2010-12-31,"Industry: Arts, Entertainment and Recreation",514,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G34,514,"#,##0"
+2010-12-31,Industry: Construction and Quarrying,-12.621916236374064,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G65,-0.12621916236374064,0.0%
+2010-12-31,Industry: Construction and Quarrying,3046,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G22,3046,"#,##0"
+2010-12-31,Industry: Education,-1.715686274509809,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G75,-0.01715686274509809,0.0%
+2010-12-31,Industry: Education,977,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G32,977,"#,##0"
+2010-12-31,"Industry: Electricity, Water Supply and Waste Management",4.366812227074246,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G64,0.04366812227074246,0.0%
+2010-12-31,"Industry: Electricity, Water Supply and Waste Management",478,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G21,478,"#,##0"
+2010-12-31,Industry: Financial and Insurance Activities,-2.612481857764881,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G70,-0.026124818577648812,0.0%
+2010-12-31,Industry: Financial and Insurance Activities,2684,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G27,2684,"#,##0"
+2010-12-31,Industry: Human Health and Social Work,-6.593806921675771,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G76,-0.06593806921675771,0.0%
+2010-12-31,Industry: Human Health and Social Work,2644,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G33,2644,"#,##0"
+2010-12-31,Industry: Information and Communication,-6.913996627318719,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G69,-0.06913996627318719,0.0%
+2010-12-31,Industry: Information and Communication,1104,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G26,1104,"#,##0"
+2010-12-31,Industry: International Business Activity,-1.9239373601789733,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G81,-0.019239373601789733,0.0%
+2010-12-31,Industry: International Business Activity,4384,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G38,4384,"#,##0"
+2010-12-31,Industry: Manufacturing,-4.2671614100185495,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G63,-0.042671614100185495,0.0%
+2010-12-31,Industry: Manufacturing,516,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G20,516,"#,##0"
+2010-12-31,Industry: Other Service Activities,-0.46274872744099804,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G78,-0.00462748727440998,0.0%
+2010-12-31,Industry: Other Service Activities,853,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G35,853,"#,##0"
+2010-12-31,"Industry: Professional, Scientific and Technical Activities",-6.593806921675771,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G72,-0.06593806921675771,0.0%
+2010-12-31,"Industry: Professional, Scientific and Technical Activities",2564,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G29,2564,"#,##0"
+2010-12-31,Industry: Public Administration,-2.612481857764881,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G74,-0.026124818577648812,0.0%
+2010-12-31,Industry: Public Administration,4302,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G31,4302,"#,##0"
+2010-12-31,Industry: Real Estate Activities,-1.715686274509809,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G71,-0.01715686274509809,0.0%
+2010-12-31,Industry: Real Estate Activities,401,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G28,401,"#,##0"
+2010-12-31,Industry: Total,-3.600708502024297,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G82,-0.03600708502024297,0.0%
+2010-12-31,Industry: Total,38097,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G39,38097,"#,##0"
+2010-12-31,Industry: Transportation and Storage,-4.883588869960254,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G67,-0.04883588869960254,0.0%
+2010-12-31,Industry: Transportation and Storage,1675,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G24,1675,"#,##0"
+2010-12-31,Industry: Wholesale and Retail Trade,-2.4751470886589577,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G66,-0.024751470886589577,0.0%
+2010-12-31,Industry: Wholesale and Retail Trade,4807,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G23,4807,"#,##0"
+2010-12-31,Occupation: Armed Forces,-3.4482758620689653,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G58,-0.034482758620689655,0.0%
+2010-12-31,Occupation: Armed Forces,28,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G15,28,"#,##0"
+2010-12-31,Occupation: Clerks,-1.7608329505435616,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G52,-0.017608329505435616,0.0%
+2010-12-31,Occupation: Clerks,6416,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G9,6416,"#,##0"
+2010-12-31,Occupation: Craft and Related Trade Workers,-7.95635976583289,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G55,-0.0795635976583289,0.0%
+2010-12-31,Occupation: Craft and Related Trade Workers,3459,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G12,3459,"#,##0"
+2010-12-31,Occupation: Elementary Occupations,-7.659269863994274,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G57,-0.07659269863994274,0.0%
+2010-12-31,Occupation: Elementary Occupations,1290,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G14,1290,"#,##0"
+2010-12-31,Occupation: Plant and Machine Operators and Assemblers,-5.2521008403361344,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G56,-0.052521008403361345,0.0%
+2010-12-31,Occupation: Plant and Machine Operators and Assemblers,1804,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G13,1804,"#,##0"
+2010-12-31,Occupation: Professionals,-4.342613560676702,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G50,-0.043426135606767016,0.0%
+2010-12-31,Occupation: Professionals,7181,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G7,7181,"#,##0"
+2010-12-31,Occupation: Senior Officials and Managers,-2.1258382080182625,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G49,-0.021258382080182624,0.0%
+2010-12-31,Occupation: Senior Officials and Managers,6860,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G6,6860,"#,##0"
+2010-12-31,Occupation: Service Workers and Shop and Market Sales Workers,-3.091541755888651,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G53,-0.03091541755888651,0.0%
+2010-12-31,Occupation: Service Workers and Shop and Market Sales Workers,7241,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G10,7241,"#,##0"
+2010-12-31,Occupation: Skilled Agricultural and Fishery Workers,-2.880658436213992,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G54,-0.02880658436213992,0.0%
+2010-12-31,Occupation: Skilled Agricultural and Fishery Workers,944,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G11,944,"#,##0"
+2010-12-31,Occupation: Technicians and Associate Professionals,-2.2781366882012923,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G51,-0.022781366882012922,0.0%
+2010-12-31,Occupation: Technicians and Associate Professionals,2874,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G8,2874,"#,##0"
+2010-12-31,Occupation: Total,-3.6007085020242915,%,2010,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G59,-0.03600708502024291,0.0%
+2010-12-31,Occupation: Total,38097,employment,2010,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,G16,38097,"#,##0"
+2011-12-31,Industry: Accommodation and Food Service Activities,1.961668545659534,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H68,0.01961668545659534,0.0%
+2011-12-31,Industry: Accommodation and Food Service Activities,4522,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H25,4522,"#,##0"
+2011-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,7.692307692307687,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H80,0.07692307692307687,0.0%
+2011-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,28,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H37,28,"#,##0"
+2011-12-31,"Industry: Activities of Households as Employers, etc",-1.228878648233489,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H79,-0.01228878648233489,0.0%
+2011-12-31,"Industry: Activities of Households as Employers, etc",643,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H36,643,"#,##0"
+2011-12-31,Industry: Administrative and Support Services,-6.159420289855078,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H73,-0.061594202898550776,0.0%
+2011-12-31,Industry: Administrative and Support Services,1753,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H30,1753,"#,##0"
+2011-12-31,"Industry: Agriculture, Forestry and Fishing",-3.083700440528636,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H62,-0.03083700440528636,0.0%
+2011-12-31,"Industry: Agriculture, Forestry and Fishing",220,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H19,220,"#,##0"
+2011-12-31,"Industry: Arts, Entertainment and Recreation",-3.095632946379212,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H77,-0.03095632946379212,0.0%
+2011-12-31,"Industry: Arts, Entertainment and Recreation",524,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H34,524,"#,##0"
+2011-12-31,Industry: Construction and Quarrying,-16.053841103086018,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H65,-0.1605384110308602,0.0%
+2011-12-31,Industry: Construction and Quarrying,2557,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H22,2557,"#,##0"
+2011-12-31,Industry: Education,5.735660847880308,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H75,0.057356608478803084,0.0%
+2011-12-31,Industry: Education,956,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H32,956,"#,##0"
+2011-12-31,"Industry: Electricity, Water Supply and Waste Management",-9.205020920502093,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H64,-0.09205020920502094,0.0%
+2011-12-31,"Industry: Electricity, Water Supply and Waste Management",434,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H21,434,"#,##0"
+2011-12-31,Industry: Financial and Insurance Activities,-1.3040238450074515,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H70,-0.013040238450074515,0.0%
+2011-12-31,Industry: Financial and Insurance Activities,2649,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H27,2649,"#,##0"
+2011-12-31,Industry: Human Health and Social Work,-0.6630265210608388,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H76,-0.006630265210608388,0.0%
+2011-12-31,Industry: Human Health and Social Work,2921,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H33,2921,"#,##0"
+2011-12-31,Industry: Information and Communication,-6.159420289855078,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H69,-0.061594202898550776,0.0%
+2011-12-31,Industry: Information and Communication,1036,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H26,1036,"#,##0"
+2011-12-31,Industry: International Business Activity,-4.516423357664234,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H81,-0.04516423357664234,0.0%
+2011-12-31,Industry: International Business Activity,4186,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H38,4186,"#,##0"
+2011-12-31,Industry: Manufacturing,-6.5891472868217065,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H63,-0.06589147286821706,0.0%
+2011-12-31,Industry: Manufacturing,482,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H20,482,"#,##0"
+2011-12-31,Industry: Other Service Activities,-0.2789400278940035,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H78,-0.002789400278940035,0.0%
+2011-12-31,Industry: Other Service Activities,844,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H35,844,"#,##0"
+2011-12-31,"Industry: Professional, Scientific and Technical Activities",-0.6630265210608388,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H72,-0.006630265210608388,0.0%
+2011-12-31,"Industry: Professional, Scientific and Technical Activities",2547,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H29,2547,"#,##0"
+2011-12-31,Industry: Public Administration,-1.3040238450074515,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H74,-0.013040238450074515,0.0%
+2011-12-31,Industry: Public Administration,4290,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H31,4290,"#,##0"
+2011-12-31,Industry: Real Estate Activities,5.735660847880308,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H71,0.057356608478803084,0.0%
+2011-12-31,Industry: Real Estate Activities,424,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H28,424,"#,##0"
+2011-12-31,Industry: Total,-1.832165262356611,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H82,-0.01832165262356611,0.0%
+2011-12-31,Industry: Total,37399,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H39,37399,"#,##0"
+2011-12-31,Industry: Transportation and Storage,1.552238805970152,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H67,0.01552238805970152,0.0%
+2011-12-31,Industry: Transportation and Storage,1701,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H24,1701,"#,##0"
+2011-12-31,Industry: Wholesale and Retail Trade,-2.6003744539213614,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H66,-0.026003744539213614,0.0%
+2011-12-31,Industry: Wholesale and Retail Trade,4682,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H23,4682,"#,##0"
+2011-12-31,Occupation: Armed Forces,3.571428571428571,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H58,0.03571428571428571,0.0%
+2011-12-31,Occupation: Armed Forces,29,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H15,29,General
+2011-12-31,Occupation: Clerks,-2.041770573566085,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H52,-0.02041770573566085,0.0%
+2011-12-31,Occupation: Clerks,6285,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H9,6285,"#,##0"
+2011-12-31,Occupation: Craft and Related Trade Workers,-10.291991905174907,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H55,-0.10291991905174906,0.0%
+2011-12-31,Occupation: Craft and Related Trade Workers,3103,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H12,3103,"#,##0"
+2011-12-31,Occupation: Elementary Occupations,-7.519379844961241,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H57,-0.07519379844961241,0.0%
+2011-12-31,Occupation: Elementary Occupations,1193,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H14,1193,"#,##0"
+2011-12-31,Occupation: Plant and Machine Operators and Assemblers,-4.767184035476718,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H56,-0.04767184035476718,0.0%
+2011-12-31,Occupation: Plant and Machine Operators and Assemblers,1718,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H13,1718,"#,##0"
+2011-12-31,Occupation: Professionals,-0.7519844032864503,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H50,-0.007519844032864503,0.0%
+2011-12-31,Occupation: Professionals,7127,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H7,7127,"#,##0"
+2011-12-31,Occupation: Senior Officials and Managers,-0.597667638483965,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H49,-0.00597667638483965,0.0%
+2011-12-31,Occupation: Senior Officials and Managers,6819,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H6,6819,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2011-12-31,Occupation: Service Workers and Shop and Market Sales Workers,2.748239193481563,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H53,0.027482391934815633,0.0%
+2011-12-31,Occupation: Service Workers and Shop and Market Sales Workers,7440,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H10,7440,"#,##0"
+2011-12-31,Occupation: Skilled Agricultural and Fishery Workers,-6.461864406779661,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H54,-0.0646186440677966,0.0%
+2011-12-31,Occupation: Skilled Agricultural and Fishery Workers,883,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H11,883,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2011-12-31,Occupation: Technicians and Associate Professionals,-2.5052192066805845,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H51,-0.025052192066805846,0.0%
+2011-12-31,Occupation: Technicians and Associate Professionals,2802,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H8,2802,"#,##0"
+2011-12-31,Occupation: Total,-1.832165262356616,%,2011,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H59,-0.01832165262356616,0.0%
+2011-12-31,Occupation: Total,37399,employment,2011,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,H16,37399,"#,##0"
+2012-12-31,Industry: Accommodation and Food Service Activities,-3.1180893409995525,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I68,-0.031180893409995525,0.0%
+2012-12-31,Industry: Accommodation and Food Service Activities,4381,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I25,4381,"#,##0"
+2012-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,-7.14285714285714,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I80,-0.0714285714285714,0.0%
+2012-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,26,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I37,26,"#,##0"
+2012-12-31,"Industry: Activities of Households as Employers, etc",-4.510108864696738,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I79,-0.04510108864696738,0.0%
+2012-12-31,"Industry: Activities of Households as Employers, etc",614,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I36,614,"#,##0"
+2012-12-31,Industry: Administrative and Support Services,-2.7027027027026973,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I73,-0.027027027027026973,0.0%
+2012-12-31,Industry: Administrative and Support Services,1608,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I30,1608,"#,##0"
+2012-12-31,"Industry: Agriculture, Forestry and Fishing",-5.000000000000004,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I62,-0.050000000000000044,0.0%
+2012-12-31,"Industry: Agriculture, Forestry and Fishing",209,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I19,209,"#,##0"
+2012-12-31,"Industry: Arts, Entertainment and Recreation",-8.271534512264688,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I77,-0.08271534512264689,0.0%
+2012-12-31,"Industry: Arts, Entertainment and Recreation",519,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I34,519,"#,##0"
+2012-12-31,Industry: Construction and Quarrying,-11.224090731325775,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I65,-0.11224090731325775,0.0%
+2012-12-31,Industry: Construction and Quarrying,2270,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I22,2270,"#,##0"
+2012-12-31,Industry: Education,-4.245283018867929,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I75,-0.04245283018867929,0.0%
+2012-12-31,Industry: Education,922,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I32,922,"#,##0"
+2012-12-31,"Industry: Electricity, Water Supply and Waste Management",-0.9216589861751112,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I64,-0.009216589861751112,0.0%
+2012-12-31,"Industry: Electricity, Water Supply and Waste Management",430,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I21,430,"#,##0"
+2012-12-31,Industry: Financial and Insurance Activities,-8.56927142317856,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I70,-0.0856927142317856,0.0%
+2012-12-31,Industry: Financial and Insurance Activities,2422,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I27,2422,"#,##0"
+2012-12-31,Industry: Human Health and Social Work,-5.967805261091486,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I76,-0.059678052610914856,0.0%
+2012-12-31,Industry: Human Health and Social Work,2811,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I33,2811,"#,##0"
+2012-12-31,Industry: Information and Communication,-2.7027027027026973,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I69,-0.027027027027026973,0.0%
+2012-12-31,Industry: Information and Communication,1008,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I26,1008,"#,##0"
+2012-12-31,Industry: International Business Activity,-5.0167224080267525,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I81,-0.050167224080267525,0.0%
+2012-12-31,Industry: International Business Activity,3976,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I38,3976,"#,##0"
+2012-12-31,Industry: Manufacturing,-6.639004149377592,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I63,-0.06639004149377592,0.0%
+2012-12-31,Industry: Manufacturing,450,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I20,450,"#,##0"
+2012-12-31,Industry: Other Service Activities,0.34965034965035446,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I78,0.0034965034965035446,0.0%
+2012-12-31,Industry: Other Service Activities,811,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I35,811,"#,##0"
+2012-12-31,"Industry: Professional, Scientific and Technical Activities",-5.967805261091486,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I72,-0.059678052610914856,0.0%
+2012-12-31,"Industry: Professional, Scientific and Technical Activities",2395,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I29,2395,"#,##0"
+2012-12-31,Industry: Public Administration,-8.56927142317856,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I74,-0.0856927142317856,0.0%
+2012-12-31,Industry: Public Administration,4305,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I31,4305,"#,##0"
+2012-12-31,Industry: Real Estate Activities,-4.245283018867929,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I71,-0.04245283018867929,0.0%
+2012-12-31,Industry: Real Estate Activities,406,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I28,406,"#,##0"
+2012-12-31,Industry: Total,-5.230086365945619,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I82,-0.05230086365945619,0.0%
+2012-12-31,Industry: Total,35443,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I39,35443,"#,##0"
+2012-12-31,Industry: Transportation and Storage,-5.408583186360961,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I67,-0.0540858318636096,0.0%
+2012-12-31,Industry: Transportation and Storage,1609,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I24,1609,"#,##0"
+2012-12-31,Industry: Wholesale and Retail Trade,-8.778299871849637,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I66,-0.08778299871849637,0.0%
+2012-12-31,Industry: Wholesale and Retail Trade,4271,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I23,4271,"#,##0"
+2012-12-31,Occupation: Armed Forces,-13.793103448275861,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I58,-0.13793103448275862,0.0%
+2012-12-31,Occupation: Armed Forces,25,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I15,25,"#,##0"
+2012-12-31,Occupation: Clerks,-7.653142402545744,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I52,-0.07653142402545744,0.0%
+2012-12-31,Occupation: Clerks,5804,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I9,5804,"#,##0"
+2012-12-31,Occupation: Craft and Related Trade Workers,-9.41024814695456,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I55,-0.0941024814695456,0.0%
+2012-12-31,Occupation: Craft and Related Trade Workers,2811,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I12,2811,"#,##0"
+2012-12-31,Occupation: Elementary Occupations,-6.119027661357921,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I57,-0.06119027661357921,0.0%
+2012-12-31,Occupation: Elementary Occupations,1120,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I14,1120,"#,##0"
+2012-12-31,Occupation: Plant and Machine Operators and Assemblers,-5.9953434225844005,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I56,-0.059953434225844,0.0%
+2012-12-31,Occupation: Plant and Machine Operators and Assemblers,1615,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I13,1615,"#,##0"
+2012-12-31,Occupation: Professionals,-3.5639118843833315,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I50,-0.03563911884383331,0.0%
+2012-12-31,Occupation: Professionals,6873,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I7,6873,"#,##0"
+2012-12-31,Occupation: Senior Officials and Managers,-4.135503739551254,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I49,-0.04135503739551254,0.0%
+2012-12-31,Occupation: Senior Officials and Managers,6537,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I6,6537,"#,##0"
+2012-12-31,Occupation: Service Workers and Shop and Market Sales Workers,-4.973118279569892,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I53,-0.04973118279569892,0.0%
+2012-12-31,Occupation: Service Workers and Shop and Market Sales Workers,7070,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I10,7070,"#,##0"
+2012-12-31,Occupation: Skilled Agricultural and Fishery Workers,-7.248018120045301,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I54,-0.072480181200453,0.0%
+2012-12-31,Occupation: Skilled Agricultural and Fishery Workers,819,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I11,819,"#,##0"
+2012-12-31,Occupation: Technicians and Associate Professionals,-1.177730192719486,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I51,-0.011777301927194861,0.0%
+2012-12-31,Occupation: Technicians and Associate Professionals,2769,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I8,2769,"#,##0"
+2012-12-31,Occupation: Total,-5.230086365945614,%,2012,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I59,-0.05230086365945614,0.0%
+2012-12-31,Occupation: Total,35443,employment,2012,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,I16,35443,"#,##0"
+2013-12-31,Industry: Accommodation and Food Service Activities,-3.7434375713307433,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J68,-0.03743437571330743,0.0%
+2013-12-31,Industry: Accommodation and Food Service Activities,4217,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J25,4217,"#,##0"
+2013-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,-3.8461538461538436,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J80,-0.038461538461538436,0.0%
+2013-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,25,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J37,25,"#,##0"
+2013-12-31,"Industry: Activities of Households as Employers, etc",-11.23778501628665,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J79,-0.1123778501628665,0.0%
+2013-12-31,"Industry: Activities of Households as Employers, etc",545,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J36,545,"#,##0"
+2013-12-31,Industry: Administrative and Support Services,-6.448412698412698,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J73,-0.06448412698412698,0.0%
+2013-12-31,Industry: Administrative and Support Services,1575,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J30,1575,"#,##0"
+2013-12-31,"Industry: Agriculture, Forestry and Fishing",-2.8708133971291905,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J62,-0.028708133971291905,0.0%
+2013-12-31,"Industry: Agriculture, Forestry and Fishing",203,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J19,203,General
+2013-12-31,"Industry: Arts, Entertainment and Recreation",-2.0522388059701524,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J77,-0.020522388059701524,0.0%
+2013-12-31,"Industry: Arts, Entertainment and Recreation",524,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J34,524,"#,##0"
+2013-12-31,Industry: Construction and Quarrying,-5.0220264317180625,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J65,-0.05022026431718063,0.0%
+2013-12-31,Industry: Construction and Quarrying,2156,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J22,2156,"#,##0"
+2013-12-31,Industry: Education,-11.083743842364536,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J75,-0.11083743842364535,0.0%
+2013-12-31,Industry: Education,889,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J32,889,"#,##0"
+2013-12-31,"Industry: Electricity, Water Supply and Waste Management",-13.953488372093027,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J64,-0.13953488372093026,0.0%
+2013-12-31,"Industry: Electricity, Water Supply and Waste Management",370,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J21,370,General
+2013-12-31,Industry: Financial and Insurance Activities,1.857968620974404,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J70,0.01857968620974404,0.0%
+2013-12-31,Industry: Financial and Insurance Activities,2467,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J27,2467,"#,##0"
+2013-12-31,Industry: Human Health and Social Work,-6.054279749478075,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J76,-0.06054279749478075,0.0%
+2013-12-31,Industry: Human Health and Social Work,2680,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J33,2680,"#,##0"
+2013-12-31,Industry: Information and Communication,-6.448412698412698,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J69,-0.06448412698412698,0.0%
+2013-12-31,Industry: Information and Communication,943,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J26,943,"#,##0"
+2013-12-31,Industry: International Business Activity,-1.9114688128772594,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J81,-0.019114688128772594,0.0%
+2013-12-31,Industry: International Business Activity,3900,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J38,3900,"#,##0"
+2013-12-31,Industry: Manufacturing,-5.111111111111111,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J63,-0.05111111111111111,0.0%
+2013-12-31,Industry: Manufacturing,427,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J20,427,General
+2013-12-31,Industry: Other Service Activities,-1.3937282229965153,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J78,-0.013937282229965153,0.0%
+2013-12-31,Industry: Other Service Activities,759,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J35,759,"#,##0"
+2013-12-31,"Industry: Professional, Scientific and Technical Activities",-6.054279749478075,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J72,-0.06054279749478075,0.0%
+2013-12-31,"Industry: Professional, Scientific and Technical Activities",2250,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J29,2250,General
+2013-12-31,Industry: Public Administration,1.857968620974404,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J74,0.01857968620974404,0.0%
+2013-12-31,Industry: Public Administration,4245,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J31,4245,"#,##0"
+2013-12-31,Industry: Real Estate Activities,-11.083743842364536,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J71,-0.11083743842364535,0.0%
+2013-12-31,Industry: Real Estate Activities,361,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J28,361,"#,##0"
+2013-12-31,Industry: Total,-3.2897892390599037,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J82,-0.03289789239059904,0.0%
+2013-12-31,Industry: Total,34277,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J39,34277,"#,##0"
+2013-12-31,Industry: Transportation and Storage,-0.8701056556867592,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J67,-0.008701056556867592,0.0%
+2013-12-31,Industry: Transportation and Storage,1595,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J24,1595,"#,##0"
+2013-12-31,Industry: Wholesale and Retail Trade,-2.9267150550222443,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J66,-0.029267150550222443,0.0%
+2013-12-31,Industry: Wholesale and Retail Trade,4146,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J23,4146,"#,##0"
+2013-12-31,Occupation: Armed Forces,4,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J58,0.04,0.0%
+2013-12-31,Occupation: Armed Forces,26,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J15,26,General
+2013-12-31,Occupation: Clerks,-0.9131633356305995,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J52,-0.009131633356305995,0.0%
+2013-12-31,Occupation: Clerks,5751,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J9,5751,"#,##0"
+2013-12-31,Occupation: Craft and Related Trade Workers,-2.2411953041622197,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J55,-0.022411953041622197,0.0%
+2013-12-31,Occupation: Craft and Related Trade Workers,2748,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J12,2748,"#,##0"
+2013-12-31,Occupation: Elementary Occupations,-4.642857142857143,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J57,-0.04642857142857143,0.0%
+2013-12-31,Occupation: Elementary Occupations,1068,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J14,1068,"#,##0"
+2013-12-31,Occupation: Plant and Machine Operators and Assemblers,-2.291021671826625,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J56,-0.022910216718266253,0.0%
+2013-12-31,Occupation: Plant and Machine Operators and Assemblers,1578,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J13,1578,"#,##0"
+2013-12-31,Occupation: Professionals,-6.663756729230322,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J50,-0.06663756729230322,0.0%
+2013-12-31,Occupation: Professionals,6415,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J7,6415,"#,##0"
+2013-12-31,Occupation: Senior Officials and Managers,-3.3348630870429865,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J49,-0.033348630870429864,0.0%
+2013-12-31,Occupation: Senior Officials and Managers,6319,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J6,6319,"#,##0"
+2013-12-31,Occupation: Service Workers and Shop and Market Sales Workers,-3.38048090523338,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J53,-0.0338048090523338,0.0%
+2013-12-31,Occupation: Service Workers and Shop and Market Sales Workers,6831,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J10,6831,"#,##0"
+2013-12-31,Occupation: Skilled Agricultural and Fishery Workers,-2.31990231990232,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J54,-0.0231990231990232,0.0%
+2013-12-31,Occupation: Skilled Agricultural and Fishery Workers,800,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J11,800,General
+2013-12-31,Occupation: Technicians and Associate Professionals,-1.0111953773925604,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J51,-0.010111953773925604,0.0%
+2013-12-31,Occupation: Technicians and Associate Professionals,2741,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J8,2741,"#,##0"
+2013-12-31,Occupation: Total,-3.289789239059899,%,2013,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J59,-0.03289789239059899,0.0%
+2013-12-31,Occupation: Total,34277,employment,2013,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,J16,34277,"#,##0"
+2014-12-31,Industry: Accommodation and Food Service Activities,-2.3002134218638837,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K68,-0.023002134218638837,0.0%
+2014-12-31,Industry: Accommodation and Food Service Activities,4120,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K25,4120,"#,##0"
+2014-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,-7.9999999999999964,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K80,-0.07999999999999996,0.0%
+2014-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,23,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K37,23,"#,##0"
+2014-12-31,"Industry: Activities of Households as Employers, etc",-0.3669724770642202,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K79,-0.003669724770642202,0.0%
+2014-12-31,"Industry: Activities of Households as Employers, etc",543,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K36,543,"#,##0"
+2014-12-31,Industry: Administrative and Support Services,-3.181336161187698,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K73,-0.03181336161187698,0.0%
+2014-12-31,Industry: Administrative and Support Services,1536,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K30,1536,"#,##0"
+2014-12-31,"Industry: Agriculture, Forestry and Fishing",-3.9408866995073843,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K62,-0.039408866995073843,0.0%
+2014-12-31,"Industry: Agriculture, Forestry and Fishing",195,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K19,195,"#,##0"
+2014-12-31,"Industry: Arts, Entertainment and Recreation",-2.4761904761904763,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K77,-0.024761904761904763,0.0%
+2014-12-31,"Industry: Arts, Entertainment and Recreation",490,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K34,490,"#,##0"
+2014-12-31,Industry: Construction and Quarrying,-9.92578849721707,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K65,-0.0992578849721707,0.0%
+2014-12-31,Industry: Construction and Quarrying,1942,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K22,1942,"#,##0"
+2014-12-31,Industry: Education,1.939058171745156,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K75,0.01939058171745156,0.0%
+2014-12-31,Industry: Education,894,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K32,894,"#,##0"
+2014-12-31,"Industry: Electricity, Water Supply and Waste Management",-3.7837837837837784,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K64,-0.037837837837837784,0.0%
+2014-12-31,"Industry: Electricity, Water Supply and Waste Management",356,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K21,356,"#,##0"
+2014-12-31,Industry: Financial and Insurance Activities,-11.633563032022698,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K70,-0.11633563032022698,0.0%
+2014-12-31,Industry: Financial and Insurance Activities,2180,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K27,2180,"#,##0"
+2014-12-31,Industry: Human Health and Social Work,-5.377777777777782,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K76,-0.05377777777777781,0.0%
+2014-12-31,Industry: Human Health and Social Work,2721,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K33,2721,"#,##0"
+2014-12-31,Industry: Information and Communication,-3.181336161187698,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K69,-0.03181336161187698,0.0%
+2014-12-31,Industry: Information and Communication,913,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K26,913,"#,##0"
+2014-12-31,Industry: International Business Activity,3.743589743589748,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K81,0.03743589743589748,0.0%
+2014-12-31,Industry: International Business Activity,4046,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K38,4046,"#,##0"
+2014-12-31,Industry: Manufacturing,-4.215456674473073,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K63,-0.042154566744730726,0.0%
+2014-12-31,Industry: Manufacturing,409,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K20,409,"#,##0"
+2014-12-31,Industry: Other Service Activities,-1.6961130742049524,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K78,-0.016961130742049524,0.0%
+2014-12-31,Industry: Other Service Activities,775,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K35,775,"#,##0"
+2014-12-31,"Industry: Professional, Scientific and Technical Activities",-5.377777777777782,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K72,-0.05377777777777781,0.0%
+2014-12-31,"Industry: Professional, Scientific and Technical Activities",2129,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K29,2129,"#,##0"
+2014-12-31,Industry: Public Administration,-11.633563032022698,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K74,-0.11633563032022698,0.0%
+2014-12-31,Industry: Public Administration,4173,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K31,4173,"#,##0"
+2014-12-31,Industry: Real Estate Activities,1.939058171745156,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K71,0.01939058171745156,0.0%
+2014-12-31,Industry: Real Estate Activities,368,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K28,368,"#,##0"
+2014-12-31,Industry: Total,-2.339761356011316,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K82,-0.023397613560113162,0.0%
+2014-12-31,Industry: Total,33475,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K39,33475,"#,##0"
+2014-12-31,Industry: Transportation and Storage,-4.952978056426327,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K67,-0.04952978056426327,0.0%
+2014-12-31,Industry: Transportation and Storage,1516,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K24,1516,"#,##0"
+2014-12-31,Industry: Wholesale and Retail Trade,0,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K66,0,0.0%
+2014-12-31,Industry: Wholesale and Retail Trade,4146,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K23,4146,"#,##0"
+2014-12-31,Occupation: Armed Forces,0,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K58,0,0.0%
+2014-12-31,Occupation: Armed Forces,26,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K15,26,"#,##0"
+2014-12-31,Occupation: Clerks,-5.842462180490349,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K52,-0.058424621804903494,0.0%
+2014-12-31,Occupation: Clerks,5415,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K9,5415,"#,##0"
+2014-12-31,Occupation: Craft and Related Trade Workers,-5.058224163027656,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K55,-0.05058224163027657,0.0%
+2014-12-31,Occupation: Craft and Related Trade Workers,2609,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K12,2609,"#,##0"
+2014-12-31,Occupation: Elementary Occupations,-6.835205992509364,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K57,-0.06835205992509363,0.0%
+2014-12-31,Occupation: Elementary Occupations,995,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K14,995,"#,##0"
+2014-12-31,Occupation: Plant and Machine Operators and Assemblers,-1.0139416983523446,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K56,-0.010139416983523447,0.0%
+2014-12-31,Occupation: Plant and Machine Operators and Assemblers,1562,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K13,1562,"#,##0"
+2014-12-31,Occupation: Professionals,-2.2291504286827744,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K50,-0.022291504286827746,0.0%
+2014-12-31,Occupation: Professionals,6272,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K7,6272,"#,##0"
+2014-12-31,Occupation: Senior Officials and Managers,-1.3768001266023104,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K49,-0.013768001266023105,0.0%
+2014-12-31,Occupation: Senior Officials and Managers,6232,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K6,6232,"#,##0"
+2014-12-31,Occupation: Service Workers and Shop and Market Sales Workers,-0.9808227199531547,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K53,-0.009808227199531547,0.0%
+2014-12-31,Occupation: Service Workers and Shop and Market Sales Workers,6764,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K10,6764,"#,##0"
+2014-12-31,Occupation: Skilled Agricultural and Fishery Workers,-0.75,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K54,-0.0075,0.0%
+2014-12-31,Occupation: Skilled Agricultural and Fishery Workers,794,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K11,794,"#,##0"
+2014-12-31,Occupation: Technicians and Associate Professionals,2.3713973002553814,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K51,0.023713973002553814,0.0%
+2014-12-31,Occupation: Technicians and Associate Professionals,2806,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K8,2806,"#,##0"
+2014-12-31,Occupation: Total,-2.3397613560113197,%,2014,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K59,-0.023397613560113197,0.0%
+2014-12-31,Occupation: Total,33475,employment,2014,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,K16,33475,"#,##0"
+2015-12-31,Industry: Accommodation and Food Service Activities,-2.766990291262139,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L68,-0.02766990291262139,0.0%
+2015-12-31,Industry: Accommodation and Food Service Activities,4006,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L25,4006,"#,##0"
+2015-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,8.695652173913038,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L80,0.08695652173913038,0.0%
+2015-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,25,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L37,25,"#,##0"
+2015-12-31,"Industry: Activities of Households as Employers, etc",1.104972375690605,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L79,0.011049723756906049,0.0%
+2015-12-31,"Industry: Activities of Households as Employers, etc",549,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L36,549,"#,##0"
+2015-12-31,Industry: Administrative and Support Services,-2.409638554216864,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L73,-0.02409638554216864,0.0%
+2015-12-31,Industry: Administrative and Support Services,1602,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L30,1602,"#,##0"
+2015-12-31,"Industry: Agriculture, Forestry and Fishing",-1.025641025641022,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L62,-0.01025641025641022,0.0%
+2015-12-31,"Industry: Agriculture, Forestry and Fishing",193,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L19,193,"#,##0"
+2015-12-31,"Industry: Arts, Entertainment and Recreation",4.296875,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L77,0.04296875,0.0%
+2015-12-31,"Industry: Arts, Entertainment and Recreation",520,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L34,520,"#,##0"
+2015-12-31,Industry: Construction and Quarrying,0.1544799176107059,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L65,0.001544799176107059,0.0%
+2015-12-31,Industry: Construction and Quarrying,1945,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L22,1945,"#,##0"
+2015-12-31,Industry: Education,-2.445652173913049,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L75,-0.024456521739130488,0.0%
+2015-12-31,Industry: Education,895,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L32,895,"#,##0"
+2015-12-31,"Industry: Electricity, Water Supply and Waste Management",-0.8426966292134797,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L64,-0.008426966292134797,0.0%
+2015-12-31,"Industry: Electricity, Water Supply and Waste Management",353,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L21,353,"#,##0"
+2015-12-31,Industry: Financial and Insurance Activities,4.587155963302747,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L70,0.04587155963302747,0.0%
+2015-12-31,Industry: Financial and Insurance Activities,2280,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L27,2280,"#,##0"
+2015-12-31,Industry: Human Health and Social Work,6.200093940817286,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L76,0.06200093940817286,0.0%
+2015-12-31,Industry: Human Health and Social Work,2774,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L33,2774,"#,##0"
+2015-12-31,Industry: Information and Communication,-2.409638554216864,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L69,-0.02409638554216864,0.0%
+2015-12-31,Industry: Information and Communication,891,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L26,891,"#,##0"
+2015-12-31,Industry: International Business Activity,-0.1977261492832394,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L81,-0.001977261492832394,0.0%
+2015-12-31,Industry: International Business Activity,4038,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L38,4038,"#,##0"
+2015-12-31,Industry: Manufacturing,-3.6674816625916873,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L63,-0.03667481662591687,0.0%
+2015-12-31,Industry: Manufacturing,394,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L20,394,"#,##0"
+2015-12-31,Industry: Other Service Activities,-5.4397316079559115,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L78,-0.05439731607955911,0.0%
+2015-12-31,Industry: Other Service Activities,748,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L35,748,"#,##0"
+2015-12-31,"Industry: Professional, Scientific and Technical Activities",6.200093940817286,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L72,0.06200093940817286,0.0%
+2015-12-31,"Industry: Professional, Scientific and Technical Activities",2261,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L29,2261,"#,##0"
+2015-12-31,Industry: Public Administration,4.587155963302747,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L74,0.04587155963302747,0.0%
+2015-12-31,Industry: Public Administration,3946,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L31,3946,"#,##0"
+2015-12-31,Industry: Real Estate Activities,-2.445652173913049,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L71,-0.024456521739130488,0.0%
+2015-12-31,Industry: Real Estate Activities,359,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L28,359,"#,##0"
+2015-12-31,Industry: Total,-0.46601941747572706,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L82,-0.004660194174757271,0.0%
+2015-12-31,Industry: Total,33319,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L39,33319,"#,##0"
+2015-12-31,Industry: Transportation and Storage,-2.044854881266489,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L67,-0.02044854881266489,0.0%
+2015-12-31,Industry: Transportation and Storage,1485,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L24,1485,"#,##0"
+2015-12-31,Industry: Wholesale and Retail Trade,-2.1948866377231036,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L66,-0.021948866377231036,0.0%
+2015-12-31,Industry: Wholesale and Retail Trade,4055,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L23,4055,"#,##0"
+2015-12-31,Occupation: Armed Forces,3.8461538461538463,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L58,0.038461538461538464,0.0%
+2015-12-31,Occupation: Armed Forces,27,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L15,27,"#,##0"
+2015-12-31,Occupation: Clerks,-0.8679593721144968,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L52,-0.008679593721144968,0.0%
+2015-12-31,Occupation: Clerks,5368,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L9,5368,"#,##0"
+2015-12-31,Occupation: Craft and Related Trade Workers,-1.2265235722499042,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L55,-0.012265235722499043,0.0%
+2015-12-31,Occupation: Craft and Related Trade Workers,2577,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L12,2577,"#,##0"
+2015-12-31,Occupation: Elementary Occupations,2.7135678391959797,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L57,0.027135678391959798,0.0%
+2015-12-31,Occupation: Elementary Occupations,1022,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L14,1022,"#,##0"
+2015-12-31,Occupation: Plant and Machine Operators and Assemblers,0.2560819462227913,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L56,0.002560819462227913,0.0%
+2015-12-31,Occupation: Plant and Machine Operators and Assemblers,1566,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L13,1566,"#,##0"
+2015-12-31,Occupation: Professionals,0.5102040816326531,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L50,0.00510204081632653,0.0%
+2015-12-31,Occupation: Professionals,6304,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L7,6304,"#,##0"
+2015-12-31,Occupation: Senior Officials and Managers,-0.35301668806161746,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L49,-0.0035301668806161745,0.0%
+2015-12-31,Occupation: Senior Officials and Managers,6210,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L6,6210,"#,##0"
+2015-12-31,Occupation: Service Workers and Shop and Market Sales Workers,-0.960969840331165,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L53,-0.00960969840331165,0.0%
+2015-12-31,Occupation: Service Workers and Shop and Market Sales Workers,6699,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L10,6699,"#,##0"
+2015-12-31,Occupation: Skilled Agricultural and Fishery Workers,1.385390428211587,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L54,0.013853904282115869,0.0%
+2015-12-31,Occupation: Skilled Agricultural and Fishery Workers,805,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L11,805,"#,##0"
+2015-12-31,Occupation: Technicians and Associate Professionals,-2.3164647184604417,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L51,-0.02316464718460442,0.0%
+2015-12-31,Occupation: Technicians and Associate Professionals,2741,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L8,2741,"#,##0"
+2015-12-31,Occupation: Total,-0.46601941747572817,%,2015,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L59,-0.004660194174757282,0.0%
+2015-12-31,Occupation: Total,33319,employment,2015,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,L16,33319,"#,##0"
+2016-12-31,Industry: Accommodation and Food Service Activities,3.0703944083874113,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M68,0.030703944083874113,0.0%
+2016-12-31,Industry: Accommodation and Food Service Activities,4129,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M25,4129,"#,##0"
+2016-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,-4.0000000000000036,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M80,-0.040000000000000036,0.0%
+2016-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,24,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M37,24,"#,##0"
+2016-12-31,"Industry: Activities of Households as Employers, etc",-4.189435336976322,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M79,-0.041894353369763215,0.0%
+2016-12-31,"Industry: Activities of Households as Employers, etc",526,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M36,526,"#,##0"
+2016-12-31,Industry: Administrative and Support Services,-5.8361391694724984,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M73,-0.058361391694724984,0.0%
+2016-12-31,Industry: Administrative and Support Services,1597,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M30,1597,"#,##0"
+2016-12-31,"Industry: Agriculture, Forestry and Fishing",0.5181347150259086,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M62,0.005181347150259086,0.0%
+2016-12-31,"Industry: Agriculture, Forestry and Fishing",194,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M19,194,"#,##0"
+2016-12-31,"Industry: Arts, Entertainment and Recreation",-0.3121098626716612,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M77,-0.003121098626716612,0.0%
+2016-12-31,"Industry: Arts, Entertainment and Recreation",655,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M34,655,"#,##0"
+2016-12-31,Industry: Construction and Quarrying,1.3881748071979505,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M65,0.013881748071979505,0.0%
+2016-12-31,Industry: Construction and Quarrying,1972,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M22,1972,"#,##0"
+2016-12-31,Industry: Education,-1.9498607242339872,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M75,-0.01949860724233987,0.0%
+2016-12-31,Industry: Education,914,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M32,914,"#,##0"
+2016-12-31,"Industry: Electricity, Water Supply and Waste Management",-0.8498583569405138,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M64,-0.008498583569405138,0.0%
+2016-12-31,"Industry: Electricity, Water Supply and Waste Management",350,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M21,350,"#,##0"
+2016-12-31,Industry: Financial and Insurance Activities,-1.271929824561402,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M70,-0.012719298245614019,0.0%
+2016-12-31,Industry: Financial and Insurance Activities,2251,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M27,2251,"#,##0"
+2016-12-31,Industry: Human Health and Social Work,0.9730207872622687,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M76,0.009730207872622687,0.0%
+2016-12-31,Industry: Human Health and Social Work,2791,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M33,2791,"#,##0"
+2016-12-31,Industry: Information and Communication,-5.8361391694724984,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M69,-0.058361391694724984,0.0%
+2016-12-31,Industry: Information and Communication,839,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M26,839,"#,##0"
+2016-12-31,Industry: International Business Activity,-1.3868251609707727,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M81,-0.013868251609707727,0.0%
+2016-12-31,Industry: International Business Activity,3982,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M38,3982,"#,##0"
+2016-12-31,Industry: Manufacturing,6.852791878172582,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M63,0.06852791878172582,0.0%
+2016-12-31,Industry: Manufacturing,421,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M20,421,"#,##0"
+2016-12-31,Industry: Other Service Activities,-4.308160162189556,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M78,-0.04308160162189556,0.0%
+2016-12-31,Industry: Other Service Activities,738,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M35,738,"#,##0"
+2016-12-31,"Industry: Professional, Scientific and Technical Activities",0.9730207872622687,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M72,0.009730207872622687,0.0%
+2016-12-31,"Industry: Professional, Scientific and Technical Activities",2283,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M29,2283,"#,##0"
+2016-12-31,Industry: Public Administration,-1.271929824561402,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M74,-0.012719298245614019,0.0%
+2016-12-31,Industry: Public Administration,3776,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M31,3776,"#,##0"
+2016-12-31,Industry: Real Estate Activities,-1.9498607242339872,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M71,-0.01949860724233987,0.0%
+2016-12-31,Industry: Real Estate Activities,352,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M28,352,"#,##0"
+2016-12-31,Industry: Total,0.4862090699000676,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M82,0.004862090699000676,0.0%
+2016-12-31,Industry: Total,33481,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M39,33481,"#,##0"
+2016-12-31,Industry: Transportation and Storage,0.60606060606061,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M67,0.0060606060606061,0.0%
+2016-12-31,Industry: Transportation and Storage,1494,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M24,1494,"#,##0"
+2016-12-31,Industry: Wholesale and Retail Trade,3.403205918618979,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M66,0.03403205918618979,0.0%
+2016-12-31,Industry: Wholesale and Retail Trade,4193,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M23,4193,"#,##0"
+2016-12-31,Occupation: Armed Forces,0,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M58,0,0.0%
+2016-12-31,Occupation: Armed Forces,27,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M15,27,"#,##0"
+2016-12-31,Occupation: Clerks,-1.7697466467958272,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M52,-0.01769746646795827,0.0%
+2016-12-31,Occupation: Clerks,5273,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M9,5273,"#,##0"
+2016-12-31,Occupation: Craft and Related Trade Workers,2.7939464493597206,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M55,0.027939464493597205,0.0%
+2016-12-31,Occupation: Craft and Related Trade Workers,2649,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M12,2649,"#,##0"
+2016-12-31,Occupation: Elementary Occupations,-0.09784735812133072,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M57,-0.0009784735812133072,0.0%
+2016-12-31,Occupation: Elementary Occupations,1021,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M14,1021,"#,##0"
+2016-12-31,Occupation: Plant and Machine Operators and Assemblers,-1.5964240102171137,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M56,-0.015964240102171137,0.0%
+2016-12-31,Occupation: Plant and Machine Operators and Assemblers,1541,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M13,1541,"#,##0"
+2016-12-31,Occupation: Professionals,-0.28553299492385786,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M50,-0.0028553299492385786,0.0%
+2016-12-31,Occupation: Professionals,6286,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M7,6286,"#,##0"
+2016-12-31,Occupation: Senior Officials and Managers,0.14492753623188406,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M49,0.0014492753623188406,0.0%
+2016-12-31,Occupation: Senior Officials and Managers,6219,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M6,6219,"#,##0"
+2016-12-31,Occupation: Service Workers and Shop and Market Sales Workers,2.9407374234960444,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M53,0.029407374234960443,0.0%
+2016-12-31,Occupation: Service Workers and Shop and Market Sales Workers,6896,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M10,6896,"#,##0"
+2016-12-31,Occupation: Skilled Agricultural and Fishery Workers,-1.4906832298136645,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M54,-0.014906832298136646,0.0%
+2016-12-31,Occupation: Skilled Agricultural and Fishery Workers,793,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M11,793,"#,##0"
+2016-12-31,Occupation: Technicians and Associate Professionals,1.2769062385990515,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M51,0.012769062385990515,0.0%
+2016-12-31,Occupation: Technicians and Associate Professionals,2776,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M8,2776,"#,##0"
+2016-12-31,Occupation: Total,0.486209069900057,%,2016,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M59,0.0048620906990005704,0.0%
+2016-12-31,Occupation: Total,33481,employment,2016,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,M16,33481,"#,##0"
+2017-12-31,Industry: Accommodation and Food Service Activities,5.8367643497214905,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N68,0.058367643497214905,0.0%
+2017-12-31,Industry: Accommodation and Food Service Activities,4370,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N25,4370,"#,##0"
+2017-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,-8.333333333333337,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N80,-0.08333333333333337,0.0%
+2017-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,22,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N37,22,"#,##0"
+2017-12-31,"Industry: Activities of Households as Employers, etc",-3.4220532319391594,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N79,-0.034220532319391594,0.0%
+2017-12-31,"Industry: Activities of Households as Employers, etc",508,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N36,508,"#,##0"
+2017-12-31,Industry: Administrative and Support Services,-4.290822407628125,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N73,-0.042908224076281254,0.0%
+2017-12-31,Industry: Administrative and Support Services,1632,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N30,1632,"#,##0"
+2017-12-31,"Industry: Agriculture, Forestry and Fishing",-3.0927835051546393,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N62,-0.030927835051546393,0.0%
+2017-12-31,"Industry: Agriculture, Forestry and Fishing",188,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N19,188,"#,##0"
+2017-12-31,"Industry: Arts, Entertainment and Recreation",2.1916092673763377,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N77,0.021916092673763377,0.0%
+2017-12-31,"Industry: Arts, Entertainment and Recreation",500,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N34,500,"#,##0"
+2017-12-31,Industry: Construction and Quarrying,2.0791075050709873,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N65,0.020791075050709873,0.0%
+2017-12-31,Industry: Construction and Quarrying,2013,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N22,2013,"#,##0"
+2017-12-31,Industry: Education,2.840909090909083,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N75,0.02840909090909083,0.0%
+2017-12-31,Industry: Education,921,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N32,921,"#,##0"
+2017-12-31,"Industry: Electricity, Water Supply and Waste Management",1.4285714285714235,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N64,0.014285714285714235,0.0%
+2017-12-31,"Industry: Electricity, Water Supply and Waste Management",355,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N21,355,"#,##0"
+2017-12-31,Industry: Financial and Insurance Activities,1.7769880053309706,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N70,0.017769880053309706,0.0%
+2017-12-31,Industry: Financial and Insurance Activities,2291,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N27,2291,"#,##0"
+2017-12-31,Industry: Human Health and Social Work,0.9198423127463773,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N76,0.009198423127463773,0.0%
+2017-12-31,Industry: Human Health and Social Work,2769,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N33,2769,"#,##0"
+2017-12-31,Industry: Information and Communication,-4.290822407628125,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N69,-0.042908224076281254,0.0%
+2017-12-31,Industry: Information and Communication,803,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N26,803,"#,##0"
+2017-12-31,Industry: International Business Activity,0.45203415369161615,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N81,0.0045203415369161615,0.0%
+2017-12-31,Industry: International Business Activity,4000,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N38,4000,"#,##0"
+2017-12-31,Industry: Manufacturing,0,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N63,0,0.0%
+2017-12-31,Industry: Manufacturing,421,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N20,421,"#,##0"
+2017-12-31,Industry: Other Service Activities,-1.6154661016949179,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N78,-0.01615466101694918,0.0%
+2017-12-31,Industry: Other Service Activities,737,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N35,737,"#,##0"
+2017-12-31,"Industry: Professional, Scientific and Technical Activities",0.9198423127463773,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N72,0.009198423127463773,0.0%
+2017-12-31,"Industry: Professional, Scientific and Technical Activities",2304,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N29,2304,"#,##0"
+2017-12-31,Industry: Public Administration,1.7769880053309706,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N74,0.017769880053309706,0.0%
+2017-12-31,Industry: Public Administration,3715,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N31,3715,"#,##0"
+2017-12-31,Industry: Real Estate Activities,2.840909090909083,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N71,0.02840909090909083,0.0%
+2017-12-31,Industry: Real Estate Activities,362,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N28,362,"#,##0"
+2017-12-31,Industry: Total,0.5316448134762952,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N82,0.005316448134762952,0.0%
+2017-12-31,Industry: Total,33659,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N39,33659,"#,##0"
+2017-12-31,Industry: Transportation and Storage,-0.7362784471218187,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N67,-0.007362784471218187,0.0%
+2017-12-31,Industry: Transportation and Storage,1483,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N24,1483,"#,##0"
+2017-12-31,Industry: Wholesale and Retail Trade,1.717147626997373,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N66,0.01717147626997373,0.0%
+2017-12-31,Industry: Wholesale and Retail Trade,4265,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N23,4265,"#,##0"
+2017-12-31,Occupation: Armed Forces,3.7037037037037033,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N58,0.037037037037037035,0.0%
+2017-12-31,Occupation: Armed Forces,28,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N15,28,"#,##0"
+2017-12-31,Occupation: Clerks,-2.3136734306846196,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N52,-0.023136734306846197,0.0%
+2017-12-31,Occupation: Clerks,5151,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N9,5151,"#,##0"
+2017-12-31,Occupation: Craft and Related Trade Workers,1.4345035862589657,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N55,0.014345035862589657,0.0%
+2017-12-31,Occupation: Craft and Related Trade Workers,2687,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N12,2687,"#,##0"
+2017-12-31,Occupation: Elementary Occupations,-0.3917727717923604,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N57,-0.0039177277179236044,0.0%
+2017-12-31,Occupation: Elementary Occupations,1017,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N14,1017,"#,##0"
+2017-12-31,Occupation: Plant and Machine Operators and Assemblers,-4.023361453601558,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N56,-0.04023361453601557,0.0%
+2017-12-31,Occupation: Plant and Machine Operators and Assemblers,1479,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N13,1479,"#,##0"
+2017-12-31,Occupation: Professionals,-0.6999681832643971,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N50,-0.006999681832643971,0.0%
+2017-12-31,Occupation: Professionals,6242,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N7,6242,"#,##0"
+2017-12-31,Occupation: Senior Officials and Managers,1.6079755587715066,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N49,0.016079755587715065,0.0%
+2017-12-31,Occupation: Senior Officials and Managers,6319,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N6,6319,"#,##0"
+2017-12-31,Occupation: Service Workers and Shop and Market Sales Workers,3.1177494199535962,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N53,0.031177494199535964,0.0%
+2017-12-31,Occupation: Service Workers and Shop and Market Sales Workers,7111,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N10,7111,"#,##0"
+2017-12-31,Occupation: Skilled Agricultural and Fishery Workers,-1.3871374527112232,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N54,-0.013871374527112233,0.0%
+2017-12-31,Occupation: Skilled Agricultural and Fishery Workers,782,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N11,782,"#,##0"
+2017-12-31,Occupation: Technicians and Associate Professionals,2.413544668587896,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N51,0.024135446685878963,0.0%
+2017-12-31,Occupation: Technicians and Associate Professionals,2843,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N8,2843,"#,##0"
+2017-12-31,Occupation: Total,0.5316448134763,%,2017,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N59,0.005316448134763,0.0%
+2017-12-31,Occupation: Total,33659,employment,2017,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,N16,33659,"#,##0"
+2018-12-31,Industry: Accommodation and Food Service Activities,4.027459954233414,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O68,0.040274599542334144,0.0%
+2018-12-31,Industry: Accommodation and Food Service Activities,4546,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O25,4546,"#,##0"
+2018-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,18.181818181818187,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O80,0.18181818181818188,0.0%
+2018-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,26,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O37,26,"#,##0"
+2018-12-31,"Industry: Activities of Households as Employers, etc",-7.0866141732283445,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O79,-0.07086614173228345,0.0%
+2018-12-31,"Industry: Activities of Households as Employers, etc",472,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O36,472,"#,##0"
+2018-12-31,Industry: Administrative and Support Services,-4.109589041095896,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O73,-0.04109589041095896,0.0%
+2018-12-31,Industry: Administrative and Support Services,1637,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O30,1637,"#,##0"
+2018-12-31,"Industry: Agriculture, Forestry and Fishing",-4.255319148936165,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O62,-0.04255319148936165,0.0%
+2018-12-31,"Industry: Agriculture, Forestry and Fishing",180,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O19,180,"#,##0"
+2018-12-31,"Industry: Arts, Entertainment and Recreation",0.30637254901961786,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O77,0.0030637254901961786,0.0%
+2018-12-31,"Industry: Arts, Entertainment and Recreation",471,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O34,471,"#,##0"
+2018-12-31,Industry: Construction and Quarrying,6.159960258320907,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O65,0.06159960258320907,0.0%
+2018-12-31,Industry: Construction and Quarrying,2137,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O22,2137,"#,##0"
+2018-12-31,Industry: Education,0.2762430939226457,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O75,0.0027624309392264568,0.0%
+2018-12-31,Industry: Education,911,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O32,911,"#,##0"
+2018-12-31,"Industry: Electricity, Water Supply and Waste Management",-1.9718309859154903,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O64,-0.019718309859154903,0.0%
+2018-12-31,"Industry: Electricity, Water Supply and Waste Management",348,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O21,348,"#,##0"
+2018-12-31,Industry: Financial and Insurance Activities,-2.0951549541684877,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O70,-0.020951549541684877,0.0%
+2018-12-31,Industry: Financial and Insurance Activities,2243,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O27,2243,"#,##0"
+2018-12-31,Industry: Human Health and Social Work,-1.736111111111116,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O76,-0.01736111111111116,0.0%
+2018-12-31,Industry: Human Health and Social Work,2798,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O33,2798,"#,##0"
+2018-12-31,Industry: Information and Communication,-4.109589041095896,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O69,-0.04109589041095896,0.0%
+2018-12-31,Industry: Information and Communication,770,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O26,770,"#,##0"
+2018-12-31,Industry: International Business Activity,1.275000000000004,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O81,0.012750000000000039,0.0%
+2018-12-31,Industry: International Business Activity,4051,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O38,4051,"#,##0"
+2018-12-31,Industry: Manufacturing,-5.2256532066508266,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O63,-0.052256532066508266,0.0%
+2018-12-31,Industry: Manufacturing,399,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O20,399,"#,##0"
+2018-12-31,Industry: Other Service Activities,1.5881561238223485,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O78,0.015881561238223485,0.0%
+2018-12-31,Industry: Other Service Activities,741,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O35,741,"#,##0"
+2018-12-31,"Industry: Professional, Scientific and Technical Activities",-1.736111111111116,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O72,-0.01736111111111116,0.0%
+2018-12-31,"Industry: Professional, Scientific and Technical Activities",2264,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O29,2264,"#,##0"
+2018-12-31,Industry: Public Administration,-2.0951549541684877,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O74,-0.020951549541684877,0.0%
+2018-12-31,Industry: Public Administration,3774,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O31,3774,"#,##0"
+2018-12-31,Industry: Real Estate Activities,0.2762430939226457,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O71,0.0027624309392264568,0.0%
+2018-12-31,Industry: Real Estate Activities,363,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O28,363,"#,##0"
+2018-12-31,Industry: Total,0.5823108232567709,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O82,0.005823108232567709,0.0%
+2018-12-31,Industry: Total,33855,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O39,33855,"#,##0"
+2018-12-31,Industry: Transportation and Storage,-2.4275118004045804,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O67,-0.024275118004045804,0.0%
+2018-12-31,Industry: Transportation and Storage,1447,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O24,1447,"#,##0"
+2018-12-31,Industry: Wholesale and Retail Trade,0.28135990621336315,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O66,0.0028135990621336315,0.0%
+2018-12-31,Industry: Wholesale and Retail Trade,4277,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O23,4277,"#,##0"
+2018-12-31,Occupation: Armed Forces,-3.571428571428571,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O58,-0.03571428571428571,0.0%
+2018-12-31,Occupation: Armed Forces,27,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O15,27,"#,##0"
+2018-12-31,Occupation: Clerks,-1.1259949524364201,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O52,-0.011259949524364201,0.0%
+2018-12-31,Occupation: Clerks,5093,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O9,5093,"#,##0"
+2018-12-31,Occupation: Craft and Related Trade Workers,1.6002977298101972,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O55,0.016002977298101972,0.0%
+2018-12-31,Occupation: Craft and Related Trade Workers,2730,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O12,2730,"#,##0"
+2018-12-31,Occupation: Elementary Occupations,-5.3097345132743365,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O57,-0.05309734513274336,0.0%
+2018-12-31,Occupation: Elementary Occupations,963,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O14,963,"#,##0"
+2018-12-31,Occupation: Plant and Machine Operators and Assemblers,-1.352265043948614,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O56,-0.013522650439486139,0.0%
+2018-12-31,Occupation: Plant and Machine Operators and Assemblers,1459,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O13,1459,"#,##0"
+2018-12-31,Occupation: Professionals,1.3777635373277797,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O50,0.013777635373277796,0.0%
+2018-12-31,Occupation: Professionals,6328,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O7,6328,"#,##0"
+2018-12-31,Occupation: Senior Officials and Managers,0.9811679063142903,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O49,0.009811679063142903,0.0%
+2018-12-31,Occupation: Senior Officials and Managers,6381,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O6,6381,"#,##0"
+2018-12-31,Occupation: Service Workers and Shop and Market Sales Workers,1.9265926030094223,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O53,0.01926592603009422,0.0%
+2018-12-31,Occupation: Service Workers and Shop and Market Sales Workers,7248,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O10,7248,"#,##0"
+2018-12-31,Occupation: Skilled Agricultural and Fishery Workers,-2.557544757033248,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O54,-0.02557544757033248,0.0%
+2018-12-31,Occupation: Skilled Agricultural and Fishery Workers,762,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O11,762,"#,##0"
+2018-12-31,Occupation: Technicians and Associate Professionals,0.7386563489271896,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O51,0.007386563489271896,0.0%
+2018-12-31,Occupation: Technicians and Associate Professionals,2864,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O8,2864,"#,##0"
+2018-12-31,Occupation: Total,0.5823108232567813,%,2018,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O59,0.005823108232567813,0.0%
+2018-12-31,Occupation: Total,33855,employment,2018,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,O16,33855,"#,##0"
+2019-12-31,Industry: Accommodation and Food Service Activities,3.1896172459304983,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P68,0.03189617245930498,0.0%
+2019-12-31,Industry: Accommodation and Food Service Activities,4691,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P25,4691,"#,##0"
+2019-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,-3.8461538461538436,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P80,-0.038461538461538436,0.0%
+2019-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,25,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P37,25,"#,##0"
+2019-12-31,"Industry: Activities of Households as Employers, etc",2.9661016949152463,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P79,0.029661016949152463,0.0%
+2019-12-31,"Industry: Activities of Households as Employers, etc",486,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P36,486,"#,##0"
+2019-12-31,Industry: Administrative and Support Services,-2.857142857142858,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P73,-0.02857142857142858,0.0%
+2019-12-31,Industry: Administrative and Support Services,1645,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P30,1645,"#,##0"
+2019-12-31,"Industry: Agriculture, Forestry and Fishing",1.6666666666666607,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P62,0.016666666666666607,0.0%
+2019-12-31,"Industry: Agriculture, Forestry and Fishing",183,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P19,183,"#,##0"
+2019-12-31,"Industry: Arts, Entertainment and Recreation",0.4886988393402625,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P77,0.004886988393402625,0.0%
+2019-12-31,"Industry: Arts, Entertainment and Recreation",473,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P34,473,"#,##0"
+2019-12-31,Industry: Construction and Quarrying,4.492278895648094,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P65,0.04492278895648094,0.0%
+2019-12-31,Industry: Construction and Quarrying,2233,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P22,2233,"#,##0"
+2019-12-31,Industry: Education,0.8264462809917328,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P75,0.008264462809917328,0.0%
+2019-12-31,Industry: Education,922,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P32,922,"#,##0"
+2019-12-31,"Industry: Electricity, Water Supply and Waste Management",-5.459770114942531,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P64,-0.054597701149425304,0.0%
+2019-12-31,"Industry: Electricity, Water Supply and Waste Management",329,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P21,329,"#,##0"
+2019-12-31,Industry: Financial and Insurance Activities,-1.7387427552385204,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P70,-0.017387427552385204,0.0%
+2019-12-31,Industry: Financial and Insurance Activities,2204,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P27,2204,"#,##0"
+2019-12-31,Industry: Human Health and Social Work,1.148409893992941,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P76,0.01148409893992941,0.0%
+2019-12-31,Industry: Human Health and Social Work,2890,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P33,2890,"#,##0"
+2019-12-31,Industry: Information and Communication,-2.857142857142858,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P69,-0.02857142857142858,0.0%
+2019-12-31,Industry: Information and Communication,748,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P26,748,"#,##0"
+2019-12-31,Industry: International Business Activity,-0.7652431498395451,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P81,-0.007652431498395451,0.0%
+2019-12-31,Industry: International Business Activity,4020,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P38,4020,"#,##0"
+2019-12-31,Industry: Manufacturing,-4.010025062656641,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P63,-0.040100250626566414,0.0%
+2019-12-31,Industry: Manufacturing,383,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P20,383,"#,##0"
+2019-12-31,Industry: Other Service Activities,5.670376258611554,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P78,0.056703762586115536,0.0%
+2019-12-31,Industry: Other Service Activities,796,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P35,796,"#,##0"
+2019-12-31,"Industry: Professional, Scientific and Technical Activities",1.148409893992941,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P72,0.01148409893992941,0.0%
+2019-12-31,"Industry: Professional, Scientific and Technical Activities",2290,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P29,2290,"#,##0"
+2019-12-31,Industry: Public Administration,-1.7387427552385204,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P74,-0.017387427552385204,0.0%
+2019-12-31,Industry: Public Administration,3988,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P31,3988,"#,##0"
+2019-12-31,Industry: Real Estate Activities,0.8264462809917328,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P71,0.008264462809917328,0.0%
+2019-12-31,Industry: Real Estate Activities,366,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P28,366,"#,##0"
+2019-12-31,Industry: Total,1.5448235120366194,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P82,0.015448235120366194,0.0%
+2019-12-31,Industry: Total,34378,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P39,34378,"#,##0"
+2019-12-31,Industry: Transportation and Storage,1.8659295093296446,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P67,0.018659295093296446,0.0%
+2019-12-31,Industry: Transportation and Storage,1474,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P24,1474,"#,##0"
+2019-12-31,Industry: Wholesale and Retail Trade,-1.0521393500116938,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P66,-0.010521393500116938,0.0%
+2019-12-31,Industry: Wholesale and Retail Trade,4232,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P23,4232,"#,##0"
+2019-12-31,Occupation: Armed Forces,3.7037037037037033,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P58,0.037037037037037035,0.0%
+2019-12-31,Occupation: Armed Forces,28,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P15,28,"#,##0"
+2019-12-31,Occupation: Clerks,-0.7657569212644807,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P52,-0.007657569212644807,0.0%
+2019-12-31,Occupation: Clerks,5054,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P9,5054,"#,##0"
+2019-12-31,Occupation: Craft and Related Trade Workers,3.076923076923077,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P55,0.03076923076923077,0.0%
+2019-12-31,Occupation: Craft and Related Trade Workers,2814,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P12,2814,"#,##0"
+2019-12-31,Occupation: Elementary Occupations,5.711318795430945,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P57,0.05711318795430945,0.0%
+2019-12-31,Occupation: Elementary Occupations,1018,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P14,1018,"#,##0"
+2019-12-31,Occupation: Plant and Machine Operators and Assemblers,-1.233721727210418,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P56,-0.01233721727210418,0.0%
+2019-12-31,Occupation: Plant and Machine Operators and Assemblers,1441,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P13,1441,"#,##0"
+2019-12-31,Occupation: Professionals,2.939317319848293,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P50,0.029393173198482933,0.0%
+2019-12-31,Occupation: Professionals,6514,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P7,6514,"#,##0"
+2019-12-31,Occupation: Senior Officials and Managers,1.1440213132737815,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P49,0.011440213132737815,0.0%
+2019-12-31,Occupation: Senior Officials and Managers,6454,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P6,6454,"#,##0"
+2019-12-31,Occupation: Service Workers and Shop and Market Sales Workers,2.469646799116998,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P53,0.02469646799116998,0.0%
+2019-12-31,Occupation: Service Workers and Shop and Market Sales Workers,7427,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P10,7427,"#,##0"
+2019-12-31,Occupation: Skilled Agricultural and Fishery Workers,1.1811023622047243,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P54,0.011811023622047244,0.0%
+2019-12-31,Occupation: Skilled Agricultural and Fishery Workers,771,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P11,771,"#,##0"
+2019-12-31,Occupation: Technicians and Associate Professionals,-0.24441340782122906,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P51,-0.0024441340782122905,0.0%
+2019-12-31,Occupation: Technicians and Associate Professionals,2857,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P8,2857,"#,##0"
+2019-12-31,Occupation: Total,1.544823512036627,%,2019,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P59,0.015448235120366268,0.0%
+2019-12-31,Occupation: Total,34378,employment,2019,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,P16,34378,"#,##0"
+2020-12-31,Industry: Accommodation and Food Service Activities,-23.449157962055,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q68,-0.23449157962055,0.0%
+2020-12-31,Industry: Accommodation and Food Service Activities,3591,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q25,3591,"#,##0"
+2020-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,0,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q80,0,0.0%
+2020-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,25,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q37,25,General
+2020-12-31,"Industry: Activities of Households as Employers, etc",-2.8806584362139898,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q79,-0.028806584362139898,0.0%
+2020-12-31,"Industry: Activities of Households as Employers, etc",472,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q36,472,General
+2020-12-31,Industry: Administrative and Support Services,4.924012158054714,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q73,0.049240121580547136,0.0%
+2020-12-31,Industry: Administrative and Support Services,1726,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q30,1726,"#,##0"
+2020-12-31,"Industry: Agriculture, Forestry and Fishing",-5.464480874316935,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q62,-0.05464480874316935,0.0%
+2020-12-31,"Industry: Agriculture, Forestry and Fishing",173,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q19,173,General
+2020-12-31,"Industry: Arts, Entertainment and Recreation",-18.181818181818176,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q77,-0.18181818181818177,0.0%
+2020-12-31,"Industry: Arts, Entertainment and Recreation",387,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q34,387,General
+2020-12-31,Industry: Construction and Quarrying,-3.6721898790864294,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q65,-0.036721898790864294,0.0%
+2020-12-31,Industry: Construction and Quarrying,2151,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q22,2151,"#,##0"
+2020-12-31,Industry: Education,5.314533622559647,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q75,0.05314533622559647,0.0%
+2020-12-31,Industry: Education,971,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q32,971,General
+2020-12-31,"Industry: Electricity, Water Supply and Waste Management",-1.5197568389057725,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q64,-0.015197568389057725,0.0%
+2020-12-31,"Industry: Electricity, Water Supply and Waste Management",324,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q21,324,General
+2020-12-31,Industry: Financial and Insurance Activities,-3.765880217785844,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q70,-0.03765880217785844,0.0%
+2020-12-31,Industry: Financial and Insurance Activities,2121,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q27,2121,"#,##0"
+2020-12-31,Industry: Human Health and Social Work,-15.570934256055368,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q76,-0.1557093425605537,0.0%
+2020-12-31,Industry: Human Health and Social Work,2440,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q33,2440,"#,##0"
+2020-12-31,Industry: Information and Communication,-10.160427807486627,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q69,-0.10160427807486627,0.0%
+2020-12-31,Industry: Information and Communication,672,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q26,672,General
+2020-12-31,Industry: International Business Activity,5.472636815920406,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q81,0.054726368159204064,0.0%
+2020-12-31,Industry: International Business Activity,4240,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q38,4240,"#,##0"
+2020-12-31,Industry: Manufacturing,-5.744125326370753,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q63,-0.057441253263707526,0.0%
+2020-12-31,Industry: Manufacturing,361,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q20,361,General
+2020-12-31,Industry: Other Service Activities,-2.8894472361809087,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q78,-0.028894472361809087,0.0%
+2020-12-31,Industry: Other Service Activities,773,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q35,773,General
+2020-12-31,"Industry: Professional, Scientific and Technical Activities",-1.6157205240174721,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q72,-0.01615720524017472,0.0%
+2020-12-31,"Industry: Professional, Scientific and Technical Activities",2253,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q29,2253,"#,##0"
+2020-12-31,Industry: Public Administration,1.9057171514543558,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q74,0.01905717151454356,0.0%
+2020-12-31,Industry: Public Administration,4064,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q31,4064,"#,##0"
+2020-12-31,Industry: Real Estate Activities,-3.0054644808743203,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q71,-0.030054644808743203,0.0%
+2020-12-31,Industry: Real Estate Activities,355,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q28,355,General
+2020-12-31,Industry: Total,-5.675141078596779,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q82,-0.05675141078596779,0.0%
+2020-12-31,Industry: Total,32427,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q39,32427,"#,##0"
+2020-12-31,Industry: Transportation and Storage,-8.00542740841248,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q67,-0.0800542740841248,0.0%
+2020-12-31,Industry: Transportation and Storage,1356,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q24,1356,"#,##0"
+2020-12-31,Industry: Wholesale and Retail Trade,-6.143667296786393,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q66,-0.061436672967863926,0.0%
+2020-12-31,Industry: Wholesale and Retail Trade,3972,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q23,3972,"#,##0"
+2020-12-31,Occupation: Armed Forces,-14.285714285714285,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q58,-0.14285714285714285,0.0%
+2020-12-31,Occupation: Armed Forces,24,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q15,24,"#,##0"
+2020-12-31,Occupation: Clerks,-2.7700831024930745,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q52,-0.027700831024930747,0.0%
+2020-12-31,Occupation: Clerks,4914,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q9,4914,"#,##0"
+2020-12-31,Occupation: Craft and Related Trade Workers,-5.614783226723525,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q55,-0.05614783226723525,0.0%
+2020-12-31,Occupation: Craft and Related Trade Workers,2656,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q12,2656,"#,##0"
+2020-12-31,Occupation: Elementary Occupations,-2.848722986247544,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q57,-0.02848722986247544,0.0%
+2020-12-31,Occupation: Elementary Occupations,989,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q14,989,"#,##0"
+2020-12-31,Occupation: Plant and Machine Operators and Assemblers,-7.425399028452463,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q56,-0.07425399028452463,0.0%
+2020-12-31,Occupation: Plant and Machine Operators and Assemblers,1334,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q13,1334,"#,##0"
+2020-12-31,Occupation: Professionals,-0.7061713233036537,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q50,-0.007061713233036537,0.0%
+2020-12-31,Occupation: Professionals,6468,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q7,6468,"#,##0"
+2020-12-31,Occupation: Senior Officials and Managers,-2.618531143476914,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q49,-0.026185311434769137,0.0%
+2020-12-31,Occupation: Senior Officials and Managers,6285,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q6,6285,"#,##0"
+2020-12-31,Occupation: Service Workers and Shop and Market Sales Workers,-15.928369462770972,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q53,-0.15928369462770972,0.0%
+2020-12-31,Occupation: Service Workers and Shop and Market Sales Workers,6244,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q10,6244,"#,##0"
+2020-12-31,Occupation: Skilled Agricultural and Fishery Workers,-2.7237354085603114,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q54,-0.027237354085603113,0.0%
+2020-12-31,Occupation: Skilled Agricultural and Fishery Workers,750,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q11,750,"#,##0"
+2020-12-31,Occupation: Technicians and Associate Professionals,-3.2901645082254114,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q51,-0.03290164508225411,0.0%
+2020-12-31,Occupation: Technicians and Associate Professionals,2763,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q8,2763,"#,##0"
+2020-12-31,Occupation: Total,-5.675141078596777,%,2020,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q59,-0.05675141078596777,0.0%
+2020-12-31,Occupation: Total,32427,employment,2020,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,Q16,32427,"#,##0"
+2021-12-31,Industry: Accommodation and Food Service Activities,-14.34140907825119,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R68,-0.14341409078251188,0.0%
+2021-12-31,Industry: Accommodation and Food Service Activities,3076,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R25,3076,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,0,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R80,0,0.0%
+2021-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,25,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R37,25,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,"Industry: Activities of Households as Employers, etc",-6.144067796610164,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R79,-0.06144067796610164,0.0%
+2021-12-31,"Industry: Activities of Households as Employers, etc",443,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R36,443,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Industry: Administrative and Support Services,-1.6222479721900385,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R73,-0.016222479721900385,0.0%
+2021-12-31,Industry: Administrative and Support Services,1698,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R30,1698,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,"Industry: Agriculture, Forestry and Fishing",2.3121387283236983,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R62,0.023121387283236983,0.0%
+2021-12-31,"Industry: Agriculture, Forestry and Fishing",177,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R19,177,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,"Industry: Arts, Entertainment and Recreation",-8.785529715762275,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R77,-0.08785529715762275,0.0%
+2021-12-31,"Industry: Arts, Entertainment and Recreation",353,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R34,353,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Industry: Construction and Quarrying,-4.97443049744305,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R65,-0.0497443049744305,0.0%
+2021-12-31,Industry: Construction and Quarrying,2044,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R22,2044,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Industry: Education,-2.162718846549949,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R75,-0.02162718846549949,0.0%
+2021-12-31,Industry: Education,950,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R32,950,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,"Industry: Electricity, Water Supply and Waste Management",-1.5432098765432056,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R64,-0.015432098765432056,0.0%
+2021-12-31,"Industry: Electricity, Water Supply and Waste Management",319,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R21,319,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Industry: Financial and Insurance Activities,-7.213578500707218,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R70,-0.07213578500707218,0.0%
+2021-12-31,Industry: Financial and Insurance Activities,1968,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R27,1968,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Industry: Human Health and Social Work,0.24590163934425924,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R76,0.0024590163934425924,0.0%
+2021-12-31,Industry: Human Health and Social Work,2446,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R33,2446,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Industry: Information and Communication,-10.416666666666663,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R69,-0.10416666666666663,0.0%
+2021-12-31,Industry: Information and Communication,602,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R26,602,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Industry: International Business Activity,4.056603773584899,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R81,0.04056603773584899,0.0%
+2021-12-31,Industry: International Business Activity,4412,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R38,4412,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Industry: Manufacturing,-4.432132963988922,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R63,-0.04432132963988922,0.0%
+2021-12-31,Industry: Manufacturing,345,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R20,345,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Industry: Other Service Activities,0.1293661060802087,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R78,0.001293661060802087,0.0%
+2021-12-31,Industry: Other Service Activities,774,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R35,774,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,"Industry: Professional, Scientific and Technical Activities",-4.571682201509097,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R72,-0.045716822015090974,0.0%
+2021-12-31,"Industry: Professional, Scientific and Technical Activities",2150,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R29,2150,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Industry: Public Administration,-1.3779527559055094,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R74,-0.013779527559055094,0.0%
+2021-12-31,Industry: Public Administration,4008,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R31,4008,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Industry: Real Estate Activities,-3.9436619718309807,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R71,-0.03943661971830981,0.0%
+2021-12-31,Industry: Real Estate Activities,341,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R28,341,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Industry: Total,-3.426157214666792,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R82,-0.03426157214666792,0.0%
+2021-12-31,Industry: Total,31316,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R39,31316,"#,##0"
+2021-12-31,Industry: Transportation and Storage,-8.92330383480826,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R67,-0.0892330383480826,0.0%
+2021-12-31,Industry: Transportation and Storage,1235,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R24,1235,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Industry: Wholesale and Retail Trade,-0.5538771399798637,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R66,-0.0055387713997986365,0.0%
+2021-12-31,Industry: Wholesale and Retail Trade,3950,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R23,3950,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Occupation: Armed Forces,37.5,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R58,0.375,0.0%
+2021-12-31,Occupation: Armed Forces,33,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R15,33,"#,##0"
+2021-12-31,Occupation: Clerks,-6.349206349206349,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R52,-0.06349206349206349,0.0%
+2021-12-31,Occupation: Clerks,4602,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R9,4602,"#,##0"
+2021-12-31,Occupation: Craft and Related Trade Workers,-4.216867469879518,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R55,-0.04216867469879518,0.0%
+2021-12-31,Occupation: Craft and Related Trade Workers,2544,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R12,2544,"#,##0"
+2021-12-31,Occupation: Elementary Occupations,-3.336703741152679,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R57,-0.033367037411526794,0.0%
+2021-12-31,Occupation: Elementary Occupations,956,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R14,956,"#,##0"
+2021-12-31,Occupation: Plant and Machine Operators and Assemblers,-10.719640179910044,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R56,-0.10719640179910045,0.0%
+2021-12-31,Occupation: Plant and Machine Operators and Assemblers,1191,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R13,1191,"#,##0"
+2021-12-31,Occupation: Professionals,0.4329004329004329,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R50,0.004329004329004329,0.0%
+2021-12-31,Occupation: Professionals,6496,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R7,6496,"#,##0"
+2021-12-31,Occupation: Senior Officials and Managers,-2.1479713603818613,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R49,-0.021479713603818614,0.0%
+2021-12-31,Occupation: Senior Officials and Managers,6150,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R6,6150,"#,##0"
+2021-12-31,Occupation: Service Workers and Shop and Market Sales Workers,-6.294042280589365,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R53,-0.06294042280589365,0.0%
+2021-12-31,Occupation: Service Workers and Shop and Market Sales Workers,5851,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R10,5851,"#,##0"
+2021-12-31,Occupation: Skilled Agricultural and Fishery Workers,-1.0666666666666667,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R54,-0.010666666666666666,0.0%
+2021-12-31,Occupation: Skilled Agricultural and Fishery Workers,742,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R11,742,"#,##0"
+2021-12-31,Occupation: Technicians and Associate Professionals,-0.43431053203040176,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R51,-0.004343105320304018,0.0%
+2021-12-31,Occupation: Technicians and Associate Professionals,2751,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R8,2751,"#,##0"
+2021-12-31,Occupation: Total,-3.4261572146667896,%,2021,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R59,-0.0342615721466679,0.0%
+2021-12-31,Occupation: Total,31316,employment,2021,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,R16,31316,"#,##0"
+2022-12-31,Industry: Accommodation and Food Service Activities,7.1846553966189886,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S68,0.07184655396618989,0.0%
+2022-12-31,Industry: Accommodation and Food Service Activities,3297,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S25,3297,"#,##0"
+2022-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,-4.0000000000000036,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S80,-0.040000000000000036,0.0%
+2022-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,24,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S37,24,"#,##0"
+2022-12-31,"Industry: Activities of Households as Employers, etc",-6.997742663656881,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S79,-0.0699774266365688,0.0%
+2022-12-31,"Industry: Activities of Households as Employers, etc",412,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S36,412,"#,##0"
+2022-12-31,Industry: Administrative and Support Services,0.9422850412249772,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S73,0.009422850412249772,0.0%
+2022-12-31,Industry: Administrative and Support Services,1714,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S30,1714,"#,##0"
+2022-12-31,"Industry: Agriculture, Forestry and Fishing",4.519774011299438,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S62,0.04519774011299438,0.0%
+2022-12-31,"Industry: Agriculture, Forestry and Fishing",185,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S19,185,"#,##0"
+2022-12-31,"Industry: Arts, Entertainment and Recreation",1.9830028328611915,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S77,0.019830028328611915,0.0%
+2022-12-31,"Industry: Arts, Entertainment and Recreation",360,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S34,360,"#,##0"
+2022-12-31,Industry: Construction and Quarrying,0.4892367906066619,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S65,0.004892367906066619,0.0%
+2022-12-31,Industry: Construction and Quarrying,2054,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S22,2054,"#,##0"
+2022-12-31,Industry: Education,2.1052631578947434,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S75,0.021052631578947434,0.0%
+2022-12-31,Industry: Education,970,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S32,970,"#,##0"
+2022-12-31,"Industry: Electricity, Water Supply and Waste Management",5.956112852664575,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S64,0.059561128526645746,0.0%
+2022-12-31,"Industry: Electricity, Water Supply and Waste Management",338,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S21,338,"#,##0"
+2022-12-31,Industry: Financial and Insurance Activities,-1.6768292682926789,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S70,-0.01676829268292679,0.0%
+2022-12-31,Industry: Financial and Insurance Activities,1935,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S27,1935,"#,##0"
+2022-12-31,Industry: Human Health and Social Work,1.3900245298446468,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S76,0.013900245298446468,0.0%
+2022-12-31,Industry: Human Health and Social Work,2480,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S33,2480,"#,##0"
+2022-12-31,Industry: Information and Communication,-1.661129568106312,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S69,-0.01661129568106312,0.0%
+2022-12-31,Industry: Information and Communication,592,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S26,592,"#,##0"
+2022-12-31,Industry: International Business Activity,6.3916591115140475,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S81,0.06391659111514048,0.0%
+2022-12-31,Industry: International Business Activity,4694,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S38,4694,"#,##0"
+2022-12-31,Industry: Manufacturing,-10.434782608695647,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S63,-0.10434782608695647,0.0%
+2022-12-31,Industry: Manufacturing,309,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S20,309,"#,##0"
+2022-12-31,Industry: Other Service Activities,5.813953488372103,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S78,0.058139534883721034,0.0%
+2022-12-31,Industry: Other Service Activities,819,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S35,819,"#,##0"
+2022-12-31,"Industry: Professional, Scientific and Technical Activities",3.860465116279066,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S72,0.03860465116279066,0.0%
+2022-12-31,"Industry: Professional, Scientific and Technical Activities",2233,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S29,2233,"#,##0"
+2022-12-31,Industry: Public Administration,-2.6946107784431184,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S74,-0.026946107784431184,0.0%
+2022-12-31,Industry: Public Administration,3900,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S31,3900,"#,##0"
+2022-12-31,Industry: Real Estate Activities,0,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S71,0,0.0%
+2022-12-31,Industry: Real Estate Activities,341,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S28,341,"#,##0"
+2022-12-31,Industry: Total,1.9095669945075944,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S82,0.019095669945075944,0.0%
+2022-12-31,Industry: Total,31914,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S39,31914,"#,##0"
+2022-12-31,Industry: Transportation and Storage,0.4858299595141613,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S67,0.004858299595141613,0.0%
+2022-12-31,Industry: Transportation and Storage,1241,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S24,1241,"#,##0"
+2022-12-31,Industry: Wholesale and Retail Trade,1.6708860759493627,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S66,0.016708860759493627,0.0%
+2022-12-31,Industry: Wholesale and Retail Trade,4016,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S23,4016,"#,##0"
+2022-12-31,Occupation: Armed Forces,0,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S58,0,0.0%
+2022-12-31,Occupation: Armed Forces,33,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S15,33,General
+2022-12-31,Occupation: Clerks,-1.694915254237288,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S52,-0.01694915254237288,0.0%
+2022-12-31,Occupation: Clerks,4524,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S9,4524,"#,##0"
+2022-12-31,Occupation: Craft and Related Trade Workers,-0.2751572327044025,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S55,-0.002751572327044025,0.0%
+2022-12-31,Occupation: Craft and Related Trade Workers,2537,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S12,2537,"#,##0"
+2022-12-31,Occupation: Elementary Occupations,-2.510460251046025,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S57,-0.02510460251046025,0.0%
+2022-12-31,Occupation: Elementary Occupations,932,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S14,932,"#,##0"
+2022-12-31,Occupation: Plant and Machine Operators and Assemblers,0.6717044500419815,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S56,0.006717044500419815,0.0%
+2022-12-31,Occupation: Plant and Machine Operators and Assemblers,1199,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S13,1199,"#,##0"
+2022-12-31,Occupation: Professionals,1.4932266009852218,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S50,0.014932266009852218,0.0%
+2022-12-31,Occupation: Professionals,6593,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S7,6593,"#,##0"
+2022-12-31,Occupation: Senior Officials and Managers,4.0650406504065035,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S49,0.04065040650406504,0.0%
+2022-12-31,Occupation: Senior Officials and Managers,6400,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S6,6400,"#,##0"
+2022-12-31,Occupation: Service Workers and Shop and Market Sales Workers,5.264057426081012,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S53,0.05264057426081012,0.0%
+2022-12-31,Occupation: Service Workers and Shop and Market Sales Workers,6159,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S10,6159,"#,##0"
+2022-12-31,Occupation: Skilled Agricultural and Fishery Workers,0.8086253369272237,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S54,0.008086253369272238,0.0%
+2022-12-31,Occupation: Skilled Agricultural and Fishery Workers,748,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S11,748,General
+2022-12-31,Occupation: Technicians and Associate Professionals,1.381315885132679,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S51,0.013813158851326791,0.0%
+2022-12-31,Occupation: Technicians and Associate Professionals,2789,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S8,2789,"#,##0"
+2022-12-31,Occupation: Total,1.9095669945076,%,2022,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S59,0.019095669945076,0.0%
+2022-12-31,Occupation: Total,31914,employment,2022,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,S16,31914,"#,##0"
+2023-12-31,Industry: Accommodation and Food Service Activities,12.192902638762515,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T68,0.12192902638762515,0.0%
+2023-12-31,Industry: Accommodation and Food Service Activities,3699,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T25,3699,"#,##0"
+2023-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,8.333333333333325,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T80,0.08333333333333326,0.0%
+2023-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,26,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T37,26,"#,##0"
+2023-12-31,"Industry: Activities of Households as Employers, etc",-0.24271844660194164,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T79,-0.0024271844660194164,0.0%
+2023-12-31,"Industry: Activities of Households as Employers, etc",411,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T36,411,"#,##0"
+2023-12-31,Industry: Administrative and Support Services,3.7922987164527466,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T73,0.037922987164527466,0.0%
+2023-12-31,Industry: Administrative and Support Services,1779,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T30,1779,"#,##0"
+2023-12-31,"Industry: Agriculture, Forestry and Fishing",-4.324324324324325,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T62,-0.043243243243243246,0.0%
+2023-12-31,"Industry: Agriculture, Forestry and Fishing",177,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T19,177,"#,##0"
+2023-12-31,"Industry: Arts, Entertainment and Recreation",3.3333333333333437,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T77,0.03333333333333344,0.0%
+2023-12-31,"Industry: Arts, Entertainment and Recreation",372,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T34,372,"#,##0"
+2023-12-31,Industry: Construction and Quarrying,1.2171372930866564,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T65,0.012171372930866564,0.0%
+2023-12-31,Industry: Construction and Quarrying,2079,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T22,2079,"#,##0"
+2023-12-31,Industry: Education,2.4742268041237025,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T75,0.024742268041237025,0.0%
+2023-12-31,Industry: Education,994,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T32,994,"#,##0"
+2023-12-31,"Industry: Electricity, Water Supply and Waste Management",-0.591715976331364,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T64,-0.00591715976331364,0.0%
+2023-12-31,"Industry: Electricity, Water Supply and Waste Management",336,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T21,336,"#,##0"
+2023-12-31,Industry: Financial and Insurance Activities,0.15503875968991832,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T70,0.0015503875968991832,0.0%
+2023-12-31,Industry: Financial and Insurance Activities,1938,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T27,1938,"#,##0"
+2023-12-31,Industry: Human Health and Social Work,2.3387096774193594,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T76,0.023387096774193594,0.0%
+2023-12-31,Industry: Human Health and Social Work,2538,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T33,2538,"#,##0"
+2023-12-31,Industry: Information and Communication,2.0270270270270174,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T69,0.020270270270270174,0.0%
+2023-12-31,Industry: Information and Communication,604,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T26,604,"#,##0"
+2023-12-31,Industry: International Business Activity,4.963783553472512,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T81,0.04963783553472512,0.0%
+2023-12-31,Industry: International Business Activity,4927,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T38,4927,"#,##0"
+2023-12-31,Industry: Manufacturing,2.9126213592232997,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T63,0.029126213592232997,0.0%
+2023-12-31,Industry: Manufacturing,318,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T20,318,"#,##0"
+2023-12-31,Industry: Other Service Activities,3.1746031746031855,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T78,0.031746031746031855,0.0%
+2023-12-31,Industry: Other Service Activities,845,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T35,845,"#,##0"
+2023-12-31,"Industry: Professional, Scientific and Technical Activities",6.448723690103009,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T72,0.06448723690103009,0.0%
+2023-12-31,"Industry: Professional, Scientific and Technical Activities",2377,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T29,2377,"#,##0"
+2023-12-31,Industry: Public Administration,-3.384615384615386,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T74,-0.03384615384615386,0.0%
+2023-12-31,Industry: Public Administration,3768,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T31,3768,"#,##0"
+2023-12-31,Industry: Real Estate Activities,-0.2932551319648091,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T71,-0.0029325513196480912,0.0%
+2023-12-31,Industry: Real Estate Activities,340,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T28,340,"#,##0"
+2023-12-31,Industry: Total,2.983016857805354,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T82,0.02983016857805354,0.0%
+2023-12-31,Industry: Total,32866,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T39,32866,"#,##0"
+2023-12-31,Industry: Transportation and Storage,7.332796132151498,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T67,0.07332796132151498,0.0%
+2023-12-31,Industry: Transportation and Storage,1332,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T24,1332,"#,##0"
+2023-12-31,Industry: Wholesale and Retail Trade,-0.2490039840637448,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T66,-0.002490039840637448,0.0%
+2023-12-31,Industry: Wholesale and Retail Trade,4006,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T23,4006,"#,##0"
+2023-12-31,Occupation: Armed Forces,24.242424242424242,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T58,0.24242424242424243,0.0%
+2023-12-31,Occupation: Armed Forces,41,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T15,41,"#,##0"
+2023-12-31,Occupation: Clerks,-0.5747126436781609,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T52,-0.005747126436781609,0.0%
+2023-12-31,Occupation: Clerks,4498,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T9,4498,"#,##0"
+2023-12-31,Occupation: Craft and Related Trade Workers,2.8774142688214424,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T55,0.028774142688214426,0.0%
+2023-12-31,Occupation: Craft and Related Trade Workers,2610,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T12,2610,"#,##0"
+2023-12-31,Occupation: Elementary Occupations,-6.974248927038626,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T57,-0.06974248927038626,0.0%
+2023-12-31,Occupation: Elementary Occupations,867,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T14,867,"#,##0"
+2023-12-31,Occupation: Plant and Machine Operators and Assemblers,0.25020850708924103,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T56,0.0025020850708924102,0.0%
+2023-12-31,Occupation: Plant and Machine Operators and Assemblers,1202,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T13,1202,"#,##0"
+2023-12-31,Occupation: Professionals,2.168967086303655,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T50,0.021689670863036553,0.0%
+2023-12-31,Occupation: Professionals,6736,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T7,6736,"#,##0"
+2023-12-31,Occupation: Senior Officials and Managers,4.796875,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T49,0.04796875,0.0%
+2023-12-31,Occupation: Senior Officials and Managers,6707,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T6,6707,"#,##0"
+2023-12-31,Occupation: Service Workers and Shop and Market Sales Workers,6.445851599285598,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T53,0.06445851599285599,0.0%
+2023-12-31,Occupation: Service Workers and Shop and Market Sales Workers,6556,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T10,6556,"#,##0"
+2023-12-31,Occupation: Skilled Agricultural and Fishery Workers,2.0053475935828877,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T54,0.020053475935828877,0.0%
+2023-12-31,Occupation: Skilled Agricultural and Fishery Workers,763,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T11,763,"#,##0"
+2023-12-31,Occupation: Technicians and Associate Professionals,3.4779490856937967,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T51,0.03477949085693797,0.0%
+2023-12-31,Occupation: Technicians and Associate Professionals,2886,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T8,2886,"#,##0"
+2023-12-31,Occupation: Total,2.9830168578053518,%,2023,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T59,0.02983016857805352,0.0%
+2023-12-31,Occupation: Total,32866,employment,2023,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,T16,32866,"#,##0"
+2024-12-31,Industry: Accommodation and Food Service Activities,2.3790213571235563,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U68,0.023790213571235563,0.0%
+2024-12-31,Industry: Accommodation and Food Service Activities,3787,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U25,3787,"#,##0"
+2024-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,0,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U80,0,0.0%
+2024-12-31,Industry: Activities of Extraterritorial Organizations and Bodies,26,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U37,26,"#,##0"
+2024-12-31,"Industry: Activities of Households as Employers, etc",-0.7299270072992692,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U79,-0.007299270072992692,0.0%
+2024-12-31,"Industry: Activities of Households as Employers, etc",408,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U36,408,"#,##0"
+2024-12-31,Industry: Administrative and Support Services,6.9702079820123775,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U73,0.06970207982012377,0.0%
+2024-12-31,Industry: Administrative and Support Services,1903,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U30,1903,"#,##0"
+2024-12-31,"Industry: Agriculture, Forestry and Fishing",8.47457627118644,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U62,0.0847457627118644,0.0%
+2024-12-31,"Industry: Agriculture, Forestry and Fishing",192,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U19,192,"#,##0"
+2024-12-31,"Industry: Arts, Entertainment and Recreation",16.129032258064523,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U77,0.16129032258064524,0.0%
+2024-12-31,"Industry: Arts, Entertainment and Recreation",432,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U34,432,"#,##0"
+2024-12-31,Industry: Construction and Quarrying,4.040404040404044,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U65,0.04040404040404044,0.0%
+2024-12-31,Industry: Construction and Quarrying,2163,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U22,2163,"#,##0"
+2024-12-31,Industry: Education,-1.4084507042253502,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U75,-0.014084507042253502,0.0%
+2024-12-31,Industry: Education,980,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U32,980,"#,##0"
+2024-12-31,"Industry: Electricity, Water Supply and Waste Management",-8.03571428571429,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U64,-0.0803571428571429,0.0%
+2024-12-31,"Industry: Electricity, Water Supply and Waste Management",309,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U21,309,"#,##0"
+2024-12-31,Industry: Financial and Insurance Activities,1.393188854489158,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U70,0.01393188854489158,0.0%
+2024-12-31,Industry: Financial and Insurance Activities,1965,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U27,1965,"#,##0"
+2024-12-31,Industry: Human Health and Social Work,4.294720252167061,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U76,0.04294720252167061,0.0%
+2024-12-31,Industry: Human Health and Social Work,2647,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U33,2647,"#,##0"
+2024-12-31,Industry: Information and Communication,-7.284768211920534,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U69,-0.07284768211920534,0.0%
+2024-12-31,Industry: Information and Communication,560,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U26,560,"#,##0"
+2024-12-31,Industry: International Business Activity,2.2934848792368623,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U81,0.022934848792368623,0.0%
+2024-12-31,Industry: International Business Activity,5040,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U38,5040,"#,##0"
+2024-12-31,Industry: Manufacturing,2.2012578616352307,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U63,0.022012578616352307,0.0%
+2024-12-31,Industry: Manufacturing,325,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U20,325,"#,##0"
+2024-12-31,Industry: Other Service Activities,4.260355029585794,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U78,0.04260355029585794,0.0%
+2024-12-31,Industry: Other Service Activities,881,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U35,881,"#,##0"
+2024-12-31,"Industry: Professional, Scientific and Technical Activities",1.262095077829195,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U72,0.01262095077829195,0.0%
+2024-12-31,"Industry: Professional, Scientific and Technical Activities",2407,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U29,2407,"#,##0"
+2024-12-31,Industry: Public Administration,-1.0350318471337605,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U74,-0.010350318471337605,0.0%
+2024-12-31,Industry: Public Administration,3729,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U31,3729,"#,##0"
+2024-12-31,Industry: Real Estate Activities,2.35294117647058,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U71,0.0235294117647058,0.0%
+2024-12-31,Industry: Real Estate Activities,348,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U28,348,"#,##0"
+2024-12-31,Industry: Total,1.779954968660613,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U82,0.01779954968660613,0.0%
+2024-12-31,Industry: Total,33451,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U39,33451,"#,##0"
+2024-12-31,Industry: Transportation and Storage,-0.15015015015015232,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U67,-0.0015015015015015232,0.0%
+2024-12-31,Industry: Transportation and Storage,1330,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U24,1330,"#,##0"
+2024-12-31,Industry: Wholesale and Retail Trade,0.32451323015476596,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U66,0.0032451323015476596,0.0%
+2024-12-31,Industry: Wholesale and Retail Trade,4019,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U23,4019,"#,##0"
+2024-12-31,Occupation: Armed Forces,4.878048780487805,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U58,0.04878048780487805,0.0%
+2024-12-31,Occupation: Armed Forces,43,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U15,43,"#,##0"
+2024-12-31,Occupation: Clerks,0.2445531347265451,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U52,0.002445531347265451,0.0%
+2024-12-31,Occupation: Clerks,4509,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U9,4509,"#,##0"
+2024-12-31,Occupation: Craft and Related Trade Workers,3.6398467432950192,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U55,0.03639846743295019,0.0%
+2024-12-31,Occupation: Craft and Related Trade Workers,2705,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U12,2705,"#,##0"
+2024-12-31,Occupation: Elementary Occupations,-1.384083044982699,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U57,-0.01384083044982699,0.0%
+2024-12-31,Occupation: Elementary Occupations,855,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U14,855,"#,##0"
+2024-12-31,Occupation: Plant and Machine Operators and Assemblers,0.7487520798668885,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U56,0.0074875207986688855,0.0%
+2024-12-31,Occupation: Plant and Machine Operators and Assemblers,1211,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U13,1211,"#,##0"
+2024-12-31,Occupation: Professionals,0.44536817102137766,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U50,0.004453681710213777,0.0%
+2024-12-31,Occupation: Professionals,6766,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U7,6766,"#,##0"
+2024-12-31,Occupation: Senior Officials and Managers,2.7284926196511106,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U49,0.027284926196511107,0.0%
+2024-12-31,Occupation: Senior Officials and Managers,6890,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U6,6890,"#,##0"
+2024-12-31,Occupation: Service Workers and Shop and Market Sales Workers,2.8065893837705915,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U53,0.028065893837705917,0.0%
+2024-12-31,Occupation: Service Workers and Shop and Market Sales Workers,6740,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U10,6740,"#,##0"
+2024-12-31,Occupation: Skilled Agricultural and Fishery Workers,0,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U54,0,0.0%
+2024-12-31,Occupation: Skilled Agricultural and Fishery Workers,763,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U11,763,"#,##0"
+2024-12-31,Occupation: Technicians and Associate Professionals,2.875952875952876,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U51,0.02875952875952876,0.0%
+2024-12-31,Occupation: Technicians and Associate Professionals,2969,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U8,2969,"#,##0"
+2024-12-31,Occupation: Total,1.7799549686606218,%,2024,Annual,Published percentage change,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U59,0.017799549686606218,0.0%
+2024-12-31,Occupation: Total,33451,employment,2024,Annual,Value,ISIC Rev. 4,,reported,,,,Table 18 ISIC 4,U16,33451,"#,##0"

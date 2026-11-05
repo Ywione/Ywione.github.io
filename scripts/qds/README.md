@@ -46,13 +46,13 @@ The preparation step marks spreadsheet authoring once, uses Artifact Tool for XL
 4. Publish the reviewed files together to `Ywione/Ywione.github.io`. Use the existing GitHub connector if command-line authentication is unavailable. Verify blob hashes and use the current expected head for the branch update; never force over another change. Do not upload local configuration, source workbooks, private extracts, dependencies or review images.
 5. Confirm GitHub Pages deployment and public catalogue, table pages, Excel and CSV links. Synchronize the local checkout and source backup with the published commit.
 
-The daily Codex check is responsible for orchestration and publishing. GitHub Pages cannot read the local source folder directly. The scheduled check needs this Mac and its local Codex environment to be available. If access, schema, source ambiguity or validation blocks an update, retain the currently published edition and report the specific issue.
+The quarterly Codex check is responsible for orchestration and publishing. GitHub Pages cannot read the local source folder directly. The scheduled check needs this Mac and its local Codex environment to be available. If access, schema, source ambiguity or validation blocks an update, retain the currently published edition and report the specific issue.
 
 ## Data handling
 
 - Preserve historical populated rows and columns, including those hidden in the source. Exclude only formatting-only trailing cells; whitespace-only cells may serialize as blanks.
 - Keep separate tables for bank assets/liabilities and for the legacy and ISIC Rev. 4 employment classifications.
-- Excel retains numeric values, source number formats and cell references. CSV retains the tabulated layout and displayed values, including percent signs. CSV is not a normalized long-format dataset.
+- Excel retains numeric values, source number formats and cell references. CSV retains the tabulated layout and displayed values, including percent signs. These original-layout files remain available alongside the primary long-format downloads.
 - Use the source's saved formula results. Retain existing `#DIV/0!`, `#REF!` and `#VALUE!` markers literally, without treating them as zero.
 - Preserve grey shading meaning “Not available for updating”; CSV notes and manifests record affected source coordinates.
 - Distinguish the publication edition from the reporting dates actually present in each series. Do not infer current coverage from an edition date.
@@ -63,4 +63,20 @@ The daily Codex check is responsible for orchestration and publishing. GitHub Pa
 python3 -m unittest discover -s tests -p 'test_qbs_refresh.py'
 ```
 
-The builder's `--pages-only` option is for isolated HTML/edition-rendering checks using an already extracted JSON file. It does not create downloads and must not be used to prepare a publication release. Never publish synthetic future-edition test output.
+The builder's `--pages-only` option updates pages, JSON and CSV using an already normalized source JSON file. It does not create Excel workbooks and must not be used to prepare a publication release. Never publish synthetic future-edition test output.
+
+## Long-format time series
+
+`timeseries.py` runs after extraction, before the builder. `timeseries-headers.json` guards the reviewed column mappings: changed headings stop publication for review. `build_timeseries.mjs` produces one observation per row in the primary Excel/CSV files and the JSON used for website filters. Each table also retains its original-layout Excel/CSV and a source-cell audit CSV.
+
+The primary columns are date, series, value and units. Further columns retain period, frequency, measure, classification, index base, source markers, revision, availability, worksheet, cell, raw value and number format. Dates use period ends; annual dates do not claim a survey reference day. Hotel employment uses the published reference month. Percent-formatted source fractions are converted to numeric percentages. No levels, totals or growth rates are recalculated.
+
+Missing year labels produce blank dates, and repeated observation keys are flagged as conflicting source periods. Never guess a year or choose among conflicts. Legacy and modern accommodation categories, overlapping CPI/retail bases, and employment classifications remain separate. Three identically labelled Hotels receipt columns retain their source-column identifiers. Unlabelled numeric cells and reference weights stay in the audit, not in an invented series.
+
+`verify_timeseries.py` checks every exported Excel/CSV/JSON observation against its source cell and reconciles every numeric/error cell to either an observation or the audit. Review audit changes, missing dates and conflicts when preparing a new quarter. Website downloads and filters must be checked after deployment. The quarterly schedule and local source folder remain unchanged.
+
+Run both source-selection and conversion regression checks:
+
+```sh
+python3 -m unittest discover -s tests -p 'test_qbs*.py'
+```

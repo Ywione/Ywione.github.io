@@ -1,0 +1,1211 @@
+﻿date,series,value,units,period,frequency,measure,classification,index_base,status,source_marker,revision,availability,source_sheet,source_cell,source_value,source_format
+2012-03-31,New registrations: exempted,169,business registrations,2012-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,D11,169,General
+2012-03-31,New registrations: international exempted partnerships,18,business registrations,2012-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,E11,18,General
+2012-03-31,New registrations: local,26,business registrations,2012-Q1,Quarterly,Value,,,reported,,,,Table13,C11,26,General
+2012-03-31,New registrations: non-resident,18,business registrations,2012-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,F11,18,General
+2012-03-31,On register: exempted,11382,business registrations,2012-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,I11,11382,"#,##0"
+2012-03-31,On register: international exempted partnerships,956,business registrations,2012-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,J11,956,"#,##0"
+2012-03-31,On register: local,3146,business registrations,2012-Q1,Quarterly,Value,,,reported,,,,Table13,H11,3146,"#,##0"
+2012-03-31,On register: non-resident,503,business registrations,2012-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,K11,503,General
+2012-03-31,On register: non-resident insurance,12,business registrations,2012-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,L11,12,General
+2012-03-31,Total new registrations,231,business registrations,2012-Q1,Quarterly,Value,,,reported,,,,Table13,G11,231,General
+2012-03-31,Total on register,15999,business registrations,2012-Q1,Quarterly,Value,,,reported,,,,Table13,M11,15999,"#,##0"
+2012-06-30,New registrations: exempted,194,business registrations,2012-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,D12,194,General
+2012-06-30,New registrations: international exempted partnerships,17,business registrations,2012-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,E12,17,General
+2012-06-30,New registrations: local,31,business registrations,2012-Q2,Quarterly,Value,,,reported,,,,Table13,C12,31,General
+2012-06-30,New registrations: non-resident,5,business registrations,2012-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,F12,5,General
+2012-06-30,On register: exempted,11419,business registrations,2012-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,I12,11419,"#,##0"
+2012-06-30,On register: international exempted partnerships,962,business registrations,2012-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,J12,962,"#,##0"
+2012-06-30,On register: local,3167,business registrations,2012-Q2,Quarterly,Value,,,reported,,,,Table13,H12,3167,"#,##0"
+2012-06-30,On register: non-resident,496,business registrations,2012-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,K12,496,General
+2012-06-30,On register: non-resident insurance,12,business registrations,2012-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,L12,12,General
+2012-06-30,Total new registrations,247,business registrations,2012-Q2,Quarterly,Value,,,reported,,,,Table13,G12,247,General
+2012-06-30,Total on register,16056,business registrations,2012-Q2,Quarterly,Value,,,reported,,,,Table13,M12,16056,"#,##0"
+2012-09-30,New registrations: exempted,178,business registrations,2012-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,D13,178,General
+2012-09-30,New registrations: international exempted partnerships,16,business registrations,2012-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,E13,16,General
+2012-09-30,New registrations: local,25,business registrations,2012-Q3,Quarterly,Value,,,reported,,,,Table13,C13,25,General
+2012-09-30,New registrations: non-resident,9,business registrations,2012-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,F13,9,General
+2012-09-30,On register: exempted,11508,business registrations,2012-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,I13,11508,"#,##0"
+2012-09-30,On register: international exempted partnerships,966,business registrations,2012-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,J13,966,"#,##0"
+2012-09-30,On register: local,3180,business registrations,2012-Q3,Quarterly,Value,,,reported,,,,Table13,H13,3180,"#,##0"
+2012-09-30,On register: non-resident,503,business registrations,2012-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,K13,503,General
+2012-09-30,On register: non-resident insurance,12,business registrations,2012-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,L13,12,General
+2012-09-30,Total new registrations,228,business registrations,2012-Q3,Quarterly,Value,,,reported,,,,Table13,G13,228,General
+2012-09-30,Total on register,16169,business registrations,2012-Q3,Quarterly,Value,,,reported,,,,Table13,M13,16169,"#,##0"
+2012-12-31,New registrations: exempted,202,business registrations,2012-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,D14,202,General
+2012-12-31,New registrations: international exempted partnerships,17,business registrations,2012-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,E14,17,General
+2012-12-31,New registrations: local,32,business registrations,2012-Q4,Quarterly,Value,,,reported,,,,Table13,C14,32,General
+2012-12-31,New registrations: non-resident,12,business registrations,2012-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,F14,12,General
+2012-12-31,On register: exempted,11540,business registrations,2012-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,I14,11540,"#,##0"
+2012-12-31,On register: international exempted partnerships,941,business registrations,2012-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,J14,941,"#,##0"
+2012-12-31,On register: local,3211,business registrations,2012-Q4,Quarterly,Value,,,reported,,,,Table13,H14,3211,"#,##0"
+2012-12-31,On register: non-resident,508,business registrations,2012-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,K14,508,General
+2012-12-31,On register: non-resident insurance,12,business registrations,2012-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,L14,12,General
+2012-12-31,Total new registrations,263,business registrations,2012-Q4,Quarterly,Value,,,reported,,,,Table13,G14,263,General
+2012-12-31,Total on register,16212,business registrations,2012-Q4,Quarterly,Value,,,reported,,,,Table13,M14,16212,"#,##0"
+2013-03-31,New registrations: exempted,14.792899408284024,%,2013-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D100,0.14792899408284024,0.0%
+2013-03-31,New registrations: exempted,194,business registrations,2013-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,D16,194,General
+2013-03-31,New registrations: international exempted partnerships,-38.88888888888889,%,2013-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E100,-0.3888888888888889,0.0%
+2013-03-31,New registrations: international exempted partnerships,11,business registrations,2013-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,E16,11,General
+2013-03-31,New registrations: local,46.15384615384615,%,2013-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,C100,0.46153846153846156,0.0%
+2013-03-31,New registrations: local,38,business registrations,2013-Q1,Quarterly,Value,,,reported,,,,Table13,C16,38,General
+2013-03-31,New registrations: non-resident,-11.11111111111111,%,2013-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F100,-0.1111111111111111,0.0%
+2013-03-31,New registrations: non-resident,16,business registrations,2013-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,F16,16,General
+2013-03-31,On register: exempted,-0.5447197329116148,%,2013-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I100,-0.005447197329116148,0.0%
+2013-03-31,On register: exempted,11320,business registrations,2013-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,I16,11320,"#,##0"
+2013-03-31,On register: international exempted partnerships,-1.0460251046025104,%,2013-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J100,-0.010460251046025104,0.0%
+2013-03-31,On register: international exempted partnerships,946,business registrations,2013-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,J16,946,"#,##0"
+2013-03-31,On register: local,-0.06357279084551812,%,2013-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,H100,-0.0006357279084551812,0.0%
+2013-03-31,On register: local,3144,business registrations,2013-Q1,Quarterly,Value,,,reported,,,,Table13,H16,3144,"#,##0"
+2013-03-31,On register: non-resident,2.1868787276341948,%,2013-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K100,0.02186878727634195,0.0%
+2013-03-31,On register: non-resident,514,business registrations,2013-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,K16,514,General
+2013-03-31,On register: non-resident insurance,-16.666666666666664,%,2013-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L100,-0.16666666666666666,0.0%
+2013-03-31,On register: non-resident insurance,10,business registrations,2013-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,L16,10,General
+2013-03-31,Total new registrations,12.121212121212121,%,2013-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,G100,0.12121212121212122,0.0%
+2013-03-31,Total new registrations,259,business registrations,2013-Q1,Quarterly,Value,,,reported,,,,Table13,G16,259,General
+2013-03-31,Total on register,-0.40627539221201325,%,2013-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,M100,-0.0040627539221201325,0.0%
+2013-03-31,Total on register,15934,business registrations,2013-Q1,Quarterly,Value,,,reported,,,,Table13,M16,15934,"#,##0"
+2013-06-30,New registrations: exempted,11.34020618556701,%,2013-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D101,0.1134020618556701,0.0%
+2013-06-30,New registrations: exempted,216,business registrations,2013-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,D17,216,General
+2013-06-30,New registrations: international exempted partnerships,-17.647058823529413,%,2013-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E101,-0.17647058823529413,0.0%
+2013-06-30,New registrations: international exempted partnerships,14,business registrations,2013-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,E17,14,General
+2013-06-30,New registrations: local,19.35483870967742,%,2013-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,C101,0.1935483870967742,0.0%
+2013-06-30,New registrations: local,37,business registrations,2013-Q2,Quarterly,Value,,,reported,,,,Table13,C17,37,General
+2013-06-30,New registrations: non-resident,40,%,2013-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F101,0.4,0.0%
+2013-06-30,New registrations: non-resident,7,business registrations,2013-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,F17,7,General
+2013-06-30,On register: exempted,-0.19266135388387773,%,2013-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I101,-0.0019266135388387774,0.0%
+2013-06-30,On register: exempted,11397,business registrations,2013-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,I17,11397,"#,##0"
+2013-06-30,On register: international exempted partnerships,-0.8316008316008316,%,2013-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J101,-0.008316008316008316,0.0%
+2013-06-30,On register: international exempted partnerships,954,business registrations,2013-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,J17,954,"#,##0"
+2013-06-30,On register: local,0.031575623618566466,%,2013-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,H101,0.00031575623618566466,0.0%
+2013-06-30,On register: local,3168,business registrations,2013-Q2,Quarterly,Value,,,reported,,,,Table13,H17,3168,"#,##0"
+2013-06-30,On register: non-resident,5.040322580645161,%,2013-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K101,0.05040322580645161,0.0%
+2013-06-30,On register: non-resident,521,business registrations,2013-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,K17,521,General
+2013-06-30,On register: non-resident insurance,-16.666666666666664,%,2013-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L101,-0.16666666666666666,0.0%
+2013-06-30,On register: non-resident insurance,10,business registrations,2013-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,L17,10,General
+2013-06-30,Total new registrations,10.931174089068826,%,2013-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,G101,0.10931174089068826,0.0%
+2013-06-30,Total new registrations,274,business registrations,2013-Q2,Quarterly,Value,,,reported,,,,Table13,G17,274,General
+2013-06-30,Total on register,-0.03736920777279522,%,2013-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,M101,-0.0003736920777279522,0.0%
+2013-06-30,Total on register,16050,business registrations,2013-Q2,Quarterly,Value,,,reported,,,,Table13,M17,16050,"#,##0"
+2013-09-30,New registrations: exempted,24.15730337078652,%,2013-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D102,0.24157303370786518,0.0%
+2013-09-30,New registrations: exempted,221,business registrations,2013-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,D18,221,General
+2013-09-30,New registrations: international exempted partnerships,56.25,%,2013-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E102,0.5625,0.0%
+2013-09-30,New registrations: international exempted partnerships,25,business registrations,2013-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,E18,25,General
+2013-09-30,New registrations: local,36,%,2013-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,C102,0.36,0.0%
+2013-09-30,New registrations: local,34,business registrations,2013-Q3,Quarterly,Value,,,reported,,,,Table13,C18,34,General
+2013-09-30,New registrations: non-resident,-11.11111111111111,%,2013-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F102,-0.1111111111111111,0.0%
+2013-09-30,New registrations: non-resident,8,business registrations,2013-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,F18,8,General
+2013-09-30,On register: exempted,0.18248175182481752,%,2013-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I102,0.0018248175182481751,0.0%
+2013-09-30,On register: exempted,11529,business registrations,2013-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,I18,11529,"#,##0"
+2013-09-30,On register: international exempted partnerships,0.6211180124223602,%,2013-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J102,0.006211180124223602,0.0%
+2013-09-30,On register: international exempted partnerships,972,business registrations,2013-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,J18,972,"#,##0"
+2013-09-30,On register: local,0.3144654088050315,%,2013-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,H102,0.0031446540880503146,0.0%
+2013-09-30,On register: local,3190,business registrations,2013-Q3,Quarterly,Value,,,reported,,,,Table13,H18,3190,"#,##0"
+2013-09-30,On register: non-resident,4.3737574552683895,%,2013-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K102,0.0437375745526839,0.0%
+2013-09-30,On register: non-resident,525,business registrations,2013-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,K18,525,General
+2013-09-30,On register: non-resident insurance,-16.666666666666664,%,2013-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L102,-0.16666666666666666,0.0%
+2013-09-30,On register: non-resident insurance,10,business registrations,2013-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,L18,10,General
+2013-09-30,Total new registrations,26.31578947368421,%,2013-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,G102,0.2631578947368421,0.0%
+2013-09-30,Total new registrations,288,business registrations,2013-Q3,Quarterly,Value,,,reported,,,,Table13,G18,288,General
+2013-09-30,Total on register,0.35252643948296125,%,2013-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,M102,0.0035252643948296123,0.0%
+2013-09-30,Total on register,16226,business registrations,2013-Q3,Quarterly,Value,,,reported,,,,Table13,M18,16226,"#,##0"
+2013-12-31,New registrations: exempted,27.22772277227723,%,2013-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D103,0.2722772277227723,0.0%
+2013-12-31,New registrations: exempted,257,business registrations,2013-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,D19,257,General
+2013-12-31,New registrations: international exempted partnerships,58.82352941176471,%,2013-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E103,0.5882352941176471,0.0%
+2013-12-31,New registrations: international exempted partnerships,27,business registrations,2013-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,E19,27,General
+2013-12-31,New registrations: local,3.125,%,2013-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,C103,0.03125,0.0%
+2013-12-31,New registrations: local,33,business registrations,2013-Q4,Quarterly,Value,,,reported,,,,Table13,C19,33,General
+2013-12-31,New registrations: non-resident,-58.333333333333336,%,2013-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F103,-0.5833333333333334,0.0%
+2013-12-31,New registrations: non-resident,5,business registrations,2013-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,F19,5,General
+2013-12-31,On register: exempted,-1.6291161178509532,%,2013-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I103,-0.016291161178509532,0.0%
+2013-12-31,On register: exempted,11352,business registrations,2013-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,I19,11352,"#,##0"
+2013-12-31,On register: international exempted partnerships,4.1445270988310305,%,2013-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J103,0.04144527098831031,0.0%
+2013-12-31,On register: international exempted partnerships,980,business registrations,2013-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,J19,980,"#,##0"
+2013-12-31,On register: local,-2.678293366552476,%,2013-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,H103,-0.02678293366552476,0.0%
+2013-12-31,On register: local,3125,business registrations,2013-Q4,Quarterly,Value,,,reported,,,,Table13,H19,3125,"#,##0"
+2013-12-31,On register: non-resident,2.559055118110236,%,2013-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K103,0.025590551181102362,0.0%
+2013-12-31,On register: non-resident,521,business registrations,2013-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,K19,521,General
+2013-12-31,On register: non-resident insurance,-16.666666666666664,%,2013-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L103,-0.16666666666666666,0.0%
+2013-12-31,On register: non-resident insurance,10,business registrations,2013-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,L19,10,General
+2013-12-31,Total new registrations,22.433460076045627,%,2013-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,G103,0.22433460076045628,0.0%
+2013-12-31,Total new registrations,322,business registrations,2013-Q4,Quarterly,Value,,,reported,,,,Table13,G19,322,General
+2013-12-31,Total on register,-1.381692573402418,%,2013-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,M103,-0.013816925734024179,0.0%
+2013-12-31,Total on register,15988,business registrations,2013-Q4,Quarterly,Value,,,reported,,,,Table13,M19,15988,"#,##0"
+2014-03-31,New registrations: exempted,18.556701030927837,%,2014-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D105,0.18556701030927836,0.0%
+2014-03-31,New registrations: exempted,230,business registrations,2014-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,D21,230,General
+2014-03-31,New registrations: international exempted partnerships,81.81818181818183,%,2014-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E105,0.8181818181818182,0.0%
+2014-03-31,New registrations: international exempted partnerships,20,business registrations,2014-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,E21,20,General
+2014-03-31,New registrations: local,-31.57894736842105,%,2014-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,C105,-0.3157894736842105,0.0%
+2014-03-31,New registrations: local,26,business registrations,2014-Q1,Quarterly,Value,,,reported,,,,Table13,C21,26,General
+2014-03-31,New registrations: non-resident,-6.25,%,2014-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F105,-0.0625,0.0%
+2014-03-31,New registrations: non-resident,15,business registrations,2014-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,F21,15,General
+2014-03-31,On register: exempted,0.980565371024735,%,2014-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I105,0.00980565371024735,0.0%
+2014-03-31,On register: exempted,11431,business registrations,2014-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,I21,11431,"#,##0"
+2014-03-31,On register: international exempted partnerships,3.5940803382663846,%,2014-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J105,0.035940803382663845,0.0%
+2014-03-31,On register: international exempted partnerships,980,business registrations,2014-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,J21,980,"#,##0"
+2014-03-31,On register: local,0,%,2014-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,H105,0,0.0%
+2014-03-31,On register: local,3144,business registrations,2014-Q1,Quarterly,Value,,,reported,,,,Table13,H21,3144,"#,##0"
+2014-03-31,On register: non-resident,3.6964980544747084,%,2014-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K105,0.03696498054474708,0.0%
+2014-03-31,On register: non-resident,533,business registrations,2014-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,K21,533,General
+2014-03-31,On register: non-resident insurance,0,%,2014-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L105,0,0.0%
+2014-03-31,On register: non-resident insurance,10,business registrations,2014-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,L21,10,General
+2014-03-31,Total new registrations,12.355212355212355,%,2014-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,G105,0.12355212355212356,0.0%
+2014-03-31,Total new registrations,291,business registrations,2014-Q1,Quarterly,Value,,,reported,,,,Table13,G21,291,General
+2014-03-31,Total on register,1.0292456382578135,%,2014-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,M105,0.010292456382578134,0.0%
+2014-03-31,Total on register,16098,business registrations,2014-Q1,Quarterly,Value,,,reported,,,,Table13,M21,16098,"#,##0"
+2014-06-30,New registrations: exempted,8.333333333333332,%,2014-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D106,0.08333333333333333,0.0%
+2014-06-30,New registrations: exempted,234,business registrations,2014-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,D22,234,General
+2014-06-30,New registrations: international exempted partnerships,42.857142857142854,%,2014-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E106,0.42857142857142855,0.0%
+2014-06-30,New registrations: international exempted partnerships,20,business registrations,2014-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,E22,20,General
+2014-06-30,New registrations: local,10.81081081081081,%,2014-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,C106,0.10810810810810811,0.0%
+2014-06-30,New registrations: local,41,business registrations,2014-Q2,Quarterly,Value,,,reported,,,,Table13,C22,41,General
+2014-06-30,New registrations: non-resident,100,%,2014-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F106,1,0.0%
+2014-06-30,New registrations: non-resident,14,business registrations,2014-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,F22,14,General
+2014-06-30,On register: exempted,1.3073615863823813,%,2014-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I106,0.013073615863823813,0.0%
+2014-06-30,On register: exempted,11546,business registrations,2014-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,I22,11546,"#,##0"
+2014-06-30,On register: international exempted partnerships,4.088050314465408,%,2014-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J106,0.040880503144654086,0.0%
+2014-06-30,On register: international exempted partnerships,993,business registrations,2014-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,J22,993,"#,##0"
+2014-06-30,On register: local,0.06313131313131314,%,2014-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,H106,0.0006313131313131314,0.0%
+2014-06-30,On register: local,3170,business registrations,2014-Q2,Quarterly,Value,,,reported,,,,Table13,H22,3170,"#,##0"
+2014-06-30,On register: non-resident,3.8387715930902107,%,2014-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K106,0.03838771593090211,0.0%
+2014-06-30,On register: non-resident,541,business registrations,2014-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,K22,541,General
+2014-06-30,On register: non-resident insurance,0,%,2014-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L106,0,0.0%
+2014-06-30,On register: non-resident insurance,10,business registrations,2014-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,L22,10,General
+2014-06-30,Total new registrations,12.773722627737227,%,2014-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,G106,0.12773722627737227,0.0%
+2014-06-30,Total new registrations,309,business registrations,2014-Q2,Quarterly,Value,,,reported,,,,Table13,G22,309,General
+2014-06-30,Total on register,1.3084112149532712,%,2014-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,M106,0.013084112149532711,0.0%
+2014-06-30,Total on register,16260,business registrations,2014-Q2,Quarterly,Value,,,reported,,,,Table13,M22,16260,"#,##0"
+2014-09-30,New registrations: exempted,-6.334841628959276,%,2014-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D107,-0.06334841628959276,0.0%
+2014-09-30,New registrations: exempted,207,business registrations,2014-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,D23,207,General
+2014-09-30,New registrations: international exempted partnerships,-84,%,2014-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E107,-0.84,0.0%
+2014-09-30,New registrations: international exempted partnerships,4,business registrations,2014-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,E23,4,General
+2014-09-30,New registrations: local,11.76470588235294,%,2014-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,C107,0.11764705882352941,0.0%
+2014-09-30,New registrations: local,38,business registrations,2014-Q3,Quarterly,Value,,,reported,,,,Table13,C23,38,General
+2014-09-30,New registrations: non-resident,175,%,2014-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F107,1.75,0.0%
+2014-09-30,New registrations: non-resident,22,business registrations,2014-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,F23,22,General
+2014-09-30,On register: exempted,1.2663717581750369,%,2014-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I107,0.012663717581750368,0.0%
+2014-09-30,On register: exempted,11675,business registrations,2014-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,I23,11675,"#,##0"
+2014-09-30,On register: international exempted partnerships,1.337448559670782,%,2014-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J107,0.013374485596707819,0.0%
+2014-09-30,On register: international exempted partnerships,985,business registrations,2014-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,J23,985,"#,##0"
+2014-09-30,On register: local,0,%,2014-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,H107,0,0.0%
+2014-09-30,On register: local,3190,business registrations,2014-Q3,Quarterly,Value,,,reported,,,,Table13,H23,3190,"#,##0"
+2014-09-30,On register: non-resident,6.095238095238095,%,2014-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K107,0.06095238095238095,0.0%
+2014-09-30,On register: non-resident,557,business registrations,2014-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,K23,557,General
+2014-09-30,On register: non-resident insurance,-20,%,2014-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L107,-0.2,0.0%
+2014-09-30,On register: non-resident insurance,8,business registrations,2014-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,L23,8,General
+2014-09-30,Total new registrations,-5.902777777777778,%,2014-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,G107,-0.059027777777777776,0.0%
+2014-09-30,Total new registrations,271,business registrations,2014-Q3,Quarterly,Value,,,reported,,,,Table13,G23,271,General
+2014-09-30,Total on register,1.1647972389991372,%,2014-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,M107,0.011647972389991372,0.0%
+2014-09-30,Total on register,16415,business registrations,2014-Q3,Quarterly,Value,,,reported,,,,Table13,M23,16415,"#,##0"
+2014-12-31,New registrations: exempted,-15.56420233463035,%,2014-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D108,-0.1556420233463035,0.0%
+2014-12-31,New registrations: exempted,217,business registrations,2014-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,D24,217,General
+2014-12-31,New registrations: international exempted partnerships,-22.22222222222222,%,2014-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E108,-0.2222222222222222,0.0%
+2014-12-31,New registrations: international exempted partnerships,21,business registrations,2014-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,E24,21,General
+2014-12-31,New registrations: local,54.54545454545454,%,2014-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,C108,0.5454545454545454,0.0%
+2014-12-31,New registrations: local,51,business registrations,2014-Q4,Quarterly,Value,,,reported,,,,Table13,C24,51,General
+2014-12-31,New registrations: non-resident,260,%,2014-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F108,2.6,0.0%
+2014-12-31,New registrations: non-resident,18,business registrations,2014-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,F24,18,General
+2014-12-31,On register: exempted,0.4492600422832981,%,2014-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I108,0.004492600422832981,0.0%
+2014-12-31,On register: exempted,11403,business registrations,2014-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,I24,11403,"#,##0"
+2014-12-31,On register: international exempted partnerships,0.5102040816326531,%,2014-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J108,0.00510204081632653,0.0%
+2014-12-31,On register: international exempted partnerships,985,business registrations,2014-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,J24,985,"#,##0"
+2014-12-31,On register: local,3.104,%,2014-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,H108,0.03104,0.0%
+2014-12-31,On register: local,3222,business registrations,2014-Q4,Quarterly,Value,,,reported,,,,Table13,H24,3222,"#,##0"
+2014-12-31,On register: non-resident,9.213051823416507,%,2014-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K108,0.09213051823416507,0.0%
+2014-12-31,On register: non-resident,569,business registrations,2014-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,K24,569,General
+2014-12-31,On register: non-resident insurance,-20,%,2014-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L108,-0.2,0.0%
+2014-12-31,On register: non-resident insurance,8,business registrations,2014-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,L24,8,General
+2014-12-31,Total new registrations,-4.658385093167702,%,2014-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,G108,-0.046583850931677016,0.0%
+2014-12-31,Total new registrations,307,business registrations,2014-Q4,Quarterly,Value,,,reported,,,,Table13,G24,307,General
+2014-12-31,Total on register,1.244683512634476,%,2014-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,M108,0.01244683512634476,0.0%
+2014-12-31,Total on register,16187,business registrations,2014-Q4,Quarterly,Value,,,reported,,,,Table13,M24,16187,"#,##0"
+2015-03-31,New registrations: exempted,-27.391304347826086,%,2015-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D110,-0.27391304347826084,0.0%
+2015-03-31,New registrations: exempted,167,business registrations,2015-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,D26,167,General
+2015-03-31,New registrations: international exempted partnerships,-30,%,2015-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E110,-0.3,0.0%
+2015-03-31,New registrations: international exempted partnerships,14,business registrations,2015-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,E26,14,General
+2015-03-31,New registrations: local,80.76923076923077,%,2015-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,C110,0.8076923076923077,0.0%
+2015-03-31,New registrations: local,47,business registrations,2015-Q1,Quarterly,Value,,,reported,,,,Table13,C26,47,General
+2015-03-31,New registrations: non-resident,-60,%,2015-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F110,-0.6,0.0%
+2015-03-31,New registrations: non-resident,6,business registrations,2015-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,F26,6,General
+2015-03-31,On register: exempted,-0.48114775610182836,%,2015-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I110,-0.004811477561018284,0.0%
+2015-03-31,On register: exempted,11376,business registrations,2015-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,I26,11376,"#,##0"
+2015-03-31,On register: international exempted partnerships,1.2244897959183674,%,2015-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J110,0.012244897959183673,0.0%
+2015-03-31,On register: international exempted partnerships,992,business registrations,2015-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,J26,992,"#,##0"
+2015-03-31,On register: local,1.494910941475827,%,2015-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,H110,0.01494910941475827,0.0%
+2015-03-31,On register: local,3191,business registrations,2015-Q1,Quarterly,Value,,,reported,,,,Table13,H26,3191,"#,##0"
+2015-03-31,On register: non-resident,5.440900562851782,%,2015-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K110,0.054409005628517824,0.0%
+2015-03-31,On register: non-resident,562,business registrations,2015-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,K26,562,General
+2015-03-31,On register: non-resident insurance,-20,%,2015-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L110,-0.2,0.0%
+2015-03-31,On register: non-resident insurance,8,business registrations,2015-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,L26,8,General
+2015-03-31,Total new registrations,-19.587628865979383,%,2015-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,G110,-0.1958762886597938,0.0%
+2015-03-31,Total new registrations,234,business registrations,2015-Q1,Quarterly,Value,,,reported,,,,Table13,G26,234,General
+2015-03-31,Total on register,0.19257050565287612,%,2015-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,M110,0.0019257050565287613,0.0%
+2015-03-31,Total on register,16129,business registrations,2015-Q1,Quarterly,Value,,,reported,,,,Table13,M26,16129,"#,##0"
+2015-06-30,New registrations: exempted,-29.48717948717949,%,2015-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D111,-0.2948717948717949,0.0%
+2015-06-30,New registrations: exempted,165,business registrations,2015-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,D27,165,General
+2015-06-30,New registrations: international exempted partnerships,60,%,2015-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E111,0.6,0.0%
+2015-06-30,New registrations: international exempted partnerships,32,business registrations,2015-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,E27,32,General
+2015-06-30,New registrations: local,7.317073170731707,%,2015-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,C111,0.07317073170731707,0.0%
+2015-06-30,New registrations: local,44,business registrations,2015-Q2,Quarterly,Value,,,reported,,,,Table13,C27,44,General
+2015-06-30,New registrations: non-resident,7.142857142857142,%,2015-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F111,0.07142857142857142,0.0%
+2015-06-30,New registrations: non-resident,15,business registrations,2015-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,F27,15,General
+2015-06-30,On register: exempted,-0.9700329118309372,%,2015-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I111,-0.009700329118309372,0.0%
+2015-06-30,On register: exempted,11434,business registrations,2015-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,I27,11434,"#,##0"
+2015-06-30,On register: international exempted partnerships,2.014098690835851,%,2015-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J111,0.02014098690835851,0.0%
+2015-06-30,On register: international exempted partnerships,1013,business registrations,2015-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,J27,1013,"#,##0"
+2015-06-30,On register: local,1.6403785488958993,%,2015-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,H111,0.016403785488958992,0.0%
+2015-06-30,On register: local,3222,business registrations,2015-Q2,Quarterly,Value,,,reported,,,,Table13,H27,3222,"#,##0"
+2015-06-30,On register: non-resident,6.284658040665435,%,2015-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K111,0.06284658040665435,0.0%
+2015-06-30,On register: non-resident,575,business registrations,2015-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,K27,575,General
+2015-06-30,On register: non-resident insurance,-20,%,2015-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L111,-0.2,0.0%
+2015-06-30,On register: non-resident insurance,8,business registrations,2015-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,L27,8,General
+2015-06-30,Total new registrations,-17.15210355987055,%,2015-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,G111,-0.1715210355987055,0.0%
+2015-06-30,Total new registrations,256,business registrations,2015-Q2,Quarterly,Value,,,reported,,,,Table13,G27,256,General
+2015-06-30,Total on register,-0.04920049200492004,%,2015-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,M111,-0.0004920049200492004,0.0%
+2015-06-30,Total on register,16252,business registrations,2015-Q2,Quarterly,Value,,,reported,,,,Table13,M27,16252,"#,##0"
+2015-09-30,New registrations: exempted,-26.08695652173913,%,2015-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D112,-0.2608695652173913,0.0%
+2015-09-30,New registrations: exempted,153,business registrations,2015-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,D28,153,General
+2015-09-30,New registrations: international exempted partnerships,225,%,2015-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E112,2.25,0.0%
+2015-09-30,New registrations: international exempted partnerships,13,business registrations,2015-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,E28,13,General
+2015-09-30,New registrations: local,7.894736842105263,%,2015-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,C112,0.07894736842105263,0.0%
+2015-09-30,New registrations: local,41,business registrations,2015-Q3,Quarterly,Value,,,reported,,,,Table13,C28,41,General
+2015-09-30,New registrations: non-resident,-27.27272727272727,%,2015-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F112,-0.2727272727272727,0.0%
+2015-09-30,New registrations: non-resident,16,business registrations,2015-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,F28,16,General
+2015-09-30,On register: exempted,-1.4989293361884368,%,2015-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I112,-0.014989293361884369,0.0%
+2015-09-30,On register: exempted,11500,business registrations,2015-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,I28,11500,"#,##0"
+2015-09-30,On register: international exempted partnerships,3.5532994923857872,%,2015-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J112,0.03553299492385787,0.0%
+2015-09-30,On register: international exempted partnerships,1020,business registrations,2015-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,J28,1020,"#,##0"
+2015-09-30,On register: local,2.1316614420062696,%,2015-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,H112,0.021316614420062698,0.0%
+2015-09-30,On register: local,3258,business registrations,2015-Q3,Quarterly,Value,,,reported,,,,Table13,H28,3258,"#,##0"
+2015-09-30,On register: non-resident,5.026929982046679,%,2015-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K112,0.05026929982046679,0.0%
+2015-09-30,On register: non-resident,585,business registrations,2015-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,K28,585,General
+2015-09-30,On register: non-resident insurance,0,%,2015-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L112,0,0.0%
+2015-09-30,On register: non-resident insurance,8,business registrations,2015-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,L28,8,General
+2015-09-30,Total new registrations,-17.712177121771216,%,2015-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,G112,-0.17712177121771217,0.0%
+2015-09-30,Total new registrations,223,business registrations,2015-Q3,Quarterly,Value,,,reported,,,,Table13,G28,223,General
+2015-09-30,Total on register,-0.2680475175144685,%,2015-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,M112,-0.0026804751751446847,0.0%
+2015-09-30,Total on register,16371,business registrations,2015-Q3,Quarterly,Value,,,reported,,,,Table13,M28,16371,"#,##0"
+2015-12-31,New registrations: exempted,23.04147465437788,%,2015-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D113,0.2304147465437788,0.0%
+2015-12-31,New registrations: exempted,267,business registrations,2015-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,D29,267,General
+2015-12-31,New registrations: international exempted partnerships,76.19047619047619,%,2015-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E113,0.7619047619047619,0.0%
+2015-12-31,New registrations: international exempted partnerships,37,business registrations,2015-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,E29,37,General
+2015-12-31,New registrations: local,9.803921568627452,%,2015-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,C113,0.09803921568627451,0.0%
+2015-12-31,New registrations: local,56,business registrations,2015-Q4,Quarterly,Value,,,reported,,,,Table13,C29,56,General
+2015-12-31,New registrations: non-resident,-38.88888888888889,%,2015-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F113,-0.3888888888888889,0.0%
+2015-12-31,New registrations: non-resident,11,business registrations,2015-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,F29,11,General
+2015-12-31,On register: exempted,1.271595194247128,%,2015-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I113,0.01271595194247128,0.0%
+2015-12-31,On register: exempted,11548,business registrations,2015-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,I29,11548,"#,##0"
+2015-12-31,On register: international exempted partnerships,3.7563451776649748,%,2015-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J113,0.03756345177664975,0.0%
+2015-12-31,On register: international exempted partnerships,1022,business registrations,2015-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,J29,1022,"#,##0"
+2015-12-31,On register: local,2.638112973308504,%,2015-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,H113,0.02638112973308504,0.0%
+2015-12-31,On register: local,3307,business registrations,2015-Q4,Quarterly,Value,,,reported,,,,Table13,H29,3307,"#,##0"
+2015-12-31,On register: non-resident,4.569420035149385,%,2015-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K113,0.04569420035149385,0.0%
+2015-12-31,On register: non-resident,595,business registrations,2015-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,K29,595,General
+2015-12-31,On register: non-resident insurance,0,%,2015-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L113,0,0.0%
+2015-12-31,On register: non-resident insurance,8,business registrations,2015-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,L29,8,General
+2015-12-31,Total new registrations,20.846905537459286,%,2015-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,G113,0.20846905537459284,0.0%
+2015-12-31,Total new registrations,371,business registrations,2015-Q4,Quarterly,Value,,,reported,,,,Table13,G29,371,General
+2015-12-31,Total on register,1.810094520294063,%,2015-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,M113,0.01810094520294063,0.0%
+2015-12-31,Total on register,16480,business registrations,2015-Q4,Quarterly,Value,,,reported,,,,Table13,M29,16480,"#,##0"
+2016-03-31,New registrations: exempted,-3.592814371257485,%,2016-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D115,-0.03592814371257485,0.0%
+2016-03-31,New registrations: exempted,161,business registrations,2016-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,D31,161,General
+2016-03-31,New registrations: international exempted partnerships,71.42857142857143,%,2016-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E115,0.7142857142857143,0.0%
+2016-03-31,New registrations: international exempted partnerships,24,business registrations,2016-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,E31,24,General
+2016-03-31,New registrations: local,55.319148936170215,%,2016-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,C115,0.5531914893617021,0.0%
+2016-03-31,New registrations: local,73,business registrations,2016-Q1,Quarterly,Value,,,reported,,,,Table13,C31,73,General
+2016-03-31,New registrations: non-resident,-66.66666666666666,%,2016-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F115,-0.6666666666666666,0.0%
+2016-03-31,New registrations: non-resident,2,business registrations,2016-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,F31,2,General
+2016-03-31,On register: exempted,1.4064697609001406,%,2016-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I115,0.014064697609001406,0.0%
+2016-03-31,On register: exempted,11536,business registrations,2016-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,I31,11536,"#,##0"
+2016-03-31,On register: international exempted partnerships,4.133064516129032,%,2016-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J115,0.04133064516129032,0.0%
+2016-03-31,On register: international exempted partnerships,1033,business registrations,2016-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,J31,1033,"#,##0"
+2016-03-31,On register: local,5.703541209652147,%,2016-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,H115,0.057035412096521465,0.0%
+2016-03-31,On register: local,3373,business registrations,2016-Q1,Quarterly,Value,,,reported,,,,Table13,H31,3373,"#,##0"
+2016-03-31,On register: non-resident,2.8469750889679712,%,2016-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K115,0.028469750889679714,0.0%
+2016-03-31,On register: non-resident,578,business registrations,2016-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,K31,578,General
+2016-03-31,On register: non-resident insurance,0,%,2016-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L115,0,0.0%
+2016-03-31,On register: non-resident insurance,8,business registrations,2016-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,L31,8,General
+2016-03-31,Total new registrations,11.11111111111111,%,2016-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,G115,0.1111111111111111,0.0%
+2016-03-31,Total new registrations,260,business registrations,2016-Q1,Quarterly,Value,,,reported,,,,Table13,G31,260,General
+2016-03-31,Total on register,2.4738049476098953,%,2016-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,M115,0.024738049476098953,0.0%
+2016-03-31,Total on register,16528,business registrations,2016-Q1,Quarterly,Value,,,reported,,,,Table13,M31,16528,"#,##0"
+2016-06-30,New registrations: exempted,-8.484848484848486,%,2016-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D116,-0.08484848484848485,0.0%
+2016-06-30,New registrations: exempted,151,business registrations,2016-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,D32,151,General
+2016-06-30,New registrations: international exempted partnerships,46.875,%,2016-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E116,0.46875,0.0%
+2016-06-30,New registrations: international exempted partnerships,47,business registrations,2016-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,E32,47,General
+2016-06-30,New registrations: local,13.636363636363635,%,2016-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,C116,0.13636363636363635,0.0%
+2016-06-30,New registrations: local,50,business registrations,2016-Q2,Quarterly,Value,,,reported,,,,Table13,C32,50,General
+2016-06-30,New registrations: non-resident,-6.666666666666667,%,2016-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F116,-0.06666666666666667,0.0%
+2016-06-30,New registrations: non-resident,14,business registrations,2016-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,F32,14,General
+2016-06-30,On register: exempted,1.2856393213223718,%,2016-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I116,0.012856393213223719,0.0%
+2016-06-30,On register: exempted,11581,business registrations,2016-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,I32,11581,"#,##0"
+2016-06-30,On register: international exempted partnerships,5.034550839091807,%,2016-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J116,0.050345508390918066,0.0%
+2016-06-30,On register: international exempted partnerships,1064,business registrations,2016-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,J32,1064,"#,##0"
+2016-06-30,On register: local,6.021104903786468,%,2016-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,H116,0.06021104903786468,0.0%
+2016-06-30,On register: local,3416,business registrations,2016-Q2,Quarterly,Value,,,reported,,,,Table13,H32,3416,"#,##0"
+2016-06-30,On register: non-resident,2.086956521739131,%,2016-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K116,0.020869565217391306,0.0%
+2016-06-30,On register: non-resident,587,business registrations,2016-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,K32,587,General
+2016-06-30,On register: non-resident insurance,0,%,2016-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L116,0,0.0%
+2016-06-30,On register: non-resident insurance,8,business registrations,2016-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,L32,8,General
+2016-06-30,Total new registrations,2.34375,%,2016-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,G116,0.0234375,0.0%
+2016-06-30,Total new registrations,262,business registrations,2016-Q2,Quarterly,Value,,,reported,,,,Table13,G32,262,General
+2016-06-30,Total on register,2.485847895643613,%,2016-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,M116,0.02485847895643613,0.0%
+2016-06-30,Total on register,16656,business registrations,2016-Q2,Quarterly,Value,,,reported,,,,Table13,M32,16656,"#,##0"
+2016-09-30,New registrations: exempted,1.3071895424836601,%,2016-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D117,0.013071895424836602,0.0%
+2016-09-30,New registrations: exempted,155,business registrations,2016-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,D33,155,General
+2016-09-30,New registrations: international exempted partnerships,38.46153846153847,%,2016-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E117,0.38461538461538464,0.0%
+2016-09-30,New registrations: international exempted partnerships,18,business registrations,2016-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,E33,18,General
+2016-09-30,New registrations: local,53.65853658536586,%,2016-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,C117,0.5365853658536586,0.0%
+2016-09-30,New registrations: local,63,business registrations,2016-Q3,Quarterly,Value,,,reported,,,,Table13,C33,63,General
+2016-09-30,New registrations: non-resident,-75,%,2016-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F117,-0.75,0.0%
+2016-09-30,New registrations: non-resident,4,business registrations,2016-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,F33,4,General
+2016-09-30,On register: exempted,-1.434782608695652,%,2016-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I117,-0.014347826086956521,0.0%
+2016-09-30,On register: exempted,11335,business registrations,2016-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,I33,11335,"#,##0"
+2016-09-30,On register: international exempted partnerships,5.196078431372549,%,2016-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J117,0.05196078431372549,0.0%
+2016-09-30,On register: international exempted partnerships,1073,business registrations,2016-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,J33,1073,"#,##0"
+2016-09-30,On register: local,1.8723143032535299,%,2016-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,H117,0.0187231430325353,0.0%
+2016-09-30,On register: local,3319,business registrations,2016-Q3,Quarterly,Value,,,reported,,,,Table13,H33,3319,"#,##0"
+2016-09-30,On register: non-resident,-0.17094017094017094,%,2016-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K117,-0.0017094017094017094,0.0%
+2016-09-30,On register: non-resident,584,business registrations,2016-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,K33,584,General
+2016-09-30,On register: non-resident insurance,0,%,2016-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L117,0,0.0%
+2016-09-30,On register: non-resident insurance,8,business registrations,2016-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,L33,8,General
+2016-09-30,Total new registrations,7.623318385650224,%,2016-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,G117,0.07623318385650224,0.0%
+2016-09-30,Total new registrations,240,business registrations,2016-Q3,Quarterly,Value,,,reported,,,,Table13,G33,240,General
+2016-09-30,Total on register,-0.3176348420988333,%,2016-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,M117,-0.003176348420988333,0.0%
+2016-09-30,Total on register,16319,business registrations,2016-Q3,Quarterly,Value,,,reported,,,,Table13,M33,16319,"#,##0"
+2016-12-31,New registrations: exempted,-24.719101123595504,%,2016-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D118,-0.24719101123595505,0.0%
+2016-12-31,New registrations: exempted,201,business registrations,2016-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,D34,201,General
+2016-12-31,New registrations: international exempted partnerships,-45.94594594594595,%,2016-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E118,-0.4594594594594595,0.0%
+2016-12-31,New registrations: international exempted partnerships,20,business registrations,2016-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,E34,20,General
+2016-12-31,New registrations: local,-35.714285714285715,%,2016-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,C118,-0.35714285714285715,0.0%
+2016-12-31,New registrations: local,36,business registrations,2016-Q4,Quarterly,Value,,,reported,,,,Table13,C34,36,General
+2016-12-31,New registrations: non-resident,-27.27272727272727,%,2016-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F118,-0.2727272727272727,0.0%
+2016-12-31,New registrations: non-resident,8,business registrations,2016-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,F34,8,General
+2016-12-31,On register: exempted,-3.0914444059577417,%,2016-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I118,-0.030914444059577415,0.0%
+2016-12-31,On register: exempted,11191,business registrations,2016-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,I34,11191,"#,##0"
+2016-12-31,On register: international exempted partnerships,3.326810176125244,%,2016-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J118,0.033268101761252444,0.0%
+2016-12-31,On register: international exempted partnerships,1056,business registrations,2016-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,J34,1056,"#,##0"
+2016-12-31,On register: local,1.7236165709101903,%,2016-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,H118,0.017236165709101903,0.0%
+2016-12-31,On register: local,3364,business registrations,2016-Q4,Quarterly,Value,,,reported,,,,Table13,H34,3364,"#,##0"
+2016-12-31,On register: non-resident,-1.680672268907563,%,2016-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K118,-0.01680672268907563,0.0%
+2016-12-31,On register: non-resident,585,business registrations,2016-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,K34,585,General
+2016-12-31,On register: non-resident insurance,0,%,2016-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L118,0,0.0%
+2016-12-31,On register: non-resident insurance,8,business registrations,2016-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,L34,8,General
+2016-12-31,Total new registrations,-28.57142857142857,%,2016-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,G118,-0.2857142857142857,0.0%
+2016-12-31,Total new registrations,265,business registrations,2016-Q4,Quarterly,Value,,,reported,,,,Table13,G34,265,General
+2016-12-31,Total on register,-1.674757281553398,%,2016-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,M118,-0.01674757281553398,0.0%
+2016-12-31,Total on register,16204,business registrations,2016-Q4,Quarterly,Value,,,reported,,,,Table13,M34,16204,"#,##0"
+2017-03-31,New registrations: exempted,-3.7267080745341614,%,2017-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D120,-0.037267080745341616,0.0%
+2017-03-31,New registrations: exempted,155,business registrations,2017-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,D36,155,General
+2017-03-31,New registrations: international exempted partnerships,16.666666666666664,%,2017-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E120,0.16666666666666666,0.0%
+2017-03-31,New registrations: international exempted partnerships,28,business registrations,2017-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,E36,28,General
+2017-03-31,New registrations: local,-30.136986301369863,%,2017-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,C120,-0.3013698630136986,0.0%
+2017-03-31,New registrations: local,51,business registrations,2017-Q1,Quarterly,Value,,,reported,,,,Table13,C36,51,General
+2017-03-31,New registrations: non-resident,1100,%,2017-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F120,11,0.0%
+2017-03-31,New registrations: non-resident,24,business registrations,2017-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,F36,24,General
+2017-03-31,On register: exempted,-3.016643550624133,%,2017-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I120,-0.030166435506241332,0.0%
+2017-03-31,On register: exempted,11188,business registrations,2017-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,I36,11188,"#,##0"
+2017-03-31,On register: international exempted partnerships,3.969022265246854,%,2017-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J120,0.03969022265246854,0.0%
+2017-03-31,On register: international exempted partnerships,1074,business registrations,2017-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,J36,1074,"#,##0"
+2017-03-31,On register: local,-2.4014230655203086,%,2017-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,H120,-0.024014230655203084,0.0%
+2017-03-31,On register: local,3292,business registrations,2017-Q1,Quarterly,Value,,,reported,,,,Table13,H36,3292,"#,##0"
+2017-03-31,On register: non-resident,4.325259515570934,%,2017-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K120,0.04325259515570934,0.0%
+2017-03-31,On register: non-resident,603,business registrations,2017-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,K36,603,General
+2017-03-31,On register: non-resident insurance,0,%,2017-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L120,0,0.0%
+2017-03-31,On register: non-resident insurance,8,business registrations,2017-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,L36,8,General
+2017-03-31,Total new registrations,-0.7692307692307693,%,2017-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,G120,-0.007692307692307693,0.0%
+2017-03-31,Total new registrations,258,business registrations,2017-Q1,Quarterly,Value,,,reported,,,,Table13,G36,258,General
+2017-03-31,Total on register,-2.196272991287512,%,2017-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,M120,-0.02196272991287512,0.0%
+2017-03-31,Total on register,16165,business registrations,2017-Q1,Quarterly,Value,,,reported,,,,Table13,M36,16165,"#,##0"
+2017-06-30,New registrations: exempted,-4.635761589403973,%,2017-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D121,-0.046357615894039736,0.0%
+2017-06-30,New registrations: exempted,144,business registrations,2017-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,D37,144,General
+2017-06-30,New registrations: international exempted partnerships,-80.85106382978722,%,2017-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E121,-0.8085106382978723,0.0%
+2017-06-30,New registrations: international exempted partnerships,9,business registrations,2017-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,E37,9,General
+2017-06-30,New registrations: local,-10,%,2017-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,C121,-0.1,0.0%
+2017-06-30,New registrations: local,45,business registrations,2017-Q2,Quarterly,Value,,,reported,,,,Table13,C37,45,General
+2017-06-30,New registrations: non-resident,-85.71428571428571,%,2017-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F121,-0.8571428571428571,0.0%
+2017-06-30,New registrations: non-resident,2,business registrations,2017-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,F37,2,General
+2017-06-30,On register: exempted,-3.203523011829721,%,2017-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I121,-0.03203523011829721,0.0%
+2017-06-30,On register: exempted,11210,business registrations,2017-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,I37,11210,"#,##0"
+2017-06-30,On register: international exempted partnerships,1.0338345864661653,%,2017-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J121,0.010338345864661654,0.0%
+2017-06-30,On register: international exempted partnerships,1075,business registrations,2017-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,J37,1075,"#,##0"
+2017-06-30,On register: local,-2.459016393442623,%,2017-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,H121,-0.02459016393442623,0.0%
+2017-06-30,On register: local,3332,business registrations,2017-Q2,Quarterly,Value,,,reported,,,,Table13,H37,3332,"#,##0"
+2017-06-30,On register: non-resident,3.0664395229982966,%,2017-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K121,0.030664395229982964,0.0%
+2017-06-30,On register: non-resident,605,business registrations,2017-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,K37,605,General
+2017-06-30,On register: non-resident insurance,0,%,2017-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L121,0,0.0%
+2017-06-30,On register: non-resident insurance,8,business registrations,2017-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,L37,8,General
+2017-06-30,Total new registrations,-23.66412213740458,%,2017-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,G121,-0.2366412213740458,0.0%
+2017-06-30,Total new registrations,200,business registrations,2017-Q2,Quarterly,Value,,,reported,,,,Table13,G37,200,General
+2017-06-30,Total on register,-2.5576368876080693,%,2017-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,M121,-0.025576368876080693,0.0%
+2017-06-30,Total on register,16230,business registrations,2017-Q2,Quarterly,Value,,,reported,,,,Table13,M37,16230,"#,##0"
+2017-09-30,New registrations: exempted,-5.806451612903226,%,2017-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D122,-0.05806451612903226,0.0%
+2017-09-30,New registrations: exempted,146,business registrations,2017-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,D38,146,General
+2017-09-30,New registrations: international exempted partnerships,0,%,2017-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E122,0,0.0%
+2017-09-30,New registrations: international exempted partnerships,18,business registrations,2017-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,E38,18,General
+2017-09-30,New registrations: local,-44.44444444444444,%,2017-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,C122,-0.4444444444444444,0.0%
+2017-09-30,New registrations: local,35,business registrations,2017-Q3,Quarterly,Value,,,reported,,,,Table13,C38,35,General
+2017-09-30,New registrations: non-resident,-50,%,2017-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F122,-0.5,0.0%
+2017-09-30,New registrations: non-resident,2,business registrations,2017-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,F38,2,General
+2017-09-30,On register: exempted,-0.9175121305690339,%,2017-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I122,-0.009175121305690339,0.0%
+2017-09-30,On register: exempted,11231,business registrations,2017-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,I38,11231,"#,##0"
+2017-09-30,On register: international exempted partnerships,0.5591798695246971,%,2017-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J122,0.005591798695246971,0.0%
+2017-09-30,On register: international exempted partnerships,1079,business registrations,2017-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,J38,1079,"#,##0"
+2017-09-30,On register: local,1.3558300692979812,%,2017-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,H122,0.013558300692979813,0.0%
+2017-09-30,On register: local,3364,business registrations,2017-Q3,Quarterly,Value,,,reported,,,,Table13,H38,3364,"#,##0"
+2017-09-30,On register: non-resident,2.910958904109589,%,2017-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K122,0.02910958904109589,0.0%
+2017-09-30,On register: non-resident,601,business registrations,2017-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,K38,601,General
+2017-09-30,On register: non-resident insurance,0,%,2017-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L122,0,0.0%
+2017-09-30,On register: non-resident insurance,8,business registrations,2017-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,L38,8,General
+2017-09-30,Total new registrations,-16.25,%,2017-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,G122,-0.1625,0.0%
+2017-09-30,Total new registrations,201,business registrations,2017-Q3,Quarterly,Value,,,reported,,,,Table13,G38,201,General
+2017-09-30,Total on register,-0.22060175255836753,%,2017-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,M122,-0.0022060175255836753,0.0%
+2017-09-30,Total on register,16283,business registrations,2017-Q3,Quarterly,Value,,,reported,,,,Table13,M38,16283,"#,##0"
+2017-12-31,New registrations: exempted,-0.4975124378109453,%,2017-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D123,-0.004975124378109453,0.0%
+2017-12-31,New registrations: exempted,200,business registrations,2017-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,D39,200,General
+2017-12-31,New registrations: international exempted partnerships,100,%,2017-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E123,1,0.0%
+2017-12-31,New registrations: international exempted partnerships,40,business registrations,2017-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,E39,40,General
+2017-12-31,New registrations: local,-25,%,2017-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,C123,-0.25,0.0%
+2017-12-31,New registrations: local,27,business registrations,2017-Q4,Quarterly,Value,,,reported,,,,Table13,C39,27,General
+2017-12-31,New registrations: non-resident,100,%,2017-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F123,1,0.0%
+2017-12-31,New registrations: non-resident,16,business registrations,2017-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,F39,16,General
+2017-12-31,On register: exempted,0.3574300777410419,%,2017-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I123,0.003574300777410419,0.0%
+2017-12-31,On register: exempted,11231,business registrations,2017-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,I39,11231,"#,##0"
+2017-12-31,On register: international exempted partnerships,3.977272727272727,%,2017-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J123,0.03977272727272727,0.0%
+2017-12-31,On register: international exempted partnerships,1098,business registrations,2017-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,J39,1098,"#,##0"
+2017-12-31,On register: local,0.5648038049940547,%,2017-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,H123,0.005648038049940547,0.0%
+2017-12-31,On register: local,3383,business registrations,2017-Q4,Quarterly,Value,,,reported,,,,Table13,H39,3383,"#,##0"
+2017-12-31,On register: non-resident,4.102564102564102,%,2017-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K123,0.041025641025641026,0.0%
+2017-12-31,On register: non-resident,609,business registrations,2017-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,K39,609,General
+2017-12-31,On register: non-resident insurance,0,%,2017-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L123,0,0.0%
+2017-12-31,On register: non-resident insurance,8,business registrations,2017-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,L39,8,General
+2017-12-31,Total new registrations,6.7924528301886795,%,2017-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,G123,0.06792452830188679,0.0%
+2017-12-31,Total new registrations,283,business registrations,2017-Q4,Quarterly,Value,,,reported,,,,Table13,G39,283,General
+2017-12-31,Total on register,0.7714144655640582,%,2017-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,M123,0.007714144655640583,0.0%
+2017-12-31,Total on register,16329,business registrations,2017-Q4,Quarterly,Value,,,reported,,,,Table13,M39,16329,"#,##0"
+2018-03-31,New registrations: exempted,-13.548387096774196,%,2018-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D125,-0.13548387096774195,0.0%
+2018-03-31,New registrations: exempted,134,business registrations,2018-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,D41,134,General
+2018-03-31,New registrations: international exempted partnerships,7.142857142857142,%,2018-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E125,0.07142857142857142,0.0%
+2018-03-31,New registrations: international exempted partnerships,30,business registrations,2018-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,E41,30,General
+2018-03-31,New registrations: local,-17.647058823529413,%,2018-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,C125,-0.17647058823529413,0.0%
+2018-03-31,New registrations: local,42,business registrations,2018-Q1,Quarterly,Value,,,reported,,,,Table13,C41,42,General
+2018-03-31,New registrations: non-resident,-91.66666666666666,%,2018-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F125,-0.9166666666666666,0.0%
+2018-03-31,New registrations: non-resident,2,business registrations,2018-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,F41,2,General
+2018-03-31,On register: exempted,0.1340722202359671,%,2018-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I125,0.001340722202359671,0.0%
+2018-03-31,On register: exempted,11203,business registrations,2018-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,I41,11203,"#,##0"
+2018-03-31,On register: international exempted partnerships,4.4692737430167595,%,2018-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J125,0.0446927374301676,0.0%
+2018-03-31,On register: international exempted partnerships,1122,business registrations,2018-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,J41,1122,"#,##0"
+2018-03-31,On register: local,3.9185905224787363,%,2018-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,H125,0.03918590522478736,0.0%
+2018-03-31,On register: local,3421,business registrations,2018-Q1,Quarterly,Value,,,reported,,,,Table13,H41,3421,"#,##0"
+2018-03-31,On register: non-resident,-8.291873963515755,%,2018-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K125,-0.08291873963515754,0.0%
+2018-03-31,On register: non-resident,553,business registrations,2018-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,K41,553,General
+2018-03-31,On register: non-resident insurance,0,%,2018-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L125,0,0.0%
+2018-03-31,On register: non-resident insurance,8,business registrations,2018-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,L41,8,General
+2018-03-31,Total new registrations,-19.379844961240313,%,2018-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,G125,-0.1937984496124031,0.0%
+2018-03-31,Total new registrations,208,business registrations,2018-Q1,Quarterly,Value,,,reported,,,,Table13,G41,208,General
+2018-03-31,Total on register,0.8784410763996288,%,2018-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,M125,0.008784410763996288,0.0%
+2018-03-31,Total on register,16307,business registrations,2018-Q1,Quarterly,Value,,,reported,,,,Table13,M41,16307,"#,##0"
+2018-06-30,New registrations: exempted,2.083333333333333,%,2018-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D126,0.020833333333333332,0.0%
+2018-06-30,New registrations: exempted,147,business registrations,2018-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,D42,147,General
+2018-06-30,New registrations: international exempted partnerships,677.7777777777777,%,2018-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E126,6.777777777777778,0.0%
+2018-06-30,New registrations: international exempted partnerships,70,business registrations,2018-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,E42,70,General
+2018-06-30,New registrations: local,17.77777777777778,%,2018-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,C126,0.17777777777777778,0.0%
+2018-06-30,New registrations: local,53,business registrations,2018-Q2,Quarterly,Value,,,reported,,,,Table13,C42,53,General
+2018-06-30,New registrations: non-resident,850,%,2018-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F126,8.5,0.0%
+2018-06-30,New registrations: non-resident,19,business registrations,2018-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,F42,19,General
+2018-06-30,On register: exempted,0,%,2018-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I126,0,0.0%
+2018-06-30,On register: exempted,11210,business registrations,2018-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,I42,11210,"#,##0"
+2018-06-30,On register: international exempted partnerships,9.674418604651162,%,2018-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J126,0.09674418604651162,0.0%
+2018-06-30,On register: international exempted partnerships,1179,business registrations,2018-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,J42,1179,"#,##0"
+2018-06-30,On register: local,4.051620648259304,%,2018-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,H126,0.040516206482593034,0.0%
+2018-06-30,On register: local,3467,business registrations,2018-Q2,Quarterly,Value,,,reported,,,,Table13,H42,3467,"#,##0"
+2018-06-30,On register: non-resident,-6.6115702479338845,%,2018-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K126,-0.06611570247933884,0.0%
+2018-06-30,On register: non-resident,565,business registrations,2018-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,K42,565,General
+2018-06-30,On register: non-resident insurance,0,%,2018-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L126,0,0.0%
+2018-06-30,On register: non-resident insurance,8,business registrations,2018-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,L42,8,General
+2018-06-30,Total new registrations,44.5,%,2018-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,G126,0.445,0.0%
+2018-06-30,Total new registrations,289,business registrations,2018-Q2,Quarterly,Value,,,reported,,,,Table13,G42,289,General
+2018-06-30,Total on register,1.2261244608749229,%,2018-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,M126,0.012261244608749229,0.0%
+2018-06-30,Total on register,16429,business registrations,2018-Q2,Quarterly,Value,,,reported,,,,Table13,M42,16429,"#,##0"
+2018-09-30,New registrations: exempted,6.164383561643835,%,2018-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D127,0.06164383561643835,0.0%
+2018-09-30,New registrations: exempted,155,business registrations,2018-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,D43,155,General
+2018-09-30,New registrations: international exempted partnerships,66.66666666666666,%,2018-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E127,0.6666666666666666,0.0%
+2018-09-30,New registrations: international exempted partnerships,30,business registrations,2018-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,E43,30,General
+2018-09-30,New registrations: local,45.714285714285715,%,2018-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,C127,0.45714285714285713,0.0%
+2018-09-30,New registrations: local,51,business registrations,2018-Q3,Quarterly,Value,,,reported,,,,Table13,C43,51,General
+2018-09-30,New registrations: non-resident,0,%,2018-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F127,0,0.0%
+2018-09-30,New registrations: non-resident,2,business registrations,2018-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,F43,2,General
+2018-09-30,On register: exempted,-2.065710978541537,%,2018-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I127,-0.020657109785415368,0.0%
+2018-09-30,On register: exempted,10999,business registrations,2018-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,I43,10999,"#,##0"
+2018-09-30,On register: international exempted partnerships,10.472659870250231,%,2018-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J127,0.10472659870250231,0.0%
+2018-09-30,On register: international exempted partnerships,1192,business registrations,2018-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,J43,1192,"#,##0"
+2018-09-30,On register: local,1.426872770511296,%,2018-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,H127,0.014268727705112961,0.0%
+2018-09-30,On register: local,3412,business registrations,2018-Q3,Quarterly,Value,,,reported,,,,Table13,H43,3412,"#,##0"
+2018-09-30,On register: non-resident,-7.487520798668886,%,2018-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K127,-0.07487520798668885,0.0%
+2018-09-30,On register: non-resident,556,business registrations,2018-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,K43,556,General
+2018-09-30,On register: non-resident insurance,0,%,2018-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L127,0,0.0%
+2018-09-30,On register: non-resident insurance,8,business registrations,2018-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,L43,8,General
+2018-09-30,Total new registrations,18.407960199004975,%,2018-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,G127,0.18407960199004975,0.0%
+2018-09-30,Total new registrations,238,business registrations,2018-Q3,Quarterly,Value,,,reported,,,,Table13,G43,238,General
+2018-09-30,Total on register,-0.7123994349935515,%,2018-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,M127,-0.007123994349935515,0.0%
+2018-09-30,Total on register,16167,business registrations,2018-Q3,Quarterly,Value,,,reported,,,,Table13,M43,16167,"#,##0"
+2018-12-31,New registrations: exempted,-9,%,2018-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D128,-0.09,0.0%
+2018-12-31,New registrations: exempted,182,business registrations,2018-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,D44,182,General
+2018-12-31,New registrations: international exempted partnerships,32.5,%,2018-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E128,0.325,0.0%
+2018-12-31,New registrations: international exempted partnerships,53,business registrations,2018-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,E44,53,General
+2018-12-31,New registrations: local,37.03703703703704,%,2018-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,C128,0.37037037037037035,0.0%
+2018-12-31,New registrations: local,37,business registrations,2018-Q4,Quarterly,Value,,,reported,,,,Table13,C44,37,General
+2018-12-31,New registrations: non-resident,-81.25,%,2018-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F128,-0.8125,0.0%
+2018-12-31,New registrations: non-resident,3,business registrations,2018-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,F44,3,General
+2018-12-31,On register: exempted,-0.9794319294809012,%,2018-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I128,-0.009794319294809012,0.0%
+2018-12-31,On register: exempted,11121,business registrations,2018-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,I44,11121,"#,##0"
+2018-12-31,On register: international exempted partnerships,13.20582877959927,%,2018-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J128,0.1320582877959927,0.0%
+2018-12-31,On register: international exempted partnerships,1243,business registrations,2018-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,J44,1243,"#,##0"
+2018-12-31,On register: local,1.8326928761454329,%,2018-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,H128,0.01832692876145433,0.0%
+2018-12-31,On register: local,3445,business registrations,2018-Q4,Quarterly,Value,,,reported,,,,Table13,H44,3445,"#,##0"
+2018-12-31,On register: non-resident,-10.344827586206897,%,2018-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K128,-0.10344827586206896,0.0%
+2018-12-31,On register: non-resident,546,business registrations,2018-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,K44,546,General
+2018-12-31,On register: non-resident insurance,0,%,2018-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L128,0,0.0%
+2018-12-31,On register: non-resident insurance,8,business registrations,2018-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,L44,8,General
+2018-12-31,Total new registrations,-2.8268551236749118,%,2018-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,G128,-0.028268551236749116,0.0%
+2018-12-31,Total new registrations,275,business registrations,2018-Q4,Quarterly,Value,,,reported,,,,Table13,G44,275,General
+2018-12-31,Total on register,0.20821850695082367,%,2018-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,M128,0.0020821850695082367,0.0%
+2018-12-31,Total on register,16363,business registrations,2018-Q4,Quarterly,Value,,,reported,,,,Table13,M44,16363,"#,##0"
+2019-03-31,New registrations: exempted,-8.955223880597014,%,2019-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D130,-0.08955223880597014,0.0%
+2019-03-31,New registrations: exempted,122,business registrations,2019-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,D46,122,General
+2019-03-31,New registrations: international exempted partnerships,-16.666666666666664,%,2019-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E130,-0.16666666666666666,0.0%
+2019-03-31,New registrations: international exempted partnerships,25,business registrations,2019-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,E46,25,General
+2019-03-31,New registrations: local,-4.761904761904762,%,2019-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,C130,-0.047619047619047616,0.0%
+2019-03-31,New registrations: local,40,business registrations,2019-Q1,Quarterly,Value,,,reported,,,,Table13,C46,40,General
+2019-03-31,New registrations: non-resident,0,%,2019-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F130,0,0.0%
+2019-03-31,New registrations: non-resident,2,business registrations,2019-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,F46,2,General
+2019-03-31,On register: exempted,-1.0086583950727483,%,2019-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I130,-0.010086583950727484,0.0%
+2019-03-31,On register: exempted,11090,business registrations,2019-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,I46,11090,"#,##0"
+2019-03-31,On register: international exempted partnerships,11.497326203208557,%,2019-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J130,0.11497326203208556,0.0%
+2019-03-31,On register: international exempted partnerships,1251,business registrations,2019-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,J46,1251,"#,##0"
+2019-03-31,On register: local,1.5492546039169834,%,2019-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,H130,0.015492546039169833,0.0%
+2019-03-31,On register: local,3474,business registrations,2019-Q1,Quarterly,Value,,,reported,,,,Table13,H46,3474,"#,##0"
+2019-03-31,On register: non-resident,-4.159132007233273,%,2019-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K130,-0.04159132007233273,0.0%
+2019-03-31,On register: non-resident,530,business registrations,2019-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,K46,530,General
+2019-03-31,On register: non-resident insurance,0,%,2019-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L130,0,0.0%
+2019-03-31,On register: non-resident insurance,8,business registrations,2019-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,L46,8,General
+2019-03-31,Total new registrations,-9.134615384615383,%,2019-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,G130,-0.09134615384615384,0.0%
+2019-03-31,Total new registrations,189,business registrations,2019-Q1,Quarterly,Value,,,reported,,,,Table13,G46,189,General
+2019-03-31,Total on register,0.2820874471086037,%,2019-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,M130,0.0028208744710860366,0.0%
+2019-03-31,Total on register,16353,business registrations,2019-Q1,Quarterly,Value,,,reported,,,,Table13,M46,16353,"#,##0"
+2019-06-30,New registrations: exempted,-8.16326530612245,%,2019-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D131,-0.08163265306122448,0.0%
+2019-06-30,New registrations: exempted,135,business registrations,2019-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,D47,135,General
+2019-06-30,New registrations: international exempted partnerships,-62.857142857142854,%,2019-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E131,-0.6285714285714286,0.0%
+2019-06-30,New registrations: international exempted partnerships,26,business registrations,2019-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,E47,26,General
+2019-06-30,New registrations: local,-3.7735849056603774,%,2019-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,C131,-0.03773584905660377,0.0%
+2019-06-30,New registrations: local,51,business registrations,2019-Q2,Quarterly,Value,,,reported,,,,Table13,C47,51,General
+2019-06-30,New registrations: non-resident,-100,%,2019-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F131,-1,0.0%
+2019-06-30,New registrations: non-resident,0,business registrations,2019-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,F47,0,General
+2019-06-30,On register: exempted,-0.7493309545049063,%,2019-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I131,-0.007493309545049063,0.0%
+2019-06-30,On register: exempted,11126,business registrations,2019-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,I47,11126,"#,##0"
+2019-06-30,On register: international exempted partnerships,7.718405428329092,%,2019-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J131,0.07718405428329092,0.0%
+2019-06-30,On register: international exempted partnerships,1270,business registrations,2019-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,J47,1270,"#,##0"
+2019-06-30,On register: local,1.528699163541967,%,2019-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,H131,0.015286991635419672,0.0%
+2019-06-30,On register: local,3520,business registrations,2019-Q2,Quarterly,Value,,,reported,,,,Table13,H47,3520,"#,##0"
+2019-06-30,On register: non-resident,-7.433628318584071,%,2019-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K131,-0.0743362831858407,0.0%
+2019-06-30,On register: non-resident,523,business registrations,2019-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,K47,523,General
+2019-06-30,On register: non-resident insurance,0,%,2019-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L131,0,0.0%
+2019-06-30,On register: non-resident insurance,8,business registrations,2019-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,L47,8,General
+2019-06-30,Total new registrations,-26.643598615916954,%,2019-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,G131,-0.2664359861591695,0.0%
+2019-06-30,Total new registrations,212,business registrations,2019-Q2,Quarterly,Value,,,reported,,,,Table13,G47,212,General
+2019-06-30,Total on register,0.10956235924280235,%,2019-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,M131,0.0010956235924280235,0.0%
+2019-06-30,Total on register,16447,business registrations,2019-Q2,Quarterly,Value,,,reported,,,,Table13,M47,16447,"#,##0"
+2019-09-30,New registrations: exempted,-10.32258064516129,%,2019-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D132,-0.1032258064516129,0.0%
+2019-09-30,New registrations: exempted,139,business registrations,2019-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,D48,139,General
+2019-09-30,New registrations: international exempted partnerships,-10,%,2019-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E132,-0.1,0.0%
+2019-09-30,New registrations: international exempted partnerships,27,business registrations,2019-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,E48,27,General
+2019-09-30,New registrations: local,-45.09803921568628,%,2019-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,C132,-0.45098039215686275,0.0%
+2019-09-30,New registrations: local,28,business registrations,2019-Q3,Quarterly,Value,,,reported,,,,Table13,C48,28,General
+2019-09-30,New registrations: non-resident,-100,%,2019-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F132,-1,0.0%
+2019-09-30,New registrations: non-resident,0,business registrations,2019-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,F48,0,General
+2019-09-30,On register: exempted,-1.409219019910901,%,2019-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I132,-0.01409219019910901,0.0%
+2019-09-30,On register: exempted,10844,business registrations,2019-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,I48,10844,"#,##0"
+2019-09-30,On register: international exempted partnerships,7.298657718120806,%,2019-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J132,0.07298657718120806,0.0%
+2019-09-30,On register: international exempted partnerships,1279,business registrations,2019-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,J48,1279,"#,##0"
+2019-09-30,On register: local,-1.3188745603751466,%,2019-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,H132,-0.013188745603751465,0.0%
+2019-09-30,On register: local,3367,business registrations,2019-Q3,Quarterly,Value,,,reported,,,,Table13,H48,3367,"#,##0"
+2019-09-30,On register: non-resident,-8.093525179856115,%,2019-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K132,-0.08093525179856115,0.0%
+2019-09-30,On register: non-resident,511,business registrations,2019-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,K48,511,General
+2019-09-30,On register: non-resident insurance,0,%,2019-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L132,0,0.0%
+2019-09-30,On register: non-resident insurance,8,business registrations,2019-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,L48,8,General
+2019-09-30,Total new registrations,-18.487394957983195,%,2019-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,G132,-0.18487394957983194,0.0%
+2019-09-30,Total new registrations,194,business registrations,2019-Q3,Quarterly,Value,,,reported,,,,Table13,G48,194,General
+2019-09-30,Total on register,-0.9772994371250078,%,2019-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,M132,-0.009772994371250078,0.0%
+2019-09-30,Total on register,16009,business registrations,2019-Q3,Quarterly,Value,,,reported,,,,Table13,M48,16009,"#,##0"
+2019-12-31,New registrations: exempted,-14.285714285714285,%,2019-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D133,-0.14285714285714285,0.0%
+2019-12-31,New registrations: exempted,156,business registrations,2019-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,D49,156,General
+2019-12-31,New registrations: international exempted partnerships,-11.320754716981133,%,2019-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E133,-0.11320754716981132,0.0%
+2019-12-31,New registrations: international exempted partnerships,47,business registrations,2019-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,E49,47,General
+2019-12-31,New registrations: local,24.324324324324326,%,2019-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,C133,0.24324324324324326,0.0%
+2019-12-31,New registrations: local,46,business registrations,2019-Q4,Quarterly,Value,,,reported,,,,Table13,C49,46,General
+2019-12-31,New registrations: non-resident,-33.33333333333333,%,2019-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F133,-0.3333333333333333,0.0%
+2019-12-31,New registrations: non-resident,2,business registrations,2019-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,F49,2,General
+2019-12-31,On register: exempted,-3.2101429727542485,%,2019-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I133,-0.032101429727542485,0.0%
+2019-12-31,On register: exempted,10764,business registrations,2019-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,I49,10764,"#,##0"
+2019-12-31,On register: international exempted partnerships,-0.32180209171359614,%,2019-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J133,-0.003218020917135961,0.0%
+2019-12-31,On register: international exempted partnerships,1239,business registrations,2019-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,J49,1239,"#,##0"
+2019-12-31,On register: local,-1.3352685050798256,%,2019-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,H133,-0.013352685050798258,0.0%
+2019-12-31,On register: local,3399,business registrations,2019-Q4,Quarterly,Value,,,reported,,,,Table13,H49,3399,"#,##0"
+2019-12-31,On register: non-resident,-8.974358974358974,%,2019-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K133,-0.08974358974358974,0.0%
+2019-12-31,On register: non-resident,497,business registrations,2019-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,K49,497,General
+2019-12-31,On register: non-resident insurance,0,%,2019-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L133,0,0.0%
+2019-12-31,On register: non-resident insurance,8,business registrations,2019-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,L49,8,General
+2019-12-31,Total new registrations,-8.727272727272728,%,2019-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,G133,-0.08727272727272728,0.0%
+2019-12-31,Total new registrations,251,business registrations,2019-Q4,Quarterly,Value,,,reported,,,,Table13,G49,251,General
+2019-12-31,Total on register,-2.7867750412516044,%,2019-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,M133,-0.027867750412516042,0.0%
+2019-12-31,Total on register,15907,business registrations,2019-Q4,Quarterly,Value,,,reported,,,,Table13,M49,15907,"#,##0"
+2020-03-31,New registrations: exempted,-4.918032786885246,%,2020-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D135,-0.04918032786885246,0.0%
+2020-03-31,New registrations: exempted,116,business registrations,2020-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,D51,116,General
+2020-03-31,New registrations: international exempted partnerships,20,%,2020-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E135,0.2,0.0%
+2020-03-31,New registrations: international exempted partnerships,30,business registrations,2020-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,E51,30,General
+2020-03-31,New registrations: local,-12.5,%,2020-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,C135,-0.125,0.0%
+2020-03-31,New registrations: local,35,business registrations,2020-Q1,Quarterly,Value,,,reported,,,,Table13,C51,35,General
+2020-03-31,New registrations: non-resident,750,%,2020-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F135,7.5,0.0%
+2020-03-31,New registrations: non-resident,17,business registrations,2020-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,F51,17,General
+2020-03-31,On register: exempted,-3.219116321009919,%,2020-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I135,-0.03219116321009919,0.0%
+2020-03-31,On register: exempted,10733,business registrations,2020-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,I51,10733,"#,##0"
+2020-03-31,On register: international exempted partnerships,0.5595523581135092,%,2020-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J135,0.005595523581135092,0.0%
+2020-03-31,On register: international exempted partnerships,1258,business registrations,2020-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,J51,1258,"#,##0"
+2020-03-31,On register: local,-1.266551525618883,%,2020-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,H135,-0.012665515256188831,0.0%
+2020-03-31,On register: local,3430,business registrations,2020-Q1,Quarterly,Value,,,reported,,,,Table13,H51,3430,"#,##0"
+2020-03-31,On register: non-resident,-4.716981132075472,%,2020-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K135,-0.04716981132075472,0.0%
+2020-03-31,On register: non-resident,505,business registrations,2020-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,K51,505,General
+2020-03-31,On register: non-resident insurance,0,%,2020-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L135,0,0.0%
+2020-03-31,On register: non-resident insurance,8,business registrations,2020-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,L51,8,General
+2020-03-31,Total new registrations,4.761904761904762,%,2020-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,G135,0.047619047619047616,0.0%
+2020-03-31,Total new registrations,198,business registrations,2020-Q1,Quarterly,Value,,,reported,,,,Table13,G51,198,General
+2020-03-31,Total on register,-2.562220999205039,%,2020-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,M135,-0.02562220999205039,0.0%
+2020-03-31,Total on register,15934,business registrations,2020-Q1,Quarterly,Value,,,reported,,,,Table13,M51,15934,"#,##0"
+2020-06-30,New registrations: exempted,-28.888888888888886,%,2020-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D136,-0.28888888888888886,0.0%
+2020-06-30,New registrations: exempted,96,business registrations,2020-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,D52,96,General
+2020-06-30,New registrations: international exempted partnerships,111.53846153846155,%,2020-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E136,1.1153846153846154,0.0%
+2020-06-30,New registrations: international exempted partnerships,55,business registrations,2020-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,E52,55,General
+2020-06-30,New registrations: local,-47.05882352941176,%,2020-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,C136,-0.47058823529411764,0.0%
+2020-06-30,New registrations: local,27,business registrations,2020-Q2,Quarterly,Value,,,reported,,,,Table13,C52,27,General
+2020-06-30,New registrations: non-resident,,%,2020-Q2,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,F136, ** ,0.0%
+2020-06-30,New registrations: non-resident,7,business registrations,2020-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,F52,7,General
+2020-06-30,On register: exempted,-3.89178500808916,%,2020-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I136,-0.0389178500808916,0.0%
+2020-06-30,On register: exempted,10693,business registrations,2020-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,I52,10693,"#,##0"
+2020-06-30,On register: international exempted partnerships,1.811023622047244,%,2020-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J136,0.01811023622047244,0.0%
+2020-06-30,On register: international exempted partnerships,1293,business registrations,2020-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,J52,1293,"#,##0"
+2020-06-30,On register: local,-1.9886363636363635,%,2020-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,H136,-0.019886363636363636,0.0%
+2020-06-30,On register: local,3450,business registrations,2020-Q2,Quarterly,Value,,,reported,,,,Table13,H52,3450,"#,##0"
+2020-06-30,On register: non-resident,-3.2504780114722758,%,2020-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K136,-0.032504780114722756,0.0%
+2020-06-30,On register: non-resident,506,business registrations,2020-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,K52,506,General
+2020-06-30,On register: non-resident insurance,0,%,2020-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L136,0,0.0%
+2020-06-30,On register: non-resident insurance,8,business registrations,2020-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,L52,8,General
+2020-06-30,Total new registrations,-12.735849056603774,%,2020-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,G136,-0.12735849056603774,0.0%
+2020-06-30,Total new registrations,185,business registrations,2020-Q2,Quarterly,Value,,,reported,,,,Table13,G52,185,General
+2020-06-30,Total on register,-3.021827688940232,%,2020-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,M136,-0.03021827688940232,0.0%
+2020-06-30,Total on register,15950,business registrations,2020-Q2,Quarterly,Value,,,reported,,,,Table13,M52,15950,"#,##0"
+2020-09-30,New registrations: exempted,10.071942446043165,%,2020-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D137,0.10071942446043165,0.0%
+2020-09-30,New registrations: exempted,153,business registrations,2020-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,D53,153,General
+2020-09-30,New registrations: international exempted partnerships,3.7037037037037033,%,2020-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E137,0.037037037037037035,0.0%
+2020-09-30,New registrations: international exempted partnerships,28,business registrations,2020-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,E53,28,General
+2020-09-30,New registrations: local,57.14285714285714,%,2020-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,C137,0.5714285714285714,0.0%
+2020-09-30,New registrations: local,44,business registrations,2020-Q3,Quarterly,Value,,,reported,,,,Table13,C53,44,General
+2020-09-30,New registrations: non-resident,,%,2020-Q3,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,F137, ** ,0.0%
+2020-09-30,New registrations: non-resident,1,business registrations,2020-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,F53,1,General
+2020-09-30,On register: exempted,-0.8299520472150499,%,2020-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I137,-0.008299520472150499,0.0%
+2020-09-30,On register: exempted,10754,business registrations,2020-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,I53,10754,"#,##0"
+2020-09-30,On register: international exempted partnerships,2.3455824863174355,%,2020-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J137,0.023455824863174355,0.0%
+2020-09-30,On register: international exempted partnerships,1309,business registrations,2020-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,J53,1309,"#,##0"
+2020-09-30,On register: local,3.5046035046035047,%,2020-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,H137,0.03504603504603505,0.0%
+2020-09-30,On register: local,3485,business registrations,2020-Q3,Quarterly,Value,,,reported,,,,Table13,H53,3485,"#,##0"
+2020-09-30,On register: non-resident,-0.9784735812133072,%,2020-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K137,-0.009784735812133072,0.0%
+2020-09-30,On register: non-resident,506,business registrations,2020-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,K53,506,General
+2020-09-30,On register: non-resident insurance,0,%,2020-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L137,0,0.0%
+2020-09-30,On register: non-resident insurance,8,business registrations,2020-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,L53,8,General
+2020-09-30,Total new registrations,16.49484536082474,%,2020-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,G137,0.16494845360824742,0.0%
+2020-09-30,Total new registrations,226,business registrations,2020-Q3,Quarterly,Value,,,reported,,,,Table13,G53,226,General
+2020-09-30,Total on register,0.33106377662564807,%,2020-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,M137,0.0033106377662564805,0.0%
+2020-09-30,Total on register,16062,business registrations,2020-Q3,Quarterly,Value,,,reported,,,,Table13,M53,16062,"#,##0"
+2020-12-31,New registrations: exempted,32.69230769230769,%,2020-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D138,0.3269230769230769,0.0%
+2020-12-31,New registrations: exempted,207,business registrations,2020-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,D54,207,General
+2020-12-31,New registrations: international exempted partnerships,-55.319148936170215,%,2020-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E138,-0.5531914893617021,0.0%
+2020-12-31,New registrations: international exempted partnerships,21,business registrations,2020-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,E54,21,General
+2020-12-31,New registrations: local,-10.869565217391305,%,2020-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,C138,-0.10869565217391304,0.0%
+2020-12-31,New registrations: local,41,business registrations,2020-Q4,Quarterly,Value,,,reported,,,,Table13,C54,41,General
+2020-12-31,New registrations: non-resident,0,%,2020-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F138,0,0.0%
+2020-12-31,New registrations: non-resident,2,business registrations,2020-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,F54,2,General
+2020-12-31,On register: exempted,-0.08361204013377926,%,2020-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I138,-0.0008361204013377926,0.0%
+2020-12-31,On register: exempted,10755,business registrations,2020-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,I54,10755,"#,##0"
+2020-12-31,On register: international exempted partnerships,5.811138014527845,%,2020-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J138,0.05811138014527845,0.0%
+2020-12-31,On register: international exempted partnerships,1311,business registrations,2020-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,J54,1311,"#,##0"
+2020-12-31,On register: local,3.559870550161812,%,2020-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,H138,0.03559870550161812,0.0%
+2020-12-31,On register: local,3520,business registrations,2020-Q4,Quarterly,Value,,,reported,,,,Table13,H54,3520,"#,##0"
+2020-12-31,On register: non-resident,0,%,2020-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K138,0,0.0%
+2020-12-31,On register: non-resident,497,business registrations,2020-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,K54,497,General
+2020-12-31,On register: non-resident insurance,0,%,2020-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L138,0,0.0%
+2020-12-31,On register: non-resident insurance,8,business registrations,2020-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,L54,8,General
+2020-12-31,Total new registrations,7.968127490039841,%,2020-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,G138,0.0796812749003984,0.0%
+2020-12-31,Total new registrations,271,business registrations,2020-Q4,Quarterly,Value,,,reported,,,,Table13,G54,271,General
+2020-12-31,Total on register,1.156723455082668,%,2020-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,M138,0.01156723455082668,0.0%
+2020-12-31,Total on register,16091,business registrations,2020-Q4,Quarterly,Value,,,reported,,,,Table13,M54,16091,"#,##0"
+2021-03-31,New registrations: exempted,49.137931034482754,%,2021-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D140,0.49137931034482757,0.0%
+2021-03-31,New registrations: exempted,173,business registrations,2021-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,D56,173,General
+2021-03-31,New registrations: international exempted partnerships,270,%,2021-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E140,2.7,0.0%
+2021-03-31,New registrations: international exempted partnerships,111,business registrations,2021-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,E56,111,General
+2021-03-31,New registrations: local,5.714285714285714,%,2021-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,C140,0.05714285714285714,0.0%
+2021-03-31,New registrations: local,37,business registrations,2021-Q1,Quarterly,Value,,,reported,,,,Table13,C56,37,General
+2021-03-31,New registrations: non-resident,-100,%,2021-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F140,-1,0.0%
+2021-03-31,New registrations: non-resident,0,business registrations,2021-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,F56,0,General
+2021-03-31,On register: exempted,-0.10248765489611479,%,2021-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I140,-0.001024876548961148,0.0%
+2021-03-31,On register: exempted,10722,business registrations,2021-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,I56,10722,"#,##0"
+2021-03-31,On register: international exempted partnerships,12.241653418124006,%,2021-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J140,0.12241653418124006,0.0%
+2021-03-31,On register: international exempted partnerships,1412,business registrations,2021-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,J56,1412,"#,##0"
+2021-03-31,On register: local,3.4402332361516033,%,2021-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,H140,0.03440233236151603,0.0%
+2021-03-31,On register: local,3548,business registrations,2021-Q1,Quarterly,Value,,,reported,,,,Table13,H56,3548,"#,##0"
+2021-03-31,On register: non-resident,-4.752475247524752,%,2021-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K140,-0.047524752475247525,0.0%
+2021-03-31,On register: non-resident,481,business registrations,2021-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,K56,481,General
+2021-03-31,On register: non-resident insurance,0,%,2021-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L140,0,0.0%
+2021-03-31,On register: non-resident insurance,8,business registrations,2021-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,L56,8,General
+2021-03-31,Total new registrations,62.121212121212125,%,2021-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,G140,0.6212121212121212,0.0%
+2021-03-31,Total new registrations,321,business registrations,2021-Q1,Quarterly,Value,,,reported,,,,Table13,G56,321,General
+2021-03-31,Total on register,1.4873854650433036,%,2021-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,M140,0.014873854650433036,0.0%
+2021-03-31,Total on register,16171,business registrations,2021-Q1,Quarterly,Value,,,reported,,,,Table13,M56,16171,"#,##0"
+2021-06-30,New registrations: exempted,46.875,%,2021-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D141,0.46875,0.0%
+2021-06-30,New registrations: exempted,141,business registrations,2021-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,D57,141,General
+2021-06-30,New registrations: international exempted partnerships,9.090909090909092,%,2021-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E141,0.09090909090909091,0.0%
+2021-06-30,New registrations: international exempted partnerships,60,business registrations,2021-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,E57,60,General
+2021-06-30,New registrations: local,48.148148148148145,%,2021-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,C141,0.48148148148148145,0.0%
+2021-06-30,New registrations: local,40,business registrations,2021-Q2,Quarterly,Value,,,reported,,,,Table13,C57,40,General
+2021-06-30,New registrations: non-resident,-100,%,2021-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F141,-1,0.0%
+2021-06-30,New registrations: non-resident,0,business registrations,2021-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,F57,0,General
+2021-06-30,On register: exempted,-3.9371551482278124,%,2021-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I141,-0.039371551482278125,0.0%
+2021-06-30,On register: exempted,10272,business registrations,2021-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,I57,10272,"#,##0"
+2021-06-30,On register: international exempted partnerships,9.667440061871616,%,2021-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J141,0.09667440061871617,0.0%
+2021-06-30,On register: international exempted partnerships,1418,business registrations,2021-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,J57,1418,"#,##0"
+2021-06-30,On register: local,4.956521739130435,%,2021-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,H141,0.049565217391304345,0.0%
+2021-06-30,On register: local,3621,business registrations,2021-Q2,Quarterly,Value,,,reported,,,,Table13,H57,3621,"#,##0"
+2021-06-30,On register: non-resident,-23.122529644268774,%,2021-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K141,-0.23122529644268774,0.0%
+2021-06-30,On register: non-resident,389,business registrations,2021-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,K57,389,General
+2021-06-30,On register: non-resident insurance,-100,%,2021-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L141,-1,0.0%
+2021-06-30,On register: non-resident insurance,0,business registrations,2021-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,L57,0,General
+2021-06-30,Total new registrations,30.270270270270274,%,2021-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,G141,0.3027027027027027,0.0%
+2021-06-30,Total new registrations,241,business registrations,2021-Q2,Quarterly,Value,,,reported,,,,Table13,G57,241,General
+2021-06-30,Total on register,-1.5673981191222568,%,2021-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,M141,-0.01567398119122257,0.0%
+2021-06-30,Total on register,15700,business registrations,2021-Q2,Quarterly,Value,,,reported,,,,Table13,M57,15700,"#,##0"
+2021-09-30,New registrations: exempted,9.15032679738562,%,2021-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D142,0.0915032679738562,0.0%
+2021-09-30,New registrations: exempted,167,business registrations,2021-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,D58,167,General
+2021-09-30,New registrations: international exempted partnerships,25,%,2021-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E142,0.25,0.0%
+2021-09-30,New registrations: international exempted partnerships,35,business registrations,2021-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,E58,35,General
+2021-09-30,New registrations: local,-31.818181818181817,%,2021-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,C142,-0.3181818181818182,0.0%
+2021-09-30,New registrations: local,30,business registrations,2021-Q3,Quarterly,Value,,,reported,,,,Table13,C58,30,General
+2021-09-30,New registrations: non-resident,-100,%,2021-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F142,-1,0.0%
+2021-09-30,New registrations: non-resident,0,business registrations,2021-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,F58,0,General
+2021-09-30,On register: exempted,-3.4684768458248096,%,2021-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I142,-0.0346847684582481,0.0%
+2021-09-30,On register: exempted,10381,business registrations,2021-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,I58,10381,"#,##0"
+2021-09-30,On register: international exempted partnerships,10.084033613445378,%,2021-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J142,0.10084033613445378,0.0%
+2021-09-30,On register: international exempted partnerships,1441,business registrations,2021-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,J58,1441,"#,##0"
+2021-09-30,On register: local,4.791965566714491,%,2021-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,H142,0.04791965566714491,0.0%
+2021-09-30,On register: local,3652,business registrations,2021-Q3,Quarterly,Value,,,reported,,,,Table13,H58,3652,"#,##0"
+2021-09-30,On register: non-resident,-25.296442687747035,%,2021-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K142,-0.25296442687747034,0.0%
+2021-09-30,On register: non-resident,378,business registrations,2021-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,K58,378,General
+2021-09-30,On register: non-resident insurance,-100,%,2021-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L142,-1,0.0%
+2021-09-30,On register: non-resident insurance,0,business registrations,2021-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,L58,0,General
+2021-09-30,Total new registrations,2.6548672566371683,%,2021-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,G142,0.02654867256637168,0.0%
+2021-09-30,Total new registrations,232,business registrations,2021-Q3,Quarterly,Value,,,reported,,,,Table13,G58,232,General
+2021-09-30,Total on register,-1.3074336944340679,%,2021-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,M142,-0.01307433694434068,0.0%
+2021-09-30,Total on register,15852,business registrations,2021-Q3,Quarterly,Value,,,reported,,,,Table13,M58,15852,"#,##0"
+2021-12-31,New registrations: exempted,-0.966183574879227,%,2021-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D143,-0.00966183574879227,0.0%
+2021-12-31,New registrations: exempted,205,business registrations,2021-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,D59,205,General
+2021-12-31,New registrations: international exempted partnerships,100,%,2021-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E143,1,0.0%
+2021-12-31,New registrations: international exempted partnerships,42,business registrations,2021-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,E59,42,General
+2021-12-31,New registrations: local,0,%,2021-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,C143,0,0.0%
+2021-12-31,New registrations: local,41,business registrations,2021-Q4,Quarterly,Value,,,reported,,,,Table13,C59,41,General
+2021-12-31,New registrations: non-resident,-100,%,2021-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F143,-1,0.0%
+2021-12-31,New registrations: non-resident,0,business registrations,2021-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,F59,0,General
+2021-12-31,On register: exempted,-2.5755462575546257,%,2021-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I143,-0.025755462575546256,0.0%
+2021-12-31,On register: exempted,10478,business registrations,2021-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,I59,10478,"#,##0"
+2021-12-31,On register: international exempted partnerships,10.831426392067124,%,2021-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J143,0.10831426392067124,0.0%
+2021-12-31,On register: international exempted partnerships,1453,business registrations,2021-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,J59,1453,"#,##0"
+2021-12-31,On register: local,4.573863636363637,%,2021-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,H143,0.04573863636363636,0.0%
+2021-12-31,On register: local,3681,business registrations,2021-Q4,Quarterly,Value,,,reported,,,,Table13,H59,3681,"#,##0"
+2021-12-31,On register: non-resident,-25.352112676056336,%,2021-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K143,-0.2535211267605634,0.0%
+2021-12-31,On register: non-resident,371,business registrations,2021-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,K59,371,General
+2021-12-31,On register: non-resident insurance,-100,%,2021-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L143,-1,0.0%
+2021-12-31,On register: non-resident insurance,0,business registrations,2021-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,L59,0,General
+2021-12-31,Total new registrations,6.273062730627306,%,2021-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,G143,0.06273062730627306,0.0%
+2021-12-31,Total new registrations,288,business registrations,2021-Q4,Quarterly,Value,,,reported,,,,Table13,G59,288,General
+2021-12-31,Total on register,-0.6711826486856006,%,2021-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,M143,-0.006711826486856007,0.0%
+2021-12-31,Total on register,15983,business registrations,2021-Q4,Quarterly,Value,,,reported,,,,Table13,M59,15983,"#,##0"
+2022-03-31,New registrations: exempted,-4.046242774566474,%,2022-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D145,-0.04046242774566474,0.0%
+2022-03-31,New registrations: exempted,166,business registrations,2022-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,D61,166,General
+2022-03-31,New registrations: international exempted partnerships,-50.45045045045045,%,2022-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E145,-0.5045045045045045,0.0%
+2022-03-31,New registrations: international exempted partnerships,55,business registrations,2022-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,E61,55,General
+2022-03-31,New registrations: local,8.108108108108109,%,2022-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,C145,0.08108108108108109,0.0%
+2022-03-31,New registrations: local,40,business registrations,2022-Q1,Quarterly,Value,,,reported,,,,Table13,C61,40,General
+2022-03-31,New registrations: non-resident,,%,2022-Q1,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,F145, ** ,0.0%
+2022-03-31,New registrations: non-resident,5,business registrations,2022-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,F61,5,General
+2022-03-31,On register: exempted,-2.574146614437605,%,2022-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I145,-0.02574146614437605,0.0%
+2022-03-31,On register: exempted,10446,business registrations,2022-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,I61,10446,"#,##0"
+2022-03-31,On register: international exempted partnerships,5.878186968838526,%,2022-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J145,0.058781869688385266,0.0%
+2022-03-31,On register: international exempted partnerships,1495,business registrations,2022-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,J61,1495,"#,##0"
+2022-03-31,On register: local,5.157835400225479,%,2022-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,H145,0.05157835400225479,0.0%
+2022-03-31,On register: local,3731,business registrations,2022-Q1,Quarterly,Value,,,reported,,,,Table13,H61,3731,"#,##0"
+2022-03-31,On register: non-resident,-23.90852390852391,%,2022-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K145,-0.2390852390852391,0.0%
+2022-03-31,On register: non-resident,366,business registrations,2022-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,K61,366,General
+2022-03-31,On register: non-resident insurance,-100,%,2022-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,L145,-1,0.0%
+2022-03-31,On register: non-resident insurance,0,business registrations,2022-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,L61,0,General
+2022-03-31,Total new registrations,-17.133956386292834,%,2022-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,G145,-0.17133956386292834,0.0%
+2022-03-31,Total new registrations,266,business registrations,2022-Q1,Quarterly,Value,,,reported,,,,Table13,G61,266,General
+2022-03-31,Total on register,-0.8224599591861975,%,2022-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,M145,-0.008224599591861975,0.0%
+2022-03-31,Total on register,16038,business registrations,2022-Q1,Quarterly,Value,,,reported,,,,Table13,M61,16038,"#,##0"
+2022-06-30,New registrations: exempted,39.00709219858156,%,2022-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D146,0.3900709219858156,0.0%
+2022-06-30,New registrations: exempted,196,business registrations,2022-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,D62,196,General
+2022-06-30,New registrations: international exempted partnerships,-58.333333333333336,%,2022-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E146,-0.5833333333333334,0.0%
+2022-06-30,New registrations: international exempted partnerships,25,business registrations,2022-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,E62,25,General
+2022-06-30,New registrations: local,-7.5,%,2022-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,C146,-0.075,0.0%
+2022-06-30,New registrations: local,37,business registrations,2022-Q2,Quarterly,Value,,,reported,,,,Table13,C62,37,General
+2022-06-30,New registrations: non-resident,,%,2022-Q2,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,F146, ** ,0.0%
+2022-06-30,New registrations: non-resident,0,business registrations,2022-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,F62,0,General
+2022-06-30,On register: exempted,2.521417445482866,%,2022-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I146,0.02521417445482866,0.0%
+2022-06-30,On register: exempted,10531,business registrations,2022-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,I62,10531,"#,##0"
+2022-06-30,On register: international exempted partnerships,7.5458392101551475,%,2022-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J146,0.07545839210155147,0.0%
+2022-06-30,On register: international exempted partnerships,1525,business registrations,2022-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,J62,1525,"#,##0"
+2022-06-30,On register: local,4.335818834576084,%,2022-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,H146,0.04335818834576084,0.0%
+2022-06-30,On register: local,3778,business registrations,2022-Q2,Quarterly,Value,,,reported,,,,Table13,H62,3778,"#,##0"
+2022-06-30,On register: non-resident,-7.712082262210797,%,2022-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K146,-0.07712082262210797,0.0%
+2022-06-30,On register: non-resident,359,business registrations,2022-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,K62,359,General
+2022-06-30,On register: non-resident insurance,,%,2022-Q2,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,L146, ** ,0.0%
+2022-06-30,On register: non-resident insurance,0,business registrations,2022-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,L62,0,General
+2022-06-30,Total new registrations,7.053941908713693,%,2022-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,G146,0.07053941908713693,0.0%
+2022-06-30,Total new registrations,258,business registrations,2022-Q2,Quarterly,Value,,,reported,,,,Table13,G62,258,General
+2022-06-30,Total on register,3.1401273885350323,%,2022-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,M146,0.03140127388535032,0.0%
+2022-06-30,Total on register,16193,business registrations,2022-Q2,Quarterly,Value,,,reported,,,,Table13,M62,16193,"#,##0"
+2022-09-30,New registrations: exempted,0,%,2022-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D147,0,0.0%
+2022-09-30,New registrations: exempted,167,business registrations,2022-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,D63,167,General
+2022-09-30,New registrations: international exempted partnerships,-17.142857142857142,%,2022-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E147,-0.17142857142857143,0.0%
+2022-09-30,New registrations: international exempted partnerships,29,business registrations,2022-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,E63,29,General
+2022-09-30,New registrations: local,-26.666666666666668,%,2022-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,C147,-0.26666666666666666,0.0%
+2022-09-30,New registrations: local,22,business registrations,2022-Q3,Quarterly,Value,,,reported,,,,Table13,C63,22,General
+2022-09-30,New registrations: non-resident,,%,2022-Q3,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,F147, ** ,0.0%
+2022-09-30,New registrations: non-resident,0,business registrations,2022-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,F63,0,General
+2022-09-30,On register: exempted,1.252287833542048,%,2022-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I147,0.012522878335420479,0.0%
+2022-09-30,On register: exempted,10511,business registrations,2022-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,I63,10511,"#,##0"
+2022-09-30,On register: international exempted partnerships,7.217210270645386,%,2022-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J147,0.07217210270645386,0.0%
+2022-09-30,On register: international exempted partnerships,1545,business registrations,2022-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,J63,1545,"#,##0"
+2022-09-30,On register: local,3.888280394304491,%,2022-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,H147,0.03888280394304491,0.0%
+2022-09-30,On register: local,3794,business registrations,2022-Q3,Quarterly,Value,,,reported,,,,Table13,H63,3794,"#,##0"
+2022-09-30,On register: non-resident,-7.671957671957672,%,2022-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K147,-0.07671957671957672,0.0%
+2022-09-30,On register: non-resident,349,business registrations,2022-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,K63,349,General
+2022-09-30,On register: non-resident insurance,,%,2022-Q3,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,L147, ** ,0.0%
+2022-09-30,On register: non-resident insurance,0,business registrations,2022-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,L63,0,General
+2022-09-30,Total new registrations,-6.0344827586206895,%,2022-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,G147,-0.0603448275862069,0.0%
+2022-09-30,Total new registrations,218,business registrations,2022-Q3,Quarterly,Value,,,reported,,,,Table13,G63,218,General
+2022-09-30,Total on register,2.188998233661368,%,2022-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,M147,0.021889982336613677,0.0%
+2022-09-30,Total on register,16199,business registrations,2022-Q3,Quarterly,Value,,,reported,,,,Table13,M63,16199,"#,##0"
+2022-12-31,New registrations: exempted,-64.8780487804878,%,2022-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D148,-0.6487804878048781,0.0%
+2022-12-31,New registrations: exempted,72,business registrations,2022-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,D64,72,General
+2022-12-31,New registrations: international exempted partnerships,-66.66666666666666,%,2022-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E148,-0.6666666666666666,0.0%
+2022-12-31,New registrations: international exempted partnerships,14,business registrations,2022-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,E64,14,General
+2022-12-31,New registrations: local,12.195121951219512,%,2022-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,C148,0.12195121951219512,0.0%
+2022-12-31,New registrations: local,46,business registrations,2022-Q4,Quarterly,Value,,,reported,,,,Table13,C64,46,General
+2022-12-31,New registrations: non-resident,,%,2022-Q4,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,F148, ** ,0.0%
+2022-12-31,New registrations: non-resident,0,business registrations,2022-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,F64,0,General
+2022-12-31,On register: exempted,-0.7444168734491315,%,2022-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I148,-0.007444168734491315,0.0%
+2022-12-31,On register: exempted,10400,business registrations,2022-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,I64,10400,"#,##0"
+2022-12-31,On register: international exempted partnerships,6.813489332415691,%,2022-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J148,0.06813489332415691,0.0%
+2022-12-31,On register: international exempted partnerships,1552,business registrations,2022-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,J64,1552,"#,##0"
+2022-12-31,On register: local,3.4773159467535995,%,2022-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,H148,0.034773159467535994,0.0%
+2022-12-31,On register: local,3809,business registrations,2022-Q4,Quarterly,Value,,,reported,,,,Table13,H64,3809,"#,##0"
+2022-12-31,On register: non-resident,-7.816711590296496,%,2022-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K148,-0.07816711590296496,0.0%
+2022-12-31,On register: non-resident,342,business registrations,2022-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,K64,342,General
+2022-12-31,On register: non-resident insurance,,%,2022-Q4,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,L148, ** ,0.0%
+2022-12-31,On register: non-resident insurance,0,business registrations,2022-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,L64,0,General
+2022-12-31,Total new registrations,-54.166666666666664,%,2022-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,G148,-0.5416666666666666,0.0%
+2022-12-31,Total new registrations,132,business registrations,2022-Q4,Quarterly,Value,,,reported,,,,Table13,G64,132,General
+2022-12-31,Total on register,0.7507977225802415,%,2022-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,M148,0.007507977225802415,0.0%
+2022-12-31,Total on register,16103,business registrations,2022-Q4,Quarterly,Value,,,reported,,,,Table13,M64,16103,"#,##0"
+2023-03-31,New registrations: exempted,0.6024096385542169,%,2023-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D150,0.006024096385542169,0.0%
+2023-03-31,New registrations: exempted,167,business registrations,2023-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,D66,167,General
+2023-03-31,New registrations: international exempted partnerships,-60,%,2023-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E150,-0.6,0.0%
+2023-03-31,New registrations: international exempted partnerships,22,business registrations,2023-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,E66,22,General
+2023-03-31,New registrations: local,10,%,2023-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,C150,0.1,0.0%
+2023-03-31,New registrations: local,44,business registrations,2023-Q1,Quarterly,Value,,,reported,,,,Table13,C66,44,General
+2023-03-31,New registrations: non-resident,-100,%,2023-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F150,-1,0.0%
+2023-03-31,New registrations: non-resident,0,business registrations,2023-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,F66,0,General
+2023-03-31,On register: exempted,-0.6796860042121387,%,2023-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I150,-0.006796860042121386,0.0%
+2023-03-31,On register: exempted,10375,business registrations,2023-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,I66,10375,"#,##0"
+2023-03-31,On register: international exempted partnerships,3.879598662207358,%,2023-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J150,0.03879598662207358,0.0%
+2023-03-31,On register: international exempted partnerships,1553,business registrations,2023-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,J66,1553,"#,##0"
+2023-03-31,On register: local,2.8678638434735997,%,2023-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,H150,0.028678638434735997,0.0%
+2023-03-31,On register: local,3838,business registrations,2023-Q1,Quarterly,Value,,,reported,,,,Table13,H66,3838,"#,##0"
+2023-03-31,On register: non-resident,-8.469945355191257,%,2023-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K150,-0.08469945355191257,0.0%
+2023-03-31,On register: non-resident,335,business registrations,2023-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,K66,335,General
+2023-03-31,On register: non-resident insurance,,%,2023-Q1,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,L150, ** ,0.0%
+2023-03-31,On register: non-resident insurance,0,business registrations,2023-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,L66,0,General
+2023-03-31,Total new registrations,-12.406015037593985,%,2023-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,G150,-0.12406015037593984,0.0%
+2023-03-31,Total new registrations,233,business registrations,2023-Q1,Quarterly,Value,,,reported,,,,Table13,G66,233,General
+2023-03-31,Total on register,0.3928170594837262,%,2023-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,M150,0.003928170594837262,0.0%
+2023-03-31,Total on register,16101,business registrations,2023-Q1,Quarterly,Value,,,reported,,,,Table13,M66,16101,"#,##0"
+2023-06-30,New registrations: exempted,-38.265306122448976,%,2023-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D151,-0.3826530612244898,0.0%
+2023-06-30,New registrations: exempted,121,business registrations,2023-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,D67,121,General
+2023-06-30,New registrations: international exempted partnerships,-12,%,2023-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E151,-0.12,0.0%
+2023-06-30,New registrations: international exempted partnerships,22,business registrations,2023-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,E67,22,General
+2023-06-30,New registrations: local,-18.91891891891892,%,2023-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,C151,-0.1891891891891892,0.0%
+2023-06-30,New registrations: local,30,business registrations,2023-Q2,Quarterly,Value,,,reported,,,,Table13,C67,30,General
+2023-06-30,New registrations: non-resident,,%,2023-Q2,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,F151, ** ,0.0%
+2023-06-30,New registrations: non-resident,0,business registrations,2023-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,F67,0,General
+2023-06-30,On register: exempted,-0.8356281454752635,%,2023-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I151,-0.008356281454752635,0.0%
+2023-06-30,On register: exempted,10443,business registrations,2023-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,I67,10443,"#,##0"
+2023-06-30,On register: international exempted partnerships,3.081967213114754,%,2023-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J151,0.03081967213114754,0.0%
+2023-06-30,On register: international exempted partnerships,1572,business registrations,2023-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,J67,1572,"#,##0"
+2023-06-30,On register: local,2.6469031233456857,%,2023-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,H151,0.026469031233456855,0.0%
+2023-06-30,On register: local,3878,business registrations,2023-Q2,Quarterly,Value,,,reported,,,,Table13,H67,3878,"#,##0"
+2023-06-30,On register: non-resident,-7.242339832869081,%,2023-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K151,-0.07242339832869081,0.0%
+2023-06-30,On register: non-resident,333,business registrations,2023-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,K67,333,General
+2023-06-30,On register: non-resident insurance,,%,2023-Q2,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,L151, ** ,0.0%
+2023-06-30,On register: non-resident insurance,0,business registrations,2023-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,L67,0,General
+2023-06-30,Total new registrations,-32.945736434108525,%,2023-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,G151,-0.32945736434108525,0.0%
+2023-06-30,Total new registrations,173,business registrations,2023-Q2,Quarterly,Value,,,reported,,,,Table13,G67,173,General
+2023-06-30,Total on register,0.20379176187241402,%,2023-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,M151,0.0020379176187241403,0.0%
+2023-06-30,Total on register,16226,business registrations,2023-Q2,Quarterly,Value,,,reported,,,,Table13,M67,16226,"#,##0"
+2023-09-30,New registrations: exempted,24.550898203592812,%,2023-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D152,0.24550898203592814,0.0%
+2023-09-30,New registrations: exempted,208,business registrations,2023-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,D68,208,General
+2023-09-30,New registrations: international exempted partnerships,-6.896551724137931,%,2023-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E152,-0.06896551724137931,0.0%
+2023-09-30,New registrations: international exempted partnerships,27,business registrations,2023-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,E68,27,General
+2023-09-30,New registrations: local,250,%,2023-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,C152,2.5,0.0%
+2023-09-30,New registrations: local,77,business registrations,2023-Q3,Quarterly,Value,,,reported,,,,Table13,C68,77,General
+2023-09-30,New registrations: non-resident,,%,2023-Q3,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,F152, ** ,0.0%
+2023-09-30,New registrations: non-resident,2,business registrations,2023-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,F68,2,General
+2023-09-30,On register: exempted,-0.32347064979545237,%,2023-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I152,-0.003234706497954524,0.0%
+2023-09-30,On register: exempted,10477,business registrations,2023-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,I68,10477,"#,##0"
+2023-09-30,On register: international exempted partnerships,2.7184466019417477,%,2023-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J152,0.027184466019417475,0.0%
+2023-09-30,On register: international exempted partnerships,1587,business registrations,2023-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,J68,1587,"#,##0"
+2023-09-30,On register: local,3.136531365313653,%,2023-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,H152,0.03136531365313653,0.0%
+2023-09-30,On register: local,3913,business registrations,2023-Q3,Quarterly,Value,,,reported,,,,Table13,H68,3913,"#,##0"
+2023-09-30,On register: non-resident,-5.444126074498568,%,2023-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K152,-0.054441260744985676,0.0%
+2023-09-30,On register: non-resident,330,business registrations,2023-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,K68,330,General
+2023-09-30,On register: non-resident insurance,,%,2023-Q3,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,L152, ** ,0.0%
+2023-09-30,On register: non-resident insurance,0,business registrations,2023-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,L68,0,General
+2023-09-30,Total new registrations,44.03669724770643,%,2023-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,G152,0.44036697247706424,0.0%
+2023-09-30,Total new registrations,314,business registrations,2023-Q3,Quarterly,Value,,,reported,,,,Table13,G68,314,General
+2023-09-30,Total on register,0.6667078214704611,%,2023-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,M152,0.006667078214704612,0.0%
+2023-09-30,Total on register,16307,business registrations,2023-Q3,Quarterly,Value,,,reported,,,,Table13,M68,16307,"#,##0"
+2023-12-31,New registrations: exempted,154.16666666666669,%,2023-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D153,1.5416666666666667,0.0%
+2023-12-31,New registrations: exempted,183,business registrations,2023-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,D69,183,General
+2023-12-31,New registrations: international exempted partnerships,50,%,2023-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E153,0.5,0.0%
+2023-12-31,New registrations: international exempted partnerships,21,business registrations,2023-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,E69,21,General
+2023-12-31,New registrations: local,-39.130434782608695,%,2023-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,C153,-0.391304347826087,0.0%
+2023-12-31,New registrations: local,28,business registrations,2023-Q4,Quarterly,Value,,,reported,,,,Table13,C69,28,General
+2023-12-31,New registrations: non-resident,,%,2023-Q4,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,F153, ** ,0.0%
+2023-12-31,New registrations: non-resident,0,business registrations,2023-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,F69,0,General
+2023-12-31,On register: exempted,0.2980769230769231,%,2023-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I153,0.002980769230769231,0.0%
+2023-12-31,On register: exempted,10431,business registrations,2023-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,I69,10431,"#,##0"
+2023-12-31,On register: international exempted partnerships,1.4819587628865978,%,2023-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J153,0.014819587628865979,0.0%
+2023-12-31,On register: international exempted partnerships,1575,business registrations,2023-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,J69,1575,"#,##0"
+2023-12-31,On register: local,3.12417957469152,%,2023-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,H153,0.0312417957469152,0.0%
+2023-12-31,On register: local,3928,business registrations,2023-Q4,Quarterly,Value,,,reported,,,,Table13,H69,3928,"#,##0"
+2023-12-31,On register: non-resident,-2.046783625730994,%,2023-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K153,-0.02046783625730994,0.0%
+2023-12-31,On register: non-resident,335,business registrations,2023-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,K69,335,General
+2023-12-31,On register: non-resident insurance,,%,2023-Q4,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,L153, ** ,0.0%
+2023-12-31,On register: non-resident insurance,0,business registrations,2023-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,L69,0,General
+2023-12-31,Total new registrations,75.75757575757575,%,2023-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,G153,0.7575757575757576,0.0%
+2023-12-31,Total new registrations,232,business registrations,2023-Q4,Quarterly,Value,,,reported,,,,Table13,G69,232,General
+2023-12-31,Total on register,1.0308638141961126,%,2023-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,M153,0.010308638141961125,0.0%
+2023-12-31,Total on register,16269,business registrations,2023-Q4,Quarterly,Value,,,reported,,,,Table13,M69,16269,"#,##0"
+2024-03-31,New registrations: exempted,-37.12574850299401,%,2024-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D155,-0.3712574850299401,0.0%
+2024-03-31,New registrations: exempted,105,business registrations,2024-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,D71,105,General
+2024-03-31,New registrations: international exempted partnerships,-22.727272727272727,%,2024-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E155,-0.22727272727272727,0.0%
+2024-03-31,New registrations: international exempted partnerships,17,business registrations,2024-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,E71,17,General
+2024-03-31,New registrations: local,-31.818181818181817,%,2024-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,C155,-0.3181818181818182,0.0%
+2024-03-31,New registrations: local,30,business registrations,2024-Q1,Quarterly,Value,,,reported,,,,Table13,C71,30,General
+2024-03-31,New registrations: non-resident,,%,2024-Q1,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,F155, ** ,0.0%
+2024-03-31,New registrations: non-resident,0,business registrations,2024-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,F71,0,General
+2024-03-31,On register: exempted,-0.22168674698795182,%,2024-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I155,-0.002216867469879518,0.0%
+2024-03-31,On register: exempted,10352,business registrations,2024-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,I71,10352,"#,##0"
+2024-03-31,On register: international exempted partnerships,0.4507405022537025,%,2024-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J155,0.004507405022537025,0.0%
+2024-03-31,On register: international exempted partnerships,1560,business registrations,2024-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,J71,1560,"#,##0"
+2024-03-31,On register: local,2.7618551328817094,%,2024-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,H155,0.027618551328817093,0.0%
+2024-03-31,On register: local,3944,business registrations,2024-Q1,Quarterly,Value,,,reported,,,,Table13,H71,3944,"#,##0"
+2024-03-31,On register: non-resident,-1.4925373134328357,%,2024-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K155,-0.014925373134328358,0.0%
+2024-03-31,On register: non-resident,330,business registrations,2024-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,K71,330,General
+2024-03-31,On register: non-resident insurance,,%,2024-Q1,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,L155, ** ,0.0%
+2024-03-31,On register: non-resident insurance,0,business registrations,2024-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,L71,0,General
+2024-03-31,Total new registrations,-34.763948497854074,%,2024-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,G155,-0.34763948497854075,0.0%
+2024-03-31,Total new registrations,152,business registrations,2024-Q1,Quarterly,Value,,,reported,,,,Table13,G71,152,General
+2024-03-31,Total on register,0.5279175206508913,%,2024-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,M155,0.005279175206508912,0.0%
+2024-03-31,Total on register,16186,business registrations,2024-Q1,Quarterly,Value,,,reported,,,,Table13,M71,16186,"#,##0"
+2024-06-30,New registrations: exempted,0,%,2024-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D156,0,0.0%
+2024-06-30,New registrations: exempted,121,business registrations,2024-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,D72,121,General
+2024-06-30,New registrations: international exempted partnerships,4.545454545454546,%,2024-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E156,0.045454545454545456,0.0%
+2024-06-30,New registrations: international exempted partnerships,23,business registrations,2024-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,E72,23,General
+2024-06-30,New registrations: local,13.333333333333334,%,2024-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,C156,0.13333333333333333,0.0%
+2024-06-30,New registrations: local,34,business registrations,2024-Q2,Quarterly,Value,,,reported,,,,Table13,C72,34,General
+2024-06-30,New registrations: non-resident,,%,2024-Q2,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,F156, ** ,0.0%
+2024-06-30,New registrations: non-resident,2,business registrations,2024-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,F72,2,General
+2024-06-30,On register: exempted,-1.0820645408407545,%,2024-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I156,-0.010820645408407546,0.0%
+2024-06-30,On register: exempted,10330,business registrations,2024-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,I72,10330,"#,##0"
+2024-06-30,On register: international exempted partnerships,0.19083969465648853,%,2024-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J156,0.0019083969465648854,0.0%
+2024-06-30,On register: international exempted partnerships,1575,business registrations,2024-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,J72,1575,"#,##0"
+2024-06-30,On register: local,2.0629190304280556,%,2024-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,H156,0.020629190304280558,0.0%
+2024-06-30,On register: local,3958,business registrations,2024-Q2,Quarterly,Value,,,reported,,,,Table13,H72,3958,"#,##0"
+2024-06-30,On register: non-resident,-2.1021021021021022,%,2024-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K156,-0.021021021021021023,0.0%
+2024-06-30,On register: non-resident,326,business registrations,2024-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,K72,326,General
+2024-06-30,On register: non-resident insurance,,%,2024-Q2,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,L156, ** ,0.0%
+2024-06-30,On register: non-resident insurance,0,business registrations,2024-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,L72,0,General
+2024-06-30,Total new registrations,4.046242774566474,%,2024-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,G156,0.04046242774566474,0.0%
+2024-06-30,Total new registrations,180,business registrations,2024-Q2,Quarterly,Value,,,reported,,,,Table13,G72,180,General
+2024-06-30,Total on register,-0.2280290891162332,%,2024-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,M156,-0.0022802908911623322,0.0%
+2024-06-30,Total on register,16189,business registrations,2024-Q2,Quarterly,Value,,,reported,,,,Table13,M72,16189,"#,##0"
+2024-09-30,New registrations: exempted,-35.57692307692308,%,2024-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D157,-0.3557692307692308,0.0%
+2024-09-30,New registrations: exempted,134,business registrations,2024-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,D73,134,General
+2024-09-30,New registrations: international exempted partnerships,-51.85185185185185,%,2024-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E157,-0.5185185185185185,0.0%
+2024-09-30,New registrations: international exempted partnerships,13,business registrations,2024-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,E73,13,General
+2024-09-30,New registrations: local,-37.66233766233766,%,2024-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,C157,-0.37662337662337664,0.0%
+2024-09-30,New registrations: local,48,business registrations,2024-Q3,Quarterly,Value,,,reported,,,,Table13,C73,48,General
+2024-09-30,New registrations: non-resident,50,%,2024-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F157,0.5,0.0%
+2024-09-30,New registrations: non-resident,3,business registrations,2024-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,F73,3,General
+2024-09-30,On register: exempted,-0.7444879259329961,%,2024-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I157,-0.007444879259329961,0.0%
+2024-09-30,On register: exempted,10399,business registrations,2024-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,I73,10399,"#,##0"
+2024-09-30,On register: international exempted partnerships,-1.260239445494644,%,2024-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J157,-0.01260239445494644,0.0%
+2024-09-30,On register: international exempted partnerships,1567,business registrations,2024-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,J73,1567,"#,##0"
+2024-09-30,On register: local,2.3000255558395093,%,2024-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,H157,0.023000255558395095,0.0%
+2024-09-30,On register: local,4003,business registrations,2024-Q3,Quarterly,Value,,,reported,,,,Table13,H73,4003,"#,##0"
+2024-09-30,On register: non-resident,-1.8181818181818181,%,2024-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K157,-0.01818181818181818,0.0%
+2024-09-30,On register: non-resident,324,business registrations,2024-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,K73,324,General
+2024-09-30,On register: non-resident insurance,,%,2024-Q3,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,L157, ** ,0.0%
+2024-09-30,On register: non-resident insurance,0,business registrations,2024-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,L73,0,General
+2024-09-30,Total new registrations,-36.94267515923567,%,2024-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,G157,-0.36942675159235666,0.0%
+2024-09-30,Total new registrations,198,business registrations,2024-Q3,Quarterly,Value,,,reported,,,,Table13,G73,198,General
+2024-09-30,Total on register,-0.08585270129392286,%,2024-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,M157,-0.0008585270129392286,0.0%
+2024-09-30,Total on register,16293,business registrations,2024-Q3,Quarterly,Value,,,reported,,,,Table13,M73,16293,"#,##0"
+2024-12-31,New registrations: exempted,66.66666666666666,%,2024-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D158,0.6666666666666666,0.0%
+2024-12-31,New registrations: exempted,305,business registrations,2024-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,D74,305,General
+2024-12-31,New registrations: international exempted partnerships,42.857142857142854,%,2024-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E158,0.42857142857142855,0.0%
+2024-12-31,New registrations: international exempted partnerships,30,business registrations,2024-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,E74,30,General
+2024-12-31,New registrations: local,57.14285714285714,%,2024-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,C158,0.5714285714285714,0.0%
+2024-12-31,New registrations: local,44,business registrations,2024-Q4,Quarterly,Value,,,reported,,,,Table13,C74,44,General
+2024-12-31,New registrations: non-resident,,%,2024-Q4,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,F158, ** ,0.0%
+2024-12-31,New registrations: non-resident,13,business registrations,2024-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,F74,13,General
+2024-12-31,On register: exempted,0.7477710670117919,%,2024-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I158,0.007477710670117918,0.0%
+2024-12-31,On register: exempted,10509,business registrations,2024-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,I74,10509,"#,##0"
+2024-12-31,On register: international exempted partnerships,-1.0158730158730158,%,2024-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J158,-0.010158730158730159,0.0%
+2024-12-31,On register: international exempted partnerships,1559,business registrations,2024-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,J74,1559,"#,##0"
+2024-12-31,On register: local,2.9531568228105907,%,2024-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,H158,0.029531568228105907,0.0%
+2024-12-31,On register: local,4044,business registrations,2024-Q4,Quarterly,Value,,,reported,,,,Table13,H74,4044,"#,##0"
+2024-12-31,On register: non-resident,-2.0895522388059704,%,2024-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K158,-0.020895522388059702,0.0%
+2024-12-31,On register: non-resident,328,business registrations,2024-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,K74,328,General
+2024-12-31,On register: non-resident insurance,,%,2024-Q4,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,L158, ** ,0.0%
+2024-12-31,On register: non-resident insurance,0,business registrations,2024-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,L74,0,General
+2024-12-31,Total new registrations,68.96551724137932,%,2024-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,G158,0.6896551724137931,0.0%
+2024-12-31,Total new registrations,392,business registrations,2024-Q4,Quarterly,Value,,,reported,,,,Table13,G74,392,General
+2024-12-31,Total on register,1.0510787387055136,%,2024-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,M158,0.010510787387055135,0.0%
+2024-12-31,Total on register,16440,business registrations,2024-Q4,Quarterly,Value,,,reported,,,,Table13,M74,16440,"#,##0"
+2025-03-31,New registrations: exempted,-1.9047619047619049,%,2025-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D161,-0.01904761904761905,0.0%
+2025-03-31,New registrations: exempted,103,business registrations,2025-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,D77,103,General
+2025-03-31,New registrations: international exempted partnerships,5.88235294117647,%,2025-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E161,0.058823529411764705,0.0%
+2025-03-31,New registrations: international exempted partnerships,18,business registrations,2025-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,E77,18,General
+2025-03-31,New registrations: local,66.66666666666666,%,2025-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,C161,0.6666666666666666,0.0%
+2025-03-31,New registrations: local,50,business registrations,2025-Q1,Quarterly,Value,,,reported,,,,Table13,C77,50,General
+2025-03-31,New registrations: non-resident,-100,%,2025-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F161,-1,0.0%
+2025-03-31,New registrations: non-resident,0,business registrations,2025-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,F77,0,General
+2025-03-31,On register: exempted,0.3187789799072643,%,2025-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I161,0.003187789799072643,0.0%
+2025-03-31,On register: exempted,10385,business registrations,2025-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,I77,10385,"#,##0"
+2025-03-31,On register: international exempted partnerships,-3.3974358974358974,%,2025-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J161,-0.03397435897435897,0.0%
+2025-03-31,On register: international exempted partnerships,1507,business registrations,2025-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,J77,1507,"#,##0"
+2025-03-31,On register: local,3.4989858012170387,%,2025-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,H161,0.03498985801217039,0.0%
+2025-03-31,On register: local,4082,business registrations,2025-Q1,Quarterly,Value,,,reported,,,,Table13,H77,4082,"#,##0"
+2025-03-31,On register: non-resident,-4.242424242424243,%,2025-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K161,-0.04242424242424243,0.0%
+2025-03-31,On register: non-resident,316,business registrations,2025-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,K77,316,General
+2025-03-31,On register: non-resident insurance,,%,2025-Q1,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,L161, ** ,0.0%
+2025-03-31,On register: non-resident insurance,0,business registrations,2025-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,L77,0,General
+2025-03-31,Total new registrations,12.5,%,2025-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,G161,0.125,0.0%
+2025-03-31,Total new registrations,171,business registrations,2025-Q1,Quarterly,Value,,,reported,,,,Table13,G77,171,General
+2025-03-31,Total on register,0.6425305819844309,%,2025-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,M161,0.00642530581984431,0.0%
+2025-03-31,Total on register,16290,business registrations,2025-Q1,Quarterly,Value,,,reported,,,,Table13,M77,16290,"#,##0"
+2025-06-30,New registrations: exempted,-11.570247933884298,%,2025-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D162,-0.11570247933884298,0.0%
+2025-06-30,New registrations: exempted,107,business registrations,2025-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,D78,107,General
+2025-06-30,New registrations: international exempted partnerships,26.08695652173913,%,2025-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E162,0.2608695652173913,0.0%
+2025-06-30,New registrations: international exempted partnerships,29,business registrations,2025-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,E78,29,General
+2025-06-30,New registrations: local,-5.88235294117647,%,2025-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,C162,-0.058823529411764705,0.0%
+2025-06-30,New registrations: local,32,business registrations,2025-Q2,Quarterly,Value,,,reported,,,,Table13,C78,32,General
+2025-06-30,New registrations: non-resident,-100,%,2025-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F162,-1,0.0%
+2025-06-30,New registrations: non-resident,0,business registrations,2025-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,F78,0,General
+2025-06-30,On register: exempted,0.9002904162633107,%,2025-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I162,0.009002904162633107,0.0%
+2025-06-30,On register: exempted,10423,business registrations,2025-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,I78,10423,"#,##0"
+2025-06-30,On register: international exempted partnerships,-4.190476190476191,%,2025-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J162,-0.0419047619047619,0.0%
+2025-06-30,On register: international exempted partnerships,1509,business registrations,2025-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,J78,1509,"#,##0"
+2025-06-30,On register: local,2.2738756947953513,%,2025-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,H162,0.022738756947953513,0.0%
+2025-06-30,On register: local,4048,business registrations,2025-Q2,Quarterly,Value,,,reported,,,,Table13,H78,4048,"#,##0"
+2025-06-30,On register: non-resident,-4.601226993865031,%,2025-Q2,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K162,-0.046012269938650305,0.0%
+2025-06-30,On register: non-resident,311,business registrations,2025-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,K78,311,General
+2025-06-30,On register: non-resident insurance,,%,2025-Q2,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,L162, ** ,0.0%
+2025-06-30,On register: non-resident insurance,0,business registrations,2025-Q2,Quarterly,Value,,,reported,,,Not available for updating,Table13,L78,0,General
+2025-06-30,Total new registrations,-6.666666666666667,%,2025-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,G162,-0.06666666666666667,0.0%
+2025-06-30,Total new registrations,168,business registrations,2025-Q2,Quarterly,Value,,,reported,,,,Table13,G78,168,General
+2025-06-30,Total on register,0.6300574464142319,%,2025-Q2,Quarterly,Published percentage change,,,reported,,,,Table13,M162,0.006300574464142319,0.0%
+2025-06-30,Total on register,16291,business registrations,2025-Q2,Quarterly,Value,,,reported,,,,Table13,M78,16291,"#,##0"
+2025-09-30,New registrations: exempted,-6.7164179104477615,%,2025-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D163,-0.06716417910447761,0.0%
+2025-09-30,New registrations: exempted,125,business registrations,2025-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,D79,125,General
+2025-09-30,New registrations: international exempted partnerships,23.076923076923077,%,2025-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E163,0.23076923076923078,0.0%
+2025-09-30,New registrations: international exempted partnerships,16,business registrations,2025-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,E79,16,General
+2025-09-30,New registrations: local,-12.5,%,2025-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,C163,-0.125,0.0%
+2025-09-30,New registrations: local,42,business registrations,2025-Q3,Quarterly,Value,,,reported,,,,Table13,C79,42,General
+2025-09-30,New registrations: non-resident,-100,%,2025-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,F163,-1,0.0%
+2025-09-30,New registrations: non-resident,0,business registrations,2025-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,F79,0,General
+2025-09-30,On register: exempted,-2.904125396672757,%,2025-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I163,-0.02904125396672757,0.0%
+2025-09-30,On register: exempted,10097,business registrations,2025-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,I79,10097,"#,##0"
+2025-09-30,On register: international exempted partnerships,-4.211869814932992,%,2025-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J163,-0.042118698149329926,0.0%
+2025-09-30,On register: international exempted partnerships,1501,business registrations,2025-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,J79,1501,"#,##0"
+2025-09-30,On register: local,-4.321758680989258,%,2025-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,H163,-0.04321758680989258,0.0%
+2025-09-30,On register: local,3830,business registrations,2025-Q3,Quarterly,Value,,,reported,,,,Table13,H79,3830,"#,##0"
+2025-09-30,On register: non-resident,-5.246913580246913,%,2025-Q3,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K163,-0.05246913580246913,0.0%
+2025-09-30,On register: non-resident,307,business registrations,2025-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,K79,307,General
+2025-09-30,On register: non-resident insurance,,%,2025-Q3,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,L163, ** ,0.0%
+2025-09-30,On register: non-resident insurance,0,business registrations,2025-Q3,Quarterly,Value,,,reported,,,Not available for updating,Table13,L79,0,General
+2025-09-30,Total new registrations,-7.575757575757576,%,2025-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,G163,-0.07575757575757576,0.0%
+2025-09-30,Total new registrations,183,business registrations,2025-Q3,Quarterly,Value,,,reported,,,,Table13,G79,183,General
+2025-09-30,Total on register,-3.424783649419996,%,2025-Q3,Quarterly,Published percentage change,,,reported,,,,Table13,M163,-0.03424783649419996,0.0%
+2025-09-30,Total on register,15735,business registrations,2025-Q3,Quarterly,Value,,,reported,,,,Table13,M79,15735,"#,##0"
+2025-12-31,New registrations: exempted,-24.91803278688525,%,2025-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D164,-0.24918032786885247,0.0%
+2025-12-31,New registrations: exempted,229,business registrations,2025-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,D80,229,General
+2025-12-31,New registrations: international exempted partnerships,-16.666666666666664,%,2025-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E164,-0.16666666666666666,0.0%
+2025-12-31,New registrations: international exempted partnerships,25,business registrations,2025-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,E80,25,General
+2025-12-31,New registrations: local,-13.636363636363635,%,2025-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,C164,-0.13636363636363635,0.0%
+2025-12-31,New registrations: local,38,business registrations,2025-Q4,Quarterly,Value,,,reported,,,,Table13,C80,38,General
+2025-12-31,New registrations: non-resident,,%,2025-Q4,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,F164, ** ,0.0%
+2025-12-31,New registrations: non-resident,0,business registrations,2025-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,F80,0,General
+2025-12-31,On register: exempted,-6.832239033209629,%,2025-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I164,-0.06832239033209629,0.0%
+2025-12-31,On register: exempted,9791,business registrations,2025-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,I80,9791,"#,##0"
+2025-12-31,On register: international exempted partnerships,-5.644644002565747,%,2025-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J164,-0.05644644002565747,0.0%
+2025-12-31,On register: international exempted partnerships,1471,business registrations,2025-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,J80,1471,"#,##0"
+2025-12-31,On register: local,-9.174085064292779,%,2025-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,H164,-0.0917408506429278,0.0%
+2025-12-31,On register: local,3673,business registrations,2025-Q4,Quarterly,Value,,,reported,,,,Table13,H80,3673,"#,##0"
+2025-12-31,On register: non-resident,-14.634146341463413,%,2025-Q4,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K164,-0.14634146341463414,0.0%
+2025-12-31,On register: non-resident,280,business registrations,2025-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,K80,280,General
+2025-12-31,On register: non-resident insurance,,%,2025-Q4,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,L164, ** ,0.0%
+2025-12-31,On register: non-resident insurance,0,business registrations,2025-Q4,Quarterly,Value,,,reported,,,Not available for updating,Table13,L80,0,General
+2025-12-31,Total new registrations,-25.510204081632654,%,2025-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,G164,-0.25510204081632654,0.0%
+2025-12-31,Total new registrations,292,business registrations,2025-Q4,Quarterly,Value,,,reported,,,,Table13,G80,292,General
+2025-12-31,Total on register,-7.4513381995133825,%,2025-Q4,Quarterly,Published percentage change,,,reported,,,,Table13,M164,-0.07451338199513383,0.0%
+2025-12-31,Total on register,15215,business registrations,2025-Q4,Quarterly,Value,,,reported,,,,Table13,M80,15215,"#,##0"
+2026-03-31,New registrations: exempted,-18.446601941747574,%,2026-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,D167,-0.18446601941747573,0.0%
+2026-03-31,New registrations: exempted,84,business registrations,2026-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,D83,84,General
+2026-03-31,New registrations: international exempted partnerships,88.88888888888889,%,2026-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,E167,0.8888888888888888,0.0%
+2026-03-31,New registrations: international exempted partnerships,34,business registrations,2026-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,E83,34,General
+2026-03-31,New registrations: local,16,%,2026-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,C167,0.16,0.0%
+2026-03-31,New registrations: local,58,business registrations,2026-Q1,Quarterly,Value,,,reported,,,,Table13,C83,58,General
+2026-03-31,New registrations: non-resident,,%,2026-Q1,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,F167, ** ,0.0%
+2026-03-31,New registrations: non-resident,0,business registrations,2026-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,F83,0,General
+2026-03-31,On register: exempted,-6.576793452094367,%,2026-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,I167,-0.06576793452094366,0.0%
+2026-03-31,On register: exempted,9702,business registrations,2026-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,I83,9702,"#,##0"
+2026-03-31,On register: international exempted partnerships,-1.85799601857996,%,2026-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,J167,-0.0185799601857996,0.0%
+2026-03-31,On register: international exempted partnerships,1479,business registrations,2026-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,J83,1479,"#,##0"
+2026-03-31,On register: local,-10.338069573738364,%,2026-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,H167,-0.10338069573738363,0.0%
+2026-03-31,On register: local,3660,business registrations,2026-Q1,Quarterly,Value,,,reported,,,,Table13,H83,3660,"#,##0"
+2026-03-31,On register: non-resident,-11.075949367088606,%,2026-Q1,Quarterly,Published percentage change,,,reported,,,Not available for updating,Table13,K167,-0.11075949367088607,0.0%
+2026-03-31,On register: non-resident,281,business registrations,2026-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,K83,281,General
+2026-03-31,On register: non-resident insurance,,%,2026-Q1,Quarterly,Published percentage change,,,source marker,**,,Not available for updating,Table13,L167, ** ,0.0%
+2026-03-31,On register: non-resident insurance,0,business registrations,2026-Q1,Quarterly,Value,,,reported,,,Not available for updating,Table13,L83,0,General
+2026-03-31,Total new registrations,2.923976608187134,%,2026-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,G167,0.029239766081871343,0.0%
+2026-03-31,Total new registrations,176,business registrations,2026-Q1,Quarterly,Value,,,reported,,,,Table13,G83,176,General
+2026-03-31,Total on register,-7.170042971147944,%,2026-Q1,Quarterly,Published percentage change,,,reported,,,,Table13,M167,-0.07170042971147944,0.0%
+2026-03-31,Total on register,15122,business registrations,2026-Q1,Quarterly,Value,,,reported,,,,Table13,M83,15122,"#,##0"

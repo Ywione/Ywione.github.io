@@ -1,0 +1,482 @@
+﻿date,series,value,units,period,frequency,measure,classification,index_base,status,source_marker,revision,availability,source_sheet,source_cell,source_value,source_format
+2006-12-31,"Alcohol, tobacco and narcotics",46342.11365377443,$000,2006,Annual,Value,,,reported,,,,Table 20,D6,46342.11365377443,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2006-12-31,Clothing and footwear,152538.06484888608,$000,2006,Annual,Value,,,reported,,,,Table 20,F6,152538.06484888608,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2006-12-31,Communication,125424.55861586977,$000,2006,Annual,Value,,,reported,,,,Table 20,P6,125424.55861586977,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2006-12-31,Education,101768.88126453456,$000,2006,Annual,Value,,,reported,,,,Table 20,T6,101768.88126453456,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2006-12-31,Food and non-alcoholic beverages,174758.95225903223,$000,2006,Annual,Value,,,reported,,,,Table 20,B6,174758.95225903223,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2006-12-31,"Furnishings, equipment and house maintenance",120830.21162502216,$000,2006,Annual,Value,,,reported,,,,Table 20,J6,120830.21162502216,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2006-12-31,Health,35946.24776591479,$000,2006,Annual,Value,,,reported,,,,Table 20,L6,35946.24776591479,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2006-12-31,"Housing, water, electricity, gas and other fuels",814392.0692063377,$000,2006,Annual,Value,,,reported,,,,Table 20,H6,814392.0692063377,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2006-12-31,Miscellaneous goods and services,500406.45418538136,$000,2006,Annual,Value,,,reported,,,,Table 20,X6,500406.45418538136,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2006-12-31,Recreation and culture,194071.27741049885,$000,2006,Annual,Value,,,reported,,,,Table 20,R6,194071.27741049885,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2006-12-31,Restaurants and hotels,203567.4856869973,$000,2006,Annual,Value,,,reported,,,,Table 20,V6,203567.4856869973,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2006-12-31,Total,2831862.995276717,$000,2006,Annual,Value,,,reported,,,,Table 20,Z6,2831862.995276717,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2006-12-31,Transport,361816.6787544673,$000,2006,Annual,Value,,,reported,,,,Table 20,N6,361816.6787544673,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2007-12-31,"Alcohol, tobacco and narcotics",0.9752050093029534,%,2007,Annual,Published percentage change,,,reported,,,,Table 20,D51,0.009752050093029534,0.0%
+2007-12-31,"Alcohol, tobacco and narcotics",46794.04426754291,$000,2007,Annual,Value,,,reported,,,,Table 20,D8,46794.04426754291,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2007-12-31,Clothing and footwear,9.420119247606127,%,2007,Annual,Published percentage change,,,reported,,,,Table 20,F51,0.09420119247606128,0.0%
+2007-12-31,Clothing and footwear,166907.3324556419,$000,2007,Annual,Value,,,reported,,,,Table 20,F8,166907.3324556419,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2007-12-31,Communication,8.6333880035418,%,2007,Annual,Published percentage change,,,reported,,,,Table 20,P51,0.086333880035418,0.0%
+2007-12-31,Communication,136252.94741290752,$000,2007,Annual,Value,,,reported,,,,Table 20,P8,136252.94741290752,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2007-12-31,Education,2.446599937217404,%,2007,Annual,Published percentage change,,,reported,,,,Table 20,T51,0.02446599937217404,0.0%
+2007-12-31,Education,104258.75864965952,$000,2007,Annual,Value,,,reported,,,,Table 20,T8,104258.75864965952,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2007-12-31,Food and non-alcoholic beverages,1.8116937079828588,%,2007,Annual,Published percentage change,,,reported,,,,Table 20,B51,0.018116937079828588,0.0%
+2007-12-31,Food and non-alcoholic beverages,177925.04920124589,$000,2007,Annual,Value,,,reported,,,,Table 20,B8,177925.04920124589,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2007-12-31,"Furnishings, equipment and house maintenance",5.379927333129856,%,2007,Annual,Published percentage change,,,reported,,,,Table 20,J51,0.05379927333129856,0.0%
+2007-12-31,"Furnishings, equipment and house maintenance",127330.78920691537,$000,2007,Annual,Value,,,reported,,,,Table 20,J8,127330.78920691537,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2007-12-31,Health,17.334599966331687,%,2007,Annual,Published percentage change,,,reported,,,,Table 20,L51,0.17334599966331687,0.0%
+2007-12-31,Health,42177.38601904256,$000,2007,Annual,Value,,,reported,,,,Table 20,L8,42177.38601904256,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2007-12-31,"Housing, water, electricity, gas and other fuels",4.812831421663004,%,2007,Annual,Published percentage change,,,reported,,,,Table 20,H51,0.04812831421663004,0.0%
+2007-12-31,"Housing, water, electricity, gas and other fuels",853587.3866086318,$000,2007,Annual,Value,,,reported,,,,Table 20,H8,853587.3866086318,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2007-12-31,Miscellaneous goods and services,5.590937997016752,%,2007,Annual,Published percentage change,,,reported,,,,Table 20,X51,0.055909379970167525,0.0%
+2007-12-31,Miscellaneous goods and services,528383.8687719561,$000,2007,Annual,Value,,,reported,,,,Table 20,X8,528383.8687719561,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2007-12-31,Recreation and culture,5.859979287862414,%,2007,Annual,Published percentage change,,,reported,,,,Table 20,R51,0.058599792878624136,0.0%
+2007-12-31,Recreation and culture,205443.8140704441,$000,2007,Annual,Value,,,reported,,,,Table 20,R8,205443.8140704441,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2007-12-31,Restaurants and hotels,3.9477881660962604,%,2007,Annual,Published percentage change,,,reported,,,,Table 20,V51,0.039477881660962603,0.0%
+2007-12-31,Restaurants and hotels,211603.89879696828,$000,2007,Annual,Value,,,reported,,,,Table 20,V8,211603.89879696828,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2007-12-31,Total,4.733028480433108,%,2007,Annual,Published percentage change,,,reported,,,,Table 20,Z51,0.04733028480433109,0.0%
+2007-12-31,Total,2965895.87737001,$000,2007,Annual,Value,,,reported,,,,Table 20,Z8,2965895.87737001,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2007-12-31,Transport,0.943550520208101,%,2007,Annual,Published percentage change,,,reported,,,,Table 20,N51,0.00943550520208101,0.0%
+2007-12-31,Transport,365230.60190905473,$000,2007,Annual,Value,,,reported,,,,Table 20,N8,365230.60190905473,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2008-12-31,"Alcohol, tobacco and narcotics",5.380205051529811,%,2008,Annual,Published percentage change,,,reported,,,,Table 20,D53,0.05380205051529811,0.0%
+2008-12-31,"Alcohol, tobacco and narcotics",49311.65980104035,$000,2008,Annual,Value,,,reported,,,,Table 20,D10,49311.65980104035,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2008-12-31,Clothing and footwear,-3.5920895023032804,%,2008,Annual,Published percentage change,,,reported,,,,Table 20,F53,-0.035920895023032806,0.0%
+2008-12-31,Clothing and footwear,160911.87168792836,$000,2008,Annual,Value,,,reported,,,,Table 20,F10,160911.87168792836,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2008-12-31,Communication,0.7075676081287052,%,2008,Annual,Published percentage change,,,reported,,,,Table 20,P53,0.007075676081287052,0.0%
+2008-12-31,Communication,137217.0291339219,$000,2008,Annual,Value,,,reported,,,,Table 20,P10,137217.0291339219,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2008-12-31,Education,5.410160416387912,%,2008,Annual,Published percentage change,,,reported,,,,Table 20,T53,0.05410160416387912,0.0%
+2008-12-31,Education,109899.3247407408,$000,2008,Annual,Value,,,reported,,,,Table 20,T10,109899.3247407408,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2008-12-31,Food and non-alcoholic beverages,9.906519039006822,%,2008,Annual,Published percentage change,,,reported,,,,Table 20,B53,0.09906519039006823,0.0%
+2008-12-31,Food and non-alcoholic beverages,195551.22807552957,$000,2008,Annual,Value,,,reported,,,,Table 20,B10,195551.22807552957,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2008-12-31,"Furnishings, equipment and house maintenance",3.4698668474782717,%,2008,Annual,Published percentage change,,,reported,,,,Table 20,J53,0.034698668474782715,0.0%
+2008-12-31,"Furnishings, equipment and house maintenance",131748.99804823857,$000,2008,Annual,Value,,,reported,,,,Table 20,J10,131748.99804823857,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2008-12-31,Health,15.210798426534684,%,2008,Annual,Published percentage change,,,reported,,,,Table 20,L53,0.15210798426534683,0.0%
+2008-12-31,Health,48592.90318798055,$000,2008,Annual,Value,,,reported,,,,Table 20,L10,48592.90318798055,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2008-12-31,"Housing, water, electricity, gas and other fuels",5.633031704715828,%,2008,Annual,Published percentage change,,,reported,,,,Table 20,H53,0.05633031704715828,0.0%
+2008-12-31,"Housing, water, electricity, gas and other fuels",901670.2347237513,$000,2008,Annual,Value,,,reported,,,,Table 20,H10,901670.2347237513,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2008-12-31,Miscellaneous goods and services,5.769396692440374,%,2008,Annual,Published percentage change,,,reported,,,,Table 20,X53,0.05769396692440374,0.0%
+2008-12-31,Miscellaneous goods and services,558868.4302202738,$000,2008,Annual,Value,,,reported,,,,Table 20,X10,558868.4302202738,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2008-12-31,Recreation and culture,4.374018372426831,%,2008,Annual,Published percentage change,,,reported,,,,Table 20,R53,0.043740183724268314,0.0%
+2008-12-31,Recreation and culture,214429.96424289973,$000,2008,Annual,Value,,,reported,,,,Table 20,R10,214429.96424289973,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2008-12-31,Restaurants and hotels,-0.04307447872366758,%,2008,Annual,Published percentage change,,,reported,,,,Table 20,V53,-0.00043074478723667574,0.0%
+2008-12-31,Restaurants and hotels,211512.75152060253,$000,2008,Annual,Value,,,reported,,,,Table 20,V10,211512.75152060253,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2008-12-31,Total,3.310847515417227,%,2008,Annual,Published percentage change,,,reported,,,,Table 20,Z53,0.03310847515417227,0.0%
+2008-12-31,Total,3064092.167335777,$000,2008,Annual,Value,,,reported,,,,Table 20,Z10,3064092.167335777,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2008-12-31,Transport,-5.709496917067722,%,2008,Annual,Published percentage change,,,reported,,,,Table 20,N53,-0.05709496917067722,0.0%
+2008-12-31,Transport,344377.77195286937,$000,2008,Annual,Value,,,reported,,,,Table 20,N10,344377.77195286937,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2009-12-31,"Alcohol, tobacco and narcotics",-0.6554239330056906,%,2009,Annual,Published percentage change,,,reported,,,,Table 20,D55,-0.006554239330056905,0.0%
+2009-12-31,"Alcohol, tobacco and narcotics",48988.45938094198,$000,2009,Annual,Value,,,reported,,,,Table 20,D12,48988.45938094198,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2009-12-31,Clothing and footwear,-13.00075034901732,%,2009,Annual,Published percentage change,,,reported,,,,Table 20,F55,-0.1300075034901732,0.0%
+2009-12-31,Clothing and footwear,139992.1209678497,$000,2009,Annual,Value,,,reported,,,,Table 20,F12,139992.1209678497,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2009-12-31,Communication,0.6224227092308309,%,2009,Annual,Published percentage change,,,reported,,,,Table 20,P55,0.006224227092308309,0.0%
+2009-12-31,Communication,138071.0990841833,$000,2009,Annual,Value,,,reported,,,,Table 20,P12,138071.0990841833,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2009-12-31,Education,-4.512539317746926,%,2009,Annual,Published percentage change,,,reported,,,,Table 20,T55,-0.04512539317746926,0.0%
+2009-12-31,Education,104940.0745018765,$000,2009,Annual,Value,,,reported,,,,Table 20,T12,104940.0745018765,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2009-12-31,Food and non-alcoholic beverages,3.4547976563852085,%,2009,Annual,Published percentage change,,,reported,,,,Table 20,B55,0.034547976563852084,0.0%
+2009-12-31,Food and non-alcoholic beverages,202307.12732011545,$000,2009,Annual,Value,,,reported,,,,Table 20,B12,202307.12732011545,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2009-12-31,"Furnishings, equipment and house maintenance",-5.0747906030605385,%,2009,Annual,Published percentage change,,,reported,,,,Table 20,J55,-0.05074790603060539,0.0%
+2009-12-31,"Furnishings, equipment and house maintenance",125063.01227566015,$000,2009,Annual,Value,,,reported,,,,Table 20,J12,125063.01227566015,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2009-12-31,Health,-3.213183047693612,%,2009,Annual,Published percentage change,,,reported,,,,Table 20,L55,-0.03213183047693612,0.0%
+2009-12-31,Health,47031.52426036219,$000,2009,Annual,Value,,,reported,,,,Table 20,L12,47031.52426036219,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2009-12-31,"Housing, water, electricity, gas and other fuels",4.6634387178674785,%,2009,Annual,Published percentage change,,,reported,,,,Table 20,H55,0.04663438717867479,0.0%
+2009-12-31,"Housing, water, electricity, gas and other fuels",943719.0735573453,$000,2009,Annual,Value,,,reported,,,,Table 20,H12,943719.0735573453,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2009-12-31,Miscellaneous goods and services,2.957699616734929,%,2009,Annual,Published percentage change,,,reported,,,,Table 20,X55,0.029576996167349292,0.0%
+2009-12-31,Miscellaneous goods and services,575398.0796389513,$000,2009,Annual,Value,,,reported,,,,Table 20,X12,575398.0796389513,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2009-12-31,Recreation and culture,1.0274994240000432,%,2009,Annual,Published percentage change,,,reported,,,,Table 20,R55,0.010274994240000432,0.0%
+2009-12-31,Recreation and culture,216633.23089037903,$000,2009,Annual,Value,,,reported,,,,Table 20,R12,216633.23089037903,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2009-12-31,Restaurants and hotels,-17.426378701674086,%,2009,Annual,Published percentage change,,,reported,,,,Table 20,V55,-0.17426378701674086,0.0%
+2009-12-31,Restaurants and hotels,174653.73843829142,$000,2009,Annual,Value,,,reported,,,,Table 20,V12,174653.73843829142,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2009-12-31,Total,-0.7830482235626284,%,2009,Annual,Published percentage change,,,reported,,,,Table 20,Z55,-0.007830482235626284,0.0%
+2009-12-31,Total,3040098.8480511326,$000,2009,Annual,Value,,,reported,,,,Table 20,Z12,3040098.8480511326,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2009-12-31,Transport,-6.120158132789679,%,2009,Annual,Published percentage change,,,reported,,,,Table 20,N55,-0.06120158132789679,0.0%
+2009-12-31,Transport,323301.30773517594,$000,2009,Annual,Value,,,reported,,,,Table 20,N12,323301.30773517594,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2010-12-31,"Alcohol, tobacco and narcotics",12.724887519001706,%,2010,Annual,Published percentage change,,,reported,,,,Table 20,D57,0.12724887519001707,0.0%
+2010-12-31,"Alcohol, tobacco and narcotics",55222.18573445869,$000,2010,Annual,Value,,,reported,,,,Table 20,D14,55222.18573445869,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2010-12-31,Clothing and footwear,-1.0352573776471399,%,2010,Annual,Published percentage change,,,reported,,,,Table 20,F57,-0.0103525737764714,0.0%
+2010-12-31,Clothing and footwear,138542.84220740534,$000,2010,Annual,Value,,,reported,,,,Table 20,F14,138542.84220740534,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2010-12-31,Communication,-4.695996358393277,%,2010,Annual,Published percentage change,,,reported,,,,Table 20,P57,-0.04695996358393277,0.0%
+2010-12-31,Communication,131587.2852991965,$000,2010,Annual,Value,,,reported,,,,Table 20,P14,131587.2852991965,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2010-12-31,Education,4.657281885124564,%,2010,Annual,Published percentage change,,,reported,,,,Table 20,T57,0.04657281885124564,0.0%
+2010-12-31,Education,109827.42958188862,$000,2010,Annual,Value,,,reported,,,,Table 20,T14,109827.42958188862,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2010-12-31,Food and non-alcoholic beverages,-0.78240457429948,%,2010,Annual,Published percentage change,,,reported,,,,Table 20,B57,-0.0078240457429948,0.0%
+2010-12-31,Food and non-alcoholic beverages,200724.267101829,$000,2010,Annual,Value,,,reported,,,,Table 20,B14,200724.267101829,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2010-12-31,"Furnishings, equipment and house maintenance",-8.736504021601643,%,2010,Annual,Published percentage change,,,reported,,,,Table 20,J57,-0.08736504021601643,0.0%
+2010-12-31,"Furnishings, equipment and house maintenance",114136.87717866094,$000,2010,Annual,Value,,,reported,,,,Table 20,J14,114136.87717866094,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2010-12-31,Health,10.767373162343773,%,2010,Annual,Published percentage change,,,reported,,,,Table 20,L57,0.10767373162343773,0.0%
+2010-12-31,Health,52095.58398141363,$000,2010,Annual,Value,,,reported,,,,Table 20,L14,52095.58398141363,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2010-12-31,"Housing, water, electricity, gas and other fuels",3.2163814442242145,%,2010,Annual,Published percentage change,,,reported,,,,Table 20,H57,0.032163814442242145,0.0%
+2010-12-31,"Housing, water, electricity, gas and other fuels",974072.6787248484,$000,2010,Annual,Value,,,reported,,,,Table 20,H14,974072.6787248484,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2010-12-31,Miscellaneous goods and services,2.2300631342972888,%,2010,Annual,Published percentage change,,,reported,,,,Table 20,X57,0.022300631342972888,0.0%
+2010-12-31,Miscellaneous goods and services,588229.8200884341,$000,2010,Annual,Value,,,reported,,,,Table 20,X14,588229.8200884341,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2010-12-31,Recreation and culture,-0.6128965483651232,%,2010,Annual,Published percentage change,,,reported,,,,Table 20,R57,-0.006128965483651232,0.0%
+2010-12-31,Recreation and culture,215305.49329564004,$000,2010,Annual,Value,,,reported,,,,Table 20,R14,215305.49329564004,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2010-12-31,Restaurants and hotels,-0.8410313881053156,%,2010,Annual,Published percentage change,,,reported,,,,Table 20,V57,-0.008410313881053157,0.0%
+2010-12-31,Restaurants and hotels,173184.84567752603,$000,2010,Annual,Value,,,reported,,,,Table 20,V14,173184.84567752603,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2010-12-31,Total,-0.1086918513730225,%,2010,Annual,Published percentage change,,,reported,,,,Table 20,Z57,-0.001086918513730225,0.0%
+2010-12-31,Total,3036794.508329616,$000,2010,Annual,Value,,,reported,,,,Table 20,Z14,3036794.508329616,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2010-12-31,Transport,-12.19794270339441,%,2010,Annual,Published percentage change,,,reported,,,,Table 20,N57,-0.12197942703394411,0.0%
+2010-12-31,Transport,283865.19945831434,$000,2010,Annual,Value,,,reported,,,,Table 20,N14,283865.19945831434,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2011-12-31,"Alcohol, tobacco and narcotics",-1.2539629790280271,%,2011,Annual,Published percentage change,,,reported,,,,Table 20,D59,-0.012539629790280272,0.0%
+2011-12-31,"Alcohol, tobacco and narcotics",54529.71996913848,$000,2011,Annual,Value,,,reported,,,,Table 20,D16,54529.71996913848,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2011-12-31,Clothing and footwear,-0.1413555387662472,%,2011,Annual,Published percentage change,,,reported,,,,Table 20,F59,-0.0014135553876624722,0.0%
+2011-12-31,Clothing and footwear,138347.004226381,$000,2011,Annual,Value,,,reported,,,,Table 20,F16,138347.004226381,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2011-12-31,Communication,-2.990135208264272,%,2011,Annual,Published percentage change,,,reported,,,,Table 20,P59,-0.02990135208264272,0.0%
+2011-12-31,Communication,127652.64755186606,$000,2011,Annual,Value,,,reported,,,,Table 20,P16,127652.64755186606,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2011-12-31,Education,0.5558674885449703,%,2011,Annual,Published percentage change,,,reported,,,,Table 20,T59,0.005558674885449703,0.0%
+2011-12-31,Education,110437.92455643896,$000,2011,Annual,Value,,,reported,,,,Table 20,T16,110437.92455643896,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2011-12-31,Food and non-alcoholic beverages,-0.45086766576251364,%,2011,Annual,Published percentage change,,,reported,,,,Table 20,B59,-0.004508676657625136,0.0%
+2011-12-31,Food and non-alcoholic beverages,199819.26628412807,$000,2011,Annual,Value,,,reported,,,,Table 20,B16,199819.26628412807,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2011-12-31,"Furnishings, equipment and house maintenance",-4.1039226728196745,%,2011,Annual,Published percentage change,,,reported,,,,Table 20,J59,-0.041039226728196744,0.0%
+2011-12-31,"Furnishings, equipment and house maintenance",109452.78799807753,$000,2011,Annual,Value,,,reported,,,,Table 20,J16,109452.78799807753,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2011-12-31,Health,7.171033088524226,%,2011,Annual,Published percentage change,,,reported,,,,Table 20,L59,0.07171033088524226,0.0%
+2011-12-31,Health,55831.375546380725,$000,2011,Annual,Value,,,reported,,,,Table 20,L16,55831.375546380725,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2011-12-31,"Housing, water, electricity, gas and other fuels",0.26003162378377875,%,2011,Annual,Published percentage change,,,reported,,,,Table 20,H59,0.0026003162378377877,0.0%
+2011-12-31,"Housing, water, electricity, gas and other fuels",976605.5757281708,$000,2011,Annual,Value,,,reported,,,,Table 20,H16,976605.5757281708,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2011-12-31,Miscellaneous goods and services,3.31448258566814,%,2011,Annual,Published percentage change,,,reported,,,,Table 20,X59,0.0331448258566814,0.0%
+2011-12-31,Miscellaneous goods and services,607726.5950389723,$000,2011,Annual,Value,,,reported,,,,Table 20,X16,607726.5950389723,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2011-12-31,Recreation and culture,-6.109099835478849,%,2011,Annual,Published percentage change,,,reported,,,,Table 20,R59,-0.06109099835478849,0.0%
+2011-12-31,Recreation and culture,202152.26575893917,$000,2011,Annual,Value,,,reported,,,,Table 20,R16,202152.26575893917,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2011-12-31,Restaurants and hotels,2.2649192388036967,%,2011,Annual,Published percentage change,,,reported,,,,Table 20,V59,0.02264919238803697,0.0%
+2011-12-31,Restaurants and hotels,177107.3425659688,$000,2011,Annual,Value,,,reported,,,,Table 20,V16,177107.3425659688,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2011-12-31,Total,0.05215778807421948,%,2011,Annual,Published percentage change,,,reported,,,,Table 20,Z59,0.0005215778807421948,0.0%
+2011-12-31,Total,3038378.43317352,$000,2011,Annual,Value,,,reported,,,,Table 20,Z16,3038378.43317352,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2011-12-31,Transport,-1.8139847783673033,%,2011,Annual,Published percentage change,,,reported,,,,Table 20,N59,-0.018139847783673033,0.0%
+2011-12-31,Transport,278715.92794905853,$000,2011,Annual,Value,,,reported,,,,Table 20,N16,278715.92794905853,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2012-12-31,"Alcohol, tobacco and narcotics",2.058834514348152,%,2012,Annual,Published percentage change,,,reported,,,,Table 20,D61,0.020588345143481523,0.0%
+2012-12-31,"Alcohol, tobacco and narcotics",55652.3966644405,$000,2012,Annual,Value,,,reported,,,,Table 20,D18,55652.3966644405,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2012-12-31,Clothing and footwear,-4.486868686528146,%,2012,Annual,Published percentage change,,,reported,,,,Table 20,F61,-0.044868686865281456,0.0%
+2012-12-31,Clothing and footwear,132139.55581499773,$000,2012,Annual,Value,,,reported,,,,Table 20,F18,132139.55581499773,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2012-12-31,Communication,0.893918548679661,%,2012,Annual,Published percentage change,,,reported,,,,Table 20,P61,0.00893918548679661,0.0%
+2012-12-31,Communication,128793.75824621286,$000,2012,Annual,Value,,,reported,,,,Table 20,P18,128793.75824621286,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2012-12-31,Education,-2.031919870709604,%,2012,Annual,Published percentage change,,,reported,,,,Table 20,T61,-0.020319198707096038,0.0%
+2012-12-31,Education,108193.91442257739,$000,2012,Annual,Value,,,reported,,,,Table 20,T18,108193.91442257739,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2012-12-31,Food and non-alcoholic beverages,6.579054378766058,%,2012,Annual,Published percentage change,,,reported,,,,Table 20,B61,0.06579054378766058,0.0%
+2012-12-31,Food and non-alcoholic beverages,212965.4844722122,$000,2012,Annual,Value,,,reported,,,,Table 20,B18,212965.4844722122,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2012-12-31,"Furnishings, equipment and house maintenance",-5.917178124568047,%,2012,Annual,Published percentage change,,,reported,,,,Table 20,J61,-0.05917178124568047,0.0%
+2012-12-31,"Furnishings, equipment and house maintenance",102976.27156992545,$000,2012,Annual,Value,,,reported,,,,Table 20,J18,102976.27156992545,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2012-12-31,Health,2.259712249312093,%,2012,Annual,Published percentage change,,,reported,,,,Table 20,L61,0.02259712249312093,0.0%
+2012-12-31,Health,57093.00397856173,$000,2012,Annual,Value,,,reported,,,,Table 20,L18,57093.00397856173,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2012-12-31,"Housing, water, electricity, gas and other fuels",-0.6422207820546944,%,2012,Annual,Published percentage change,,,reported,,,,Table 20,H61,-0.006422207820546944,0.0%
+2012-12-31,"Housing, water, electricity, gas and other fuels",970333.6117621396,$000,2012,Annual,Value,,,reported,,,,Table 20,H18,970333.6117621396,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2012-12-31,Miscellaneous goods and services,0.39310038905900313,%,2012,Annual,Published percentage change,,,reported,,,,Table 20,X61,0.003931003890590031,0.0%
+2012-12-31,Miscellaneous goods and services,610115.5706484856,$000,2012,Annual,Value,,,reported,,,,Table 20,X18,610115.5706484856,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2012-12-31,Recreation and culture,-2.9512568007939217,%,2012,Annual,Published percentage change,,,reported,,,,Table 20,R61,-0.029512568007939218,0.0%
+2012-12-31,Recreation and culture,196186.23326776948,$000,2012,Annual,Value,,,reported,,,,Table 20,R18,196186.23326776948,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2012-12-31,Restaurants and hotels,1.7530973175888946,%,2012,Annual,Published percentage change,,,reported,,,,Table 20,V61,0.017530973175888948,0.0%
+2012-12-31,Restaurants and hotels,180212.20663774578,$000,2012,Annual,Value,,,reported,,,,Table 20,V18,180212.20663774578,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2012-12-31,Total,-0.30873712975855727,%,2012,Annual,Published percentage change,,,reported,,,,Table 20,Z61,-0.0030873712975855727,0.0%
+2012-12-31,Total,3028997.830807737,$000,2012,Annual,Value,,,reported,,,,Table 20,Z18,3028997.830807737,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2012-12-31,Transport,-1.5715300731539779,%,2012,Annual,Published percentage change,,,reported,,,,Table 20,N61,-0.015715300731539778,0.0%
+2012-12-31,Transport,274335.8233226689,$000,2012,Annual,Value,,,reported,,,,Table 20,N18,274335.8233226689,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2013-12-31,"Alcohol, tobacco and narcotics",1.2853346977603148,%,2013,Annual,Published percentage change,,,reported,,,,Table 20,D63,0.012853346977603148,0.0%
+2013-12-31,"Alcohol, tobacco and narcotics",56367.71622890376,$000,2013,Annual,Value,,,reported,,,,Table 20,D20,56367.71622890376,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2013-12-31,Clothing and footwear,-0.45489661929830094,%,2013,Annual,Published percentage change,,,reported,,,,Table 20,F63,-0.0045489661929830096,0.0%
+2013-12-31,Clothing and footwear,131538.4574428395,$000,2013,Annual,Value,,,reported,,,,Table 20,F20,131538.4574428395,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2013-12-31,Communication,-2.465282186410557,%,2013,Annual,Published percentage change,,,reported,,,,Table 20,P63,-0.02465282186410557,0.0%
+2013-12-31,Communication,125618.6286669603,$000,2013,Annual,Value,,,reported,,,,Table 20,P20,125618.6286669603,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2013-12-31,Education,3.0854783449901366,%,2013,Annual,Published percentage change,,,reported,,,,Table 20,T63,0.030854783449901366,0.0%
+2013-12-31,Education,111532.21422268318,$000,2013,Annual,Value,,,reported,,,,Table 20,T20,111532.21422268318,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2013-12-31,Food and non-alcoholic beverages,2.879569347952004,%,2013,Annual,Published percentage change,,,reported,,,,Table 20,B63,0.028795693479520042,0.0%
+2013-12-31,Food and non-alcoholic beverages,219097.97328479151,$000,2013,Annual,Value,,,reported,,,,Table 20,B20,219097.97328479151,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2013-12-31,"Furnishings, equipment and house maintenance",-0.8347015263400565,%,2013,Annual,Published percentage change,,,reported,,,,Table 20,J63,-0.008347015263400565,0.0%
+2013-12-31,"Furnishings, equipment and house maintenance",102116.7270593632,$000,2013,Annual,Value,,,reported,,,,Table 20,J20,102116.7270593632,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2013-12-31,Health,1.8881403084746364,%,2013,Annual,Published percentage change,,,reported,,,,Table 20,L63,0.018881403084746364,0.0%
+2013-12-31,Health,58170.99999999998,$000,2013,Annual,Value,,,reported,,,,Table 20,L20,58170.99999999998,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2013-12-31,"Housing, water, electricity, gas and other fuels",-0.2713482578541318,%,2013,Annual,Published percentage change,,,reported,,,,Table 20,H63,-0.0027134825785413183,0.0%
+2013-12-31,"Housing, water, electricity, gas and other fuels",967700.62841125,$000,2013,Annual,Value,,,reported,,,,Table 20,H20,967700.62841125,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2013-12-31,Miscellaneous goods and services,2.13201983548139,%,2013,Annual,Published percentage change,,,reported,,,,Table 20,X63,0.0213201983548139,0.0%
+2013-12-31,Miscellaneous goods and services,623123.3556340717,$000,2013,Annual,Value,,,reported,,,,Table 20,X20,623123.3556340717,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2013-12-31,Recreation and culture,-3.5355882757579553,%,2013,Annual,Published percentage change,,,reported,,,,Table 20,R63,-0.03535588275757955,0.0%
+2013-12-31,Recreation and culture,189249.89580570307,$000,2013,Annual,Value,,,reported,,,,Table 20,R20,189249.89580570307,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2013-12-31,Restaurants and hotels,0.07055185982300148,%,2013,Annual,Published percentage change,,,reported,,,,Table 20,V63,0.0007055185982300148,0.0%
+2013-12-31,Restaurants and hotels,180339.34970115678,$000,2013,Annual,Value,,,reported,,,,Table 20,V20,180339.34970115678,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2013-12-31,Total,0.3764880026736187,%,2013,Annual,Published percentage change,,,reported,,,,Table 20,Z63,0.003764880026736187,0.0%
+2013-12-31,Total,3040401.6442419724,$000,2013,Annual,Value,,,reported,,,,Table 20,Z20,3040401.6442419724,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2013-12-31,Transport,0.4410194946203404,%,2013,Annual,Published percentage change,,,reported,,,,Table 20,N63,0.004410194946203404,0.0%
+2013-12-31,Transport,275545.6977842491,$000,2013,Annual,Value,,,reported,,,,Table 20,N20,275545.6977842491,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2014-12-31,"Alcohol, tobacco and narcotics",10.651711843923763,%,2014,Annual,Published percentage change,,,reported,,,,Table 20,D65,0.10651711843923763,0.0%
+2014-12-31,"Alcohol, tobacco and narcotics",62371.84293460724,$000,2014,Annual,Value,,,reported,,,,Table 20,D22,62371.84293460724,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2014-12-31,Clothing and footwear,-2.8891411538132443,%,2014,Annual,Published percentage change,,,reported,,,,Table 20,F65,-0.028891411538132444,0.0%
+2014-12-31,Clothing and footwear,127738.12573576732,$000,2014,Annual,Value,,,reported,,,,Table 20,F22,127738.12573576732,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2014-12-31,Communication,-6.227460287775365,%,2014,Annual,Published percentage change,,,reported,,,,Table 20,P65,-0.06227460287775365,0.0%
+2014-12-31,Communication,117795.77845267735,$000,2014,Annual,Value,,,reported,,,,Table 20,P22,117795.77845267735,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2014-12-31,Education,0.11040689309128145,%,2014,Annual,Published percentage change,,,reported,,,,Table 20,T65,0.0011040689309128144,0.0%
+2014-12-31,Education,111655.35347520236,$000,2014,Annual,Value,,,reported,,,,Table 20,T22,111655.35347520236,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2014-12-31,Food and non-alcoholic beverages,0.7000356226547279,%,2014,Annual,Published percentage change,,,reported,,,,Table 20,B65,0.0070003562265472784,0.0%
+2014-12-31,Food and non-alcoholic beverages,220631.7371462996,$000,2014,Annual,Value,,,reported,,,,Table 20,B22,220631.7371462996,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2014-12-31,"Furnishings, equipment and house maintenance",-1.2286113378446486,%,2014,Annual,Published percentage change,,,reported,,,,Table 20,J65,-0.012286113378446486,0.0%
+2014-12-31,"Furnishings, equipment and house maintenance",100862.10937287599,$000,2014,Annual,Value,,,reported,,,,Table 20,J22,100862.10937287599,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2014-12-31,Health,-2.1976615390462246,%,2014,Annual,Published percentage change,,,reported,,,,Table 20,L65,-0.021976615390462247,0.0%
+2014-12-31,Health,56892.5983061214,$000,2014,Annual,Value,,,reported,,,,Table 20,L22,56892.5983061214,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2014-12-31,"Housing, water, electricity, gas and other fuels",0.16586422075787374,%,2014,Annual,Published percentage change,,,reported,,,,Table 20,H65,0.0016586422075787375,0.0%
+2014-12-31,"Housing, water, electricity, gas and other fuels",969305.6975178333,$000,2014,Annual,Value,,,reported,,,,Table 20,H22,969305.6975178333,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2014-12-31,Miscellaneous goods and services,2.97192491859689,%,2014,Annual,Published percentage change,,,reported,,,,Table 20,X65,0.0297192491859689,0.0%
+2014-12-31,Miscellaneous goods and services,641642.1139137578,$000,2014,Annual,Value,,,reported,,,,Table 20,X22,641642.1139137578,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2014-12-31,Recreation and culture,-2.775193121717269,%,2014,Annual,Published percentage change,,,reported,,,,Table 20,R65,-0.02775193121717269,0.0%
+2014-12-31,Recreation and culture,183997.8457144461,$000,2014,Annual,Value,,,reported,,,,Table 20,R22,183997.8457144461,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2014-12-31,Restaurants and hotels,2.334918998110789,%,2014,Annual,Published percentage change,,,reported,,,,Table 20,V65,0.023349189981107892,0.0%
+2014-12-31,Restaurants and hotels,184550.12743839854,$000,2014,Annual,Value,,,reported,,,,Table 20,V22,184550.12743839854,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2014-12-31,Total,0.5516898486936984,%,2014,Annual,Published percentage change,,,reported,,,,Table 20,Z65,0.005516898486936984,0.0%
+2014-12-31,Total,3057175.2314727716,$000,2014,Annual,Value,,,reported,,,,Table 20,Z22,3057175.2314727716,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2014-12-31,Transport,1.5192411691413117,%,2014,Annual,Published percentage change,,,reported,,,,Table 20,N65,0.015192411691413117,0.0%
+2014-12-31,Transport,279731.9014647851,$000,2014,Annual,Value,,,reported,,,,Table 20,N22,279731.9014647851,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2015-12-31,"Alcohol, tobacco and narcotics",1.1118275702868052,%,2015,Annual,Published percentage change,,,reported,,,,Table 20,D67,0.011118275702868052,0.0%
+2015-12-31,"Alcohol, tobacco and narcotics",63065.31028045018,$000,2015,Annual,Value,,,reported,,,,Table 20,D24,63065.31028045018,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2015-12-31,Clothing and footwear,5.0513865931302915,%,2015,Annual,Published percentage change,,,reported,,,,Table 20,F67,0.050513865931302915,0.0%
+2015-12-31,Clothing and footwear,134190.67229349978,$000,2015,Annual,Value,,,reported,,,,Table 20,F24,134190.67229349978,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2015-12-31,Communication,-3.1383987710709507,%,2015,Annual,Published percentage change,,,reported,,,,Table 20,P67,-0.03138398771070951,0.0%
+2015-12-31,Communication,114098.87718934506,$000,2015,Annual,Value,,,reported,,,,Table 20,P24,114098.87718934506,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2015-12-31,Education,2.1876983510676293,%,2015,Annual,Published percentage change,,,reported,,,,Table 20,T67,0.021876983510676292,0.0%
+2015-12-31,Education,114098.03580205809,$000,2015,Annual,Value,,,reported,,,,Table 20,T24,114098.03580205809,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2015-12-31,Food and non-alcoholic beverages,3.7600205829915176,%,2015,Annual,Published percentage change,,,reported,,,,Table 20,B67,0.037600205829915176,0.0%
+2015-12-31,Food and non-alcoholic beverages,228927.5358756122,$000,2015,Annual,Value,,,reported,,,,Table 20,B24,228927.5358756122,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2015-12-31,"Furnishings, equipment and house maintenance",2.576070908389189,%,2015,Annual,Published percentage change,,,reported,,,,Table 20,J67,0.02576070908389189,0.0%
+2015-12-31,"Furnishings, equipment and house maintenance",103460.38883001833,$000,2015,Annual,Value,,,reported,,,,Table 20,J24,103460.38883001833,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2015-12-31,Health,6.840798601779964,%,2015,Annual,Published percentage change,,,reported,,,,Table 20,L67,0.06840798601779964,0.0%
+2015-12-31,Health,60784.50637556284,$000,2015,Annual,Value,,,reported,,,,Table 20,L24,60784.50637556284,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2015-12-31,"Housing, water, electricity, gas and other fuels",1.6561396126320855,%,2015,Annual,Published percentage change,,,reported,,,,Table 20,H67,0.016561396126320856,0.0%
+2015-12-31,"Housing, water, electricity, gas and other fuels",985358.7531419259,$000,2015,Annual,Value,,,reported,,,,Table 20,H24,985358.7531419259,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2015-12-31,Miscellaneous goods and services,4.36038744067923,%,2015,Annual,Published percentage change,,,reported,,,,Table 20,X67,0.0436038744067923,0.0%
+2015-12-31,Miscellaneous goods and services,669620.1960629621,$000,2015,Annual,Value,,,reported,,,,Table 20,X24,669620.1960629621,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2015-12-31,Recreation and culture,7.088694276932156,%,2015,Annual,Published percentage change,,,reported,,,,Table 20,R67,0.07088694276932156,0.0%
+2015-12-31,Recreation and culture,197040.8904732845,$000,2015,Annual,Value,,,reported,,,,Table 20,R24,197040.8904732845,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2015-12-31,Restaurants and hotels,0.44058305975063816,%,2015,Annual,Published percentage change,,,reported,,,,Table 20,V67,0.0044058305975063815,0.0%
+2015-12-31,Restaurants and hotels,185363.22403664034,$000,2015,Annual,Value,,,reported,,,,Table 20,V24,185363.22403664034,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2015-12-31,Total,2.8755944341081396,%,2015,Annual,Published percentage change,,,reported,,,,Table 20,Z67,0.028755944341081398,0.0%
+2015-12-31,Total,3145087.1922699353,$000,2015,Annual,Value,,,reported,,,,Table 20,Z24,3145087.1922699353,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2015-12-31,Transport,3.3413780819588936,%,2015,Annual,Published percentage change,,,reported,,,,Table 20,N67,0.033413780819588935,0.0%
+2015-12-31,Transport,289078.8019085763,$000,2015,Annual,Value,,,reported,,,,Table 20,N24,289078.8019085763,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2016-12-31,"Alcohol, tobacco and narcotics",3.9519823714861984,%,2016,Annual,Published percentage change,,,reported,,,,Table 20,D69,0.039519823714861985,0.0%
+2016-12-31,"Alcohol, tobacco and narcotics",65557.64022525665,$000,2016,Annual,Value,,,reported,,,,Table 20,D26,65557.64022525665,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2016-12-31,Clothing and footwear,-3.068239758172039,%,2016,Annual,Published percentage change,,,reported,,,,Table 20,F69,-0.03068239758172039,0.0%
+2016-12-31,Clothing and footwear,130073.38073443227,$000,2016,Annual,Value,,,reported,,,,Table 20,F26,130073.38073443227,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2016-12-31,Communication,-3.9533152874779023,%,2016,Annual,Published percentage change,,,reported,,,,Table 20,P69,-0.03953315287477902,0.0%
+2016-12-31,Communication,109588.18883457805,$000,2016,Annual,Value,,,reported,,,,Table 20,P26,109588.18883457805,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2016-12-31,Education,-2.4930143739892894,%,2016,Annual,Published percentage change,,,reported,,,,Table 20,T69,-0.024930143739892895,0.0%
+2016-12-31,Education,111253.55536907334,$000,2016,Annual,Value,,,reported,,,,Table 20,T26,111253.55536907334,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2016-12-31,Food and non-alcoholic beverages,2.5445604615444264,%,2016,Annual,Published percentage change,,,reported,,,,Table 20,B69,0.02544560461544426,0.0%
+2016-12-31,Food and non-alcoholic beverages,234752.73543909096,$000,2016,Annual,Value,,,reported,,,,Table 20,B26,234752.73543909096,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2016-12-31,"Furnishings, equipment and house maintenance",4.278321843063767,%,2016,Annual,Published percentage change,,,reported,,,,Table 20,J69,0.042783218430637676,0.0%
+2016-12-31,"Furnishings, equipment and house maintenance",107886.75724425171,$000,2016,Annual,Value,,,reported,,,,Table 20,J26,107886.75724425171,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2016-12-31,Health,1.0908731487990413,%,2016,Annual,Published percentage change,,,reported,,,,Table 20,L69,0.010908731487990413,0.0%
+2016-12-31,Health,61447.5882342439,$000,2016,Annual,Value,,,reported,,,,Table 20,L26,61447.5882342439,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2016-12-31,"Housing, water, electricity, gas and other fuels",4.0584507831834,%,2016,Annual,Published percentage change,,,reported,,,,Table 20,H69,0.040584507831833996,0.0%
+2016-12-31,"Housing, water, electricity, gas and other fuels",1025349.0531759806,$000,2016,Annual,Value,,,reported,,,,Table 20,H26,1025349.0531759806,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2016-12-31,Miscellaneous goods and services,3.3533430835518954,%,2016,Annual,Published percentage change,,,reported,,,,Table 20,X69,0.033533430835518956,0.0%
+2016-12-31,Miscellaneous goods and services,692074.858593706,$000,2016,Annual,Value,,,reported,,,,Table 20,X26,692074.858593706,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2016-12-31,Recreation and culture,11.116722122041523,%,2016,Annual,Published percentage change,,,reported,,,,Table 20,R69,0.11116722122041522,0.0%
+2016-12-31,Recreation and culture,218945.37873399572,$000,2016,Annual,Value,,,reported,,,,Table 20,R26,218945.37873399572,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2016-12-31,Restaurants and hotels,4.37895341290475,%,2016,Annual,Published percentage change,,,reported,,,,Table 20,V69,0.0437895341290475,0.0%
+2016-12-31,Restaurants and hotels,193480.19326186308,$000,2016,Annual,Value,,,reported,,,,Table 20,V26,193480.19326186308,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2016-12-31,Total,3.924640733284938,%,2016,Annual,Published percentage change,,,reported,,,,Table 20,Z69,0.03924640733284938,0.0%
+2016-12-31,Total,3268520.5653150887,$000,2016,Annual,Value,,,reported,,,,Table 20,Z26,3268520.5653150887,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2016-12-31,Transport,10.043086303236331,%,2016,Annual,Published percentage change,,,reported,,,,Table 20,N69,0.1004308630323633,0.0%
+2016-12-31,Transport,318111.2354686162,$000,2016,Annual,Value,,,reported,,,,Table 20,N26,318111.2354686162,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2017-12-31,"Alcohol, tobacco and narcotics",6.720876017282321,%,2017,Annual,Published percentage change,,,reported,,,,Table 20,D71,0.0672087601728232,0.0%
+2017-12-31,"Alcohol, tobacco and narcotics",69963.68794465215,$000,2017,Annual,Value,,,reported,,,,Table 20,D28,69963.68794465215,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2017-12-31,Clothing and footwear,3.0550973256164204,%,2017,Annual,Published percentage change,,,reported,,,,Table 20,F71,0.030550973256164203,0.0%
+2017-12-31,Clothing and footwear,134047.24911058877,$000,2017,Annual,Value,,,reported,,,,Table 20,F28,134047.24911058877,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2017-12-31,Communication,2.670801279871761,%,2017,Annual,Published percentage change,,,reported,,,,Table 20,P71,0.02670801279871761,0.0%
+2017-12-31,Communication,112515.07158456024,$000,2017,Annual,Value,,,reported,,,,Table 20,P28,112515.07158456024,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2017-12-31,Education,-0.9238801618439669,%,2017,Annual,Published percentage change,,,reported,,,,Table 20,T71,-0.009238801618439669,0.0%
+2017-12-31,Education,110225.70584167237,$000,2017,Annual,Value,,,reported,,,,Table 20,T28,110225.70584167237,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2017-12-31,Food and non-alcoholic beverages,2.5477674652770927,%,2017,Annual,Published percentage change,,,reported,,,,Table 20,B71,0.025477674652770926,0.0%
+2017-12-31,Food and non-alcoholic beverages,240733.68925645613,$000,2017,Annual,Value,,,reported,,,,Table 20,B28,240733.68925645613,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2017-12-31,"Furnishings, equipment and house maintenance",4.398341754904042,%,2017,Annual,Published percentage change,,,reported,,,,Table 20,J71,0.043983417549040414,0.0%
+2017-12-31,"Furnishings, equipment and house maintenance",112631.9855361376,$000,2017,Annual,Value,,,reported,,,,Table 20,J28,112631.9855361376,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2017-12-31,Health,12.773883865421581,%,2017,Annual,Published percentage change,,,reported,,,,Table 20,L71,0.1277388386542158,0.0%
+2017-12-31,Health,69296.83179338867,$000,2017,Annual,Value,,,reported,,,,Table 20,L28,69296.83179338867,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2017-12-31,"Housing, water, electricity, gas and other fuels",5.672432128934572,%,2017,Annual,Published percentage change,,,reported,,,,Table 20,H71,0.05672432128934572,0.0%
+2017-12-31,"Housing, water, electricity, gas and other fuels",1083511.2823020613,$000,2017,Annual,Value,,,reported,,,,Table 20,H28,1083511.2823020613,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2017-12-31,Miscellaneous goods and services,1.6314152375550766,%,2017,Annual,Published percentage change,,,reported,,,,Table 20,X71,0.016314152375550766,0.0%
+2017-12-31,Miscellaneous goods and services,703365.4732920915,$000,2017,Annual,Value,,,reported,,,,Table 20,X28,703365.4732920915,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2017-12-31,Recreation and culture,7.572840570839938,%,2017,Annual,Published percentage change,,,reported,,,,Table 20,R71,0.07572840570839938,0.0%
+2017-12-31,Recreation and culture,235525.7632027429,$000,2017,Annual,Value,,,reported,,,,Table 20,R28,235525.7632027429,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2017-12-31,Restaurants and hotels,18.358780289007473,%,2017,Annual,Published percentage change,,,reported,,,,Table 20,V71,0.18358780289007473,0.0%
+2017-12-31,Restaurants and hotels,229000.79684555557,$000,2017,Annual,Value,,,reported,,,,Table 20,V28,229000.79684555557,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2017-12-31,Total,4.219132006858097,%,2017,Annual,Published percentage change,,,reported,,,,Table 20,Z71,0.04219132006858097,0.0%
+2017-12-31,Total,3406423.762637037,$000,2017,Annual,Value,,,reported,,,,Table 20,Z28,3406423.762637037,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2017-12-31,Transport,-3.9310178790338943,%,2017,Annual,Published percentage change,,,reported,,,,Table 20,N71,-0.03931017879033894,0.0%
+2017-12-31,Transport,305606.2259271293,$000,2017,Annual,Value,,,reported,,,,Table 20,N28,305606.2259271293,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2018-12-31,"Alcohol, tobacco and narcotics",1.876902152379929,%,2018,Annual,Published percentage change,,,reported,,,,Table 20,D73,0.01876902152379929,0.0%
+2018-12-31,"Alcohol, tobacco and narcotics",71276.8379095697,$000,2018,Annual,Value,,,reported,,,,Table 20,D30,71276.8379095697,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2018-12-31,Clothing and footwear,-7.184317626347809,%,2018,Annual,Published percentage change,,,reported,,,,Table 20,F73,-0.0718431762634781,0.0%
+2018-12-31,Clothing and footwear,124416.86896510239,$000,2018,Annual,Value,,,reported,,,,Table 20,F30,124416.86896510239,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2018-12-31,Communication,-1.1331238580464127,%,2018,Annual,Published percentage change,,,reported,,,,Table 20,P73,-0.011331238580464127,0.0%
+2018-12-31,Communication,111240.13646453759,$000,2018,Annual,Value,,,reported,,,,Table 20,P30,111240.13646453759,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2018-12-31,Education,5.346622905203331,%,2018,Annual,Published percentage change,,,reported,,,,Table 20,T73,0.053466229052033305,0.0%
+2018-12-31,Education,116119.05867762527,$000,2018,Annual,Value,,,reported,,,,Table 20,T30,116119.05867762527,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2018-12-31,Food and non-alcoholic beverages,0.39878233575615635,%,2018,Annual,Published percentage change,,,reported,,,,Table 20,B73,0.003987823357561563,0.0%
+2018-12-31,Food and non-alcoholic beverages,241693.692685425,$000,2018,Annual,Value,,,reported,,,,Table 20,B30,241693.692685425,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2018-12-31,"Furnishings, equipment and house maintenance",-1.169656297279257,%,2018,Annual,Published percentage change,,,reported,,,,Table 20,J73,-0.01169656297279257,0.0%
+2018-12-31,"Furnishings, equipment and house maintenance",111314.5784245635,$000,2018,Annual,Value,,,reported,,,,Table 20,J30,111314.5784245635,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2018-12-31,Health,0.8451292912242185,%,2018,Annual,Published percentage change,,,reported,,,,Table 20,L73,0.008451292912242185,0.0%
+2018-12-31,Health,69882.47961676498,$000,2018,Annual,Value,,,reported,,,,Table 20,L30,69882.47961676498,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2018-12-31,"Housing, water, electricity, gas and other fuels",3.2026231968749674,%,2018,Annual,Published percentage change,,,reported,,,,Table 20,H73,0.03202623196874967,0.0%
+2018-12-31,"Housing, water, electricity, gas and other fuels",1118212.0659698246,$000,2018,Annual,Value,,,reported,,,,Table 20,H30,1118212.0659698246,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2018-12-31,Miscellaneous goods and services,2.941746692777768,%,2018,Annual,Published percentage change,,,reported,,,,Table 20,X73,0.029417466927777677,0.0%
+2018-12-31,Miscellaneous goods and services,724056.7038408023,$000,2018,Annual,Value,,,reported,,,,Table 20,X30,724056.7038408023,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2018-12-31,Recreation and culture,-16.172136579012946,%,2018,Annual,Published percentage change,,,reported,,,,Table 20,R73,-0.16172136579012947,0.0%
+2018-12-31,Recreation and culture,197436.2150988327,$000,2018,Annual,Value,,,reported,,,,Table 20,R30,197436.2150988327,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2018-12-31,Restaurants and hotels,3.7167616361104603,%,2018,Annual,Published percentage change,,,reported,,,,Table 20,V73,0.037167616361104605,0.0%
+2018-12-31,Restaurants and hotels,237512.21060909843,$000,2018,Annual,Value,,,reported,,,,Table 20,V30,237512.21060909843,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2018-12-31,Total,0.47407554304548605,%,2018,Annual,Published percentage change,,,reported,,,,Table 20,Z73,0.00474075543045486,0.0%
+2018-12-31,Total,3422572.784588189,$000,2018,Annual,Value,,,reported,,,,Table 20,Z30,3422572.784588189,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2018-12-31,Transport,-2.0268859321484,%,2018,Annual,Published percentage change,,,reported,,,,Table 20,N73,-0.020268859321484,0.0%
+2018-12-31,Transport,299411.93632604263,$000,2018,Annual,Value,,,reported,,,,Table 20,N30,299411.93632604263,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2019-12-31,"Alcohol, tobacco and narcotics",-1.4627895981826335,%,2019,Annual,Published percentage change,,,reported,,,,Table 20,D75,-0.014627895981826336,0.0%
+2019-12-31,"Alcohol, tobacco and narcotics",70234.20773871502,$000,2019,Annual,Value,,,reported,,,,Table 20,D32,70234.20773871502,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2019-12-31,Clothing and footwear,-12.795693920744647,%,2019,Annual,Published percentage change,,,reported,,,,Table 20,F75,-0.12795693920744647,0.0%
+2019-12-31,Clothing and footwear,108496.86722655395,$000,2019,Annual,Value,,,reported,,,,Table 20,F32,108496.86722655395,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2019-12-31,Communication,-1.489454846515713,%,2019,Annual,Published percentage change,,,reported,,,,Table 20,P75,-0.014894548465157129,0.0%
+2019-12-31,Communication,109583.26486069584,$000,2019,Annual,Value,,,reported,,,,Table 20,P32,109583.26486069584,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2019-12-31,Education,2.2241264564400995,%,2019,Annual,Published percentage change,,,reported,,,,Table 20,T75,0.022241264564400995,0.0%
+2019-12-31,Education,118701.69338264354,$000,2019,Annual,Value,,,reported,,,,Table 20,T32,118701.69338264354,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2019-12-31,Food and non-alcoholic beverages,1.891205268648118,%,2019,Annual,Published percentage change,,,reported,,,,Table 20,B75,0.01891205268648118,0.0%
+2019-12-31,Food and non-alcoholic beverages,246264.61653548194,$000,2019,Annual,Value,,,reported,,,,Table 20,B32,246264.61653548194,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2019-12-31,"Furnishings, equipment and house maintenance",-2.3878640414568006,%,2019,Annual,Published percentage change,,,reported,,,,Table 20,J75,-0.023878640414568005,0.0%
+2019-12-31,"Furnishings, equipment and house maintenance",108656.53763346412,$000,2019,Annual,Value,,,reported,,,,Table 20,J32,108656.53763346412,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2019-12-31,Health,4.3803969716733615,%,2019,Annual,Published percentage change,,,reported,,,,Table 20,L75,0.043803969716733615,0.0%
+2019-12-31,Health,72943.609637628,$000,2019,Annual,Value,,,reported,,,,Table 20,L32,72943.609637628,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2019-12-31,"Housing, water, electricity, gas and other fuels",3.347255194393995,%,2019,Annual,Published percentage change,,,reported,,,,Table 20,H75,0.03347255194393995,0.0%
+2019-12-31,"Housing, water, electricity, gas and other fuels",1155641.47743234,$000,2019,Annual,Value,,,reported,,,,Table 20,H32,1155641.47743234,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2019-12-31,Miscellaneous goods and services,5.05972659292567,%,2019,Annual,Published percentage change,,,reported,,,,Table 20,X75,0.0505972659292567,0.0%
+2019-12-31,Miscellaneous goods and services,760691.9934328964,$000,2019,Annual,Value,,,reported,,,,Table 20,X32,760691.9934328964,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2019-12-31,Recreation and culture,3.1637429325437934,%,2019,Annual,Published percentage change,,,reported,,,,Table 20,R75,0.031637429325437935,0.0%
+2019-12-31,Recreation and culture,203682.589400304,$000,2019,Annual,Value,,,reported,,,,Table 20,R32,203682.589400304,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2019-12-31,Restaurants and hotels,-3.6662460322201094,%,2019,Annual,Published percentage change,,,reported,,,,Table 20,V75,-0.03666246032220109,0.0%
+2019-12-31,Restaurants and hotels,228804.4286116041,$000,2019,Annual,Value,,,reported,,,,Table 20,V32,228804.4286116041,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2019-12-31,Total,1.5215025221300784,%,2019,Annual,Published percentage change,,,reported,,,,Table 20,Z75,0.015215025221300785,0.0%
+2019-12-31,Total,3474647.315827436,$000,2019,Annual,Value,,,reported,,,,Table 20,Z32,3474647.315827436,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2019-12-31,Transport,-2.8275113192933103,%,2019,Annual,Published percentage change,,,reported,,,,Table 20,N75,-0.028275113192933105,0.0%
+2019-12-31,Transport,290946.0299351085,$000,2019,Annual,Value,,,reported,,,,Table 20,N32,290946.0299351085,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2020-12-31,"Alcohol, tobacco and narcotics",9.797902532498416,%,2020,Annual,Published percentage change,,,reported,,,,Table 20,D77,0.09797902532498415,0.0%
+2020-12-31,"Alcohol, tobacco and narcotics",77115.68695742678,$000,2020,Annual,Value,,,reported,,,,Table 20,D34,77115.68695742678,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2020-12-31,Clothing and footwear,-33.434201562261364,%,2020,Annual,Published percentage change,,,reported,,,,Table 20,F77,-0.3343420156226136,0.0%
+2020-12-31,Clothing and footwear,72221.80594928881,$000,2020,Annual,Value,,,reported,,,,Table 20,F34,72221.80594928881,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2020-12-31,Communication,-5.205914983727711,%,2020,Annual,Published percentage change,,,reported,,,,Table 20,P77,-0.05205914983727711,0.0%
+2020-12-31,Communication,103878.45325565485,$000,2020,Annual,Value,,,reported,,,,Table 20,P34,103878.45325565485,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2020-12-31,Education,-8.230572501171936,%,2020,Annual,Published percentage change,,,reported,,,,Table 20,T77,-0.08230572501171937,0.0%
+2020-12-31,Education,108931.86444866625,$000,2020,Annual,Value,,,reported,,,,Table 20,T34,108931.86444866625,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2020-12-31,Food and non-alcoholic beverages,11.9995029082733,%,2020,Annual,Published percentage change,,,reported,,,,Table 20,B77,0.119995029082733,0.0%
+2020-12-31,Food and non-alcoholic beverages,275815.1463587052,$000,2020,Annual,Value,,,reported,,,,Table 20,B34,275815.1463587052,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2020-12-31,"Furnishings, equipment and house maintenance",3.531106787323367,%,2020,Annual,Published percentage change,,,reported,,,,Table 20,J77,0.03531106787323367,0.0%
+2020-12-31,"Furnishings, equipment and house maintenance",112493.31600870994,$000,2020,Annual,Value,,,reported,,,,Table 20,J34,112493.31600870994,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2020-12-31,Health,0.7201171955162028,%,2020,Annual,Published percentage change,,,reported,,,,Table 20,L77,0.007201171955162028,0.0%
+2020-12-31,Health,73468.88911365878,$000,2020,Annual,Value,,,reported,,,,Table 20,L34,73468.88911365878,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2020-12-31,"Housing, water, electricity, gas and other fuels",1.1413970170273857,%,2020,Annual,Published percentage change,,,reported,,,,Table 20,H77,0.011413970170273856,0.0%
+2020-12-31,"Housing, water, electricity, gas and other fuels",1168831.9347832839,$000,2020,Annual,Value,,,reported,,,,Table 20,H34,1168831.9347832839,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2020-12-31,Miscellaneous goods and services,-0.05295901942035594,%,2020,Annual,Published percentage change,,,reported,,,,Table 20,X77,-0.0005295901942035594,0.0%
+2020-12-31,Miscellaneous goods and services,760289.1384123652,$000,2020,Annual,Value,,,reported,,,,Table 20,X34,760289.1384123652,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2020-12-31,Recreation and culture,-34.29382141520125,%,2020,Annual,Published percentage change,,,reported,,,,Table 20,R77,-0.34293821415201253,0.0%
+2020-12-31,Recreation and culture,133832.0459375061,$000,2020,Annual,Value,,,reported,,,,Table 20,R34,133832.0459375061,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2020-12-31,Restaurants and hotels,-56.987462895611685,%,2020,Annual,Published percentage change,,,reported,,,,Table 20,V77,-0.5698746289561168,0.0%
+2020-12-31,Restaurants and hotels,98414.58975304988,$000,2020,Annual,Value,,,reported,,,,Table 20,V34,98414.58975304988,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2020-12-31,Total,-7.907411153382027,%,2020,Annual,Published percentage change,,,reported,,,,Table 20,Z77,-0.07907411153382027,0.0%
+2020-12-31,Total,3199892.666435008,$000,2020,Annual,Value,,,reported,,,,Table 20,Z34,3199892.666435008,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2020-12-31,Transport,-26.24068611468727,%,2020,Annual,Published percentage change,,,reported,,,,Table 20,N77,-0.2624068611468727,0.0%
+2020-12-31,Transport,214599.7954566926,$000,2020,Annual,Value,,,reported,,,,Table 20,N34,214599.7954566926,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,"Alcohol, tobacco and narcotics",-3.453874940896452,%,2021,Annual,Published percentage change,,,reported,,R,,Table 20,D79,-0.03453874940896452,0.0%
+2021-12-31,"Alcohol, tobacco and narcotics",74452.20757010406,$000,2021,Annual,Value,,,reported,,R,,Table 20,D36,74452.20757010406,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Clothing and footwear,14.565822212049442,%,2021,Annual,Published percentage change,,,reported,,R,,Table 20,F79,0.14565822212049442,0.0%
+2021-12-31,Clothing and footwear,82741.50580219357,$000,2021,Annual,Value,,,reported,,R,,Table 20,F36,82741.50580219357,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Communication,1.7500017193352722,%,2021,Annual,Published percentage change,,,reported,,R,,Table 20,P79,0.017500017193352722,0.0%
+2021-12-31,Communication,105696.3279736477,$000,2021,Annual,Value,,,reported,,R,,Table 20,P36,105696.3279736477,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Education,3.119440774284498,%,2021,Annual,Published percentage change,,,reported,,R,,Table 20,T79,0.031194407742844977,0.0%
+2021-12-31,Education,112329.92944446627,$000,2021,Annual,Value,,,reported,,R,,Table 20,T36,112329.92944446627,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Food and non-alcoholic beverages,-1.9815686408222997,%,2021,Annual,Published percentage change,,,reported,,R,,Table 20,B79,-0.019815686408222996,0.0%
+2021-12-31,Food and non-alcoholic beverages,270349.67991182295,$000,2021,Annual,Value,,,reported,,R,,Table 20,B36,270349.67991182295,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,"Furnishings, equipment and house maintenance",5.938489815605216,%,2021,Annual,Published percentage change,,,reported,,R,,Table 20,J79,0.05938489815605216,0.0%
+2021-12-31,"Furnishings, equipment and house maintenance",119173.72012312377,$000,2021,Annual,Value,,,reported,,R,,Table 20,J36,119173.72012312377,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Health,10.733525573289644,%,2021,Annual,Published percentage change,,,reported,,R,,Table 20,L79,0.10733525573289643,0.0%
+2021-12-31,Health,81354.69111508515,$000,2021,Annual,Value,,,reported,,R,,Table 20,L36,81354.69111508515,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,"Housing, water, electricity, gas and other fuels",3.7385031576063383,%,2021,Annual,Published percentage change,,,reported,,R,,Table 20,H79,0.037385031576063384,0.0%
+2021-12-31,"Housing, water, electricity, gas and other fuels",1212528.7535722682,$000,2021,Annual,Value,,,reported,,R,,Table 20,H36,1212528.7535722682,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Miscellaneous goods and services,1.7078381714051454,%,2021,Annual,Published percentage change,,,reported,,R,,Table 20,X79,0.017078381714051453,0.0%
+2021-12-31,Miscellaneous goods and services,773273.6465312189,$000,2021,Annual,Value,,,reported,,R,,Table 20,X36,773273.6465312189,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Recreation and culture,18.42241341058767,%,2021,Annual,Published percentage change,,,reported,,R,,Table 20,R79,0.18422413410587668,0.0%
+2021-12-31,Recreation and culture,158487.13871596107,$000,2021,Annual,Value,,,reported,,R,,Table 20,R36,158487.13871596107,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Restaurants and hotels,32.91104616964301,%,2021,Annual,Published percentage change,,,reported,,R,,Table 20,V79,0.3291104616964301,0.0%
+2021-12-31,Restaurants and hotels,130803.86082434088,$000,2021,Annual,Value,,,reported,,R,,Table 20,V36,130803.86082434088,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Total,4.318942276753793,%,2021,Annual,Published percentage change,,,reported,,R,,Table 20,Z79,0.043189422767537934,0.0%
+2021-12-31,Total,3338094.1836164137,$000,2021,Annual,Value,,,reported,,R,,Table 20,Z36,3338094.1836164137,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2021-12-31,Transport,1.0731261745090872,%,2021,Annual,Published percentage change,,,reported,,R,,Table 20,N79,0.010731261745090872,0.0%
+2021-12-31,Transport,216902.72203218134,$000,2021,Annual,Value,,,reported,,R,,Table 20,N36,216902.72203218134,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2022-12-31,"Alcohol, tobacco and narcotics",13.3999501392967,%,2022,Annual,Published percentage change,,,reported,,R,,Table 20,D81,0.133999501392967,0.0%
+2022-12-31,"Alcohol, tobacco and narcotics",84428.76626210369,$000,2022,Annual,Value,,,reported,,R,,Table 20,D38,84428.76626210369,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2022-12-31,Clothing and footwear,13.138834797525229,%,2022,Annual,Published percentage change,,,reported,,R,,Table 20,F81,0.13138834797525228,0.0%
+2022-12-31,Clothing and footwear,93612.77555852853,$000,2022,Annual,Value,,,reported,,R,,Table 20,F38,93612.77555852853,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2022-12-31,Communication,4.708581001794307,%,2022,Annual,Published percentage change,,,reported,,R,,Table 20,P81,0.04708581001794306,0.0%
+2022-12-31,Communication,110673.12519220907,$000,2022,Annual,Value,,,reported,,R,,Table 20,P38,110673.12519220907,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2022-12-31,Education,3.5022973697244852,%,2022,Annual,Published percentage change,,,reported,,R,,Table 20,T81,0.03502297369724485,0.0%
+2022-12-31,Education,116264.05760881318,$000,2022,Annual,Value,,,reported,,R,,Table 20,T38,116264.05760881318,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2022-12-31,Food and non-alcoholic beverages,0.46013122503123394,%,2022,Annual,Published percentage change,,,reported,,R,,Table 20,B81,0.004601312250312339,0.0%
+2022-12-31,Food and non-alcoholic beverages,271593.64320586924,$000,2022,Annual,Value,,,reported,,R,,Table 20,B38,271593.64320586924,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2022-12-31,"Furnishings, equipment and house maintenance",1.1254403545060887,%,2022,Annual,Published percentage change,,,reported,,R,,Table 20,J81,0.011254403545060887,0.0%
+2022-12-31,"Furnishings, equipment and house maintenance",120514.94926135555,$000,2022,Annual,Value,,,reported,,R,,Table 20,J38,120514.94926135555,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2022-12-31,Health,1.8038727868907416,%,2022,Annual,Published percentage change,,,reported,,R,,Table 20,L81,0.018038727868907416,0.0%
+2022-12-31,Health,82822.2262489692,$000,2022,Annual,Value,,,reported,,R,,Table 20,L38,82822.2262489692,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2022-12-31,"Housing, water, electricity, gas and other fuels",5.5670320465014065,%,2022,Annual,Published percentage change,,,reported,,R,,Table 20,H81,0.055670320465014064,0.0%
+2022-12-31,"Housing, water, electricity, gas and other fuels",1280030.6178566804,$000,2022,Annual,Value,,,reported,,R,,Table 20,H38,1280030.6178566804,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2022-12-31,Miscellaneous goods and services,3.764795673213598,%,2022,Annual,Published percentage change,,,reported,,R,,Table 20,X81,0.03764795673213598,0.0%
+2022-12-31,Miscellaneous goods and services,802385.8193179272,$000,2022,Annual,Value,,,reported,,R,,Table 20,X38,802385.8193179272,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2022-12-31,Recreation and culture,21.98015831520547,%,2022,Annual,Published percentage change,,,reported,,R,,Table 20,R81,0.2198015831520547,0.0%
+2022-12-31,Recreation and culture,193322.86271496862,$000,2022,Annual,Value,,,reported,,R,,Table 20,R38,193322.86271496862,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2022-12-31,Restaurants and hotels,45.9158810168709,%,2022,Annual,Published percentage change,,,reported,,R,,Table 20,V81,0.45915881016870896,0.0%
+2022-12-31,Restaurants and hotels,190863.60592591864,$000,2022,Annual,Value,,,reported,,R,,Table 20,V38,190863.60592591864,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2022-12-31,Total,8.15286068253662,%,2022,Annual,Published percentage change,,,reported,,R,,Table 20,Z81,0.0815286068253662,0.0%
+2022-12-31,Total,3610244.351858518,$000,2022,Annual,Value,,,reported,,R,,Table 20,Z38,3610244.351858518,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2022-12-31,Transport,21.58994605242703,%,2022,Annual,Published percentage change,,,reported,,R,,Table 20,N81,0.2158994605242703,0.0%
+2022-12-31,Transport,263731.90270517505,$000,2022,Annual,Value,,,reported,,R,,Table 20,N38,263731.90270517505,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2023-12-31,"Alcohol, tobacco and narcotics",-13.800685119249117,%,2023,Annual,Published percentage change,,,reported,,,,Table 20,D83,-0.13800685119249118,0.0%
+2023-12-31,"Alcohol, tobacco and narcotics",72777.01808020392,$000,2023,Annual,Value,,,reported,,R,,Table 20,D40,72777.01808020392,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2023-12-31,Clothing and footwear,0.9317230515618187,%,2023,Annual,Published percentage change,,,reported,,,,Table 20,F83,0.009317230515618186,0.0%
+2023-12-31,Clothing and footwear,94484.98736761417,$000,2023,Annual,Value,,,reported,,R,,Table 20,F40,94484.98736761417,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2023-12-31,Communication,4.188171535985744,%,2023,Annual,Published percentage change,,,reported,,,,Table 20,P83,0.04188171535985744,0.0%
+2023-12-31,Communication,115308.30551949504,$000,2023,Annual,Value,,,reported,,R,,Table 20,P40,115308.30551949504,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2023-12-31,Education,2.7137284178623817,%,2023,Annual,Published percentage change,,,reported,,,,Table 20,T83,0.027137284178623818,0.0%
+2023-12-31,Education,119419.14837990343,$000,2023,Annual,Value,,,reported,,R,,Table 20,T40,119419.14837990343,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2023-12-31,Food and non-alcoholic beverages,2.0362047414429143,%,2023,Annual,Published percentage change,,,reported,,,,Table 20,B83,0.02036204741442914,0.0%
+2023-12-31,Food and non-alcoholic beverages,277123.8458462847,$000,2023,Annual,Value,,,reported,,R,,Table 20,B40,277123.8458462847,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2023-12-31,"Furnishings, equipment and house maintenance",7.5591405172504,%,2023,Annual,Published percentage change,,,reported,,,,Table 20,J83,0.075591405172504,0.0%
+2023-12-31,"Furnishings, equipment and house maintenance",129624.84362031444,$000,2023,Annual,Value,,,reported,,R,,Table 20,J40,129624.84362031444,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2023-12-31,Health,6.661950355093974,%,2023,Annual,Published percentage change,,,reported,,,,Table 20,L83,0.06661950355093973,0.0%
+2023-12-31,Health,88339.80184465913,$000,2023,Annual,Value,,,reported,,R,,Table 20,L40,88339.80184465913,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2023-12-31,"Housing, water, electricity, gas and other fuels",7.355814923982859,%,2023,Annual,Published percentage change,,,reported,,,,Table 20,H83,0.07355814923982859,0.0%
+2023-12-31,"Housing, water, electricity, gas and other fuels",1374187.301076532,$000,2023,Annual,Value,,,reported,,R,,Table 20,H40,1374187.301076532,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2023-12-31,Miscellaneous goods and services,4.653163888534577,%,2023,Annual,Published percentage change,,,reported,,,,Table 20,X83,0.04653163888534577,0.0%
+2023-12-31,Miscellaneous goods and services,839722.1465091513,$000,2023,Annual,Value,,,reported,,R,,Table 20,X40,839722.1465091513,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2023-12-31,Recreation and culture,38.28023537325899,%,2023,Annual,Published percentage change,,,reported,,,,Table 20,R83,0.38280235373258986,0.0%
+2023-12-31,Recreation and culture,267327.30959258095,$000,2023,Annual,Value,,,reported,,R,,Table 20,R40,267327.30959258095,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2023-12-31,Restaurants and hotels,11.951179270399987,%,2023,Annual,Published percentage change,,,reported,,,,Table 20,V83,0.11951179270399986,0.0%
+2023-12-31,Restaurants and hotels,213674.05763207495,$000,2023,Annual,Value,,,reported,,R,,Table 20,V40,213674.05763207495,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2023-12-31,Total,7.619086668009965,%,2023,Annual,Published percentage change,,,reported,,,,Table 20,Z83,0.07619086668009965,0.0%
+2023-12-31,Total,3885311.997953553,$000,2023,Annual,Value,,,reported,,R,,Table 20,Z40,3885311.997953553,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2023-12-31,Transport,11.220231407742789,%,2023,Annual,Published percentage change,,,reported,,,,Table 20,N83,0.1122023140774279,0.0%
+2023-12-31,Transport,293323.23248473875,$000,2023,Annual,Value,,,reported,,R,,Table 20,N40,293323.23248473875,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2024-12-31,"Alcohol, tobacco and narcotics",-3.1694955683459964,%,2024,Annual,Published percentage change,,,reported,,,,Table 20,D85,-0.031694955683459966,0.0%
+2024-12-31,"Alcohol, tobacco and narcotics",70470.3537173775,$000,2024,Annual,Value,,,reported,,,,Table 20,D42,70470.3537173775,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2024-12-31,Clothing and footwear,4.809124584592368,%,2024,Annual,Published percentage change,,,reported,,,,Table 20,F85,0.048091245845923676,0.0%
+2024-12-31,Clothing and footwear,99028.8881238591,$000,2024,Annual,Value,,,reported,,,,Table 20,F42,99028.8881238591,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2024-12-31,Communication,2.754141953399854,%,2024,Annual,Published percentage change,,,reported,,,,Table 20,P85,0.027541419533998537,0.0%
+2024-12-31,Communication,118484.05993756193,$000,2024,Annual,Value,,,reported,,,,Table 20,P42,118484.05993756193,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2024-12-31,Education,-2.872795356019809,%,2024,Annual,Published percentage change,,,reported,,,,Table 20,T85,-0.02872795356019809,0.0%
+2024-12-31,Education,115988.48063104716,$000,2024,Annual,Value,,,reported,,,,Table 20,T42,115988.48063104716,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2024-12-31,Food and non-alcoholic beverages,2.131933251992864,%,2024,Annual,Published percentage change,,,reported,,,,Table 20,B85,0.021319332519928638,0.0%
+2024-12-31,Food and non-alcoholic beverages,283031.9412650831,$000,2024,Annual,Value,,,reported,,,,Table 20,B42,283031.9412650831,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2024-12-31,"Furnishings, equipment and house maintenance",4.4942038541147395,%,2024,Annual,Published percentage change,,,reported,,,,Table 20,J85,0.044942038541147394,0.0%
+2024-12-31,"Furnishings, equipment and house maintenance",135450.4483381888,$000,2024,Annual,Value,,,reported,,,,Table 20,J42,135450.4483381888,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2024-12-31,Health,8.54104284737157,%,2024,Annual,Published percentage change,,,reported,,,,Table 20,L85,0.0854104284737157,0.0%
+2024-12-31,Health,95884.94217149461,$000,2024,Annual,Value,,,reported,,,,Table 20,L42,95884.94217149461,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2024-12-31,"Housing, water, electricity, gas and other fuels",2.7607087067068976,%,2024,Annual,Published percentage change,,,reported,,,,Table 20,H85,0.027607087067068978,0.0%
+2024-12-31,"Housing, water, electricity, gas and other fuels",1412124.6095438125,$000,2024,Annual,Value,,,reported,,,,Table 20,H42,1412124.6095438125,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2024-12-31,Miscellaneous goods and services,3.198096445315008,%,2024,Annual,Published percentage change,,,reported,,,,Table 20,X85,0.03198096445315008,0.0%
+2024-12-31,Miscellaneous goods and services,866577.2706271834,$000,2024,Annual,Value,,,reported,,,,Table 20,X42,866577.2706271834,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2024-12-31,Recreation and culture,-19.969164341541592,%,2024,Annual,Published percentage change,,,reported,,,,Table 20,R85,-0.19969164341541593,0.0%
+2024-12-31,Recreation and culture,213944.27981021677,$000,2024,Annual,Value,,,reported,,,,Table 20,R42,213944.27981021677,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2024-12-31,Restaurants and hotels,30.52004331758283,%,2024,Annual,Published percentage change,,,reported,,,,Table 20,V85,0.3052004331758283,0.0%
+2024-12-31,Restaurants and hotels,278887.47257982113,$000,2024,Annual,Value,,,reported,,,,Table 20,V42,278887.47257982113,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2024-12-31,Total,2.3539198284144147,%,2024,Annual,Published percentage change,,,reported,,,,Table 20,Z85,0.023539198284144146,0.0%
+2024-12-31,Total,3976769.127469146,$000,2024,Annual,Value,,,reported,,,,Table 20,Z42,3976769.127469146,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2024-12-31,Transport,-2.1910476394236484,%,2024,Annual,Published percentage change,,,reported,,,,Table 20,N85,-0.021910476394236485,0.0%
+2024-12-31,Transport,286896.38072350074,$000,2024,Annual,Value,,,reported,,,,Table 20,N42,286896.38072350074,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"

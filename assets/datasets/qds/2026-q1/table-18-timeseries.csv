@@ -1,0 +1,981 @@
+﻿date,series,value,units,period,frequency,measure,classification,index_base,status,source_marker,revision,availability,source_sheet,source_cell,source_value,source_format
+2000-12-31,"Industry: Agriculture, Fishing and Quarrying",5.709624796084829,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E56,0.057096247960848286,0.0%
+2000-12-31,"Industry: Agriculture, Fishing and Quarrying",564,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E19,564,"#,##0_);(#,##0)"
+2000-12-31,Industry: Business Services,0.6760270410816432,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E67,0.006760270410816433,0.0%
+2000-12-31,Industry: Business Services,3627,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E30,3627,"#,##0_);(#,##0)"
+2000-12-31,Industry: Construction,4.402290622763064,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E59,0.04402290622763064,0.0%
+2000-12-31,Industry: Construction,2638,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E22,2638,"#,##0_);(#,##0)"
+2000-12-31,"Industry: Education, Health & Social Work",4.389044943820225,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E69,0.04389044943820225,0.0%
+2000-12-31,"Industry: Education, Health & Social Work",2820,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E32,2820,"#,##0_);(#,##0)"
+2000-12-31,"Industry: Electricity, Gas and Water",-3.058823529411765,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E58,-0.03058823529411765,0.0%
+2000-12-31,"Industry: Electricity, Gas and Water",449,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E21,449,"#,##0_);(#,##0)"
+2000-12-31,Industry: Financial Intermediation,-0.3113109650639917,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E65,-0.003113109650639917,0.0%
+2000-12-31,Industry: Financial Intermediation,2984,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E28,2984,"#,##0_);(#,##0)"
+2000-12-31,Industry: Hotels,-5.437133147976522,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E62,-0.054371331479765216,0.0%
+2000-12-31,Industry: Hotels,3409,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E25,3409,"#,##0_);(#,##0)"
+2000-12-31,Industry: International Business Activity,7.042673828707849,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E71,0.07042673828707849,0.0%
+2000-12-31,Industry: International Business Activity,3281,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E34,3281,"#,##0_);(#,##0)"
+2000-12-31,Industry: Manufacturing,-5.465414175918019,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E57,-0.05465414175918019,0.0%
+2000-12-31,Industry: Manufacturing,1235,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E20,1235,"#,##0_);(#,##0)"
+2000-12-31,"Industry: Other Community, Social & Pers.",-3.5479632063074904,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E70,-0.035479632063074903,0.0%
+2000-12-31,"Industry: Other Community, Social & Pers.",2242,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E33,2242,"#,##0_);(#,##0)"
+2000-12-31,Industry: Public Administration,1.6171100678142931,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E68,0.01617110067814293,0.0%
+2000-12-31,Industry: Public Administration,4310,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E31,4310,"#,##0_);(#,##0)"
+2000-12-31,Industry: Real Estate & Rent,6.739130434782608,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E66,0.06739130434782609,0.0%
+2000-12-31,Industry: Real Estate & Rent,455,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E29,455,"#,##0_);(#,##0)"
+2000-12-31,"Industry: Restaurants, Cafes & Bars",0.05402485143165856,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E63,0.0005402485143165856,0.0%
+2000-12-31,"Industry: Restaurants, Cafes & Bars",1871,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E26,1871,"#,##0_);(#,##0)"
+2000-12-31,Industry: Retail Trade & Repair Services,-1.027860427373546,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E61,-0.010278604273735462,0.0%
+2000-12-31,Industry: Retail Trade & Repair Services,3873,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E24,3873,"#,##0_);(#,##0)"
+2000-12-31,Industry: Total,0.5798334973535123,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E72,0.005798334973535123,0.0%
+2000-12-31,Industry: Total,38017,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E35,38017,"#,##0_);(#,##0)"
+2000-12-31,Industry: Transport & Communications,-4.156889037881328,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E64,-0.04156889037881328,0.0%
+2000-12-31,Industry: Transport & Communications,2958,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E27,2958,"#,##0_);(#,##0)"
+2000-12-31,Industry: Wholesale Trade and Motor Vehicles,6.397562833206398,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E60,0.06397562833206398,0.0%
+2000-12-31,Industry: Wholesale Trade and Motor Vehicles,1301,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E23,1301,"#,##0_);(#,##0)"
+2000-12-31,Occupation: Armed Forces,,%,2000,Annual,Published percentage change,Legacy industry classification,,blank in source,,,,Table18,E52,,0.0%
+2000-12-31,Occupation: Armed Forces,,employment,2000,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,E15,,"#,##0_);(#,##0)"
+2000-12-31,Occupation: Clerks,-1.9719378081152827,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E46,-0.019719378081152827,0.0%
+2000-12-31,Occupation: Clerks,2848,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E9,2848,"#,##0_);(#,##0)"
+2000-12-31,Occupation: Craft and Related Trade Workers,-0.27636363636363637,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E49,-0.0027636363636363635,0.0%
+2000-12-31,Occupation: Craft and Related Trade Workers,6777,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E12,6777,"#,##0_);(#,##0)"
+2000-12-31,Occupation: Elementary Occupations,,%,2000,Annual,Published percentage change,Legacy industry classification,,blank in source,,,,Table18,E51,,0.0%
+2000-12-31,Occupation: Elementary Occupations,,employment,2000,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,E14,,"#,##0_);(#,##0)"
+2000-12-31,Occupation: Plant and Machine Operators and Assemblers,,%,2000,Annual,Published percentage change,Legacy industry classification,,blank in source,,,,Table18,E50,,0.0%
+2000-12-31,Occupation: Plant and Machine Operators and Assemblers,,employment,2000,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,E13,,"#,##0_);(#,##0)"
+2000-12-31,Occupation: Professionals,2.675059008654603,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E44,0.02675059008654603,0.0%
+2000-12-31,Occupation: Professionals,4852,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E7,4852,"#,##0_);(#,##0)"
+2000-12-31,Occupation: Senior Officials and Managers,3.3017553636110337,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E43,0.033017553636110336,0.0%
+2000-12-31,Occupation: Senior Officials and Managers,7046,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E6,7046,"#,##0_);(#,##0)"
+2000-12-31,Occupation: Service Workers and Shop and Market Sales Workers,-0.2845528455284553,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E47,-0.002845528455284553,0.0%
+2000-12-31,Occupation: Service Workers and Shop and Market Sales Workers,7485,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E10,7485,"#,##0_);(#,##0)"
+2000-12-31,Occupation: Skilled Agricultural and Fishery Workers,3.10077519379845,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E48,0.031007751937984496,0.0%
+2000-12-31,Occupation: Skilled Agricultural and Fishery Workers,902,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E11,902,"#,##0_);(#,##0)"
+2000-12-31,Occupation: Technicians and Associate Professionals,-1.206896551724138,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E45,-0.01206896551724138,0.0%
+2000-12-31,Occupation: Technicians and Associate Professionals,8107,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E8,8107,"#,##0_);(#,##0)"
+2000-12-31,Occupation: Total,0.5798334973535123,%,2000,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,E53,0.005798334973535123,0.0%
+2000-12-31,Occupation: Total,38017,employment,2000,Annual,Value,Legacy industry classification,,reported,,,,Table18,E16,38017,"#,##0_);(#,##0)"
+2001-12-31,"Industry: Agriculture, Fishing and Quarrying",8.687943262411348,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F56,0.08687943262411348,0.0%
+2001-12-31,"Industry: Agriculture, Fishing and Quarrying",613,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F19,613,"#,##0_);(#,##0)"
+2001-12-31,Industry: Business Services,6.038047973531844,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F67,0.060380479735318446,0.0%
+2001-12-31,Industry: Business Services,3846,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F30,3846,"#,##0_);(#,##0)"
+2001-12-31,Industry: Construction,5.913570887035633,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F59,0.05913570887035633,0.0%
+2001-12-31,Industry: Construction,2794,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F22,2794,"#,##0_);(#,##0)"
+2001-12-31,"Industry: Education, Health & Social Work",0.9929078014184398,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F69,0.009929078014184398,0.0%
+2001-12-31,"Industry: Education, Health & Social Work",2848,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F32,2848,"#,##0_);(#,##0)"
+2001-12-31,"Industry: Electricity, Gas and Water",-5.3452115812917596,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F58,-0.053452115812917596,0.0%
+2001-12-31,"Industry: Electricity, Gas and Water",425,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F21,425,"#,##0_);(#,##0)"
+2001-12-31,Industry: Financial Intermediation,-3.116621983914209,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F65,-0.03116621983914209,0.0%
+2001-12-31,Industry: Financial Intermediation,2891,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F28,2891,"#,##0_);(#,##0)"
+2001-12-31,Industry: Hotels,-5.045467879143444,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F62,-0.05045467879143444,0.0%
+2001-12-31,Industry: Hotels,3237,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F25,3237,"#,##0_);(#,##0)"
+2001-12-31,Industry: International Business Activity,2.1334958854007926,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F71,0.021334958854007924,0.0%
+2001-12-31,Industry: International Business Activity,3351,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F34,3351,"#,##0_);(#,##0)"
+2001-12-31,Industry: Manufacturing,-5.182186234817814,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F57,-0.051821862348178135,0.0%
+2001-12-31,Industry: Manufacturing,1171,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F20,1171,"#,##0_);(#,##0)"
+2001-12-31,"Industry: Other Community, Social & Pers.",1.8287243532560213,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F70,0.018287243532560213,0.0%
+2001-12-31,"Industry: Other Community, Social & Pers.",2283,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F33,2283,"#,##0_);(#,##0)"
+2001-12-31,Industry: Public Administration,-11.044083526682135,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F68,-0.11044083526682134,0.0%
+2001-12-31,Industry: Public Administration,3834,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F31,3834,"#,##0_);(#,##0)"
+2001-12-31,Industry: Real Estate & Rent,1.098901098901099,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F66,0.01098901098901099,0.0%
+2001-12-31,Industry: Real Estate & Rent,460,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F29,460,"#,##0_);(#,##0)"
+2001-12-31,"Industry: Restaurants, Cafes & Bars",-1.0689470871191877,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F63,-0.010689470871191877,0.0%
+2001-12-31,"Industry: Restaurants, Cafes & Bars",1851,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F26,1851,"#,##0_);(#,##0)"
+2001-12-31,Industry: Retail Trade & Repair Services,-4.544280919184096,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F61,-0.045442809191840954,0.0%
+2001-12-31,Industry: Retail Trade & Repair Services,3697,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F24,3697,"#,##0_);(#,##0)"
+2001-12-31,Industry: Total,-1.1047689191677408,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F72,-0.011047689191677408,0.0%
+2001-12-31,Industry: Total,37597,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F35,37597,"#,##0_);(#,##0)"
+2001-12-31,Industry: Transport & Communications,0.8451656524678837,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F64,0.008451656524678837,0.0%
+2001-12-31,Industry: Transport & Communications,2983,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F27,2983,"#,##0_);(#,##0)"
+2001-12-31,Industry: Wholesale Trade and Motor Vehicles,0.9223674096848578,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F60,0.009223674096848577,0.0%
+2001-12-31,Industry: Wholesale Trade and Motor Vehicles,1313,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F23,1313,"#,##0_);(#,##0)"
+2001-12-31,Occupation: Armed Forces,,%,2001,Annual,Published percentage change,Legacy industry classification,,blank in source,,,,Table18,F52,,0.0%
+2001-12-31,Occupation: Armed Forces,,employment,2001,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,F15,,"#,##0_);(#,##0)"
+2001-12-31,Occupation: Clerks,-7.408707865168538,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F46,-0.07408707865168539,0.0%
+2001-12-31,Occupation: Clerks,2637,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F9,2637,"#,##0_);(#,##0)"
+2001-12-31,Occupation: Craft and Related Trade Workers,1.4460675815257489,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F49,0.01446067581525749,0.0%
+2001-12-31,Occupation: Craft and Related Trade Workers,6875,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F12,6875,"#,##0_);(#,##0)"
+2001-12-31,Occupation: Elementary Occupations,,%,2001,Annual,Published percentage change,Legacy industry classification,,blank in source,,,,Table18,F51,,0.0%
+2001-12-31,Occupation: Elementary Occupations,,employment,2001,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,F14,,"#,##0_);(#,##0)"
+2001-12-31,Occupation: Plant and Machine Operators and Assemblers,,%,2001,Annual,Published percentage change,Legacy industry classification,,blank in source,,,,Table18,F50,,0.0%
+2001-12-31,Occupation: Plant and Machine Operators and Assemblers,,employment,2001,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,F13,,"#,##0_);(#,##0)"
+2001-12-31,Occupation: Professionals,4.781533388293488,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F44,0.04781533388293487,0.0%
+2001-12-31,Occupation: Professionals,5084,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F7,5084,"#,##0_);(#,##0)"
+2001-12-31,Occupation: Senior Officials and Managers,1.8734033494181097,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F43,0.018734033494181096,0.0%
+2001-12-31,Occupation: Senior Officials and Managers,7178,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F6,7178,"#,##0_);(#,##0)"
+2001-12-31,Occupation: Service Workers and Shop and Market Sales Workers,-1.402805611222445,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F47,-0.014028056112224449,0.0%
+2001-12-31,Occupation: Service Workers and Shop and Market Sales Workers,7380,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F10,7380,"#,##0_);(#,##0)"
+2001-12-31,Occupation: Skilled Agricultural and Fishery Workers,0.11086474501108648,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F48,0.0011086474501108647,0.0%
+2001-12-31,Occupation: Skilled Agricultural and Fishery Workers,903,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F11,903,"#,##0_);(#,##0)"
+2001-12-31,Occupation: Technicians and Associate Professionals,-6.993955840631553,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F45,-0.06993955840631554,0.0%
+2001-12-31,Occupation: Technicians and Associate Professionals,7540,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F8,7540,"#,##0_);(#,##0)"
+2001-12-31,Occupation: Total,-1.1047689191677408,%,2001,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,F53,-0.011047689191677408,0.0%
+2001-12-31,Occupation: Total,37597,employment,2001,Annual,Value,Legacy industry classification,,reported,,,,Table18,F16,37597,"#,##0_);(#,##0)"
+2002-12-31,"Industry: Agriculture, Fishing and Quarrying",5.220228384991843,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G56,0.052202283849918436,0.0%
+2002-12-31,"Industry: Agriculture, Fishing and Quarrying",645,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G19,645,General
+2002-12-31,Industry: Business Services,0.8060322412896516,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G67,0.008060322412896516,0.0%
+2002-12-31,Industry: Business Services,3877,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G30,3877,"#,##0"
+2002-12-31,Industry: Construction,4.867573371510379,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G59,0.048675733715103794,0.0%
+2002-12-31,Industry: Construction,2930,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G22,2930,"#,##0"
+2002-12-31,"Industry: Education, Health & Social Work",0.5617977528089888,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G69,0.0056179775280898875,0.0%
+2002-12-31,"Industry: Education, Health & Social Work",2864,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G32,2864,"#,##0"
+2002-12-31,"Industry: Electricity, Gas and Water",-3.058823529411765,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G58,-0.03058823529411765,0.0%
+2002-12-31,"Industry: Electricity, Gas and Water",412,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G21,412,General
+2002-12-31,Industry: Financial Intermediation,-0.20754064337599448,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G65,-0.0020754064337599448,0.0%
+2002-12-31,Industry: Financial Intermediation,2885,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G28,2885,"#,##0"
+2002-12-31,Industry: Hotels,-4.819277108433735,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G62,-0.04819277108433735,0.0%
+2002-12-31,Industry: Hotels,3081,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G25,3081,"#,##0"
+2002-12-31,Industry: International Business Activity,7.191883019994032,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G71,0.07191883019994032,0.0%
+2002-12-31,Industry: International Business Activity,3592,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G34,3592,"#,##0"
+2002-12-31,Industry: Manufacturing,-5.465414175918019,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G57,-0.05465414175918019,0.0%
+2002-12-31,Industry: Manufacturing,1107,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G20,1107,"#,##0"
+2002-12-31,"Industry: Other Community, Social & Pers.",-3.5041611914148048,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G70,-0.03504161191414805,0.0%
+2002-12-31,"Industry: Other Community, Social & Pers.",2203,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G33,2203,"#,##0"
+2002-12-31,Industry: Public Administration,1.6692749087115284,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G68,0.016692749087115284,0.0%
+2002-12-31,Industry: Public Administration,3898,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G31,3898,"#,##0"
+2002-12-31,Industry: Real Estate & Rent,7.608695652173914,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G66,0.07608695652173914,0.0%
+2002-12-31,Industry: Real Estate & Rent,495,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G29,495,General
+2002-12-31,"Industry: Restaurants, Cafes & Bars",0.37817396002160997,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G63,0.0037817396002160996,0.0%
+2002-12-31,"Industry: Restaurants, Cafes & Bars",1858,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G26,1858,"#,##0"
+2002-12-31,Industry: Retail Trade & Repair Services,-0.9196645929131728,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G61,-0.009196645929131728,0.0%
+2002-12-31,Industry: Retail Trade & Repair Services,3663,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G24,3663,"#,##0"
+2002-12-31,Industry: Total,0.4548235231534431,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G72,0.004548235231534431,0.0%
+2002-12-31,Industry: Total,37768,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G35,37768,"#,##0"
+2002-12-31,Industry: Transport & Communications,-4.123365739188737,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G64,-0.04123365739188736,0.0%
+2002-12-31,Industry: Transport & Communications,2860,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G27,2860,"#,##0"
+2002-12-31,Industry: Wholesale Trade and Motor Vehicles,6.473724295506473,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G60,0.06473724295506474,0.0%
+2002-12-31,Industry: Wholesale Trade and Motor Vehicles,1398,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G23,1398,"#,##0"
+2002-12-31,Occupation: Armed Forces,,%,2002,Annual,Published percentage change,Legacy industry classification,,blank in source,,,,Table18,G52,,0.0%
+2002-12-31,Occupation: Armed Forces,,employment,2002,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,G15,,"#,##0"
+2002-12-31,Occupation: Clerks,-1.9719378081152827,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G46,-0.019719378081152827,0.0%
+2002-12-31,Occupation: Clerks,2585,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G9,2585,"#,##0"
+2002-12-31,Occupation: Craft and Related Trade Workers,-0.27636363636363637,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G49,-0.0027636363636363635,0.0%
+2002-12-31,Occupation: Craft and Related Trade Workers,6856,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G12,6856,"#,##0"
+2002-12-31,Occupation: Elementary Occupations,,%,2002,Annual,Published percentage change,Legacy industry classification,,blank in source,,,,Table18,G51,,0.0%
+2002-12-31,Occupation: Elementary Occupations,,employment,2002,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,G14,,"#,##0"
+2002-12-31,Occupation: Plant and Machine Operators and Assemblers,,%,2002,Annual,Published percentage change,Legacy industry classification,,blank in source,,,,Table18,G50,,0.0%
+2002-12-31,Occupation: Plant and Machine Operators and Assemblers,,employment,2002,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,G13,,"#,##0"
+2002-12-31,Occupation: Professionals,2.675059008654603,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G44,0.02675059008654603,0.0%
+2002-12-31,Occupation: Professionals,5220,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G7,5220,"#,##0"
+2002-12-31,Occupation: Senior Officials and Managers,3.3017553636110337,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G43,0.033017553636110336,0.0%
+2002-12-31,Occupation: Senior Officials and Managers,7415,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G6,7415,"#,##0"
+2002-12-31,Occupation: Service Workers and Shop and Market Sales Workers,-0.2845528455284553,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G47,-0.002845528455284553,0.0%
+2002-12-31,Occupation: Service Workers and Shop and Market Sales Workers,7359,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G10,7359,"#,##0"
+2002-12-31,Occupation: Skilled Agricultural and Fishery Workers,3.10077519379845,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G48,0.031007751937984496,0.0%
+2002-12-31,Occupation: Skilled Agricultural and Fishery Workers,931,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G11,931,General
+2002-12-31,Occupation: Technicians and Associate Professionals,-1.206896551724138,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G45,-0.01206896551724138,0.0%
+2002-12-31,Occupation: Technicians and Associate Professionals,7449,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G8,7449,"#,##0"
+2002-12-31,Occupation: Total,0.5798334973535123,%,2002,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,G53,0.005798334973535123,0.0%
+2002-12-31,Occupation: Total,37815,employment,2002,Annual,Value,Legacy industry classification,,reported,,,,Table18,G16,37815,"#,##0"
+2003-12-31,"Industry: Agriculture, Fishing and Quarrying",-1.0852713178294573,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H56,-0.010852713178294573,0.0%
+2003-12-31,"Industry: Agriculture, Fishing and Quarrying",638,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H19,638,General
+2003-12-31,Industry: Business Services,-3.120969822027341,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H67,-0.031209698220273408,0.0%
+2003-12-31,Industry: Business Services,3756,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H30,3756,"#,##0"
+2003-12-31,Industry: Construction,0.9897610921501706,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H59,0.009897610921501706,0.0%
+2003-12-31,Industry: Construction,2959,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H22,2959,"#,##0"
+2003-12-31,"Industry: Education, Health & Social Work",1.8156424581005588,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H69,0.018156424581005588,0.0%
+2003-12-31,"Industry: Education, Health & Social Work",2916,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H32,2916,"#,##0"
+2003-12-31,"Industry: Electricity, Gas and Water",-1.6990291262135921,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H58,-0.01699029126213592,0.0%
+2003-12-31,"Industry: Electricity, Gas and Water",405,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H21,405,General
+2003-12-31,Industry: Financial Intermediation,-2.218370883882149,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H65,-0.02218370883882149,0.0%
+2003-12-31,Industry: Financial Intermediation,2821,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H28,2821,"#,##0"
+2003-12-31,Industry: Hotels,-3.2456994482310937,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H62,-0.03245699448231094,0.0%
+2003-12-31,Industry: Hotels,2981,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H25,2981,"#,##0"
+2003-12-31,Industry: International Business Activity,5.2616926503340755,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H71,0.05261692650334076,0.0%
+2003-12-31,Industry: International Business Activity,3781,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H34,3781,"#,##0"
+2003-12-31,Industry: Manufacturing,-3.9747064137308037,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H57,-0.03974706413730804,0.0%
+2003-12-31,Industry: Manufacturing,1063,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H20,1063,"#,##0"
+2003-12-31,"Industry: Other Community, Social & Pers.",0.8624602814344077,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H70,0.008624602814344077,0.0%
+2003-12-31,"Industry: Other Community, Social & Pers.",2222,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H33,2222,"#,##0"
+2003-12-31,Industry: Public Administration,2.1549512570549,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H68,0.021549512570549,0.0%
+2003-12-31,Industry: Public Administration,3982,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H31,3982,"#,##0"
+2003-12-31,Industry: Real Estate & Rent,2.4242424242424243,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H66,0.024242424242424242,0.0%
+2003-12-31,Industry: Real Estate & Rent,507,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H29,507,"#,##0"
+2003-12-31,"Industry: Restaurants, Cafes & Bars",-4.251883745963402,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H63,-0.042518837459634015,0.0%
+2003-12-31,"Industry: Restaurants, Cafes & Bars",1779,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H26,1779,"#,##0"
+2003-12-31,Industry: Retail Trade & Repair Services,-1.9383019383019382,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H61,-0.01938301938301938,0.0%
+2003-12-31,Industry: Retail Trade & Repair Services,3592,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H24,3592,"#,##0"
+2003-12-31,Industry: Total,-0.21711501800466002,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H72,-0.0021711501800466,0.0%
+2003-12-31,Industry: Total,37686,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H35,37686,"#,##0"
+2003-12-31,Industry: Transport & Communications,0.03496503496503497,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H64,0.00034965034965034965,0.0%
+2003-12-31,Industry: Transport & Communications,2861,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H27,2861,"#,##0"
+2003-12-31,Industry: Wholesale Trade and Motor Vehicles,1.7882689556509301,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H60,0.0178826895565093,0.0%
+2003-12-31,Industry: Wholesale Trade and Motor Vehicles,1423,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H23,1423,"#,##0"
+2003-12-31,Occupation: Armed Forces,,%,2003,Annual,Published percentage change,Legacy industry classification,,blank in source,,,,Table18,H52,,0.0%
+2003-12-31,Occupation: Armed Forces,,employment,2003,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,H15,,"#,##0"
+2003-12-31,Occupation: Clerks,-3.9845261121856863,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H46,-0.039845261121856865,0.0%
+2003-12-31,Occupation: Clerks,2482,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H9,2482,"#,##0"
+2003-12-31,Occupation: Craft and Related Trade Workers,2.4066511085180866,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H49,0.024066511085180865,0.0%
+2003-12-31,Occupation: Craft and Related Trade Workers,7021,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H12,7021,"#,##0"
+2003-12-31,Occupation: Elementary Occupations,,%,2003,Annual,Published percentage change,Legacy industry classification,,blank in source,,,,Table18,H51,,0.0%
+2003-12-31,Occupation: Elementary Occupations,,employment,2003,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,H14,,"#,##0"
+2003-12-31,Occupation: Plant and Machine Operators and Assemblers,,%,2003,Annual,Published percentage change,Legacy industry classification,,blank in source,,,,Table18,H50,,0.0%
+2003-12-31,Occupation: Plant and Machine Operators and Assemblers,,employment,2003,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,H13,,"#,##0"
+2003-12-31,Occupation: Professionals,2.0114942528735633,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H44,0.020114942528735632,0.0%
+2003-12-31,Occupation: Professionals,5325,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H7,5325,"#,##0"
+2003-12-31,Occupation: Senior Officials and Managers,1.159811193526635,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H43,0.011598111935266352,0.0%
+2003-12-31,Occupation: Senior Officials and Managers,7501,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H6,7501,"#,##0"
+2003-12-31,Occupation: Service Workers and Shop and Market Sales Workers,-2.4731621144177196,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H47,-0.024731621144177197,0.0%
+2003-12-31,Occupation: Service Workers and Shop and Market Sales Workers,7177,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H10,7177,"#,##0"
+2003-12-31,Occupation: Skilled Agricultural and Fishery Workers,-0.21482277121374865,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H48,-0.0021482277121374865,0.0%
+2003-12-31,Occupation: Skilled Agricultural and Fishery Workers,929,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H11,929,"#,##0"
+2003-12-31,Occupation: Technicians and Associate Professionals,-2.6580749093838096,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H45,-0.026580749093838098,0.0%
+2003-12-31,Occupation: Technicians and Associate Professionals,7251,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H8,7251,"#,##0"
+2003-12-31,Occupation: Total,-0.3411344704482348,%,2003,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,H53,-0.003411344704482348,0.0%
+2003-12-31,Occupation: Total,37686,employment,2003,Annual,Value,Legacy industry classification,,reported,,,,Table18,H16,37686,"#,##0"
+2006-12-31,"Industry: Agriculture, Fishing and Quarrying",,employment,2006,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,I19,,General
+2006-12-31,Industry: Business Services,,employment,2006,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,I30,,"#,##0"
+2006-12-31,Industry: Construction,,employment,2006,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,I22,,"#,##0"
+2006-12-31,"Industry: Education, Health & Social Work",,employment,2006,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,I32,,"#,##0"
+2006-12-31,"Industry: Electricity, Gas and Water",,employment,2006,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,I21,,General
+2006-12-31,Industry: Financial Intermediation,,employment,2006,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,I28,,"#,##0"
+2006-12-31,Industry: Hotels,,employment,2006,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,I25,,"#,##0"
+2006-12-31,Industry: International Business Activity,,employment,2006,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,I34,,"#,##0"
+2006-12-31,Industry: Manufacturing,,employment,2006,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,I20,,"#,##0"
+2006-12-31,"Industry: Other Community, Social & Pers.",,employment,2006,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,I33,,"#,##0"
+2006-12-31,Industry: Public Administration,,employment,2006,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,I31,,"#,##0"
+2006-12-31,Industry: Real Estate & Rent,,employment,2006,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,I29,,"#,##0"
+2006-12-31,"Industry: Restaurants, Cafes & Bars",,employment,2006,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,I26,,"#,##0"
+2006-12-31,Industry: Retail Trade & Repair Services,,employment,2006,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,I24,,"#,##0"
+2006-12-31,Industry: Total,,employment,2006,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,I35,,"#,##0"
+2006-12-31,Industry: Transport & Communications,,employment,2006,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,I27,,"#,##0"
+2006-12-31,Industry: Wholesale Trade and Motor Vehicles,,employment,2006,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,I23,,"#,##0"
+2006-12-31,Occupation: Armed Forces,,employment,2006,Annual,Value,Legacy industry classification,,source marker,na,,,Table18,I15,na,"#,##0"
+2006-12-31,Occupation: Clerks,6715,employment,2006,Annual,Value,Legacy industry classification,,reported,,,,Table18,I9,6715,"#,##0"
+2006-12-31,Occupation: Craft and Related Trade Workers,3894,employment,2006,Annual,Value,Legacy industry classification,,reported,,,,Table18,I12,3894,"#,##0"
+2006-12-31,Occupation: Elementary Occupations,1572,employment,2006,Annual,Value,Legacy industry classification,,reported,,,,Table18,I14,1572,"#,##0"
+2006-12-31,Occupation: Plant and Machine Operators and Assemblers,2100,employment,2006,Annual,Value,Legacy industry classification,,reported,,,,Table18,I13,2100,"#,##0"
+2006-12-31,Occupation: Professionals,7083,employment,2006,Annual,Value,Legacy industry classification,,reported,,,,Table18,I7,7083,"#,##0"
+2006-12-31,Occupation: Senior Officials and Managers,6954,employment,2006,Annual,Value,Legacy industry classification,,reported,,,,Table18,I6,6954,"#,##0"
+2006-12-31,Occupation: Service Workers and Shop and Market Sales Workers,7424,employment,2006,Annual,Value,Legacy industry classification,,reported,,,,Table18,I10,7424,"#,##0"
+2006-12-31,Occupation: Skilled Agricultural and Fishery Workers,961,employment,2006,Annual,Value,Legacy industry classification,,reported,,,,Table18,I11,961,"#,##0"
+2006-12-31,Occupation: Technicians and Associate Professionals,3013,employment,2006,Annual,Value,Legacy industry classification,,reported,,,,Table18,I8,3013,"#,##0"
+2006-12-31,Occupation: Total,,employment,2006,Annual,Value,Legacy industry classification,,blank in source,,,,Table18,I16,,"#,##0"
+2007-12-31,"Industry: Agriculture, Fishing and Quarrying",0.7225433526011571,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J56,0.007225433526011571,0.0%
+2007-12-31,"Industry: Agriculture, Fishing and Quarrying",697,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J19,697,"#,##0"
+2007-12-31,Industry: Business Services,2.346614519677348,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J67,0.02346614519677348,0.0%
+2007-12-31,Industry: Business Services,4187,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J30,4187,"#,##0"
+2007-12-31,Industry: Construction,-2.983848891322205,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J59,-0.02983848891322205,0.0%
+2007-12-31,Industry: Construction,3544,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J22,3544,"#,##0"
+2007-12-31,"Industry: Education, Health & Social Work",0.9313877677739724,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J69,0.009313877677739724,0.0%
+2007-12-31,"Industry: Education, Health & Social Work",3251,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J32,3251,"#,##0"
+2007-12-31,"Industry: Electricity, Gas and Water",5.913978494623651,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J58,0.05913978494623651,0.0%
+2007-12-31,"Industry: Electricity, Gas and Water",394,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J21,394,"#,##0"
+2007-12-31,Industry: Financial Intermediation,1.7229496898690577,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J65,0.017229496898690577,0.0%
+2007-12-31,Industry: Financial Intermediation,2952,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J28,2952,"#,##0"
+2007-12-31,Industry: Hotels,-1.5604249667994674,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J62,-0.015604249667994674,0.0%
+2007-12-31,Industry: Hotels,2965,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J25,2965,"#,##0"
+2007-12-31,Industry: International Business Activity,4.45533526397861,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J71,0.044553352639786103,0.0%
+2007-12-31,Industry: International Business Activity,4689,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J34,4689,"#,##0"
+2007-12-31,Industry: Manufacturing,-3.1088082901554404,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J57,-0.031088082901554404,0.0%
+2007-12-31,Industry: Manufacturing,935,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J20,935,"#,##0"
+2007-12-31,"Industry: Other Community, Social & Pers.",-2.4445450430058857,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J70,-0.024445450430058857,0.0%
+2007-12-31,"Industry: Other Community, Social & Pers.",2155,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J33,2155,"#,##0"
+2007-12-31,Industry: Public Administration,1.0813467682477373,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J68,0.010813467682477373,0.0%
+2007-12-31,Industry: Public Administration,4113,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J31,4113,"#,##0"
+2007-12-31,Industry: Real Estate & Rent,18.53281853281854,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J66,0.1853281853281854,0.0%
+2007-12-31,Industry: Real Estate & Rent,614,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J29,614,"#,##0"
+2007-12-31,"Industry: Restaurants, Cafes & Bars",-2.329274748544208,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J63,-0.023292747485442078,0.0%
+2007-12-31,"Industry: Restaurants, Cafes & Bars",1845,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J26,1845,"#,##0"
+2007-12-31,Industry: Retail Trade & Repair Services,-0.7664009809932537,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J61,-0.007664009809932537,0.0%
+2007-12-31,Industry: Retail Trade & Repair Services,3237,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J24,3237,"#,##0"
+2007-12-31,Industry: Total,0.4157637454013985,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J72,0.004157637454013985,0.0%
+2007-12-31,Industry: Total,39851,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J35,39851,"#,##0"
+2007-12-31,Industry: Transport & Communications,-2.5804171085189065,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J64,-0.025804171085189065,0.0%
+2007-12-31,Industry: Transport & Communications,2756,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J27,2756,"#,##0"
+2007-12-31,Industry: Wholesale Trade and Motor Vehicles,0.26437541308659274,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J60,0.0026437541308659274,0.0%
+2007-12-31,Industry: Wholesale Trade and Motor Vehicles,1517,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J23,1517,"#,##0"
+2007-12-31,Occupation: Armed Forces,0,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J52,0,0.0%
+2007-12-31,Occupation: Armed Forces,0,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J15,0,"#,##0"
+2007-12-31,Occupation: Clerks,1.14668652271035,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J46,0.011466865227103499,0.0%
+2007-12-31,Occupation: Clerks,6792,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J9,6792,"#,##0"
+2007-12-31,Occupation: Craft and Related Trade Workers,-1.8233179250128402,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J49,-0.018233179250128403,0.0%
+2007-12-31,Occupation: Craft and Related Trade Workers,3823,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J12,3823,"#,##0"
+2007-12-31,Occupation: Elementary Occupations,-3.9440203562340965,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J51,-0.039440203562340966,0.0%
+2007-12-31,Occupation: Elementary Occupations,1510,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J14,1510,"#,##0"
+2007-12-31,Occupation: Plant and Machine Operators and Assemblers,-4.333333333333334,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J50,-0.043333333333333335,0.0%
+2007-12-31,Occupation: Plant and Machine Operators and Assemblers,2009,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J13,2009,"#,##0"
+2007-12-31,Occupation: Professionals,2.8518989128900185,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J44,0.028518989128900184,0.0%
+2007-12-31,Occupation: Professionals,7285,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J7,7285,"#,##0"
+2007-12-31,Occupation: Senior Officials and Managers,2.0419902214552774,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J43,0.020419902214552775,0.0%
+2007-12-31,Occupation: Senior Officials and Managers,7096,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J6,7096,"#,##0"
+2007-12-31,Occupation: Service Workers and Shop and Market Sales Workers,-1.427801724137931,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J47,-0.014278017241379311,0.0%
+2007-12-31,Occupation: Service Workers and Shop and Market Sales Workers,7318,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J10,7318,"#,##0"
+2007-12-31,Occupation: Skilled Agricultural and Fishery Workers,-0.9365244536940687,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J48,-0.009365244536940686,0.0%
+2007-12-31,Occupation: Skilled Agricultural and Fishery Workers,952,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J11,952,"#,##0"
+2007-12-31,Occupation: Technicians and Associate Professionals,1.7590441420511118,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J45,0.017590441420511117,0.0%
+2007-12-31,Occupation: Technicians and Associate Professionals,3066,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J8,3066,"#,##0"
+2007-12-31,Occupation: Total,0.415763745401401,%,2007,Annual,Published percentage change,Legacy industry classification,,reported,,R,,Table18,J53,0.00415763745401401,0.0%
+2007-12-31,Occupation: Total,39851,employment,2007,Annual,Value,Legacy industry classification,,reported,,R,,Table18,J16,39851,"#,##0"
+2008-12-31,"Industry: Agriculture, Fishing and Quarrying",2.869440459110484,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K56,0.02869440459110484,0.0%
+2008-12-31,"Industry: Agriculture, Fishing and Quarrying",717,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K19,717,"#,##0"
+2008-12-31,Industry: Business Services,3.3197993790303304,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K67,0.033197993790303304,0.0%
+2008-12-31,Industry: Business Services,4326,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K30,4326,"#,##0"
+2008-12-31,Industry: Construction,2.9627539503386036,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K59,0.029627539503386036,0.0%
+2008-12-31,Industry: Construction,3649,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K22,3649,"#,##0"
+2008-12-31,"Industry: Education, Health & Social Work",0.8612734543217426,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K69,0.008612734543217426,0.0%
+2008-12-31,"Industry: Education, Health & Social Work",3279,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K32,3279,"#,##0"
+2008-12-31,"Industry: Electricity, Gas and Water",4.5685279187817285,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K58,0.045685279187817285,0.0%
+2008-12-31,"Industry: Electricity, Gas and Water",412,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K21,412,"#,##0"
+2008-12-31,Industry: Financial Intermediation,-1.5243902439024404,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K65,-0.015243902439024404,0.0%
+2008-12-31,Industry: Financial Intermediation,2907,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K28,2907,"#,##0"
+2008-12-31,Industry: Hotels,-0.7757166947723437,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K62,-0.007757166947723437,0.0%
+2008-12-31,Industry: Hotels,2942,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K25,2942,"#,##0"
+2008-12-31,Industry: International Business Activity,1.5355086372360827,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K71,0.015355086372360827,0.0%
+2008-12-31,Industry: International Business Activity,4761,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K34,4761,"#,##0"
+2008-12-31,Industry: Manufacturing,-2.1390374331550777,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K57,-0.021390374331550777,0.0%
+2008-12-31,Industry: Manufacturing,915,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K20,915,"#,##0"
+2008-12-31,"Industry: Other Community, Social & Pers.",0.32482598607888047,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K70,0.0032482598607888047,0.0%
+2008-12-31,"Industry: Other Community, Social & Pers.",2162,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K33,2162,"#,##0"
+2008-12-31,Industry: Public Administration,2.674446875759795,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K68,0.02674446875759795,0.0%
+2008-12-31,Industry: Public Administration,4223,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K31,4223,"#,##0"
+2008-12-31,Industry: Real Estate & Rent,1.791530944625408,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K66,0.01791530944625408,0.0%
+2008-12-31,Industry: Real Estate & Rent,625,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K29,625,"#,##0"
+2008-12-31,"Industry: Restaurants, Cafes & Bars",4.444444444444451,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K63,0.04444444444444451,0.0%
+2008-12-31,"Industry: Restaurants, Cafes & Bars",1927,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K26,1927,"#,##0"
+2008-12-31,Industry: Retail Trade & Repair Services,0.8341056533827551,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K61,0.008341056533827551,0.0%
+2008-12-31,Industry: Retail Trade & Repair Services,3264,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K24,3264,"#,##0"
+2008-12-31,Industry: Total,0.9083837293919927,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K72,0.009083837293919927,0.0%
+2008-12-31,Industry: Total,40213,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K35,40213,"#,##0"
+2008-12-31,Industry: Transport & Communications,-5.587808417997097,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K64,-0.05587808417997098,0.0%
+2008-12-31,Industry: Transport & Communications,2602,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K27,2602,"#,##0"
+2008-12-31,Industry: Wholesale Trade and Motor Vehicles,-0.9887936717205004,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K60,-0.009887936717205004,0.0%
+2008-12-31,Industry: Wholesale Trade and Motor Vehicles,1502,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K23,1502,"#,##0"
+2008-12-31,Occupation: Armed Forces,,%,2008,Annual,Published percentage change,Legacy industry classification,,source error,#DIV/0!,,,Table18,K52,#DIV/0!,0.0%
+2008-12-31,Occupation: Armed Forces,27,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K15,27,"#,##0"
+2008-12-31,Occupation: Clerks,-1.266195524146054,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K46,-0.012661955241460542,0.0%
+2008-12-31,Occupation: Clerks,6706,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K9,6706,"#,##0"
+2008-12-31,Occupation: Craft and Related Trade Workers,1.4386607376405964,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K49,0.014386607376405965,0.0%
+2008-12-31,Occupation: Craft and Related Trade Workers,3878,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K12,3878,"#,##0"
+2008-12-31,Occupation: Elementary Occupations,-5.894039735099338,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K51,-0.05894039735099338,0.0%
+2008-12-31,Occupation: Elementary Occupations,1421,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K14,1421,"#,##0"
+2008-12-31,Occupation: Plant and Machine Operators and Assemblers,0.09955201592832255,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K50,0.0009955201592832255,0.0%
+2008-12-31,Occupation: Plant and Machine Operators and Assemblers,2011,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K13,2011,"#,##0"
+2008-12-31,Occupation: Professionals,3.8435140700068633,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K44,0.038435140700068635,0.0%
+2008-12-31,Occupation: Professionals,7565,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K7,7565,"#,##0"
+2008-12-31,Occupation: Senior Officials and Managers,0.5214205186020293,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K43,0.005214205186020293,0.0%
+2008-12-31,Occupation: Senior Officials and Managers,7133,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K6,7133,"#,##0"
+2008-12-31,Occupation: Service Workers and Shop and Market Sales Workers,3.4572287510248705,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K47,0.034572287510248705,0.0%
+2008-12-31,Occupation: Service Workers and Shop and Market Sales Workers,7571,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K10,7571,"#,##0"
+2008-12-31,Occupation: Skilled Agricultural and Fishery Workers,1.680672268907563,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K48,0.01680672268907563,0.0%
+2008-12-31,Occupation: Skilled Agricultural and Fishery Workers,968,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K11,968,"#,##0"
+2008-12-31,Occupation: Technicians and Associate Professionals,-4.337899543378995,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K45,-0.04337899543378995,0.0%
+2008-12-31,Occupation: Technicians and Associate Professionals,2933,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K8,2933,"#,##0"
+2008-12-31,Occupation: Total,0.9083837293919851,%,2008,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,K53,0.009083837293919851,0.0%
+2008-12-31,Occupation: Total,40213,employment,2008,Annual,Value,Legacy industry classification,,reported,,,,Table18,K16,40213,"#,##0"
+2009-12-31,"Industry: Agriculture, Fishing and Quarrying",-0.9762900976290068,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L56,-0.009762900976290068,0.0%
+2009-12-31,"Industry: Agriculture, Fishing and Quarrying",710,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L19,710,"#,##0"
+2009-12-31,Industry: Business Services,-2.9819694868238544,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L67,-0.029819694868238544,0.0%
+2009-12-31,Industry: Business Services,4197,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L30,4197,"#,##0"
+2009-12-31,Industry: Construction,-4.4121677171827915,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L59,-0.04412167717182791,0.0%
+2009-12-31,Industry: Construction,3488,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L22,3488,"#,##0"
+2009-12-31,"Industry: Education, Health & Social Work",10.521500457456545,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L69,0.10521500457456545,0.0%
+2009-12-31,"Industry: Education, Health & Social Work",3624,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L32,3624,"#,##0"
+2009-12-31,"Industry: Electricity, Gas and Water",-0.7281553398058249,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L58,-0.007281553398058249,0.0%
+2009-12-31,"Industry: Electricity, Gas and Water",409,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L21,409,"#,##0"
+2009-12-31,Industry: Financial Intermediation,-4.334365325077394,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L65,-0.04334365325077394,0.0%
+2009-12-31,Industry: Financial Intermediation,2781,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L28,2781,"#,##0"
+2009-12-31,Industry: Hotels,-7.579877634262411,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L62,-0.07579877634262411,0.0%
+2009-12-31,Industry: Hotels,2719,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L25,2719,"#,##0"
+2009-12-31,Industry: International Business Activity,-6.931316950220545,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L71,-0.06931316950220545,0.0%
+2009-12-31,Industry: International Business Activity,4431,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L34,4431,"#,##0"
+2009-12-31,Industry: Manufacturing,-0.8743169398907069,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L57,-0.008743169398907069,0.0%
+2009-12-31,Industry: Manufacturing,907,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L20,907,"#,##0"
+2009-12-31,"Industry: Other Community, Social & Pers.",-0.46253469010175685,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L70,-0.0046253469010175685,0.0%
+2009-12-31,"Industry: Other Community, Social & Pers.",2152,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L33,2152,"#,##0"
+2009-12-31,Industry: Public Administration,2.2495856026521377,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L68,0.022495856026521377,0.0%
+2009-12-31,Industry: Public Administration,4318,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L31,4318,"#,##0"
+2009-12-31,Industry: Real Estate & Rent,-3.0399999999999983,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L66,-0.030399999999999983,0.0%
+2009-12-31,Industry: Real Estate & Rent,606,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L29,606,"#,##0"
+2009-12-31,"Industry: Restaurants, Cafes & Bars",1.4530358069538174,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L63,0.014530358069538174,0.0%
+2009-12-31,"Industry: Restaurants, Cafes & Bars",1955,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L26,1955,"#,##0"
+2009-12-31,Industry: Retail Trade & Repair Services,-2.450980392156865,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L61,-0.02450980392156865,0.0%
+2009-12-31,Industry: Retail Trade & Repair Services,3184,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L24,3184,"#,##0"
+2009-12-31,Industry: Total,-1.723323303409341,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L72,-0.01723323303409341,0.0%
+2009-12-31,Industry: Total,39520,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L35,39520,"#,##0"
+2009-12-31,Industry: Transport & Communications,-5.03458877786318,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L64,-0.050345887778631804,0.0%
+2009-12-31,Industry: Transport & Communications,2471,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L27,2471,"#,##0"
+2009-12-31,Industry: Wholesale Trade and Motor Vehicles,4.394141145139807,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L60,0.04394141145139807,0.0%
+2009-12-31,Industry: Wholesale Trade and Motor Vehicles,1568,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L23,1568,"#,##0"
+2009-12-31,Occupation: Armed Forces,7.4074074074074066,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L52,0.07407407407407407,0.0%
+2009-12-31,Occupation: Armed Forces,29,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L15,29,"#,##0"
+2009-12-31,Occupation: Clerks,-2.6096033402922756,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L46,-0.026096033402922755,0.0%
+2009-12-31,Occupation: Clerks,6531,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L9,6531,"#,##0"
+2009-12-31,Occupation: Craft and Related Trade Workers,-3.094378545642084,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L49,-0.030943785456420837,0.0%
+2009-12-31,Occupation: Craft and Related Trade Workers,3758,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L12,3758,"#,##0"
+2009-12-31,Occupation: Elementary Occupations,-1.688951442646024,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L51,-0.01688951442646024,0.0%
+2009-12-31,Occupation: Elementary Occupations,1397,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L14,1397,"#,##0"
+2009-12-31,Occupation: Plant and Machine Operators and Assemblers,-5.320735952262556,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L50,-0.05320735952262556,0.0%
+2009-12-31,Occupation: Plant and Machine Operators and Assemblers,1904,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L13,1904,"#,##0"
+2009-12-31,Occupation: Professionals,-0.7666886979510906,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L44,-0.007666886979510906,0.0%
+2009-12-31,Occupation: Professionals,7507,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L7,7507,"#,##0"
+2009-12-31,Occupation: Senior Officials and Managers,-1.7383989906070378,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L43,-0.017383989906070377,0.0%
+2009-12-31,Occupation: Senior Officials and Managers,7009,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L6,7009,"#,##0"
+2009-12-31,Occupation: Service Workers and Shop and Market Sales Workers,-1.3076211861048739,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L47,-0.013076211861048738,0.0%
+2009-12-31,Occupation: Service Workers and Shop and Market Sales Workers,7472,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L10,7472,"#,##0"
+2009-12-31,Occupation: Skilled Agricultural and Fishery Workers,0.4132231404958678,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L48,0.004132231404958678,0.0%
+2009-12-31,Occupation: Skilled Agricultural and Fishery Workers,972,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L11,972,"#,##0"
+2009-12-31,Occupation: Technicians and Associate Professionals,0.2727582679849983,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L45,0.002727582679849983,0.0%
+2009-12-31,Occupation: Technicians and Associate Professionals,2941,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L8,2941,"#,##0"
+2009-12-31,Occupation: Total,-1.7233233034093451,%,2009,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,L53,-0.01723323303409345,0.0%
+2009-12-31,Occupation: Total,39520,employment,2009,Annual,Value,Legacy industry classification,,reported,,,,Table18,L16,39520,"#,##0"
+2010-12-31,"Industry: Agriculture, Fishing and Quarrying",-2.5352112676056304,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M56,-0.025352112676056304,0.0%
+2010-12-31,"Industry: Agriculture, Fishing and Quarrying",692,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M19,692,"#,##0"
+2010-12-31,Industry: Business Services,-3.907553014057663,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M67,-0.03907553014057663,0.0%
+2010-12-31,Industry: Business Services,4033,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M30,4033,"#,##0"
+2010-12-31,Industry: Construction,-12.786697247706424,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M59,-0.12786697247706424,0.0%
+2010-12-31,Industry: Construction,3042,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M22,3042,"#,##0"
+2010-12-31,"Industry: Education, Health & Social Work",0.027593818984539276,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M69,0.00027593818984539276,0.0%
+2010-12-31,"Industry: Education, Health & Social Work",3625,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M32,3625,"#,##0"
+2010-12-31,"Industry: Electricity, Gas and Water",4.1564792176039145,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M58,0.041564792176039145,0.0%
+2010-12-31,"Industry: Electricity, Gas and Water",426,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M21,426,"#,##0"
+2010-12-31,Industry: Financial Intermediation,-1.438331535418913,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M65,-0.01438331535418913,0.0%
+2010-12-31,Industry: Financial Intermediation,2741,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M28,2741,"#,##0"
+2010-12-31,Industry: Hotels,-10.55535123207061,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M62,-0.10555351232070609,0.0%
+2010-12-31,Industry: Hotels,2432,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M25,2432,"#,##0"
+2010-12-31,Industry: International Business Activity,-3.2498307379823954,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M71,-0.032498307379823954,0.0%
+2010-12-31,Industry: International Business Activity,4287,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M34,4287,"#,##0"
+2010-12-31,Industry: Manufacturing,-7.2767364939360535,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M57,-0.07276736493936053,0.0%
+2010-12-31,Industry: Manufacturing,841,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M20,841,"#,##0"
+2010-12-31,"Industry: Other Community, Social & Pers.",2.7416356877323356,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M70,0.027416356877323356,0.0%
+2010-12-31,"Industry: Other Community, Social & Pers.",2211,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M33,2211,"#,##0"
+2010-12-31,Industry: Public Administration,-0.5094951366373279,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M68,-0.005094951366373279,0.0%
+2010-12-31,Industry: Public Administration,4296,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M31,4296,"#,##0"
+2010-12-31,Industry: Real Estate & Rent,-5.280528052805278,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M66,-0.05280528052805278,0.0%
+2010-12-31,Industry: Real Estate & Rent,574,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M29,574,"#,##0"
+2010-12-31,"Industry: Restaurants, Cafes & Bars",-1.9437340153452665,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M63,-0.019437340153452665,0.0%
+2010-12-31,"Industry: Restaurants, Cafes & Bars",1917,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M26,1917,"#,##0"
+2010-12-31,Industry: Retail Trade & Repair Services,-1.7273869346733695,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M61,-0.017273869346733695,0.0%
+2010-12-31,Industry: Retail Trade & Repair Services,3129,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M24,3129,"#,##0"
+2010-12-31,Industry: Total,-3.600708502024297,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M72,-0.03600708502024297,0.0%
+2010-12-31,Industry: Total,38097,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M35,38097,"#,##0"
+2010-12-31,Industry: Transport & Communications,-6.029947389720758,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M64,-0.06029947389720758,0.0%
+2010-12-31,Industry: Transport & Communications,2322,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M27,2322,"#,##0"
+2010-12-31,Industry: Wholesale Trade and Motor Vehicles,-2.4872448979591844,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M60,-0.024872448979591844,0.0%
+2010-12-31,Industry: Wholesale Trade and Motor Vehicles,1529,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M23,1529,"#,##0"
+2010-12-31,Occupation: Armed Forces,-3.4482758620689653,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M52,-0.034482758620689655,0.0%
+2010-12-31,Occupation: Armed Forces,28,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M15,28,"#,##0"
+2010-12-31,Occupation: Clerks,-1.7608329505435616,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M46,-0.017608329505435616,0.0%
+2010-12-31,Occupation: Clerks,6416,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M9,6416,"#,##0"
+2010-12-31,Occupation: Craft and Related Trade Workers,-7.95635976583289,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M49,-0.0795635976583289,0.0%
+2010-12-31,Occupation: Craft and Related Trade Workers,3459,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M12,3459,"#,##0"
+2010-12-31,Occupation: Elementary Occupations,-7.659269863994274,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M51,-0.07659269863994274,0.0%
+2010-12-31,Occupation: Elementary Occupations,1290,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M14,1290,"#,##0"
+2010-12-31,Occupation: Plant and Machine Operators and Assemblers,-5.2521008403361344,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M50,-0.052521008403361345,0.0%
+2010-12-31,Occupation: Plant and Machine Operators and Assemblers,1804,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M13,1804,"#,##0"
+2010-12-31,Occupation: Professionals,-4.342613560676702,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M44,-0.043426135606767016,0.0%
+2010-12-31,Occupation: Professionals,7181,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M7,7181,"#,##0"
+2010-12-31,Occupation: Senior Officials and Managers,-2.1258382080182625,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M43,-0.021258382080182624,0.0%
+2010-12-31,Occupation: Senior Officials and Managers,6860,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M6,6860,"#,##0"
+2010-12-31,Occupation: Service Workers and Shop and Market Sales Workers,-3.091541755888651,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M47,-0.03091541755888651,0.0%
+2010-12-31,Occupation: Service Workers and Shop and Market Sales Workers,7241,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M10,7241,"#,##0"
+2010-12-31,Occupation: Skilled Agricultural and Fishery Workers,-2.880658436213992,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M48,-0.02880658436213992,0.0%
+2010-12-31,Occupation: Skilled Agricultural and Fishery Workers,944,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M11,944,"#,##0"
+2010-12-31,Occupation: Technicians and Associate Professionals,-2.2781366882012923,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M45,-0.022781366882012922,0.0%
+2010-12-31,Occupation: Technicians and Associate Professionals,2874,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M8,2874,"#,##0"
+2010-12-31,Occupation: Total,-3.6007085020242915,%,2010,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,M53,-0.03600708502024291,0.0%
+2010-12-31,Occupation: Total,38097,employment,2010,Annual,Value,Legacy industry classification,,reported,,,,Table18,M16,38097,"#,##0"
+2011-12-31,"Industry: Agriculture, Fishing and Quarrying",-7.658959537572252,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N56,-0.07658959537572252,0.0%
+2011-12-31,"Industry: Agriculture, Fishing and Quarrying",639,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N19,639,"#,##0"
+2011-12-31,Industry: Business Services,-1.4133399454500317,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N67,-0.014133399454500317,0.0%
+2011-12-31,Industry: Business Services,3976,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N30,3976,"#,##0"
+2011-12-31,Industry: Construction,-16.206443129520054,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N59,-0.16206443129520054,0.0%
+2011-12-31,Industry: Construction,2549,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N22,2549,"#,##0"
+2011-12-31,"Industry: Education, Health & Social Work",7.448275862068976,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N69,0.07448275862068976,0.0%
+2011-12-31,"Industry: Education, Health & Social Work",3895,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N32,3895,"#,##0"
+2011-12-31,"Industry: Electricity, Gas and Water",-8.685446009389675,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N58,-0.08685446009389675,0.0%
+2011-12-31,"Industry: Electricity, Gas and Water",389,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N21,389,"#,##0"
+2011-12-31,Industry: Financial Intermediation,0.2188982123312755,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N65,0.002188982123312755,0.0%
+2011-12-31,Industry: Financial Intermediation,2747,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N28,2747,"#,##0"
+2011-12-31,Industry: Hotels,5.3865131578947345,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N62,0.053865131578947345,0.0%
+2011-12-31,Industry: Hotels,2563,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N25,2563,"#,##0"
+2011-12-31,Industry: International Business Activity,-4.898530440867743,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N71,-0.04898530440867743,0.0%
+2011-12-31,Industry: International Business Activity,4077,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N34,4077,"#,##0"
+2011-12-31,Industry: Manufacturing,-5.826397146254458,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N57,-0.058263971462544584,0.0%
+2011-12-31,Industry: Manufacturing,792,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N20,792,"#,##0"
+2011-12-31,"Industry: Other Community, Social & Pers.",-0.27137042062415073,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N70,-0.0027137042062415073,0.0%
+2011-12-31,"Industry: Other Community, Social & Pers.",2205,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N33,2205,"#,##0"
+2011-12-31,Industry: Public Administration,-0.27932960893854997,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N68,-0.0027932960893854997,0.0%
+2011-12-31,Industry: Public Administration,4284,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N31,4284,"#,##0"
+2011-12-31,Industry: Real Estate & Rent,-14.459930313588853,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N66,-0.14459930313588854,0.0%
+2011-12-31,Industry: Real Estate & Rent,491,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N29,491,"#,##0"
+2011-12-31,"Industry: Restaurants, Cafes & Bars",2.764736567553472,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N63,0.02764736567553472,0.0%
+2011-12-31,"Industry: Restaurants, Cafes & Bars",1970,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N26,1970,"#,##0"
+2011-12-31,Industry: Retail Trade & Repair Services,-2.141259188239053,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N61,-0.02141259188239053,0.0%
+2011-12-31,Industry: Retail Trade & Repair Services,3062,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N24,3062,"#,##0"
+2011-12-31,Industry: Total,-1.832165262356611,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N72,-0.01832165262356611,0.0%
+2011-12-31,Industry: Total,37399,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N35,37399,"#,##0"
+2011-12-31,Industry: Transport & Communications,-1.248923341946595,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N64,-0.01248923341946595,0.0%
+2011-12-31,Industry: Transport & Communications,2293,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N27,2293,"#,##0"
+2011-12-31,Industry: Wholesale Trade and Motor Vehicles,-4.054937867887509,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N60,-0.04054937867887509,0.0%
+2011-12-31,Industry: Wholesale Trade and Motor Vehicles,1467,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N23,1467,"#,##0"
+2011-12-31,Occupation: Armed Forces,3.571428571428571,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N52,0.03571428571428571,0.0%
+2011-12-31,Occupation: Armed Forces,29,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N15,29,General
+2011-12-31,Occupation: Clerks,-2.041770573566085,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N46,-0.02041770573566085,0.0%
+2011-12-31,Occupation: Clerks,6285,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N9,6285,"#,##0"
+2011-12-31,Occupation: Craft and Related Trade Workers,-10.291991905174907,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N49,-0.10291991905174906,0.0%
+2011-12-31,Occupation: Craft and Related Trade Workers,3103,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N12,3103,"#,##0"
+2011-12-31,Occupation: Elementary Occupations,-7.519379844961241,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N51,-0.07519379844961241,0.0%
+2011-12-31,Occupation: Elementary Occupations,1193,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N14,1193,"#,##0"
+2011-12-31,Occupation: Plant and Machine Operators and Assemblers,-4.767184035476718,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N50,-0.04767184035476718,0.0%
+2011-12-31,Occupation: Plant and Machine Operators and Assemblers,1718,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N13,1718,"#,##0"
+2011-12-31,Occupation: Professionals,-0.7519844032864503,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N44,-0.007519844032864503,0.0%
+2011-12-31,Occupation: Professionals,7127,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N7,7127,"#,##0"
+2011-12-31,Occupation: Senior Officials and Managers,-0.597667638483965,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N43,-0.00597667638483965,0.0%
+2011-12-31,Occupation: Senior Officials and Managers,6819,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N6,6819,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2011-12-31,Occupation: Service Workers and Shop and Market Sales Workers,2.748239193481563,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N47,0.027482391934815633,0.0%
+2011-12-31,Occupation: Service Workers and Shop and Market Sales Workers,7440,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N10,7440,"#,##0"
+2011-12-31,Occupation: Skilled Agricultural and Fishery Workers,-6.461864406779661,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N48,-0.0646186440677966,0.0%
+2011-12-31,Occupation: Skilled Agricultural and Fishery Workers,883,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N11,883,"_(* #,##0_);_(* \(#,##0\);_(* ""-""??_);_(@_)"
+2011-12-31,Occupation: Technicians and Associate Professionals,-2.5052192066805845,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N45,-0.025052192066805846,0.0%
+2011-12-31,Occupation: Technicians and Associate Professionals,2802,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N8,2802,"#,##0"
+2011-12-31,Occupation: Total,-1.832165262356616,%,2011,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,N53,-0.01832165262356616,0.0%
+2011-12-31,Occupation: Total,37399,employment,2011,Annual,Value,Legacy industry classification,,reported,,,,Table18,N16,37399,"#,##0"
+2012-12-31,"Industry: Agriculture, Fishing and Quarrying",-7.042253521126762,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O56,-0.07042253521126762,0.0%
+2012-12-31,"Industry: Agriculture, Fishing and Quarrying",594,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O19,594,"#,##0"
+2012-12-31,Industry: Business Services,-6.89134808853119,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O67,-0.0689134808853119,0.0%
+2012-12-31,Industry: Business Services,3702,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O30,3702,"#,##0"
+2012-12-31,Industry: Construction,-11.180855237347975,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O59,-0.11180855237347975,0.0%
+2012-12-31,Industry: Construction,2264,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O22,2264,"#,##0"
+2012-12-31,"Industry: Education, Health & Social Work",-3.7227214377406947,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O69,-0.03722721437740695,0.0%
+2012-12-31,"Industry: Education, Health & Social Work",3750,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O32,3750,"#,##0"
+2012-12-31,"Industry: Electricity, Gas and Water",-0.7712082262210762,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O58,-0.007712082262210762,0.0%
+2012-12-31,"Industry: Electricity, Gas and Water",386,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O21,386,"#,##0"
+2012-12-31,Industry: Financial Intermediation,-8.955223880597018,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O65,-0.08955223880597019,0.0%
+2012-12-31,Industry: Financial Intermediation,2501,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O28,2501,"#,##0"
+2012-12-31,Industry: Hotels,-5.267264923917281,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O62,-0.05267264923917281,0.0%
+2012-12-31,Industry: Hotels,2428,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O25,2428,"#,##0"
+2012-12-31,Industry: International Business Activity,-4.881039980377732,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O71,-0.04881039980377733,0.0%
+2012-12-31,Industry: International Business Activity,3878,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O34,3878,"#,##0"
+2012-12-31,Industry: Manufacturing,-15.277777777777779,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O57,-0.1527777777777778,0.0%
+2012-12-31,Industry: Manufacturing,671,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O20,671,"#,##0"
+2012-12-31,"Industry: Other Community, Social & Pers.",-3.129251700680269,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O70,-0.03129251700680269,0.0%
+2012-12-31,"Industry: Other Community, Social & Pers.",2136,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O33,2136,"#,##0"
+2012-12-31,Industry: Public Administration,0.32679738562091387,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O68,0.0032679738562091387,0.0%
+2012-12-31,Industry: Public Administration,4298,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O31,4298,"#,##0"
+2012-12-31,Industry: Real Estate & Rent,-0.6109979633401208,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O66,-0.006109979633401208,0.0%
+2012-12-31,Industry: Real Estate & Rent,488,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O29,488,"#,##0"
+2012-12-31,"Industry: Restaurants, Cafes & Bars",-0.6598984771573613,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O63,-0.006598984771573613,0.0%
+2012-12-31,"Industry: Restaurants, Cafes & Bars",1957,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O26,1957,"#,##0"
+2012-12-31,Industry: Retail Trade & Repair Services,-9.046374918354017,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O61,-0.09046374918354017,0.0%
+2012-12-31,Industry: Retail Trade & Repair Services,2785,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O24,2785,"#,##0"
+2012-12-31,Industry: Total,-5.230086365945619,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O72,-0.05230086365945619,0.0%
+2012-12-31,Industry: Total,35443,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O35,35443,"#,##0"
+2012-12-31,Industry: Transport & Communications,-5.102485826428261,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O64,-0.0510248582642826,0.0%
+2012-12-31,Industry: Transport & Communications,2176,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O27,2176,"#,##0"
+2012-12-31,Industry: Wholesale Trade and Motor Vehicles,-2.5903203817314258,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O60,-0.025903203817314258,0.0%
+2012-12-31,Industry: Wholesale Trade and Motor Vehicles,1429,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O23,1429,"#,##0"
+2012-12-31,Occupation: Armed Forces,-13.793103448275861,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O52,-0.13793103448275862,0.0%
+2012-12-31,Occupation: Armed Forces,25,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O15,25,"#,##0"
+2012-12-31,Occupation: Clerks,-7.653142402545744,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O46,-0.07653142402545744,0.0%
+2012-12-31,Occupation: Clerks,5804,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O9,5804,"#,##0"
+2012-12-31,Occupation: Craft and Related Trade Workers,-9.41024814695456,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O49,-0.0941024814695456,0.0%
+2012-12-31,Occupation: Craft and Related Trade Workers,2811,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O12,2811,"#,##0"
+2012-12-31,Occupation: Elementary Occupations,-6.119027661357921,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O51,-0.06119027661357921,0.0%
+2012-12-31,Occupation: Elementary Occupations,1120,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O14,1120,"#,##0"
+2012-12-31,Occupation: Plant and Machine Operators and Assemblers,-5.9953434225844005,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O50,-0.059953434225844,0.0%
+2012-12-31,Occupation: Plant and Machine Operators and Assemblers,1615,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O13,1615,"#,##0"
+2012-12-31,Occupation: Professionals,-3.5639118843833315,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O44,-0.03563911884383331,0.0%
+2012-12-31,Occupation: Professionals,6873,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O7,6873,"#,##0"
+2012-12-31,Occupation: Senior Officials and Managers,-4.135503739551254,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O43,-0.04135503739551254,0.0%
+2012-12-31,Occupation: Senior Officials and Managers,6537,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O6,6537,"#,##0"
+2012-12-31,Occupation: Service Workers and Shop and Market Sales Workers,-4.973118279569892,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O47,-0.04973118279569892,0.0%
+2012-12-31,Occupation: Service Workers and Shop and Market Sales Workers,7070,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O10,7070,"#,##0"
+2012-12-31,Occupation: Skilled Agricultural and Fishery Workers,-7.248018120045301,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O48,-0.072480181200453,0.0%
+2012-12-31,Occupation: Skilled Agricultural and Fishery Workers,819,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O11,819,"#,##0"
+2012-12-31,Occupation: Technicians and Associate Professionals,-1.177730192719486,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O45,-0.011777301927194861,0.0%
+2012-12-31,Occupation: Technicians and Associate Professionals,2769,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O8,2769,"#,##0"
+2012-12-31,Occupation: Total,-5.230086365945614,%,2012,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,O53,-0.05230086365945614,0.0%
+2012-12-31,Occupation: Total,35443,employment,2012,Annual,Value,Legacy industry classification,,reported,,,,Table18,O16,35443,"#,##0"
+2013-12-31,"Industry: Agriculture, Fishing and Quarrying",-0.8417508417508435,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P56,-0.008417508417508435,0.0%
+2013-12-31,"Industry: Agriculture, Fishing and Quarrying",589,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P19,589,General
+2013-12-31,Industry: Business Services,-4.835224203133437,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P67,-0.04835224203133437,0.0%
+2013-12-31,Industry: Business Services,3523,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P30,3523,"#,##0"
+2013-12-31,Industry: Construction,-5.344522968197884,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P59,-0.053445229681978845,0.0%
+2013-12-31,Industry: Construction,2143,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P22,2143,"#,##0"
+2013-12-31,"Industry: Education, Health & Social Work",-4.0000000000000036,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P69,-0.040000000000000036,0.0%
+2013-12-31,"Industry: Education, Health & Social Work",3600,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P32,3600,"#,##0"
+2013-12-31,"Industry: Electricity, Gas and Water",-11.658031088082899,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P58,-0.11658031088082899,0.0%
+2013-12-31,"Industry: Electricity, Gas and Water",341,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P21,341,General
+2013-12-31,Industry: Financial Intermediation,2.319072371051578,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P65,0.02319072371051578,0.0%
+2013-12-31,Industry: Financial Intermediation,2559,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P28,2559,"#,##0"
+2013-12-31,Industry: Hotels,-3.665568369028005,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P62,-0.03665568369028005,0.0%
+2013-12-31,Industry: Hotels,2339,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P25,2339,"#,##0"
+2013-12-31,Industry: International Business Activity,-2.8365136668385804,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P71,-0.028365136668385804,0.0%
+2013-12-31,Industry: International Business Activity,3768,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P34,3768,"#,##0"
+2013-12-31,Industry: Manufacturing,-7.0044709388971675,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P57,-0.07004470938897167,0.0%
+2013-12-31,Industry: Manufacturing,624,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P20,624,General
+2013-12-31,"Industry: Other Community, Social & Pers.",-6.741573033707871,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P70,-0.0674157303370787,0.0%
+2013-12-31,"Industry: Other Community, Social & Pers.",1992,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P33,1992,"#,##0"
+2013-12-31,Industry: Public Administration,-1.4192647743136333,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P68,-0.014192647743136333,0.0%
+2013-12-31,Industry: Public Administration,4237,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P31,4237,"#,##0"
+2013-12-31,Industry: Real Estate & Rent,-11.475409836065575,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P66,-0.11475409836065575,0.0%
+2013-12-31,Industry: Real Estate & Rent,432,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P29,432,General
+2013-12-31,"Industry: Restaurants, Cafes & Bars",-4.036791006642826,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P63,-0.04036791006642826,0.0%
+2013-12-31,"Industry: Restaurants, Cafes & Bars",1878,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P26,1878,"#,##0"
+2013-12-31,Industry: Retail Trade & Repair Services,-1.7235188509874377,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P61,-0.017235188509874377,0.0%
+2013-12-31,Industry: Retail Trade & Repair Services,2737,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P24,2737,"#,##0"
+2013-12-31,Industry: Total,-3.2897892390599037,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P72,-0.03289789239059904,0.0%
+2013-12-31,Industry: Total,34277,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P35,34277,"#,##0"
+2013-12-31,Industry: Transport & Communications,-1.7003676470588203,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P64,-0.017003676470588203,0.0%
+2013-12-31,Industry: Transport & Communications,2139,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P27,2139,"#,##0"
+2013-12-31,Industry: Wholesale Trade and Motor Vehicles,-3.7088873337998596,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P60,-0.037088873337998596,0.0%
+2013-12-31,Industry: Wholesale Trade and Motor Vehicles,1376,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P23,1376,"#,##0"
+2013-12-31,Occupation: Armed Forces,4,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P52,0.04,0.0%
+2013-12-31,Occupation: Armed Forces,26,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P15,26,General
+2013-12-31,Occupation: Clerks,-0.9131633356305995,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P46,-0.009131633356305995,0.0%
+2013-12-31,Occupation: Clerks,5751,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P9,5751,"#,##0"
+2013-12-31,Occupation: Craft and Related Trade Workers,-2.2411953041622197,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P49,-0.022411953041622197,0.0%
+2013-12-31,Occupation: Craft and Related Trade Workers,2748,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P12,2748,"#,##0"
+2013-12-31,Occupation: Elementary Occupations,-4.642857142857143,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P51,-0.04642857142857143,0.0%
+2013-12-31,Occupation: Elementary Occupations,1068,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P14,1068,"#,##0"
+2013-12-31,Occupation: Plant and Machine Operators and Assemblers,-2.291021671826625,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P50,-0.022910216718266253,0.0%
+2013-12-31,Occupation: Plant and Machine Operators and Assemblers,1578,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P13,1578,"#,##0"
+2013-12-31,Occupation: Professionals,-6.663756729230322,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P44,-0.06663756729230322,0.0%
+2013-12-31,Occupation: Professionals,6415,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P7,6415,"#,##0"
+2013-12-31,Occupation: Senior Officials and Managers,-3.3348630870429865,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P43,-0.033348630870429864,0.0%
+2013-12-31,Occupation: Senior Officials and Managers,6319,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P6,6319,"#,##0"
+2013-12-31,Occupation: Service Workers and Shop and Market Sales Workers,-3.38048090523338,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P47,-0.0338048090523338,0.0%
+2013-12-31,Occupation: Service Workers and Shop and Market Sales Workers,6831,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P10,6831,"#,##0"
+2013-12-31,Occupation: Skilled Agricultural and Fishery Workers,-2.31990231990232,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P48,-0.0231990231990232,0.0%
+2013-12-31,Occupation: Skilled Agricultural and Fishery Workers,800,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P11,800,General
+2013-12-31,Occupation: Technicians and Associate Professionals,-1.0111953773925604,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P45,-0.010111953773925604,0.0%
+2013-12-31,Occupation: Technicians and Associate Professionals,2741,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P8,2741,"#,##0"
+2013-12-31,Occupation: Total,-3.289789239059899,%,2013,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,P53,-0.03289789239059899,0.0%
+2013-12-31,Occupation: Total,34277,employment,2013,Annual,Value,Legacy industry classification,,reported,,,,Table18,P16,34277,"#,##0"
+2014-12-31,"Industry: Agriculture, Fishing and Quarrying",-1.358234295415961,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q56,-0.01358234295415961,0.0%
+2014-12-31,"Industry: Agriculture, Fishing and Quarrying",581,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q19,581,"#,##0"
+2014-12-31,Industry: Business Services,-2.781720124893561,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q67,-0.027817201248935608,0.0%
+2014-12-31,Industry: Business Services,3425,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q30,3425,"#,##0"
+2014-12-31,Industry: Construction,-10.172655156322907,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q59,-0.10172655156322907,0.0%
+2014-12-31,Industry: Construction,1925,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q22,1925,"#,##0"
+2014-12-31,"Industry: Education, Health & Social Work",1.1666666666666714,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q69,0.011666666666666714,0.0%
+2014-12-31,"Industry: Education, Health & Social Work",3642,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q32,3642,"#,##0"
+2014-12-31,"Industry: Electricity, Gas and Water",-4.692082111436946,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q58,-0.04692082111436946,0.0%
+2014-12-31,"Industry: Electricity, Gas and Water",325,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q21,325,"#,##0"
+2014-12-31,Industry: Financial Intermediation,-11.957796014068,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q65,-0.11957796014068,0.0%
+2014-12-31,Industry: Financial Intermediation,2253,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q28,2253,"#,##0"
+2014-12-31,Industry: Hotels,-2.2231722958529265,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q62,-0.022231722958529265,0.0%
+2014-12-31,Industry: Hotels,2287,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q25,2287,"#,##0"
+2014-12-31,Industry: International Business Activity,4.485138004246281,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q71,0.04485138004246281,0.0%
+2014-12-31,Industry: International Business Activity,3937,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q34,3937,"#,##0"
+2014-12-31,Industry: Manufacturing,-6.25,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q57,-0.0625,0.0%
+2014-12-31,Industry: Manufacturing,585,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q20,585,"#,##0"
+2014-12-31,"Industry: Other Community, Social & Pers.",-3.2128514056224855,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q70,-0.032128514056224855,0.0%
+2014-12-31,"Industry: Other Community, Social & Pers.",1928,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q33,1928,"#,##0"
+2014-12-31,Industry: Public Administration,-1.746518763275906,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q68,-0.01746518763275906,0.0%
+2014-12-31,Industry: Public Administration,4163,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q31,4163,"#,##0"
+2014-12-31,Industry: Real Estate & Rent,4.629629629629628,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q66,0.04629629629629628,0.0%
+2014-12-31,Industry: Real Estate & Rent,452,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q29,452,"#,##0"
+2014-12-31,"Industry: Restaurants, Cafes & Bars",-2.396166134185307,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q63,-0.02396166134185307,0.0%
+2014-12-31,"Industry: Restaurants, Cafes & Bars",1833,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q26,1833,"#,##0"
+2014-12-31,Industry: Retail Trade & Repair Services,-1.644135915235656,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q61,-0.01644135915235656,0.0%
+2014-12-31,Industry: Retail Trade & Repair Services,2692,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q24,2692,"#,##0"
+2014-12-31,Industry: Total,-2.339761356011316,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q72,-0.023397613560113162,0.0%
+2014-12-31,Industry: Total,33475,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q35,33475,"#,##0"
+2014-12-31,Industry: Transport & Communications,-4.347826086956519,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q64,-0.04347826086956519,0.0%
+2014-12-31,Industry: Transport & Communications,2046,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q27,2046,"#,##0"
+2014-12-31,Industry: Wholesale Trade and Motor Vehicles,1.8168604651162878,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q60,0.01816860465116288,0.0%
+2014-12-31,Industry: Wholesale Trade and Motor Vehicles,1401,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q23,1401,"#,##0"
+2014-12-31,Occupation: Armed Forces,0,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q52,0,0.0%
+2014-12-31,Occupation: Armed Forces,26,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q15,26,"#,##0"
+2014-12-31,Occupation: Clerks,-5.842462180490349,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q46,-0.058424621804903494,0.0%
+2014-12-31,Occupation: Clerks,5415,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q9,5415,"#,##0"
+2014-12-31,Occupation: Craft and Related Trade Workers,-5.058224163027656,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q49,-0.05058224163027657,0.0%
+2014-12-31,Occupation: Craft and Related Trade Workers,2609,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q12,2609,"#,##0"
+2014-12-31,Occupation: Elementary Occupations,-6.835205992509364,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q51,-0.06835205992509363,0.0%
+2014-12-31,Occupation: Elementary Occupations,995,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q14,995,"#,##0"
+2014-12-31,Occupation: Plant and Machine Operators and Assemblers,-1.0139416983523446,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q50,-0.010139416983523447,0.0%
+2014-12-31,Occupation: Plant and Machine Operators and Assemblers,1562,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q13,1562,"#,##0"
+2014-12-31,Occupation: Professionals,-2.2291504286827744,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q44,-0.022291504286827746,0.0%
+2014-12-31,Occupation: Professionals,6272,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q7,6272,"#,##0"
+2014-12-31,Occupation: Senior Officials and Managers,-1.3768001266023104,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q43,-0.013768001266023105,0.0%
+2014-12-31,Occupation: Senior Officials and Managers,6232,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q6,6232,"#,##0"
+2014-12-31,Occupation: Service Workers and Shop and Market Sales Workers,-0.9808227199531547,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q47,-0.009808227199531547,0.0%
+2014-12-31,Occupation: Service Workers and Shop and Market Sales Workers,6764,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q10,6764,"#,##0"
+2014-12-31,Occupation: Skilled Agricultural and Fishery Workers,-0.75,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q48,-0.0075,0.0%
+2014-12-31,Occupation: Skilled Agricultural and Fishery Workers,794,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q11,794,"#,##0"
+2014-12-31,Occupation: Technicians and Associate Professionals,2.3713973002553814,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q45,0.023713973002553814,0.0%
+2014-12-31,Occupation: Technicians and Associate Professionals,2806,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q8,2806,"#,##0"
+2014-12-31,Occupation: Total,-2.3397613560113197,%,2014,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,Q53,-0.023397613560113197,0.0%
+2014-12-31,Occupation: Total,33475,employment,2014,Annual,Value,Legacy industry classification,,reported,,,,Table18,Q16,33475,"#,##0"
+2015-12-31,"Industry: Agriculture, Fishing and Quarrying",3.6144578313253017,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R56,0.03614457831325302,0.0%
+2015-12-31,"Industry: Agriculture, Fishing and Quarrying",602,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R19,602,"#,##0"
+2015-12-31,Industry: Business Services,4.087591240875921,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R67,0.04087591240875921,0.0%
+2015-12-31,Industry: Business Services,3565,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R30,3565,"#,##0"
+2015-12-31,Industry: Construction,0.15584415584415368,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R59,0.0015584415584415368,0.0%
+2015-12-31,Industry: Construction,1928,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R22,1928,"#,##0"
+2015-12-31,"Industry: Education, Health & Social Work",1.2630422844590816,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R69,0.012630422844590816,0.0%
+2015-12-31,"Industry: Education, Health & Social Work",3688,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R32,3688,"#,##0"
+2015-12-31,"Industry: Electricity, Gas and Water",-1.2307692307692353,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R58,-0.012307692307692353,0.0%
+2015-12-31,"Industry: Electricity, Gas and Water",321,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R21,321,"#,##0"
+2015-12-31,Industry: Financial Intermediation,5.148690634709285,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R65,0.05148690634709285,0.0%
+2015-12-31,Industry: Financial Intermediation,2369,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R28,2369,"#,##0"
+2015-12-31,Industry: Hotels,-4.9409707039790085,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R62,-0.049409707039790085,0.0%
+2015-12-31,Industry: Hotels,2174,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R25,2174,"#,##0"
+2015-12-31,Industry: International Business Activity,-0.9398018796037633,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R71,-0.009398018796037633,0.0%
+2015-12-31,Industry: International Business Activity,3900,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R34,3900,"#,##0"
+2015-12-31,Industry: Manufacturing,-2.051282051282055,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R57,-0.02051282051282055,0.0%
+2015-12-31,Industry: Manufacturing,573,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R20,573,"#,##0"
+2015-12-31,"Industry: Other Community, Social & Pers.",1.192946058091282,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R70,0.01192946058091282,0.0%
+2015-12-31,"Industry: Other Community, Social & Pers.",1951,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R33,1951,"#,##0"
+2015-12-31,Industry: Public Administration,-5.452798462647134,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R68,-0.05452798462647135,0.0%
+2015-12-31,Industry: Public Administration,3936,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R31,3936,"#,##0"
+2015-12-31,Industry: Real Estate & Rent,1.7699115044247815,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R66,0.017699115044247815,0.0%
+2015-12-31,Industry: Real Estate & Rent,460,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R29,460,"#,##0"
+2015-12-31,"Industry: Restaurants, Cafes & Bars",0.27277686852154037,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R63,0.0027277686852154037,0.0%
+2015-12-31,"Industry: Restaurants, Cafes & Bars",1838,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R26,1838,"#,##0"
+2015-12-31,Industry: Retail Trade & Repair Services,-1.7087667161961417,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R61,-0.017087667161961417,0.0%
+2015-12-31,Industry: Retail Trade & Repair Services,2646,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R24,2646,"#,##0"
+2015-12-31,Industry: Total,-0.46601941747572706,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R72,-0.004660194174757271,0.0%
+2015-12-31,Industry: Total,33319,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R35,33319,"#,##0"
+2015-12-31,Industry: Transport & Communications,-0.4398826979472137,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R64,-0.004398826979472137,0.0%
+2015-12-31,Industry: Transport & Communications,2037,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R27,2037,"#,##0"
+2015-12-31,Industry: Wholesale Trade and Motor Vehicles,-4.99643112062812,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R60,-0.0499643112062812,0.0%
+2015-12-31,Industry: Wholesale Trade and Motor Vehicles,1331,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R23,1331,"#,##0"
+2015-12-31,Occupation: Armed Forces,3.8461538461538463,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R52,0.038461538461538464,0.0%
+2015-12-31,Occupation: Armed Forces,27,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R15,27,"#,##0"
+2015-12-31,Occupation: Clerks,-0.8679593721144968,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R46,-0.008679593721144968,0.0%
+2015-12-31,Occupation: Clerks,5368,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R9,5368,"#,##0"
+2015-12-31,Occupation: Craft and Related Trade Workers,-1.2265235722499042,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R49,-0.012265235722499043,0.0%
+2015-12-31,Occupation: Craft and Related Trade Workers,2577,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R12,2577,"#,##0"
+2015-12-31,Occupation: Elementary Occupations,2.7135678391959797,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R51,0.027135678391959798,0.0%
+2015-12-31,Occupation: Elementary Occupations,1022,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R14,1022,"#,##0"
+2015-12-31,Occupation: Plant and Machine Operators and Assemblers,0.2560819462227913,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R50,0.002560819462227913,0.0%
+2015-12-31,Occupation: Plant and Machine Operators and Assemblers,1566,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R13,1566,"#,##0"
+2015-12-31,Occupation: Professionals,0.5102040816326531,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R44,0.00510204081632653,0.0%
+2015-12-31,Occupation: Professionals,6304,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R7,6304,"#,##0"
+2015-12-31,Occupation: Senior Officials and Managers,-0.35301668806161746,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R43,-0.0035301668806161745,0.0%
+2015-12-31,Occupation: Senior Officials and Managers,6210,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R6,6210,"#,##0"
+2015-12-31,Occupation: Service Workers and Shop and Market Sales Workers,-0.960969840331165,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R47,-0.00960969840331165,0.0%
+2015-12-31,Occupation: Service Workers and Shop and Market Sales Workers,6699,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R10,6699,"#,##0"
+2015-12-31,Occupation: Skilled Agricultural and Fishery Workers,1.385390428211587,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R48,0.013853904282115869,0.0%
+2015-12-31,Occupation: Skilled Agricultural and Fishery Workers,805,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R11,805,"#,##0"
+2015-12-31,Occupation: Technicians and Associate Professionals,-2.3164647184604417,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R45,-0.02316464718460442,0.0%
+2015-12-31,Occupation: Technicians and Associate Professionals,2741,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R8,2741,"#,##0"
+2015-12-31,Occupation: Total,-0.46601941747572817,%,2015,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,R53,-0.004660194174757282,0.0%
+2015-12-31,Occupation: Total,33319,employment,2015,Annual,Value,Legacy industry classification,,reported,,,,Table18,R16,33319,"#,##0"
+2016-12-31,"Industry: Agriculture, Fishing and Quarrying",-1.661129568106312,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S56,-0.01661129568106312,0.0%
+2016-12-31,"Industry: Agriculture, Fishing and Quarrying",592,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S19,592,"#,##0"
+2016-12-31,Industry: Business Services,1.0378681626928454,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S67,0.010378681626928454,0.0%
+2016-12-31,Industry: Business Services,3602,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S30,3602,"#,##0"
+2016-12-31,Industry: Construction,1.3485477178423189,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S59,0.013485477178423189,0.0%
+2016-12-31,Industry: Construction,1954,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S22,1954,"#,##0"
+2016-12-31,"Industry: Education, Health & Social Work",0.9219088937093334,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S69,0.009219088937093334,0.0%
+2016-12-31,"Industry: Education, Health & Social Work",3722,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S32,3722,"#,##0"
+2016-12-31,"Industry: Electricity, Gas and Water",0.31152647975076775,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S58,0.0031152647975076775,0.0%
+2016-12-31,"Industry: Electricity, Gas and Water",322,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S21,322,"#,##0"
+2016-12-31,Industry: Financial Intermediation,-1.5618404390038032,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S65,-0.015618404390038032,0.0%
+2016-12-31,Industry: Financial Intermediation,2332,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S28,2332,"#,##0"
+2016-12-31,Industry: Hotels,-3.219871205151792,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S62,-0.03219871205151792,0.0%
+2016-12-31,Industry: Hotels,2104,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S25,2104,"#,##0"
+2016-12-31,Industry: International Business Activity,-1.7435897435897463,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S71,-0.017435897435897463,0.0%
+2016-12-31,Industry: International Business Activity,3832,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S34,3832,"#,##0"
+2016-12-31,Industry: Manufacturing,0.3490401396160525,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S57,0.003490401396160525,0.0%
+2016-12-31,Industry: Manufacturing,575,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S20,575,"#,##0"
+2016-12-31,"Industry: Other Community, Social & Pers.",5.381855458739104,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S70,0.05381855458739104,0.0%
+2016-12-31,"Industry: Other Community, Social & Pers.",2056,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S33,2056,"#,##0"
+2016-12-31,Industry: Public Administration,-4.293699186991873,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S68,-0.04293699186991873,0.0%
+2016-12-31,Industry: Public Administration,3767,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S31,3767,"#,##0"
+2016-12-31,Industry: Real Estate & Rent,-2.608695652173909,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S66,-0.02608695652173909,0.0%
+2016-12-31,Industry: Real Estate & Rent,448,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S29,448,"#,##0"
+2016-12-31,"Industry: Restaurants, Cafes & Bars",10.065288356909674,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S63,0.10065288356909674,0.0%
+2016-12-31,"Industry: Restaurants, Cafes & Bars",2023,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S26,2023,"#,##0"
+2016-12-31,Industry: Retail Trade & Repair Services,4.195011337868482,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S61,0.04195011337868482,0.0%
+2016-12-31,Industry: Retail Trade & Repair Services,2757,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S24,2757,"#,##0"
+2016-12-31,Industry: Total,0.4862090699000676,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S72,0.004862090699000676,0.0%
+2016-12-31,Industry: Total,33481,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S35,33481,"#,##0"
+2016-12-31,Industry: Transport & Communications,-1.3745704467353903,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S64,-0.013745704467353903,0.0%
+2016-12-31,Industry: Transport & Communications,2009,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S27,2009,"#,##0"
+2016-12-31,Industry: Wholesale Trade and Motor Vehicles,4.132231404958686,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S60,0.04132231404958686,0.0%
+2016-12-31,Industry: Wholesale Trade and Motor Vehicles,1386,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S23,1386,"#,##0"
+2016-12-31,Occupation: Armed Forces,0,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S52,0,0.0%
+2016-12-31,Occupation: Armed Forces,27,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S15,27,"#,##0"
+2016-12-31,Occupation: Clerks,-1.7697466467958272,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S46,-0.01769746646795827,0.0%
+2016-12-31,Occupation: Clerks,5273,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S9,5273,"#,##0"
+2016-12-31,Occupation: Craft and Related Trade Workers,2.7939464493597206,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S49,0.027939464493597205,0.0%
+2016-12-31,Occupation: Craft and Related Trade Workers,2649,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S12,2649,"#,##0"
+2016-12-31,Occupation: Elementary Occupations,-0.09784735812133072,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S51,-0.0009784735812133072,0.0%
+2016-12-31,Occupation: Elementary Occupations,1021,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S14,1021,"#,##0"
+2016-12-31,Occupation: Plant and Machine Operators and Assemblers,-1.5964240102171137,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S50,-0.015964240102171137,0.0%
+2016-12-31,Occupation: Plant and Machine Operators and Assemblers,1541,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S13,1541,"#,##0"
+2016-12-31,Occupation: Professionals,-0.28553299492385786,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S44,-0.0028553299492385786,0.0%
+2016-12-31,Occupation: Professionals,6286,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S7,6286,"#,##0"
+2016-12-31,Occupation: Senior Officials and Managers,0.14492753623188406,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S43,0.0014492753623188406,0.0%
+2016-12-31,Occupation: Senior Officials and Managers,6219,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S6,6219,"#,##0"
+2016-12-31,Occupation: Service Workers and Shop and Market Sales Workers,2.9407374234960444,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S47,0.029407374234960443,0.0%
+2016-12-31,Occupation: Service Workers and Shop and Market Sales Workers,6896,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S10,6896,"#,##0"
+2016-12-31,Occupation: Skilled Agricultural and Fishery Workers,-1.4906832298136645,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S48,-0.014906832298136646,0.0%
+2016-12-31,Occupation: Skilled Agricultural and Fishery Workers,793,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S11,793,"#,##0"
+2016-12-31,Occupation: Technicians and Associate Professionals,1.2769062385990515,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S45,0.012769062385990515,0.0%
+2016-12-31,Occupation: Technicians and Associate Professionals,2776,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S8,2776,"#,##0"
+2016-12-31,Occupation: Total,0.486209069900057,%,2016,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,S53,0.0048620906990005704,0.0%
+2016-12-31,Occupation: Total,33481,employment,2016,Annual,Value,Legacy industry classification,,reported,,,,Table18,S16,33481,"#,##0"
+2017-12-31,"Industry: Agriculture, Fishing and Quarrying",1.0135135135135087,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T56,0.010135135135135087,0.0%
+2017-12-31,"Industry: Agriculture, Fishing and Quarrying",598,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T19,598,"#,##0"
+2017-12-31,Industry: Business Services,-0.4441976679622428,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T67,-0.004441976679622428,0.0%
+2017-12-31,Industry: Business Services,3586,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T30,3586,"#,##0"
+2017-12-31,Industry: Construction,2.763561924257929,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T59,0.02763561924257929,0.0%
+2017-12-31,Industry: Construction,2008,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T22,2008,"#,##0"
+2017-12-31,"Industry: Education, Health & Social Work",-0.4030091348737219,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T69,-0.004030091348737219,0.0%
+2017-12-31,"Industry: Education, Health & Social Work",3707,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T32,3707,"#,##0"
+2017-12-31,"Industry: Electricity, Gas and Water",0,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T58,0,0.0%
+2017-12-31,"Industry: Electricity, Gas and Water",322,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T21,322,"#,##0"
+2017-12-31,Industry: Financial Intermediation,-0.9862778730703292,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T65,-0.009862778730703292,0.0%
+2017-12-31,Industry: Financial Intermediation,2309,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T28,2309,"#,##0"
+2017-12-31,Industry: Hotels,4.420152091254748,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T62,0.044201520912547476,0.0%
+2017-12-31,Industry: Hotels,2197,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T25,2197,"#,##0"
+2017-12-31,Industry: International Business Activity,2.8183716075156573,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T71,0.028183716075156573,0.0%
+2017-12-31,Industry: International Business Activity,3940,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T34,3940,"#,##0"
+2017-12-31,Industry: Manufacturing,-0.6956521739130417,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T57,-0.006956521739130417,0.0%
+2017-12-31,Industry: Manufacturing,571,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T20,571,"#,##0"
+2017-12-31,"Industry: Other Community, Social & Pers.",-7.73346303501945,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T70,-0.0773346303501945,0.0%
+2017-12-31,"Industry: Other Community, Social & Pers.",1897,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T33,1897,"#,##0"
+2017-12-31,Industry: Public Administration,-2.0440668967347975,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T68,-0.020440668967347975,0.0%
+2017-12-31,Industry: Public Administration,3690,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T31,3690,"#,##0"
+2017-12-31,Industry: Real Estate & Rent,4.910714285714279,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T66,0.049107142857142794,0.0%
+2017-12-31,Industry: Real Estate & Rent,470,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T29,470,"#,##0"
+2017-12-31,"Industry: Restaurants, Cafes & Bars",7.464162135442409,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T63,0.07464162135442409,0.0%
+2017-12-31,"Industry: Restaurants, Cafes & Bars",2174,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T26,2174,"#,##0"
+2017-12-31,Industry: Retail Trade & Repair Services,-0.18135654697134518,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T61,-0.0018135654697134518,0.0%
+2017-12-31,Industry: Retail Trade & Repair Services,2752,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T24,2752,"#,##0"
+2017-12-31,Industry: Total,0.5316448134762952,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T72,0.005316448134762952,0.0%
+2017-12-31,Industry: Total,33659,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T35,33659,"#,##0"
+2017-12-31,Industry: Transport & Communications,-1.7421602787456414,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T64,-0.017421602787456414,0.0%
+2017-12-31,Industry: Transport & Communications,1974,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T27,1974,"#,##0"
+2017-12-31,Industry: Wholesale Trade and Motor Vehicles,5.627705627705626,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T60,0.05627705627705626,0.0%
+2017-12-31,Industry: Wholesale Trade and Motor Vehicles,1464,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T23,1464,"#,##0"
+2017-12-31,Occupation: Armed Forces,3.7037037037037033,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T52,0.037037037037037035,0.0%
+2017-12-31,Occupation: Armed Forces,28,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T15,28,"#,##0"
+2017-12-31,Occupation: Clerks,-2.3136734306846196,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T46,-0.023136734306846197,0.0%
+2017-12-31,Occupation: Clerks,5151,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T9,5151,"#,##0"
+2017-12-31,Occupation: Craft and Related Trade Workers,1.4345035862589657,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T49,0.014345035862589657,0.0%
+2017-12-31,Occupation: Craft and Related Trade Workers,2687,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T12,2687,"#,##0"
+2017-12-31,Occupation: Elementary Occupations,-0.3917727717923604,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T51,-0.0039177277179236044,0.0%
+2017-12-31,Occupation: Elementary Occupations,1017,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T14,1017,"#,##0"
+2017-12-31,Occupation: Plant and Machine Operators and Assemblers,-4.023361453601558,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T50,-0.04023361453601557,0.0%
+2017-12-31,Occupation: Plant and Machine Operators and Assemblers,1479,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T13,1479,"#,##0"
+2017-12-31,Occupation: Professionals,-0.6999681832643971,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T44,-0.006999681832643971,0.0%
+2017-12-31,Occupation: Professionals,6242,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T7,6242,"#,##0"
+2017-12-31,Occupation: Senior Officials and Managers,1.6079755587715066,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T43,0.016079755587715065,0.0%
+2017-12-31,Occupation: Senior Officials and Managers,6319,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T6,6319,"#,##0"
+2017-12-31,Occupation: Service Workers and Shop and Market Sales Workers,3.1177494199535962,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T47,0.031177494199535964,0.0%
+2017-12-31,Occupation: Service Workers and Shop and Market Sales Workers,7111,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T10,7111,"#,##0"
+2017-12-31,Occupation: Skilled Agricultural and Fishery Workers,-1.3871374527112232,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T48,-0.013871374527112233,0.0%
+2017-12-31,Occupation: Skilled Agricultural and Fishery Workers,782,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T11,782,"#,##0"
+2017-12-31,Occupation: Technicians and Associate Professionals,2.413544668587896,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T45,0.024135446685878963,0.0%
+2017-12-31,Occupation: Technicians and Associate Professionals,2843,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T8,2843,"#,##0"
+2017-12-31,Occupation: Total,0.5316448134763,%,2017,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,T53,0.005316448134763,0.0%
+2017-12-31,Occupation: Total,33659,employment,2017,Annual,Value,Legacy industry classification,,reported,,,,Table18,T16,33659,"#,##0"
+2018-12-31,"Industry: Agriculture, Fishing and Quarrying",-4.515050167224077,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U56,-0.04515050167224077,0.0%
+2018-12-31,"Industry: Agriculture, Fishing and Quarrying",571,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U19,571,"#,##0"
+2018-12-31,Industry: Business Services,-0.19520356943669714,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U67,-0.0019520356943669714,0.0%
+2018-12-31,Industry: Business Services,3579,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U30,3579,"#,##0"
+2018-12-31,Industry: Construction,6.175298804780871,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U59,0.06175298804780871,0.0%
+2018-12-31,Industry: Construction,2132,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U22,2132,"#,##0"
+2018-12-31,"Industry: Education, Health & Social Work",0.4855678446182843,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U69,0.004855678446182843,0.0%
+2018-12-31,"Industry: Education, Health & Social Work",3725,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U32,3725,"#,##0"
+2018-12-31,"Industry: Electricity, Gas and Water",-2.4844720496894457,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U58,-0.024844720496894457,0.0%
+2018-12-31,"Industry: Electricity, Gas and Water",314,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U21,314,"#,##0"
+2018-12-31,Industry: Financial Intermediation,-1.818969250757907,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U65,-0.01818969250757907,0.0%
+2018-12-31,Industry: Financial Intermediation,2267,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U28,2267,"#,##0"
+2018-12-31,Industry: Hotels,8.466090122894855,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U62,0.08466090122894854,0.0%
+2018-12-31,Industry: Hotels,2383,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U25,2383,"#,##0"
+2018-12-31,Industry: International Business Activity,1.1421319796954377,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U71,0.011421319796954377,0.0%
+2018-12-31,Industry: International Business Activity,3985,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U34,3985,"#,##0"
+2018-12-31,Industry: Manufacturing,-5.954465849387036,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U57,-0.05954465849387036,0.0%
+2018-12-31,Industry: Manufacturing,537,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U20,537,"#,##0"
+2018-12-31,"Industry: Other Community, Social & Pers.",-3.110173958882445,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U70,-0.03110173958882445,0.0%
+2018-12-31,"Industry: Other Community, Social & Pers.",1838,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U33,1838,"#,##0"
+2018-12-31,Industry: Public Administration,2.059620596205969,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U68,0.020596205962059688,0.0%
+2018-12-31,Industry: Public Administration,3766,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U31,3766,"#,##0"
+2018-12-31,Industry: Real Estate & Rent,-0.21276595744680327,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U66,-0.0021276595744680327,0.0%
+2018-12-31,Industry: Real Estate & Rent,469,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U29,469,"#,##0"
+2018-12-31,"Industry: Restaurants, Cafes & Bars",-0.4599816007359703,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U63,-0.004599816007359703,0.0%
+2018-12-31,"Industry: Restaurants, Cafes & Bars",2164,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U26,2164,"#,##0"
+2018-12-31,Industry: Retail Trade & Repair Services,1.6351744186046568,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U61,0.01635174418604657,0.0%
+2018-12-31,Industry: Retail Trade & Repair Services,2797,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U24,2797,"#,##0"
+2018-12-31,Industry: Total,0.5823108232567709,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U72,0.005823108232567709,0.0%
+2018-12-31,Industry: Total,33855,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U35,33855,"#,##0"
+2018-12-31,Industry: Transport & Communications,-4.305977710233034,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U64,-0.04305977710233033,0.0%
+2018-12-31,Industry: Transport & Communications,1889,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U27,1889,"#,##0"
+2018-12-31,Industry: Wholesale Trade and Motor Vehicles,-1.7076502732240484,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U60,-0.017076502732240484,0.0%
+2018-12-31,Industry: Wholesale Trade and Motor Vehicles,1439,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U23,1439,"#,##0"
+2018-12-31,Occupation: Armed Forces,-3.571428571428571,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U52,-0.03571428571428571,0.0%
+2018-12-31,Occupation: Armed Forces,27,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U15,27,"#,##0"
+2018-12-31,Occupation: Clerks,-1.1259949524364201,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U46,-0.011259949524364201,0.0%
+2018-12-31,Occupation: Clerks,5093,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U9,5093,"#,##0"
+2018-12-31,Occupation: Craft and Related Trade Workers,1.6002977298101972,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U49,0.016002977298101972,0.0%
+2018-12-31,Occupation: Craft and Related Trade Workers,2730,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U12,2730,"#,##0"
+2018-12-31,Occupation: Elementary Occupations,-5.3097345132743365,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U51,-0.05309734513274336,0.0%
+2018-12-31,Occupation: Elementary Occupations,963,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U14,963,"#,##0"
+2018-12-31,Occupation: Plant and Machine Operators and Assemblers,-1.352265043948614,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U50,-0.013522650439486139,0.0%
+2018-12-31,Occupation: Plant and Machine Operators and Assemblers,1459,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U13,1459,"#,##0"
+2018-12-31,Occupation: Professionals,1.3777635373277797,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U44,0.013777635373277796,0.0%
+2018-12-31,Occupation: Professionals,6328,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U7,6328,"#,##0"
+2018-12-31,Occupation: Senior Officials and Managers,0.9811679063142903,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U43,0.009811679063142903,0.0%
+2018-12-31,Occupation: Senior Officials and Managers,6381,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U6,6381,"#,##0"
+2018-12-31,Occupation: Service Workers and Shop and Market Sales Workers,1.9265926030094223,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U47,0.01926592603009422,0.0%
+2018-12-31,Occupation: Service Workers and Shop and Market Sales Workers,7248,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U10,7248,"#,##0"
+2018-12-31,Occupation: Skilled Agricultural and Fishery Workers,-2.557544757033248,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U48,-0.02557544757033248,0.0%
+2018-12-31,Occupation: Skilled Agricultural and Fishery Workers,762,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U11,762,"#,##0"
+2018-12-31,Occupation: Technicians and Associate Professionals,0.7386563489271896,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U45,0.007386563489271896,0.0%
+2018-12-31,Occupation: Technicians and Associate Professionals,2864,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U8,2864,"#,##0"
+2018-12-31,Occupation: Total,0.5823108232567813,%,2018,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,U53,0.005823108232567813,0.0%
+2018-12-31,Occupation: Total,33855,employment,2018,Annual,Value,Legacy industry classification,,reported,,,,Table18,U16,33855,"#,##0"
+2019-12-31,"Industry: Agriculture, Fishing and Quarrying",-1.2259194395796813,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V56,-0.012259194395796813,0.0%
+2019-12-31,"Industry: Agriculture, Fishing and Quarrying",564,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V19,564,"#,##0"
+2019-12-31,Industry: Business Services,1.8161497625034828,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V67,0.018161497625034828,0.0%
+2019-12-31,Industry: Business Services,3644,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V30,3644,"#,##0"
+2019-12-31,Industry: Construction,4.174484052532823,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V59,0.04174484052532823,0.0%
+2019-12-31,Industry: Construction,2221,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V22,2221,"#,##0"
+2019-12-31,"Industry: Education, Health & Social Work",2.8993288590604127,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V69,0.028993288590604127,0.0%
+2019-12-31,"Industry: Education, Health & Social Work",3833,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V32,3833,"#,##0"
+2019-12-31,"Industry: Electricity, Gas and Water",-6.050955414012737,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V58,-0.060509554140127375,0.0%
+2019-12-31,"Industry: Electricity, Gas and Water",295,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V21,295,"#,##0"
+2019-12-31,Industry: Financial Intermediation,-1.9850022055580063,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V65,-0.019850022055580063,0.0%
+2019-12-31,Industry: Financial Intermediation,2222,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V28,2222,"#,##0"
+2019-12-31,Industry: Hotels,6.336550566512789,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V62,0.06336550566512789,0.0%
+2019-12-31,Industry: Hotels,2534,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V25,2534,"#,##0"
+2019-12-31,Industry: International Business Activity,-1.505646173149311,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V71,-0.01505646173149311,0.0%
+2019-12-31,Industry: International Business Activity,3925,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V34,3925,"#,##0"
+2019-12-31,Industry: Manufacturing,-2.9795158286778367,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V57,-0.029795158286778367,0.0%
+2019-12-31,Industry: Manufacturing,521,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V20,521,"#,##0"
+2019-12-31,"Industry: Other Community, Social & Pers.",3.699673558215455,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V70,0.03699673558215455,0.0%
+2019-12-31,"Industry: Other Community, Social & Pers.",1906,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V33,1906,"#,##0"
+2019-12-31,Industry: Public Administration,5.257567711099309,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V68,0.05257567711099309,0.0%
+2019-12-31,Industry: Public Administration,3964,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V31,3964,"#,##0"
+2019-12-31,Industry: Real Estate & Rent,4.6908315565032055,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V66,0.046908315565032055,0.0%
+2019-12-31,Industry: Real Estate & Rent,491,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V29,491,"#,##0"
+2019-12-31,"Industry: Restaurants, Cafes & Bars",-0.4158964879852123,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V63,-0.004158964879852123,0.0%
+2019-12-31,"Industry: Restaurants, Cafes & Bars",2155,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V26,2155,"#,##0"
+2019-12-31,Industry: Retail Trade & Repair Services,-2.6814444047193464,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V61,-0.026814444047193464,0.0%
+2019-12-31,Industry: Retail Trade & Repair Services,2722,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V24,2722,"#,##0"
+2019-12-31,Industry: Total,1.5448235120366194,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V72,0.015448235120366194,0.0%
+2019-12-31,Industry: Total,34378,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V35,34378,"#,##0"
+2019-12-31,Industry: Transport & Communications,1.2175754367390157,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V64,0.012175754367390157,0.0%
+2019-12-31,Industry: Transport & Communications,1912,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V27,1912,"#,##0"
+2019-12-31,Industry: Wholesale Trade and Motor Vehicles,2.0847810979847115,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V60,0.020847810979847115,0.0%
+2019-12-31,Industry: Wholesale Trade and Motor Vehicles,1469,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V23,1469,"#,##0"
+2019-12-31,Occupation: Armed Forces,3.7037037037037033,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V52,0.037037037037037035,0.0%
+2019-12-31,Occupation: Armed Forces,28,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V15,28,"#,##0"
+2019-12-31,Occupation: Clerks,-0.7657569212644807,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V46,-0.007657569212644807,0.0%
+2019-12-31,Occupation: Clerks,5054,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V9,5054,"#,##0"
+2019-12-31,Occupation: Craft and Related Trade Workers,3.076923076923077,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V49,0.03076923076923077,0.0%
+2019-12-31,Occupation: Craft and Related Trade Workers,2814,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V12,2814,"#,##0"
+2019-12-31,Occupation: Elementary Occupations,5.711318795430945,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V51,0.05711318795430945,0.0%
+2019-12-31,Occupation: Elementary Occupations,1018,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V14,1018,"#,##0"
+2019-12-31,Occupation: Plant and Machine Operators and Assemblers,-1.233721727210418,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V50,-0.01233721727210418,0.0%
+2019-12-31,Occupation: Plant and Machine Operators and Assemblers,1441,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V13,1441,"#,##0"
+2019-12-31,Occupation: Professionals,2.939317319848293,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V44,0.029393173198482933,0.0%
+2019-12-31,Occupation: Professionals,6514,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V7,6514,"#,##0"
+2019-12-31,Occupation: Senior Officials and Managers,1.1440213132737815,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V43,0.011440213132737815,0.0%
+2019-12-31,Occupation: Senior Officials and Managers,6454,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V6,6454,"#,##0"
+2019-12-31,Occupation: Service Workers and Shop and Market Sales Workers,2.469646799116998,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V47,0.02469646799116998,0.0%
+2019-12-31,Occupation: Service Workers and Shop and Market Sales Workers,7427,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V10,7427,"#,##0"
+2019-12-31,Occupation: Skilled Agricultural and Fishery Workers,1.1811023622047243,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V48,0.011811023622047244,0.0%
+2019-12-31,Occupation: Skilled Agricultural and Fishery Workers,771,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V11,771,"#,##0"
+2019-12-31,Occupation: Technicians and Associate Professionals,-0.24441340782122906,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V45,-0.0024441340782122905,0.0%
+2019-12-31,Occupation: Technicians and Associate Professionals,2857,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V8,2857,"#,##0"
+2019-12-31,Occupation: Total,1.544823512036627,%,2019,Annual,Published percentage change,Legacy industry classification,,reported,,,,Table18,V53,0.015448235120366268,0.0%
+2019-12-31,Occupation: Total,34378,employment,2019,Annual,Value,Legacy industry classification,,reported,,,,Table18,V16,34378,"#,##0"

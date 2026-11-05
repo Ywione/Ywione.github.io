@@ -3,7 +3,8 @@
   "sourceTitle": "Quarterly Bulletin of Statistics — Annex I",
   "edition": "Q1 2026",
   "sourceFile": "QBS Q1 2026 Final.xls",
-  "sourceSha256": "cf7a382e88d3919c4cf27d9f2a86172dceead05ef8c1df213b3bd6a1a7ebc436",
+  "sourceSha256": "51e23fd370126379cae08894d2088eea3f0e184cc98c8aa20e2a82eb93588dfd",
+  "dataSha256": "a0f9a5db9ce4bf2da3607c4d032c5be8de0acd9fa24fdc49fe01363bf9097506",
   "tables": [
     {
       "slug": "table-01",
@@ -47,8 +48,13 @@
         "H166",
         "I166"
       ],
-      "excel": "/assets/datasets/qds/2026-q1/table-01.xlsx",
-      "csv": "/assets/datasets/qds/2026-q1/table-01.csv",
+      "timeSeriesVersion": 1,
+      "observations": 1575,
+      "excel": "/assets/datasets/qds/2026-q1/table-01-timeseries.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-01-timeseries.csv",
+      "originalExcel": "/assets/datasets/qds/2026-q1/table-01.xlsx",
+      "originalCSV": "/assets/datasets/qds/2026-q1/table-01.csv",
+      "audit": "/assets/datasets/qds/2026-q1/table-01-audit.csv",
       "page": "/datasets/qds/2026-q1/table-01/"
     },
     {
@@ -107,8 +113,13 @@
         "F233",
         "G233"
       ],
-      "excel": "/assets/datasets/qds/2026-q1/table-02.xlsx",
-      "csv": "/assets/datasets/qds/2026-q1/table-02.csv",
+      "timeSeriesVersion": 1,
+      "observations": 1185,
+      "excel": "/assets/datasets/qds/2026-q1/table-02-timeseries.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-02-timeseries.csv",
+      "originalExcel": "/assets/datasets/qds/2026-q1/table-02.xlsx",
+      "originalCSV": "/assets/datasets/qds/2026-q1/table-02.csv",
+      "audit": "/assets/datasets/qds/2026-q1/table-02-audit.csv",
       "page": "/datasets/qds/2026-q1/table-02/"
     },
     {
@@ -157,8 +168,13 @@
         "F161",
         "G161"
       ],
-      "excel": "/assets/datasets/qds/2026-q1/table-03.xlsx",
-      "csv": "/assets/datasets/qds/2026-q1/table-03.csv",
+      "timeSeriesVersion": 1,
+      "observations": 1110,
+      "excel": "/assets/datasets/qds/2026-q1/table-03-timeseries.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-03-timeseries.csv",
+      "originalExcel": "/assets/datasets/qds/2026-q1/table-03.xlsx",
+      "originalCSV": "/assets/datasets/qds/2026-q1/table-03.csv",
+      "audit": "/assets/datasets/qds/2026-q1/table-03-audit.csv",
       "page": "/datasets/qds/2026-q1/table-03/"
     },
     {
@@ -188,8 +204,13 @@
         "G92",
         "H92"
       ],
-      "excel": "/assets/datasets/qds/2026-q1/table-04.xlsx",
-      "csv": "/assets/datasets/qds/2026-q1/table-04.csv",
+      "timeSeriesVersion": 1,
+      "observations": 512,
+      "excel": "/assets/datasets/qds/2026-q1/table-04-timeseries.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-04-timeseries.csv",
+      "originalExcel": "/assets/datasets/qds/2026-q1/table-04.xlsx",
+      "originalCSV": "/assets/datasets/qds/2026-q1/table-04.csv",
+      "audit": "/assets/datasets/qds/2026-q1/table-04-audit.csv",
       "page": "/datasets/qds/2026-q1/table-04/"
     },
     {
@@ -259,8 +280,13 @@
         "K160",
         "L160"
       ],
-      "excel": "/assets/datasets/qds/2026-q1/table-05.xlsx",
-      "csv": "/assets/datasets/qds/2026-q1/table-05.csv",
+      "timeSeriesVersion": 1,
+      "observations": 2409,
+      "excel": "/assets/datasets/qds/2026-q1/table-05-timeseries.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-05-timeseries.csv",
+      "originalExcel": "/assets/datasets/qds/2026-q1/table-05.xlsx",
+      "originalCSV": "/assets/datasets/qds/2026-q1/table-05.csv",
+      "audit": "/assets/datasets/qds/2026-q1/table-05-audit.csv",
       "page": "/datasets/qds/2026-q1/table-05/"
     },
     {
@@ -637,8 +663,13 @@
         "I165",
         "K165"
       ],
-      "excel": "/assets/datasets/qds/2026-q1/table-06.xlsx",
-      "csv": "/assets/datasets/qds/2026-q1/table-06.csv",
+      "timeSeriesVersion": 1,
+      "observations": 1540,
+      "excel": "/assets/datasets/qds/2026-q1/table-06-timeseries.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-06-timeseries.csv",
+      "originalExcel": "/assets/datasets/qds/2026-q1/table-06.xlsx",
+      "originalCSV": "/assets/datasets/qds/2026-q1/table-06.csv",
+      "audit": "/assets/datasets/qds/2026-q1/table-06-audit.csv",
       "page": "/datasets/qds/2026-q1/table-06/"
     },
     {
@@ -727,8 +758,13 @@
         "K172",
         "L172"
       ],
-      "excel": "/assets/datasets/qds/2026-q1/table-07.xlsx",
-      "csv": "/assets/datasets/qds/2026-q1/table-07.csv",
+      "timeSeriesVersion": 1,
+      "observations": 2230,
+      "excel": "/assets/datasets/qds/2026-q1/table-07-timeseries.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-07-timeseries.csv",
+      "originalExcel": "/assets/datasets/qds/2026-q1/table-07.xlsx",
+      "originalCSV": "/assets/datasets/qds/2026-q1/table-07.csv",
+      "audit": "/assets/datasets/qds/2026-q1/table-07-audit.csv",
       "page": "/datasets/qds/2026-q1/table-07/"
     },
     {
@@ -762,8 +798,13 @@
         "M166",
         "N166"
       ],
-      "excel": "/assets/datasets/qds/2026-q1/table-08.xlsx",
-      "csv": "/assets/datasets/qds/2026-q1/table-08.csv",
+      "timeSeriesVersion": 1,
+      "observations": 1416,
+      "excel": "/assets/datasets/qds/2026-q1/table-08-timeseries.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-08-timeseries.csv",
+      "originalExcel": "/assets/datasets/qds/2026-q1/table-08.xlsx",
+      "originalCSV": "/assets/datasets/qds/2026-q1/table-08.csv",
+      "audit": "/assets/datasets/qds/2026-q1/table-08-audit.csv",
       "page": "/datasets/qds/2026-q1/table-08/"
     },
     {
@@ -963,8 +1004,13 @@
         "S169",
         "U169"
       ],
-      "excel": "/assets/datasets/qds/2026-q1/table-09.xlsx",
-      "csv": "/assets/datasets/qds/2026-q1/table-09.csv",
+      "timeSeriesVersion": 1,
+      "observations": 2300,
+      "excel": "/assets/datasets/qds/2026-q1/table-09-timeseries.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-09-timeseries.csv",
+      "originalExcel": "/assets/datasets/qds/2026-q1/table-09.xlsx",
+      "originalCSV": "/assets/datasets/qds/2026-q1/table-09.csv",
+      "audit": "/assets/datasets/qds/2026-q1/table-09-audit.csv",
       "page": "/datasets/qds/2026-q1/table-09/"
     },
     {
@@ -1781,8 +1827,13 @@
         "T164",
         "V164"
       ],
-      "excel": "/assets/datasets/qds/2026-q1/table-10.xlsx",
-      "csv": "/assets/datasets/qds/2026-q1/table-10.csv",
+      "timeSeriesVersion": 1,
+      "observations": 2530,
+      "excel": "/assets/datasets/qds/2026-q1/table-10-timeseries.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-10-timeseries.csv",
+      "originalExcel": "/assets/datasets/qds/2026-q1/table-10.xlsx",
+      "originalCSV": "/assets/datasets/qds/2026-q1/table-10.csv",
+      "audit": "/assets/datasets/qds/2026-q1/table-10-audit.csv",
       "page": "/datasets/qds/2026-q1/table-10/"
     },
     {
@@ -1851,8 +1902,13 @@
         "T161",
         "R162"
       ],
-      "excel": "/assets/datasets/qds/2026-q1/table-11.xlsx",
-      "csv": "/assets/datasets/qds/2026-q1/table-11.csv",
+      "timeSeriesVersion": 1,
+      "observations": 2080,
+      "excel": "/assets/datasets/qds/2026-q1/table-11-timeseries.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-11-timeseries.csv",
+      "originalExcel": "/assets/datasets/qds/2026-q1/table-11.xlsx",
+      "originalCSV": "/assets/datasets/qds/2026-q1/table-11.csv",
+      "audit": "/assets/datasets/qds/2026-q1/table-11-audit.csv",
       "page": "/datasets/qds/2026-q1/table-11/"
     },
     {
@@ -2143,8 +2199,13 @@
         "N190",
         "P190"
       ],
-      "excel": "/assets/datasets/qds/2026-q1/table-12.xlsx",
-      "csv": "/assets/datasets/qds/2026-q1/table-12.csv",
+      "timeSeriesVersion": 1,
+      "observations": 2016,
+      "excel": "/assets/datasets/qds/2026-q1/table-12-timeseries.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-12-timeseries.csv",
+      "originalExcel": "/assets/datasets/qds/2026-q1/table-12.xlsx",
+      "originalCSV": "/assets/datasets/qds/2026-q1/table-12.csv",
+      "audit": "/assets/datasets/qds/2026-q1/table-12-audit.csv",
       "page": "/datasets/qds/2026-q1/table-12/"
     },
     {
@@ -2976,8 +3037,13 @@
         "K167",
         "L167"
       ],
-      "excel": "/assets/datasets/qds/2026-q1/table-13.xlsx",
-      "csv": "/assets/datasets/qds/2026-q1/table-13.csv",
+      "timeSeriesVersion": 1,
+      "observations": 1210,
+      "excel": "/assets/datasets/qds/2026-q1/table-13-timeseries.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-13-timeseries.csv",
+      "originalExcel": "/assets/datasets/qds/2026-q1/table-13.xlsx",
+      "originalCSV": "/assets/datasets/qds/2026-q1/table-13.csv",
+      "audit": "/assets/datasets/qds/2026-q1/table-13-audit.csv",
       "page": "/datasets/qds/2026-q1/table-13/"
     },
     {
@@ -3045,8 +3111,13 @@
         "L162",
         "M162"
       ],
-      "excel": "/assets/datasets/qds/2026-q1/table-14.xlsx",
-      "csv": "/assets/datasets/qds/2026-q1/table-14.csv",
+      "timeSeriesVersion": 1,
+      "observations": 2200,
+      "excel": "/assets/datasets/qds/2026-q1/table-14-timeseries.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-14-timeseries.csv",
+      "originalExcel": "/assets/datasets/qds/2026-q1/table-14.xlsx",
+      "originalCSV": "/assets/datasets/qds/2026-q1/table-14.csv",
+      "audit": "/assets/datasets/qds/2026-q1/table-14-audit.csv",
       "page": "/datasets/qds/2026-q1/table-14/"
     },
     {
@@ -3086,8 +3157,13 @@
         "G137",
         "H137"
       ],
-      "excel": "/assets/datasets/qds/2026-q1/table-15.xlsx",
-      "csv": "/assets/datasets/qds/2026-q1/table-15.csv",
+      "timeSeriesVersion": 1,
+      "observations": 1302,
+      "excel": "/assets/datasets/qds/2026-q1/table-15-timeseries.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-15-timeseries.csv",
+      "originalExcel": "/assets/datasets/qds/2026-q1/table-15.xlsx",
+      "originalCSV": "/assets/datasets/qds/2026-q1/table-15.csv",
+      "audit": "/assets/datasets/qds/2026-q1/table-15-audit.csv",
       "page": "/datasets/qds/2026-q1/table-15/"
     },
     {
@@ -3123,8 +3199,13 @@
         "G135",
         "H135"
       ],
-      "excel": "/assets/datasets/qds/2026-q1/table-15-b.xlsx",
-      "csv": "/assets/datasets/qds/2026-q1/table-15-b.csv",
+      "timeSeriesVersion": 1,
+      "observations": 1116,
+      "excel": "/assets/datasets/qds/2026-q1/table-15-b-timeseries.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-15-b-timeseries.csv",
+      "originalExcel": "/assets/datasets/qds/2026-q1/table-15-b.xlsx",
+      "originalCSV": "/assets/datasets/qds/2026-q1/table-15-b.csv",
+      "audit": "/assets/datasets/qds/2026-q1/table-15-b-audit.csv",
       "page": "/datasets/qds/2026-q1/table-15-b/"
     },
     {
@@ -4689,8 +4770,13 @@
         "K111",
         "M111"
       ],
-      "excel": "/assets/datasets/qds/2026-q1/table-16.xlsx",
-      "csv": "/assets/datasets/qds/2026-q1/table-16.csv",
+      "timeSeriesVersion": 1,
+      "observations": 1350,
+      "excel": "/assets/datasets/qds/2026-q1/table-16-timeseries.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-16-timeseries.csv",
+      "originalExcel": "/assets/datasets/qds/2026-q1/table-16.xlsx",
+      "originalCSV": "/assets/datasets/qds/2026-q1/table-16.csv",
+      "audit": "/assets/datasets/qds/2026-q1/table-16-audit.csv",
       "page": "/datasets/qds/2026-q1/table-16/"
     },
     {
@@ -4771,8 +4857,13 @@
         "L161",
         "G306"
       ],
-      "excel": "/assets/datasets/qds/2026-q1/table-17.xlsx",
-      "csv": "/assets/datasets/qds/2026-q1/table-17.csv",
+      "timeSeriesVersion": 1,
+      "observations": 2200,
+      "excel": "/assets/datasets/qds/2026-q1/table-17-timeseries.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-17-timeseries.csv",
+      "originalExcel": "/assets/datasets/qds/2026-q1/table-17.xlsx",
+      "originalCSV": "/assets/datasets/qds/2026-q1/table-17.csv",
+      "audit": "/assets/datasets/qds/2026-q1/table-17-audit.csv",
       "page": "/datasets/qds/2026-q1/table-17/"
     },
     {
@@ -4828,8 +4919,13 @@
         "U40",
         "V40"
       ],
-      "excel": "/assets/datasets/qds/2026-q1/table-18.xlsx",
-      "csv": "/assets/datasets/qds/2026-q1/table-18.csv",
+      "timeSeriesVersion": 1,
+      "observations": 980,
+      "excel": "/assets/datasets/qds/2026-q1/table-18-timeseries.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-18-timeseries.csv",
+      "originalExcel": "/assets/datasets/qds/2026-q1/table-18.xlsx",
+      "originalCSV": "/assets/datasets/qds/2026-q1/table-18.csv",
+      "audit": "/assets/datasets/qds/2026-q1/table-18-audit.csv",
       "page": "/datasets/qds/2026-q1/table-18/"
     },
     {
@@ -5006,8 +5102,13 @@
         "T46",
         "U46"
       ],
-      "excel": "/assets/datasets/qds/2026-q1/table-18-isic-4.xlsx",
-      "csv": "/assets/datasets/qds/2026-q1/table-18-isic-4.csv",
+      "timeSeriesVersion": 1,
+      "observations": 1024,
+      "excel": "/assets/datasets/qds/2026-q1/table-18-isic-4-timeseries.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-18-isic-4-timeseries.csv",
+      "originalExcel": "/assets/datasets/qds/2026-q1/table-18-isic-4.xlsx",
+      "originalCSV": "/assets/datasets/qds/2026-q1/table-18-isic-4.csv",
+      "audit": "/assets/datasets/qds/2026-q1/table-18-isic-4-audit.csv",
       "page": "/datasets/qds/2026-q1/table-18-isic-4/"
     },
     {
@@ -5047,8 +5148,13 @@
         "H144",
         "I144"
       ],
-      "excel": "/assets/datasets/qds/2026-q1/table-19.xlsx",
-      "csv": "/assets/datasets/qds/2026-q1/table-19.csv",
+      "timeSeriesVersion": 1,
+      "observations": 1200,
+      "excel": "/assets/datasets/qds/2026-q1/table-19-timeseries.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-19-timeseries.csv",
+      "originalExcel": "/assets/datasets/qds/2026-q1/table-19.xlsx",
+      "originalCSV": "/assets/datasets/qds/2026-q1/table-19.csv",
+      "audit": "/assets/datasets/qds/2026-q1/table-19-audit.csv",
       "page": "/datasets/qds/2026-q1/table-19/"
     },
     {
@@ -5143,10 +5249,14 @@
         "X50",
         "Z50"
       ],
-      "excel": "/assets/datasets/qds/2026-q1/table-20.xlsx",
-      "csv": "/assets/datasets/qds/2026-q1/table-20.csv",
+      "timeSeriesVersion": 1,
+      "observations": 481,
+      "excel": "/assets/datasets/qds/2026-q1/table-20-timeseries.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-20-timeseries.csv",
+      "originalExcel": "/assets/datasets/qds/2026-q1/table-20.xlsx",
+      "originalCSV": "/assets/datasets/qds/2026-q1/table-20.csv",
+      "audit": "/assets/datasets/qds/2026-q1/table-20-audit.csv",
       "page": "/datasets/qds/2026-q1/table-20/"
     }
-  ],
-  "dataSha256": "a0f9a5db9ce4bf2da3607c4d032c5be8de0acd9fa24fdc49fe01363bf9097506"
+  ]
 }
