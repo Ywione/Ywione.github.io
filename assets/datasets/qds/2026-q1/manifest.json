@@ -1,0 +1,5151 @@
+{
+  "publisher": "Government of Bermuda, Department of Statistics",
+  "sourceTitle": "Quarterly Bulletin of Statistics — Annex I",
+  "edition": "Q1 2026",
+  "sourceFile": "QBS Q1 2026 Final.xls",
+  "sourceSha256": "cf7a382e88d3919c4cf27d9f2a86172dceead05ef8c1df213b3bd6a1a7ebc436",
+  "tables": [
+    {
+      "slug": "table-01",
+      "title": "Visitor Arrivals",
+      "label": "Table 1",
+      "subject": "Tourism",
+      "sheet": "Table1",
+      "range": "A1:I312",
+      "units": "",
+      "yearLabels": "2002–2026",
+      "sourceErrorCount": 1,
+      "sourceErrors": [
+        {
+          "cell": "C241",
+          "marker": "#DIV/0!"
+        }
+      ],
+      "notAvailableForUpdating": [
+        "D4",
+        "I4",
+        "C5",
+        "H5",
+        "I5",
+        "C6",
+        "D6",
+        "E6",
+        "F6",
+        "G6",
+        "H6",
+        "I6",
+        "D164",
+        "I164",
+        "C165",
+        "H165",
+        "I165",
+        "C166",
+        "D166",
+        "E166",
+        "F166",
+        "G166",
+        "H166",
+        "I166"
+      ],
+      "excel": "/assets/datasets/qds/2026-q1/table-01.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-01.csv",
+      "page": "/datasets/qds/2026-q1/table-01/"
+    },
+    {
+      "slug": "table-02",
+      "title": "Visitors by Intended Type of Accommodation",
+      "label": "Table 2",
+      "subject": "Tourism",
+      "sheet": "Table 2",
+      "range": "A1:I308",
+      "units": "",
+      "yearLabels": "2003–2026",
+      "sourceErrorCount": 0,
+      "sourceErrors": [],
+      "notAvailableForUpdating": [
+        "D3",
+        "C4",
+        "D4",
+        "E4",
+        "F4",
+        "G4",
+        "H4",
+        "C5",
+        "D5",
+        "E5",
+        "F5",
+        "G5",
+        "H5",
+        "I5",
+        "D74",
+        "C75",
+        "D75",
+        "E75",
+        "C76",
+        "D76",
+        "E76",
+        "F76",
+        "G76",
+        "D160",
+        "C161",
+        "D161",
+        "E161",
+        "F161",
+        "G161",
+        "C162",
+        "D162",
+        "E162",
+        "F162",
+        "G162",
+        "D231",
+        "C232",
+        "D232",
+        "E232",
+        "C233",
+        "D233",
+        "E233",
+        "F233",
+        "G233"
+      ],
+      "excel": "/assets/datasets/qds/2026-q1/table-02.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-02.csv",
+      "page": "/datasets/qds/2026-q1/table-02/"
+    },
+    {
+      "slug": "table-03",
+      "title": "Estimated Expenditure of Vacation and Business Visitors",
+      "label": "Table 3",
+      "subject": "Tourism",
+      "sheet": "Table3",
+      "range": "A1:G309",
+      "units": "$million",
+      "yearLabels": "2003–2026",
+      "sourceErrorCount": 3,
+      "sourceErrors": [
+        {
+          "cell": "G164",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F236",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F242",
+          "marker": "#DIV/0!"
+        }
+      ],
+      "notAvailableForUpdating": [
+        "D5",
+        "C6",
+        "D6",
+        "F6",
+        "G6",
+        "C7",
+        "D7",
+        "E7",
+        "F7",
+        "G7",
+        "D159",
+        "C160",
+        "D160",
+        "F160",
+        "G160",
+        "C161",
+        "D161",
+        "E161",
+        "F161",
+        "G161"
+      ],
+      "excel": "/assets/datasets/qds/2026-q1/table-03.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-03.csv",
+      "page": "/datasets/qds/2026-q1/table-03/"
+    },
+    {
+      "slug": "table-04",
+      "title": "Employment in Hotel Industry by Type of Establishment",
+      "label": "Table 4",
+      "subject": "Tourism",
+      "sheet": "Table4",
+      "range": "A1:H177",
+      "units": "",
+      "yearLabels": "2003–2018",
+      "sourceErrorCount": 0,
+      "sourceErrors": [],
+      "notAvailableForUpdating": [
+        "F3",
+        "G3",
+        "H3",
+        "E4",
+        "F4",
+        "G4",
+        "H4",
+        "F91",
+        "G91",
+        "H91",
+        "E92",
+        "F92",
+        "G92",
+        "H92"
+      ],
+      "excel": "/assets/datasets/qds/2026-q1/table-04.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-04.csv",
+      "page": "/datasets/qds/2026-q1/table-04/"
+    },
+    {
+      "slug": "table-05",
+      "title": "Central Government Revenue by Source",
+      "label": "Table 5",
+      "subject": "Government finance",
+      "sheet": "Table5",
+      "range": "A1:L309",
+      "units": "$million",
+      "yearLabels": "2003–2026",
+      "sourceErrorCount": 0,
+      "sourceErrors": [],
+      "notAvailableForUpdating": [
+        "J3",
+        "D4",
+        "E4",
+        "J4",
+        "L4",
+        "B5",
+        "C5",
+        "D5",
+        "E5",
+        "F5",
+        "G5",
+        "H5",
+        "I5",
+        "J5",
+        "K5",
+        "L5",
+        "B6",
+        "C6",
+        "D6",
+        "E6",
+        "F6",
+        "G6",
+        "H6",
+        "I6",
+        "J6",
+        "K6",
+        "L6",
+        "J157",
+        "D158",
+        "E158",
+        "J158",
+        "L158",
+        "B159",
+        "C159",
+        "D159",
+        "E159",
+        "F159",
+        "G159",
+        "H159",
+        "I159",
+        "J159",
+        "K159",
+        "L159",
+        "B160",
+        "C160",
+        "D160",
+        "E160",
+        "F160",
+        "G160",
+        "H160",
+        "I160",
+        "J160",
+        "K160",
+        "L160"
+      ],
+      "excel": "/assets/datasets/qds/2026-q1/table-05.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-05.csv",
+      "page": "/datasets/qds/2026-q1/table-05/"
+    },
+    {
+      "slug": "table-06",
+      "title": "Central Government Expenditure",
+      "label": "Table 6",
+      "subject": "Government finance",
+      "sheet": "Table6",
+      "range": "A1:K314",
+      "units": "$million",
+      "yearLabels": "2003–2026",
+      "sourceErrorCount": 79,
+      "sourceErrors": [
+        {
+          "cell": "J174",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J175",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J176",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J177",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J178",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J180",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J181",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J186",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J188",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J189",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J190",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J192",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J193",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J194",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J195",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J196",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J198",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J202",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J204",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J205",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J206",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J207",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J208",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J210",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J211",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G212",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J212",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G213",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J213",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J214",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G216",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J217",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J218",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J219",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J220",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J223",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J224",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J225",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J226",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J229",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J230",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J231",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J232",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J235",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J236",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J237",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J238",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J241",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J242",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J243",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J244",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J247",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J248",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J249",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J250",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J253",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J254",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J255",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J256",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J259",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J260",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J261",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J262",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J265",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J266",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J267",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J268",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J271",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J272",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J273",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J277",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J278",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J279",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J283",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J284",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J285",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J289",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J290",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J291",
+          "marker": "#DIV/0!"
+        }
+      ],
+      "notAvailableForUpdating": [
+        "D5",
+        "E5",
+        "G5",
+        "D6",
+        "E6",
+        "F6",
+        "G6",
+        "H6",
+        "D7",
+        "E7",
+        "F7",
+        "G7",
+        "H7",
+        "I7",
+        "K7",
+        "D8",
+        "E8",
+        "F8",
+        "G8",
+        "H8",
+        "I8",
+        "K8",
+        "D162",
+        "E162",
+        "G162",
+        "D163",
+        "E163",
+        "F163",
+        "G163",
+        "H163",
+        "D164",
+        "E164",
+        "F164",
+        "G164",
+        "H164",
+        "I164",
+        "K164",
+        "D165",
+        "E165",
+        "F165",
+        "G165",
+        "H165",
+        "I165",
+        "K165"
+      ],
+      "excel": "/assets/datasets/qds/2026-q1/table-06.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-06.csv",
+      "page": "/datasets/qds/2026-q1/table-06/"
+    },
+    {
+      "slug": "table-07",
+      "title": "Imports by Commodity Groups",
+      "label": "Table 7",
+      "subject": "Trade",
+      "sheet": "Table7",
+      "range": "A1:N336",
+      "units": "$000 f.o.b.",
+      "yearLabels": "2003–2026",
+      "sourceErrorCount": 10,
+      "sourceErrors": [
+        {
+          "cell": "C175",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D175",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E175",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F175",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G175",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H175",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I175",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J175",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K175",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "L175",
+          "marker": "#DIV/0!"
+        }
+      ],
+      "notAvailableForUpdating": [
+        "C3",
+        "G3",
+        "C4",
+        "G4",
+        "I4",
+        "J4",
+        "C5",
+        "D5",
+        "E5",
+        "F5",
+        "G5",
+        "H5",
+        "I5",
+        "J5",
+        "K5",
+        "L5",
+        "C170",
+        "G170",
+        "C171",
+        "G171",
+        "I171",
+        "J171",
+        "C172",
+        "D172",
+        "E172",
+        "F172",
+        "G172",
+        "H172",
+        "I172",
+        "J172",
+        "K172",
+        "L172"
+      ],
+      "excel": "/assets/datasets/qds/2026-q1/table-07.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-07.csv",
+      "page": "/datasets/qds/2026-q1/table-07/"
+    },
+    {
+      "slug": "table-08",
+      "title": "Imports by Country",
+      "label": "Table 8",
+      "subject": "Trade",
+      "sheet": "Table8",
+      "range": "A1:N322",
+      "units": "$000 f.o.b.",
+      "yearLabels": "2002–2026",
+      "sourceErrorCount": 0,
+      "sourceErrors": [],
+      "notAvailableForUpdating": [
+        "C3",
+        "E3",
+        "M3",
+        "C4",
+        "E4",
+        "H4",
+        "K4",
+        "M4",
+        "N4",
+        "C165",
+        "E165",
+        "M165",
+        "C166",
+        "E166",
+        "H166",
+        "K166",
+        "M166",
+        "N166"
+      ],
+      "excel": "/assets/datasets/qds/2026-q1/table-08.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-08.csv",
+      "page": "/datasets/qds/2026-q1/table-08/"
+    },
+    {
+      "slug": "table-09",
+      "title": "Construction Projects",
+      "label": "Table 9",
+      "subject": "Construction and housing",
+      "sheet": "Table9",
+      "range": "A1:U321",
+      "units": "$million",
+      "yearLabels": "2002–2026",
+      "sourceErrorCount": 31,
+      "sourceErrors": [
+        {
+          "cell": "M211",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "O211",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D212",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D218",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I222",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D224",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I226",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D227",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I227",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I228",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I229",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D230",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I230",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I232",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D233",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I233",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M233",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I234",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M234",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D236",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D239",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M241",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D242",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D245",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D248",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D254",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D260",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D266",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D272",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D275",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D278",
+          "marker": "#DIV/0!"
+        }
+      ],
+      "notAvailableForUpdating": [
+        "C3",
+        "E3",
+        "C4",
+        "C5",
+        "K5",
+        "C6",
+        "G6",
+        "I6",
+        "K6",
+        "M6",
+        "O6",
+        "C7",
+        "G7",
+        "I7",
+        "K7",
+        "M7",
+        "O7",
+        "S7",
+        "U7",
+        "C8",
+        "E8",
+        "G8",
+        "I8",
+        "K8",
+        "M8",
+        "O8",
+        "Q8",
+        "S8",
+        "U8",
+        "D159",
+        "C164",
+        "E164",
+        "C165",
+        "C166",
+        "K166",
+        "C167",
+        "G167",
+        "I167",
+        "K167",
+        "M167",
+        "O167",
+        "C168",
+        "G168",
+        "I168",
+        "K168",
+        "M168",
+        "O168",
+        "S168",
+        "U168",
+        "C169",
+        "E169",
+        "G169",
+        "I169",
+        "K169",
+        "M169",
+        "O169",
+        "Q169",
+        "S169",
+        "U169"
+      ],
+      "excel": "/assets/datasets/qds/2026-q1/table-09.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-09.csv",
+      "page": "/datasets/qds/2026-q1/table-09/"
+    },
+    {
+      "slug": "table-10",
+      "title": "Residential Dwelling Units: Gross Additions, Gross Deductions and Net Total",
+      "label": "Table 10",
+      "subject": "Construction and housing",
+      "sheet": "Table10",
+      "range": "A1:X316",
+      "units": "",
+      "yearLabels": "2002–2026",
+      "sourceErrorCount": 187,
+      "sourceErrors": [
+        {
+          "cell": "V173",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V174",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V175",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V176",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V177",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X177",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V179",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X179",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V180",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X180",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V181",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X181",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V182",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X182",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V183",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X183",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V185",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X185",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V186",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X186",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V187",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X187",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V188",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X188",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V189",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X189",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V191",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X191",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V192",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X192",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V193",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X193",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V194",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X194",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V195",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X195",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V197",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X197",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V198",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X198",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V199",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X199",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V200",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X200",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V201",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X201",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V203",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X203",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V204",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X204",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V205",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X205",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V206",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X206",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V207",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X207",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V209",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X209",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V210",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X210",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V211",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X211",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V212",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X212",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V213",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X213",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V215",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X215",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V216",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X216",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V217",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X217",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V218",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X218",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V219",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X219",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V221",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X221",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V222",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X222",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V223",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X223",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V224",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X224",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V225",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X225",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V227",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X227",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V228",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X228",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V229",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X229",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V230",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X230",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V231",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X231",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V233",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X233",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V234",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X234",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V235",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X235",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V236",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X236",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V237",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X237",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V239",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X239",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V240",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X240",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V241",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X241",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V242",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X242",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V243",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X243",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V245",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X245",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V246",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X246",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V247",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X247",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V248",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X248",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V249",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X249",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G251",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V251",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X251",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V252",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X252",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G253",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V253",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X253",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V254",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X254",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V255",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X255",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V257",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X257",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V258",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X258",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I259",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V259",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X259",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V260",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X260",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V261",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X261",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V263",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X263",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V264",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X264",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V265",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X265",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I266",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V266",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X266",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V267",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X267",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C269",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V269",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X269",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V270",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X270",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V271",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X271",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V272",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X272",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V273",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X273",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V275",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X275",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V276",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X276",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V277",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X277",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V278",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X278",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V281",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X281",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V282",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X282",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V283",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X283",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V284",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X284",
+          "marker": "#DIV/0!"
+        }
+      ],
+      "notAvailableForUpdating": [
+        "I3",
+        "K3",
+        "T3",
+        "V3",
+        "X3",
+        "C4",
+        "E4",
+        "G4",
+        "I4",
+        "K4",
+        "N4",
+        "P4",
+        "R4",
+        "T4",
+        "V4",
+        "X4",
+        "C5",
+        "E5",
+        "G5",
+        "I5",
+        "K5",
+        "N5",
+        "P5",
+        "R5",
+        "T5",
+        "V5",
+        "I162",
+        "K162",
+        "T162",
+        "V162",
+        "X162",
+        "C163",
+        "E163",
+        "G163",
+        "I163",
+        "K163",
+        "N163",
+        "P163",
+        "R163",
+        "T163",
+        "V163",
+        "X163",
+        "C164",
+        "E164",
+        "G164",
+        "I164",
+        "K164",
+        "N164",
+        "P164",
+        "R164",
+        "T164",
+        "V164"
+      ],
+      "excel": "/assets/datasets/qds/2026-q1/table-10.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-10.csv",
+      "page": "/datasets/qds/2026-q1/table-10/"
+    },
+    {
+      "slug": "table-11",
+      "title": "Consumer Price Index",
+      "label": "Table 11",
+      "subject": "Prices and consumption",
+      "sheet": "Table11",
+      "range": "A1:T311",
+      "units": "",
+      "yearLabels": "2002–2026",
+      "sourceErrorCount": 0,
+      "sourceErrors": [],
+      "notAvailableForUpdating": [
+        "N3",
+        "H4",
+        "J4",
+        "L4",
+        "N4",
+        "P4",
+        "R4",
+        "T4",
+        "B5",
+        "H5",
+        "J5",
+        "L5",
+        "N5",
+        "P5",
+        "R5",
+        "T5",
+        "B6",
+        "D6",
+        "F6",
+        "H6",
+        "J6",
+        "L6",
+        "N6",
+        "P6",
+        "R6",
+        "T6",
+        "R7",
+        "N158",
+        "H159",
+        "J159",
+        "L159",
+        "N159",
+        "P159",
+        "R159",
+        "T159",
+        "B160",
+        "H160",
+        "J160",
+        "L160",
+        "N160",
+        "P160",
+        "R160",
+        "T160",
+        "B161",
+        "D161",
+        "F161",
+        "H161",
+        "J161",
+        "L161",
+        "N161",
+        "P161",
+        "T161",
+        "R162"
+      ],
+      "excel": "/assets/datasets/qds/2026-q1/table-11.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-11.csv",
+      "page": "/datasets/qds/2026-q1/table-11/"
+    },
+    {
+      "slug": "table-12",
+      "title": "Retail Sales Value Index",
+      "label": "Table 12",
+      "subject": "Prices and consumption",
+      "sheet": "Table12",
+      "range": "A1:P350",
+      "units": "",
+      "yearLabels": "2001–2026",
+      "sourceErrorCount": 61,
+      "sourceErrors": [
+        {
+          "cell": "O13",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K199",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K285",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M285",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K291",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M291",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K297",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M297",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K303",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M303",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K309",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M309",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K310",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M310",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K311",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M311",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K312",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M312",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K315",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M315",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K316",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M316",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K317",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M317",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K318",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M318",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K321",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M321",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K322",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M322",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K323",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M323",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K324",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M324",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K327",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M327",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K328",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M328",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K329",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M329",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K330",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M330",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K333",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M333",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K334",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M334",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K335",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M335",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K336",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M336",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K339",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M339",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K340",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M340",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D341",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K341",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M341",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K342",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M342",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K345",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M345",
+          "marker": "#DIV/0!"
+        }
+      ],
+      "notAvailableForUpdating": [
+        "E4",
+        "G4",
+        "I4",
+        "J4",
+        "L4",
+        "N4",
+        "P4",
+        "C5",
+        "E5",
+        "G5",
+        "I5",
+        "J5",
+        "L5",
+        "N5",
+        "P5",
+        "E189",
+        "G189",
+        "I189",
+        "J189",
+        "L189",
+        "N189",
+        "P189",
+        "C190",
+        "E190",
+        "G190",
+        "I190",
+        "J190",
+        "L190",
+        "N190",
+        "P190"
+      ],
+      "excel": "/assets/datasets/qds/2026-q1/table-12.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-12.csv",
+      "page": "/datasets/qds/2026-q1/table-12/"
+    },
+    {
+      "slug": "table-13",
+      "title": "Businesses Registered in Bermuda",
+      "label": "Table 13",
+      "subject": "Business and banking",
+      "sheet": "Table13",
+      "range": "A1:M173",
+      "units": "",
+      "yearLabels": "2012–2026",
+      "sourceErrorCount": 0,
+      "sourceErrors": [],
+      "notAvailableForUpdating": [
+        "E5",
+        "J5",
+        "G6",
+        "L6",
+        "M6",
+        "E7",
+        "F7",
+        "G7",
+        "J7",
+        "K7",
+        "L7",
+        "M7",
+        "C8",
+        "D8",
+        "E8",
+        "F8",
+        "G8",
+        "H8",
+        "I8",
+        "J8",
+        "K8",
+        "L8",
+        "M8",
+        "D11",
+        "E11",
+        "F11",
+        "I11",
+        "J11",
+        "K11",
+        "L11",
+        "D12",
+        "E12",
+        "F12",
+        "I12",
+        "J12",
+        "K12",
+        "L12",
+        "D13",
+        "E13",
+        "F13",
+        "I13",
+        "J13",
+        "K13",
+        "L13",
+        "D14",
+        "E14",
+        "F14",
+        "I14",
+        "J14",
+        "K14",
+        "L14",
+        "D16",
+        "E16",
+        "F16",
+        "I16",
+        "J16",
+        "K16",
+        "L16",
+        "D17",
+        "E17",
+        "F17",
+        "I17",
+        "J17",
+        "K17",
+        "L17",
+        "D18",
+        "E18",
+        "F18",
+        "I18",
+        "J18",
+        "K18",
+        "L18",
+        "D19",
+        "E19",
+        "F19",
+        "I19",
+        "J19",
+        "K19",
+        "L19",
+        "D21",
+        "E21",
+        "F21",
+        "I21",
+        "J21",
+        "K21",
+        "L21",
+        "D22",
+        "E22",
+        "F22",
+        "I22",
+        "J22",
+        "K22",
+        "L22",
+        "D23",
+        "E23",
+        "F23",
+        "I23",
+        "J23",
+        "K23",
+        "L23",
+        "D24",
+        "E24",
+        "F24",
+        "I24",
+        "J24",
+        "K24",
+        "L24",
+        "D26",
+        "E26",
+        "F26",
+        "I26",
+        "J26",
+        "K26",
+        "L26",
+        "D27",
+        "E27",
+        "F27",
+        "I27",
+        "J27",
+        "K27",
+        "L27",
+        "D28",
+        "E28",
+        "F28",
+        "I28",
+        "J28",
+        "K28",
+        "L28",
+        "D29",
+        "E29",
+        "F29",
+        "I29",
+        "J29",
+        "K29",
+        "L29",
+        "D31",
+        "E31",
+        "F31",
+        "I31",
+        "J31",
+        "K31",
+        "L31",
+        "D32",
+        "E32",
+        "F32",
+        "I32",
+        "J32",
+        "K32",
+        "L32",
+        "D33",
+        "E33",
+        "F33",
+        "I33",
+        "J33",
+        "K33",
+        "L33",
+        "D34",
+        "E34",
+        "F34",
+        "I34",
+        "J34",
+        "K34",
+        "L34",
+        "D36",
+        "E36",
+        "F36",
+        "I36",
+        "J36",
+        "K36",
+        "L36",
+        "D37",
+        "E37",
+        "F37",
+        "I37",
+        "J37",
+        "K37",
+        "L37",
+        "D38",
+        "E38",
+        "F38",
+        "I38",
+        "J38",
+        "K38",
+        "L38",
+        "D39",
+        "E39",
+        "F39",
+        "I39",
+        "J39",
+        "K39",
+        "L39",
+        "D41",
+        "E41",
+        "F41",
+        "I41",
+        "J41",
+        "K41",
+        "L41",
+        "D42",
+        "E42",
+        "F42",
+        "I42",
+        "J42",
+        "K42",
+        "L42",
+        "D43",
+        "E43",
+        "F43",
+        "I43",
+        "J43",
+        "K43",
+        "L43",
+        "D44",
+        "E44",
+        "F44",
+        "I44",
+        "J44",
+        "K44",
+        "L44",
+        "D46",
+        "E46",
+        "F46",
+        "I46",
+        "J46",
+        "K46",
+        "L46",
+        "D47",
+        "E47",
+        "F47",
+        "I47",
+        "J47",
+        "K47",
+        "L47",
+        "D48",
+        "E48",
+        "F48",
+        "I48",
+        "J48",
+        "K48",
+        "L48",
+        "D49",
+        "E49",
+        "F49",
+        "I49",
+        "J49",
+        "K49",
+        "L49",
+        "D51",
+        "E51",
+        "F51",
+        "I51",
+        "J51",
+        "K51",
+        "L51",
+        "D52",
+        "E52",
+        "F52",
+        "I52",
+        "J52",
+        "K52",
+        "L52",
+        "D53",
+        "E53",
+        "F53",
+        "I53",
+        "J53",
+        "K53",
+        "L53",
+        "D54",
+        "E54",
+        "F54",
+        "I54",
+        "J54",
+        "K54",
+        "L54",
+        "D56",
+        "E56",
+        "F56",
+        "I56",
+        "J56",
+        "K56",
+        "L56",
+        "D57",
+        "E57",
+        "F57",
+        "I57",
+        "J57",
+        "K57",
+        "L57",
+        "D58",
+        "E58",
+        "F58",
+        "I58",
+        "J58",
+        "K58",
+        "L58",
+        "D59",
+        "E59",
+        "F59",
+        "I59",
+        "J59",
+        "K59",
+        "L59",
+        "D61",
+        "E61",
+        "F61",
+        "I61",
+        "J61",
+        "K61",
+        "L61",
+        "D62",
+        "E62",
+        "F62",
+        "I62",
+        "J62",
+        "K62",
+        "L62",
+        "D63",
+        "E63",
+        "F63",
+        "I63",
+        "J63",
+        "K63",
+        "L63",
+        "D64",
+        "E64",
+        "F64",
+        "I64",
+        "J64",
+        "K64",
+        "L64",
+        "D66",
+        "E66",
+        "F66",
+        "I66",
+        "J66",
+        "K66",
+        "L66",
+        "D67",
+        "E67",
+        "F67",
+        "I67",
+        "J67",
+        "K67",
+        "L67",
+        "D68",
+        "E68",
+        "F68",
+        "I68",
+        "J68",
+        "K68",
+        "L68",
+        "D69",
+        "E69",
+        "F69",
+        "I69",
+        "J69",
+        "K69",
+        "L69",
+        "D71",
+        "E71",
+        "F71",
+        "I71",
+        "J71",
+        "K71",
+        "L71",
+        "D72",
+        "E72",
+        "F72",
+        "I72",
+        "J72",
+        "K72",
+        "L72",
+        "D73",
+        "E73",
+        "F73",
+        "I73",
+        "J73",
+        "K73",
+        "L73",
+        "D74",
+        "E74",
+        "F74",
+        "I74",
+        "J74",
+        "K74",
+        "L74",
+        "D77",
+        "E77",
+        "F77",
+        "I77",
+        "J77",
+        "K77",
+        "L77",
+        "D78",
+        "E78",
+        "F78",
+        "I78",
+        "J78",
+        "K78",
+        "L78",
+        "D79",
+        "E79",
+        "F79",
+        "I79",
+        "J79",
+        "K79",
+        "L79",
+        "D80",
+        "E80",
+        "F80",
+        "I80",
+        "J80",
+        "K80",
+        "L80",
+        "D83",
+        "E83",
+        "F83",
+        "I83",
+        "J83",
+        "K83",
+        "L83",
+        "E94",
+        "J94",
+        "G95",
+        "L95",
+        "M95",
+        "E96",
+        "F96",
+        "G96",
+        "J96",
+        "K96",
+        "L96",
+        "M96",
+        "C97",
+        "D97",
+        "E97",
+        "F97",
+        "G97",
+        "H97",
+        "I97",
+        "J97",
+        "K97",
+        "L97",
+        "M97",
+        "D100",
+        "E100",
+        "F100",
+        "I100",
+        "J100",
+        "K100",
+        "L100",
+        "D101",
+        "E101",
+        "F101",
+        "I101",
+        "J101",
+        "K101",
+        "L101",
+        "D102",
+        "E102",
+        "F102",
+        "I102",
+        "J102",
+        "K102",
+        "L102",
+        "D103",
+        "E103",
+        "F103",
+        "I103",
+        "J103",
+        "K103",
+        "L103",
+        "D105",
+        "E105",
+        "F105",
+        "I105",
+        "J105",
+        "K105",
+        "L105",
+        "D106",
+        "E106",
+        "F106",
+        "I106",
+        "J106",
+        "K106",
+        "L106",
+        "D107",
+        "E107",
+        "F107",
+        "I107",
+        "J107",
+        "K107",
+        "L107",
+        "D108",
+        "E108",
+        "F108",
+        "I108",
+        "J108",
+        "K108",
+        "L108",
+        "D110",
+        "E110",
+        "F110",
+        "I110",
+        "J110",
+        "K110",
+        "L110",
+        "D111",
+        "E111",
+        "F111",
+        "I111",
+        "J111",
+        "K111",
+        "L111",
+        "D112",
+        "E112",
+        "F112",
+        "I112",
+        "J112",
+        "K112",
+        "L112",
+        "D113",
+        "E113",
+        "F113",
+        "I113",
+        "J113",
+        "K113",
+        "L113",
+        "D115",
+        "E115",
+        "F115",
+        "I115",
+        "J115",
+        "K115",
+        "L115",
+        "D116",
+        "E116",
+        "F116",
+        "I116",
+        "J116",
+        "K116",
+        "L116",
+        "D117",
+        "E117",
+        "F117",
+        "I117",
+        "J117",
+        "K117",
+        "L117",
+        "D118",
+        "E118",
+        "F118",
+        "I118",
+        "J118",
+        "K118",
+        "L118",
+        "D120",
+        "E120",
+        "F120",
+        "I120",
+        "J120",
+        "K120",
+        "L120",
+        "D121",
+        "E121",
+        "F121",
+        "I121",
+        "J121",
+        "K121",
+        "L121",
+        "D122",
+        "E122",
+        "F122",
+        "I122",
+        "J122",
+        "K122",
+        "L122",
+        "D123",
+        "E123",
+        "F123",
+        "I123",
+        "J123",
+        "K123",
+        "L123",
+        "D125",
+        "E125",
+        "F125",
+        "I125",
+        "J125",
+        "K125",
+        "L125",
+        "D126",
+        "E126",
+        "F126",
+        "I126",
+        "J126",
+        "K126",
+        "L126",
+        "D127",
+        "E127",
+        "F127",
+        "I127",
+        "J127",
+        "K127",
+        "L127",
+        "D128",
+        "E128",
+        "F128",
+        "I128",
+        "J128",
+        "K128",
+        "L128",
+        "D130",
+        "E130",
+        "F130",
+        "I130",
+        "J130",
+        "K130",
+        "L130",
+        "D131",
+        "E131",
+        "F131",
+        "I131",
+        "J131",
+        "K131",
+        "L131",
+        "D132",
+        "E132",
+        "F132",
+        "I132",
+        "J132",
+        "K132",
+        "L132",
+        "D133",
+        "E133",
+        "F133",
+        "I133",
+        "J133",
+        "K133",
+        "L133",
+        "D135",
+        "E135",
+        "F135",
+        "I135",
+        "J135",
+        "K135",
+        "L135",
+        "D136",
+        "E136",
+        "F136",
+        "I136",
+        "J136",
+        "K136",
+        "L136",
+        "D137",
+        "E137",
+        "F137",
+        "I137",
+        "J137",
+        "K137",
+        "L137",
+        "D138",
+        "E138",
+        "F138",
+        "I138",
+        "J138",
+        "K138",
+        "L138",
+        "D140",
+        "E140",
+        "F140",
+        "I140",
+        "J140",
+        "K140",
+        "L140",
+        "D141",
+        "E141",
+        "F141",
+        "I141",
+        "J141",
+        "K141",
+        "L141",
+        "D142",
+        "E142",
+        "F142",
+        "I142",
+        "J142",
+        "K142",
+        "L142",
+        "D143",
+        "E143",
+        "F143",
+        "I143",
+        "J143",
+        "K143",
+        "L143",
+        "D145",
+        "E145",
+        "F145",
+        "I145",
+        "J145",
+        "K145",
+        "L145",
+        "D146",
+        "E146",
+        "F146",
+        "I146",
+        "J146",
+        "K146",
+        "L146",
+        "D147",
+        "E147",
+        "F147",
+        "I147",
+        "J147",
+        "K147",
+        "L147",
+        "D148",
+        "E148",
+        "F148",
+        "I148",
+        "J148",
+        "K148",
+        "L148",
+        "D150",
+        "E150",
+        "F150",
+        "I150",
+        "J150",
+        "K150",
+        "L150",
+        "D151",
+        "E151",
+        "F151",
+        "I151",
+        "J151",
+        "K151",
+        "L151",
+        "D152",
+        "E152",
+        "F152",
+        "I152",
+        "J152",
+        "K152",
+        "L152",
+        "D153",
+        "E153",
+        "F153",
+        "I153",
+        "J153",
+        "K153",
+        "L153",
+        "D155",
+        "E155",
+        "F155",
+        "I155",
+        "J155",
+        "K155",
+        "L155",
+        "D156",
+        "E156",
+        "F156",
+        "I156",
+        "J156",
+        "K156",
+        "L156",
+        "D157",
+        "E157",
+        "F157",
+        "I157",
+        "J157",
+        "K157",
+        "L157",
+        "D158",
+        "E158",
+        "F158",
+        "I158",
+        "J158",
+        "K158",
+        "L158",
+        "D161",
+        "E161",
+        "F161",
+        "I161",
+        "J161",
+        "K161",
+        "L161",
+        "D162",
+        "E162",
+        "F162",
+        "I162",
+        "J162",
+        "K162",
+        "L162",
+        "D163",
+        "E163",
+        "F163",
+        "I163",
+        "J163",
+        "K163",
+        "L163",
+        "D164",
+        "E164",
+        "F164",
+        "I164",
+        "J164",
+        "K164",
+        "L164",
+        "D167",
+        "E167",
+        "F167",
+        "I167",
+        "J167",
+        "K167",
+        "L167"
+      ],
+      "excel": "/assets/datasets/qds/2026-q1/table-13.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-13.csv",
+      "page": "/datasets/qds/2026-q1/table-13/"
+    },
+    {
+      "slug": "table-14",
+      "title": "Employment Income by Selected Industry",
+      "label": "Table 14",
+      "subject": "Employment and income",
+      "sheet": "Table14",
+      "range": "A1:M308",
+      "units": "$000",
+      "yearLabels": "2003–2026",
+      "sourceErrorCount": 0,
+      "sourceErrors": [],
+      "notAvailableForUpdating": [
+        "D4",
+        "H4",
+        "K4",
+        "C5",
+        "D5",
+        "F5",
+        "H5",
+        "K5",
+        "B6",
+        "C6",
+        "D6",
+        "E6",
+        "F6",
+        "H6",
+        "K6",
+        "L6",
+        "B7",
+        "C7",
+        "D7",
+        "E7",
+        "F7",
+        "H7",
+        "J7",
+        "K7",
+        "L7",
+        "M7",
+        "D159",
+        "H159",
+        "K159",
+        "C160",
+        "D160",
+        "F160",
+        "H160",
+        "K160",
+        "B161",
+        "C161",
+        "D161",
+        "E161",
+        "F161",
+        "H161",
+        "K161",
+        "L161",
+        "B162",
+        "C162",
+        "D162",
+        "E162",
+        "F162",
+        "H162",
+        "J162",
+        "K162",
+        "L162",
+        "M162"
+      ],
+      "excel": "/assets/datasets/qds/2026-q1/table-14.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-14.csv",
+      "page": "/datasets/qds/2026-q1/table-14/"
+    },
+    {
+      "slug": "table-15",
+      "title": "Combined Balance Sheet of Bermuda Banks and Deposit Companies: Consolidated Assets",
+      "label": "Table 15",
+      "subject": "Business and banking",
+      "sheet": "Table15",
+      "range": "A1:H263",
+      "units": "$billion",
+      "yearLabels": "2003–2026",
+      "sourceErrorCount": 0,
+      "sourceErrors": [],
+      "notAvailableForUpdating": [
+        "C4",
+        "C5",
+        "E5",
+        "F5",
+        "G5",
+        "B6",
+        "C6",
+        "D6",
+        "E6",
+        "F6",
+        "G6",
+        "H6",
+        "C135",
+        "C136",
+        "E136",
+        "F136",
+        "G136",
+        "B137",
+        "C137",
+        "D137",
+        "E137",
+        "F137",
+        "G137",
+        "H137"
+      ],
+      "excel": "/assets/datasets/qds/2026-q1/table-15.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-15.csv",
+      "page": "/datasets/qds/2026-q1/table-15/"
+    },
+    {
+      "slug": "table-15-b",
+      "title": "Combined Balance Sheet of Bermuda Banks and Deposit Companies: Consolidated Liabilities",
+      "label": "Table 15 (B)",
+      "subject": "Business and banking",
+      "sheet": "Table15(b)",
+      "range": "A1:H261",
+      "units": "$billion",
+      "yearLabels": "2003–2026",
+      "sourceErrorCount": 0,
+      "sourceErrors": [],
+      "notAvailableForUpdating": [
+        "C4",
+        "D4",
+        "E4",
+        "F4",
+        "C5",
+        "D5",
+        "E5",
+        "F5",
+        "G5",
+        "H5",
+        "C134",
+        "D134",
+        "E134",
+        "F134",
+        "C135",
+        "D135",
+        "E135",
+        "F135",
+        "G135",
+        "H135"
+      ],
+      "excel": "/assets/datasets/qds/2026-q1/table-15-b.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-15-b.csv",
+      "page": "/datasets/qds/2026-q1/table-15-b/"
+    },
+    {
+      "slug": "table-16",
+      "title": "Resident Trips Abroad by Purpose and Country of Destination",
+      "label": "Table 16",
+      "subject": "Travel and spending",
+      "sheet": "Table16",
+      "range": "A1:W216",
+      "units": "",
+      "yearLabels": "2003–2017",
+      "sourceErrorCount": 378,
+      "sourceErrors": [
+        {
+          "cell": "C152",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D152",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E152",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F152",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G152",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H152",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I152",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K152",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M152",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C153",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D153",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E153",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F153",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G153",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H153",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I153",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K153",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M153",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C156",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D156",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E156",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F156",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G156",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H156",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I156",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K156",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M156",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C157",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D157",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E157",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F157",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G157",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H157",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I157",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K157",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M157",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C158",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D158",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E158",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F158",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G158",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H158",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I158",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K158",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M158",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C159",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D159",
+          "marker": "#VALUE!"
+        },
+        {
+          "cell": "E159",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F159",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G159",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H159",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I159",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K159",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M159",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C160",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D160",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E160",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F160",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G160",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H160",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I160",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K160",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M160",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C162",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D162",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E162",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F162",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G162",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H162",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I162",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K162",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M162",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C163",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D163",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E163",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F163",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G163",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H163",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I163",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K163",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M163",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C164",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D164",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E164",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F164",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G164",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H164",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I164",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K164",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M164",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C165",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D165",
+          "marker": "#VALUE!"
+        },
+        {
+          "cell": "E165",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F165",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G165",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H165",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I165",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K165",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M165",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C166",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D166",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E166",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F166",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G166",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H166",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I166",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K166",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M166",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C168",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D168",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E168",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F168",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G168",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H168",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I168",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K168",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M168",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C169",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D169",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E169",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F169",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G169",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H169",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I169",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K169",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M169",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C170",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D170",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E170",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F170",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G170",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H170",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I170",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K170",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M170",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C171",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D171",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E171",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F171",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G171",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H171",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I171",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K171",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M171",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C172",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D172",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E172",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F172",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G172",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H172",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I172",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K172",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M172",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C174",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D174",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E174",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F174",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G174",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H174",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I174",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K174",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M174",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C175",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D175",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E175",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F175",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G175",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H175",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I175",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K175",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M175",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C176",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D176",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E176",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F176",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G176",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H176",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I176",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K176",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M176",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C177",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D177",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E177",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F177",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G177",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H177",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I177",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K177",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M177",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C178",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D178",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E178",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F178",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G178",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H178",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I178",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K178",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M178",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C180",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D180",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E180",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F180",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G180",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H180",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I180",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K180",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M180",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C181",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D181",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E181",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F181",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G181",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H181",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I181",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K181",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M181",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C182",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D182",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E182",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F182",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G182",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H182",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I182",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K182",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M182",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C183",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D183",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E183",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F183",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G183",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H183",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I183",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K183",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M183",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C184",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D184",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E184",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F184",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G184",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H184",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I184",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K184",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M184",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C186",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D186",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E186",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F186",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G186",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H186",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I186",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K186",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M186",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C187",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D187",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E187",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F187",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G187",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H187",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I187",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K187",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M187",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C188",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D188",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E188",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F188",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G188",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H188",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I188",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K188",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M188",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C189",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D189",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E189",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F189",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G189",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H189",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I189",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K189",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M189",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C190",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D190",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E190",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F190",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G190",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H190",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I190",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K190",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M190",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C192",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D192",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E192",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F192",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G192",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H192",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I192",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K192",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M192",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C193",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D193",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E193",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F193",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G193",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H193",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I193",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K193",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M193",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C194",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D194",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E194",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F194",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G194",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H194",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I194",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K194",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M194",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C195",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D195",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E195",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F195",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G195",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H195",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I195",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K195",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M195",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C196",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D196",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E196",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F196",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G196",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H196",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I196",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K196",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M196",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C198",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D198",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E198",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F198",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G198",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H198",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I198",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K198",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M198",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C199",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D199",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E199",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F199",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G199",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H199",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I199",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K199",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M199",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C200",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D200",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E200",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F200",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G200",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H200",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I200",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K200",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M200",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C201",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D201",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E201",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F201",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G201",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H201",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I201",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K201",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M201",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "C202",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D202",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "E202",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F202",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "G202",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H202",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "I202",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "K202",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "M202",
+          "marker": "#DIV/0!"
+        }
+      ],
+      "notAvailableForUpdating": [
+        "E5",
+        "K5",
+        "D6",
+        "E6",
+        "F6",
+        "G6",
+        "I6",
+        "K6",
+        "M6",
+        "C7",
+        "D7",
+        "E7",
+        "F7",
+        "G7",
+        "H7",
+        "I7",
+        "K7",
+        "M7",
+        "E109",
+        "K109",
+        "D110",
+        "E110",
+        "F110",
+        "G110",
+        "I110",
+        "K110",
+        "M110",
+        "C111",
+        "D111",
+        "E111",
+        "F111",
+        "G111",
+        "H111",
+        "I111",
+        "K111",
+        "M111"
+      ],
+      "excel": "/assets/datasets/qds/2026-q1/table-16.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-16.csv",
+      "page": "/datasets/qds/2026-q1/table-16/"
+    },
+    {
+      "slug": "table-17",
+      "title": "Overseas Declarations",
+      "label": "Table 17",
+      "subject": "Travel and spending",
+      "sheet": "Table17",
+      "range": "A1:L309",
+      "units": "$000",
+      "yearLabels": "2003–2026",
+      "sourceErrorCount": 0,
+      "sourceErrors": [],
+      "notAvailableForUpdating": [
+        "D3",
+        "E3",
+        "F3",
+        "G3",
+        "H3",
+        "J3",
+        "C4",
+        "D4",
+        "E4",
+        "F4",
+        "G4",
+        "H4",
+        "I4",
+        "J4",
+        "C5",
+        "D5",
+        "E5",
+        "F5",
+        "G5",
+        "H5",
+        "I5",
+        "J5",
+        "C6",
+        "D6",
+        "E6",
+        "F6",
+        "G6",
+        "H6",
+        "I6",
+        "J6",
+        "K6",
+        "L6",
+        "D158",
+        "E158",
+        "F158",
+        "G158",
+        "H158",
+        "J158",
+        "C159",
+        "D159",
+        "E159",
+        "F159",
+        "G159",
+        "H159",
+        "I159",
+        "J159",
+        "C160",
+        "D160",
+        "E160",
+        "F160",
+        "G160",
+        "H160",
+        "I160",
+        "J160",
+        "C161",
+        "D161",
+        "E161",
+        "F161",
+        "G161",
+        "H161",
+        "I161",
+        "J161",
+        "K161",
+        "L161",
+        "G306"
+      ],
+      "excel": "/assets/datasets/qds/2026-q1/table-17.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-17.csv",
+      "page": "/datasets/qds/2026-q1/table-17/"
+    },
+    {
+      "slug": "table-18",
+      "title": "Total Employment by Major Occupations and Industry Groups (legacy classification)",
+      "label": "Table 18",
+      "subject": "Employment and income",
+      "sheet": "Table18",
+      "range": "A1:V76",
+      "units": "",
+      "yearLabels": "2000–2019",
+      "sourceErrorCount": 1,
+      "sourceErrors": [
+        {
+          "cell": "K52",
+          "marker": "#DIV/0!"
+        }
+      ],
+      "notAvailableForUpdating": [
+        "E3",
+        "F3",
+        "G3",
+        "H3",
+        "I3",
+        "J3",
+        "K3",
+        "L3",
+        "M3",
+        "N3",
+        "O3",
+        "P3",
+        "Q3",
+        "R3",
+        "S3",
+        "T3",
+        "U3",
+        "V3",
+        "E40",
+        "F40",
+        "G40",
+        "H40",
+        "J40",
+        "K40",
+        "L40",
+        "M40",
+        "N40",
+        "O40",
+        "P40",
+        "Q40",
+        "R40",
+        "S40",
+        "T40",
+        "U40",
+        "V40"
+      ],
+      "excel": "/assets/datasets/qds/2026-q1/table-18.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-18.csv",
+      "page": "/datasets/qds/2026-q1/table-18/"
+    },
+    {
+      "slug": "table-18-isic-4",
+      "title": "Total Employment by Major Occupational Group and Economic Activity (ISIC Rev. 4)",
+      "label": "Table 18 Isic 4",
+      "subject": "Employment and income",
+      "sheet": "Table 18 ISIC 4",
+      "range": "A1:U84",
+      "units": "",
+      "yearLabels": "2009–2024",
+      "sourceErrorCount": 32,
+      "sourceErrors": [
+        {
+          "cell": "F49",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F50",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F51",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F52",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F53",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F54",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F55",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F56",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F57",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F58",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F59",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F62",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F63",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F64",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F65",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F66",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F67",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F68",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F69",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F70",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F71",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F72",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F73",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F74",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F75",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F76",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F77",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F78",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F79",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F80",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F81",
+          "marker": "#REF!"
+        },
+        {
+          "cell": "F82",
+          "marker": "#REF!"
+        }
+      ],
+      "notAvailableForUpdating": [
+        "F3",
+        "G3",
+        "H3",
+        "I3",
+        "J3",
+        "K3",
+        "L3",
+        "M3",
+        "N3",
+        "O3",
+        "P3",
+        "Q3",
+        "R3",
+        "S3",
+        "T3",
+        "U3",
+        "F46",
+        "G46",
+        "H46",
+        "I46",
+        "J46",
+        "K46",
+        "L46",
+        "M46",
+        "N46",
+        "O46",
+        "P46",
+        "Q46",
+        "R46",
+        "S46",
+        "T46",
+        "U46"
+      ],
+      "excel": "/assets/datasets/qds/2026-q1/table-18-isic-4.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-18-isic-4.csv",
+      "page": "/datasets/qds/2026-q1/table-18-isic-4/"
+    },
+    {
+      "slug": "table-19",
+      "title": "Hotel Gross Receipts",
+      "label": "Table 19",
+      "subject": "Tourism",
+      "sheet": "Table 19",
+      "range": "A1:I278",
+      "units": "$000",
+      "yearLabels": "2005–2026",
+      "sourceErrorCount": 2,
+      "sourceErrors": [
+        {
+          "cell": "D244",
+          "marker": "#VALUE!"
+        },
+        {
+          "cell": "E244",
+          "marker": "#VALUE!"
+        }
+      ],
+      "notAvailableForUpdating": [
+        "G5",
+        "H5",
+        "D6",
+        "E6",
+        "F6",
+        "G6",
+        "H6",
+        "I6",
+        "G143",
+        "D144",
+        "E144",
+        "F144",
+        "G144",
+        "H144",
+        "I144"
+      ],
+      "excel": "/assets/datasets/qds/2026-q1/table-19.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-19.csv",
+      "page": "/datasets/qds/2026-q1/table-19/"
+    },
+    {
+      "slug": "table-20",
+      "title": "Personal Consumption Estimates",
+      "label": "Table 20",
+      "subject": "Prices and consumption",
+      "sheet": "Table 20",
+      "range": "A1:Z89",
+      "units": "$000",
+      "yearLabels": "2006–2024",
+      "sourceErrorCount": 13,
+      "sourceErrors": [
+        {
+          "cell": "B86",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "D86",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "F86",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "H86",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "J86",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "L86",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "N86",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "P86",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "R86",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "T86",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "V86",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "X86",
+          "marker": "#DIV/0!"
+        },
+        {
+          "cell": "Z86",
+          "marker": "#DIV/0!"
+        }
+      ],
+      "notAvailableForUpdating": [
+        "B5",
+        "D5",
+        "F5",
+        "H5",
+        "J5",
+        "L5",
+        "N5",
+        "P5",
+        "R5",
+        "T5",
+        "V5",
+        "X5",
+        "Z5",
+        "B50",
+        "D50",
+        "F50",
+        "H50",
+        "J50",
+        "L50",
+        "N50",
+        "P50",
+        "R50",
+        "T50",
+        "V50",
+        "X50",
+        "Z50"
+      ],
+      "excel": "/assets/datasets/qds/2026-q1/table-20.xlsx",
+      "csv": "/assets/datasets/qds/2026-q1/table-20.csv",
+      "page": "/datasets/qds/2026-q1/table-20/"
+    }
+  ]
+}
