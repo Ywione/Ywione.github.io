@@ -1,0 +1,164 @@
+﻿date,series,value,units,period,frequency,measure,index_base,status,source_id,publication_month,source_url,source_sheet,source_cell
+1996-12-31,Nominal GDP,3019.6898624740616,BD$ million,1996,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B8
+1996-12-31,Real GDP,5821.028408767189,BD$ million,1996,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C8
+1996-12-31,GDP deflator,51.87553900142517,"Index, 2013 = 100",1996,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H8
+1997-12-31,Nominal GDP,3283.4347007943775,BD$ million,1997,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B9
+1997-12-31,Real GDP,6104.692604173167,BD$ million,1997,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C9
+1997-12-31,Nominal GDP growth — calculated,8.734169743651332,%,1997,Annual,Calculated YoY,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,D9
+1997-12-31,Real GDP growth — calculated,4.8730941594228305,%,1997,Annual,Calculated YoY,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,E9
+1997-12-31,GDP deflator,53.785422357709244,"Index, 2013 = 100",1997,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H9
+1998-12-31,Nominal GDP,3506.8208240760478,BD$ million,1998,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B10
+1998-12-31,Real GDP,6519.376277606307,BD$ million,1998,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C10
+1998-12-31,Nominal GDP growth — calculated,6.803428227996289,%,1998,Annual,Calculated YoY,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,D10
+1998-12-31,Real GDP growth — calculated,6.792867394333046,%,1998,Annual,Calculated YoY,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,E10
+1998-12-31,GDP deflator,53.79074124194643,"Index, 2013 = 100",1998,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H10
+1999-12-31,Nominal GDP,3735.700322238579,BD$ million,1999,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B11
+1999-12-31,Real GDP,6308.893486249816,BD$ million,1999,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C11
+1999-12-31,Nominal GDP growth — calculated,6.526694965170754,%,1999,Annual,Calculated YoY,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,D11
+1999-12-31,Real GDP growth — calculated,-3.228572525863971,%,1999,Annual,Calculated YoY,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,E11
+1999-12-31,GDP deflator,59.213241282017336,"Index, 2013 = 100",1999,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H11
+2000-12-31,Nominal GDP,3924.5177288594477,BD$ million,2000,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B12
+2000-12-31,Real GDP,6264.443276924357,BD$ million,2000,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C12
+2000-12-31,Nominal GDP growth — calculated,5.054404538202406,%,2000,Annual,Calculated YoY,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,D12
+2000-12-31,Real GDP growth — calculated,-0.7045642698254251,%,2000,Annual,Calculated YoY,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,E12
+2000-12-31,GDP deflator,62.64751000804435,"Index, 2013 = 100",2000,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H12
+2001-12-31,Nominal GDP,4142.871947363517,BD$ million,2001,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B13
+2001-12-31,Real GDP,6765.331845533267,BD$ million,2001,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C13
+2001-12-31,Nominal GDP growth — calculated,5.56384844176836,%,2001,Annual,Calculated YoY,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,D13
+2001-12-31,Real GDP growth — calculated,7.995739548859504,%,2001,Annual,Calculated YoY,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,E13
+2001-12-31,GDP deflator,61.23678840822569,"Index, 2013 = 100",2001,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H13
+2002-12-31,Nominal GDP,4403.779519034403,BD$ million,2002,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B14
+2002-12-31,Real GDP,6574.618031155493,BD$ million,2002,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C14
+2002-12-31,Nominal GDP growth — calculated,6.297746466359522,%,2002,Annual,Calculated YoY,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,D14
+2002-12-31,Real GDP growth — calculated,-2.818986839554538,%,2002,Annual,Calculated YoY,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,E14
+2002-12-31,GDP deflator,66.9815265033798,"Index, 2013 = 100",2002,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H14
+2003-12-31,Nominal GDP,4692.412532712989,BD$ million,2003,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B15
+2003-12-31,Real GDP,6786.226786301768,BD$ million,2003,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C15
+2003-12-31,Nominal GDP growth — calculated,6.554211273090083,%,2003,Annual,Calculated YoY,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,D15
+2003-12-31,Real GDP growth — calculated,3.218571088746347,%,2003,Annual,Calculated YoY,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,E15
+2003-12-31,GDP deflator,69.1461202296508,"Index, 2013 = 100",2003,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H15
+2004-12-31,Nominal GDP,5031.140175407144,BD$ million,2004,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B16
+2004-12-31,Real GDP,6855.5955115941515,BD$ million,2004,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C16
+2004-12-31,Nominal GDP growth — calculated,7.2186245419116,%,2004,Annual,Calculated YoY,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,D16
+2004-12-31,Real GDP growth — calculated,1.022198748683234,%,2004,Annual,Calculated YoY,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,E16
+2004-12-31,GDP deflator,73.38735441579806,"Index, 2013 = 100",2004,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H16
+2005-12-31,Nominal GDP,5518.985273408813,BD$ million,2005,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B17
+2005-12-31,Real GDP,7189.946136729985,BD$ million,2005,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C17
+2005-12-31,Nominal GDP growth — calculated,9.696511744719771,%,2005,Annual,Calculated YoY,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,D17
+2005-12-31,Real GDP growth — calculated,4.877047144487756,%,2005,Annual,Calculated YoY,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,E17
+2005-12-31,GDP deflator,76.75975825764488,"Index, 2013 = 100",2005,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H17
+2006-12-31,Nominal GDP,6144.388804634385,BD$ million,2006,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B18
+2006-12-31,Real GDP,7623.030594309671,BD$ million,2006,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C18
+2006-12-31,Nominal GDP growth — calculated,11.331857220907038,%,2006,Annual,Calculated YoY,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,D18
+2006-12-31,Real GDP growth — calculated,6.02347290708154,%,2006,Annual,Calculated YoY,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,E18
+2006-12-31,GDP deflator,80.60296661043128,"Index, 2013 = 100",2006,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H18
+2007-12-31,Nominal GDP,6767.016101463886,BD$ million,2007,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B19
+2007-12-31,Real GDP,7877.972134885596,BD$ million,2007,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C19
+2007-12-31,Nominal GDP growth — calculated,10.133266572582222,%,2007,Annual,Calculated YoY,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,D19
+2007-12-31,Real GDP growth — calculated,3.344359404332309,%,2007,Annual,Calculated YoY,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,E19
+2007-12-31,GDP deflator,85.8979441104885,"Index, 2013 = 100",2007,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H19
+2008-12-31,Nominal GDP,6980.266091970348,BD$ million,2008,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B20
+2008-12-31,Real GDP,7731.359653393499,BD$ million,2008,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C20
+2008-12-31,Nominal GDP growth — calculated,3.15131495638572,%,2008,Annual,Calculated YoY,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,D20
+2008-12-31,Real GDP growth — calculated,-1.8610434129724962,%,2008,Annual,Calculated YoY,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,E20
+2008-12-31,GDP deflator,90.28510384853877,"Index, 2013 = 100",2008,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H20
+2009-12-31,Nominal GDP,6656.327422178344,BD$ million,2009,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B21
+2009-12-31,Real GDP,7295.501656879001,BD$ million,2009,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C21
+2009-12-31,Nominal GDP growth — calculated,-4.640778238592391,%,2009,Annual,Calculated YoY,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,D21
+2009-12-31,Real GDP growth — calculated,-5.637533578239228,%,2009,Annual,Calculated YoY,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,E21
+2009-12-31,GDP deflator,91.23878980826531,"Index, 2013 = 100",2009,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H21
+2010-12-31,Nominal GDP,6634.525825916962,BD$ million,2010,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B22
+2010-12-31,Real GDP,7113.3896321393295,BD$ million,2010,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C22
+2010-12-31,Nominal GDP growth — calculated,-0.32753190879313276,%,2010,Annual,Calculated YoY,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,D22
+2010-12-31,Real GDP growth — calculated,-2.496223471732828,%,2010,Annual,Calculated YoY,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,E22
+2010-12-31,GDP deflator,93.26813472920433,"Index, 2013 = 100",2010,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H22
+2011-12-31,Nominal GDP,6312.690953725381,BD$ million,2011,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B23
+2011-12-31,Real GDP,6847.1536460580555,BD$ million,2011,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C23
+2011-12-31,Nominal GDP growth — calculated,-4.8509099314132165,%,2011,Annual,Calculated YoY,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,D23
+2011-12-31,Real GDP growth — calculated,-3.7427443152893147,%,2011,Annual,Calculated YoY,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,E23
+2011-12-31,GDP deflator,92.19438149105407,"Index, 2013 = 100",2011,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H23
+2012-12-31,Nominal GDP,6378.18759331457,BD$ million,2012,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B24
+2012-12-31,Real GDP,6483.891851317763,BD$ million,2012,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C24
+2012-12-31,Nominal GDP growth — calculated,1.037539142487831,%,2012,Annual,Calculated YoY,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,D24
+2012-12-31,Real GDP growth — calculated,-5.3052963832558975,%,2012,Annual,Calculated YoY,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,E24
+2012-12-31,GDP deflator,98.36974057514993,"Index, 2013 = 100",2012,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H24
+2013-12-31,Nominal GDP,6465.755980517646,BD$ million,2013,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B25
+2013-12-31,Real GDP,6465.755980517646,BD$ million,2013,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C25
+2013-12-31,Nominal GDP growth — calculated,1.372935272315634,%,2013,Annual,Calculated YoY,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,D25
+2013-12-31,Real GDP growth — calculated,-0.2797065592084369,%,2013,Annual,Calculated YoY,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,E25
+2013-12-31,GDP deflator,100,"Index, 2013 = 100",2013,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H25
+2014-12-31,Nominal GDP,6413.988212702083,BD$ million,2014,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B26
+2014-12-31,Real GDP,6226.453814636074,BD$ million,2014,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C26
+2014-12-31,Nominal GDP growth — calculated,-0.8006452450656676,%,2014,Annual,Calculated YoY,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,D26
+2014-12-31,Real GDP growth — calculated,-3.7010701703347304,%,2014,Annual,Calculated YoY,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,E26
+2014-12-31,GDP deflator,103.01189736002195,"Index, 2013 = 100",2014,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H26
+2015-12-31,Nominal GDP,6654.5414002862,BD$ million,2015,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B27
+2015-12-31,Real GDP,6274.742290432762,BD$ million,2015,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C27
+2015-12-31,Nominal GDP growth — calculated,3.75044636202686,%,2015,Annual,Calculated YoY,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,D27
+2015-12-31,Real GDP growth — calculated,0.7755373641924468,%,2015,Annual,Calculated YoY,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,E27
+2015-12-31,GDP deflator,106.05282404079807,"Index, 2013 = 100",2015,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H27
+2016-12-31,Nominal GDP,6899.911486279341,BD$ million,2016,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B28
+2016-12-31,Real GDP,6233.504190093164,BD$ million,2016,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C28
+2016-12-31,Nominal GDP growth — calculated,3.687257637056529,%,2016,Annual,Calculated YoY,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,D28
+2016-12-31,Real GDP growth — calculated,-0.6572078729428443,%,2016,Annual,Calculated YoY,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,E28
+2016-12-31,GDP deflator,110.6907331071549,"Index, 2013 = 100",2016,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H28
+2017-12-31,Nominal GDP,7119.542272280934,BD$ million,2017,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B29
+2017-12-31,Real GDP,6431.426084853685,BD$ million,2017,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C29
+2017-12-31,Nominal GDP growth — calculated,3.1830957025801743,%,2017,Annual,Calculated YoY,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,D29
+2017-12-31,Real GDP growth — calculated,3.1751305321182866,%,2017,Annual,Calculated YoY,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,E29
+2017-12-31,GDP deflator,110.69927848580573,"Index, 2013 = 100",2017,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H29
+2018-12-31,Nominal GDP,7225.976887208388,BD$ million,2018,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B30
+2018-12-31,Real GDP,6430.669312176174,BD$ million,2018,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C30
+2018-12-31,Nominal GDP growth — calculated,1.4949642948514086,%,2018,Annual,Calculated YoY,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,D30
+2018-12-31,Real GDP growth — calculated,-0.011766794293011085,%,2018,Annual,Calculated YoY,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,E30
+2018-12-31,GDP deflator,112.36741521642757,"Index, 2013 = 100",2018,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H30
+2019-12-31,Nominal GDP,7423.464867691766,BD$ million,2019,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B31
+2019-12-31,Real GDP,6438.13664366566,BD$ million,2019,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C31
+2019-12-31,Nominal GDP growth — calculated,2.7330281229237974,%,2019,Annual,Calculated YoY,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,D31
+2019-12-31,Real GDP growth — calculated,0.11612059533752106,%,2019,Annual,Calculated YoY,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,E31
+2019-12-31,GDP deflator,115.30455593848802,"Index, 2013 = 100",2019,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H31
+2020-12-31,Nominal GDP,6887.363909984936,BD$ million,2020,Annual,Value,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,B32
+2020-12-31,Real GDP,6000.7190584268565,BD$ million,2020,Annual,Value,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,C32
+2020-12-31,Nominal GDP growth — calculated,-7.22170801993064,%,2020,Annual,Calculated YoY,Current prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,D32
+2020-12-31,Real GDP growth — calculated,-6.794164359173227,%,2020,Annual,Calculated YoY,2013 prices,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,E32
+2020-12-31,GDP deflator,114.77564343414741,"Index, 2013 = 100",2020,Annual,Value,2013 = 100,Supplied historical,AGDP-SUPPLIED,Unknown,,Annual GDP,H32
+2021-12-31,Nominal GDP,7305.515,BD$ million,2021,Annual,Value,Current prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,B33
+2021-12-31,Real GDP,6320.934,BD$ million,2021,Annual,Value,2013 prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,C33
+2021-12-31,Nominal GDP growth — calculated,6.071279163989729,%,2021,Annual,Calculated YoY,Current prices,Revised,AGDP-2025; AGDP-SUPPLIED,2026-09; Unknown,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,D33
+2021-12-31,Real GDP growth — calculated,5.336276177160193,%,2021,Annual,Calculated YoY,2013 prices,Revised,AGDP-2025; AGDP-SUPPLIED,2026-09; Unknown,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,E33
+2021-12-31,Nominal GDP growth — published,6.1,%,2021,Annual,Published YoY,Current prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,F33
+2021-12-31,Real GDP growth — published,5.3,%,2021,Annual,Published YoY,2013 prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,G33
+2021-12-31,GDP deflator,115.57651131937148,"Index, 2013 = 100",2021,Annual,Value,2013 = 100,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,H33
+2021-12-31,Nominal GDP per capita,114051,BD$ per person,2021,Annual,Value,Current prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,I33
+2022-12-31,Nominal GDP,7768.565,BD$ million,2022,Annual,Value,Current prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,B34
+2022-12-31,Real GDP,6703.916,BD$ million,2022,Annual,Value,2013 prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,C34
+2022-12-31,Nominal GDP growth — calculated,6.3383621825429115,%,2022,Annual,Calculated YoY,Current prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,D34
+2022-12-31,Real GDP growth — calculated,6.058946351915706,%,2022,Annual,Calculated YoY,2013 prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,E34
+2022-12-31,Nominal GDP growth — published,6.3,%,2022,Annual,Published YoY,Current prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,F34
+2022-12-31,Real GDP growth — published,6.1,%,2022,Annual,Published YoY,2013 prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,G34
+2022-12-31,GDP deflator,115.88100149226213,"Index, 2013 = 100",2022,Annual,Value,2013 = 100,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,H34
+2022-12-31,Nominal GDP per capita,121325,BD$ per person,2022,Annual,Value,Current prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,I34
+2023-12-31,Nominal GDP,8659.918,BD$ million,2023,Annual,Value,Current prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,B35
+2023-12-31,Real GDP,7042.011,BD$ million,2023,Annual,Value,2013 prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,C35
+2023-12-31,Nominal GDP growth — calculated,11.473843624916569,%,2023,Annual,Calculated YoY,Current prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,D35
+2023-12-31,Real GDP growth — calculated,5.043246365258747,%,2023,Annual,Calculated YoY,2013 prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,E35
+2023-12-31,Nominal GDP growth — published,11.5,%,2023,Annual,Published YoY,Current prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,F35
+2023-12-31,Real GDP growth — published,5.0,%,2023,Annual,Published YoY,2013 prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,G35
+2023-12-31,GDP deflator,122.97507061548185,"Index, 2013 = 100",2023,Annual,Value,2013 = 100,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,H35
+2023-12-31,Nominal GDP per capita,135349,BD$ per person,2023,Annual,Value,Current prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,I35
+2024-12-31,Nominal GDP,9247.389,BD$ million,2024,Annual,Value,Current prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,B36
+2024-12-31,Real GDP,7160.431,BD$ million,2024,Annual,Value,2013 prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,C36
+2024-12-31,Nominal GDP growth — calculated,6.783794026687073,%,2024,Annual,Calculated YoY,Current prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,D36
+2024-12-31,Real GDP growth — calculated,1.6816219116953857,%,2024,Annual,Calculated YoY,2013 prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,E36
+2024-12-31,Nominal GDP growth — published,6.800000000000001,%,2024,Annual,Published YoY,Current prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,F36
+2024-12-31,Real GDP growth — published,1.7000000000000002,%,2024,Annual,Published YoY,2013 prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,G36
+2024-12-31,GDP deflator,129.1457036594585,"Index, 2013 = 100",2024,Annual,Value,2013 = 100,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,H36
+2024-12-31,Nominal GDP per capita,144705,BD$ per person,2024,Annual,Value,Current prices,Revised,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,I36
+2025-12-31,Nominal GDP,9846.093,BD$ million,2025,Annual,Value,Current prices,Provisional,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,B37
+2025-12-31,Real GDP,7235.215,BD$ million,2025,Annual,Value,2013 prices,Provisional,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,C37
+2025-12-31,Nominal GDP growth — calculated,6.474303178983831,%,2025,Annual,Calculated YoY,Current prices,Provisional,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,D37
+2025-12-31,Real GDP growth — calculated,1.0444064051451818,%,2025,Annual,Calculated YoY,2013 prices,Provisional,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,E37
+2025-12-31,Nominal GDP growth — published,6.5,%,2025,Annual,Published YoY,Current prices,Provisional,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,F37
+2025-12-31,Real GDP growth — published,1.0,%,2025,Annual,Published YoY,2013 prices,Provisional,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,G37
+2025-12-31,GDP deflator,136.08570028672267,"Index, 2013 = 100",2025,Annual,Value,2013 = 100,Provisional,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,H37
+2025-12-31,Nominal GDP per capita,154320,BD$ per person,2025,Annual,Value,Current prices,Provisional,AGDP-2025,2026-09,https://www.gov.bm/media/5b611ca5-e607-47ea-a0cc-c6033aa676bd,Annual GDP,I37

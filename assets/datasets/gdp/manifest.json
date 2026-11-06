@@ -1,0 +1,14 @@
+{
+  "annual": {
+    "source": "bermuda-annual-gdp.xlsx",
+    "sha256": "0ad855db28116f98e2c4fafc963c4a5d96eac5f1fdc846050a6cb5538cf1f41c",
+    "observations": 163,
+    "coverage": "1996\u20132025"
+  },
+  "quarterly": {
+    "source": "bermuda-quarterly-gdp.xlsx",
+    "sha256": "44d8c3808cc888a0903feacdc611de38865e7939149012499c72b709e52aab58",
+    "observations": 200,
+    "coverage": "2014Q1\u20132026Q1"
+  }
+}
