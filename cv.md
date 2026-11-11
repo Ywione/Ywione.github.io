@@ -28,6 +28,14 @@ Grade: First Class
 
 ## Work experience
 
+### Bank of Somaliland
+
+**Monetary Policy and Research Expert** · November 2026–present
+
+- Writing economic briefs for senior policymakers.
+- Building data pipelines and developing externally recognised macro-financial indicators.
+- Conducting training sessions on analytical techniques, data collection and storage.
+
 ### Bermuda Monetary Authority
 
 **Macroeconomic Research Consultant** · July 2025–present
@@ -60,6 +68,12 @@ Grade: First Class
 - Prepared and validated data for pricing models supporting Property Insurance-Linked Securities.
 
 ## Leadership and initiatives
+
+### ODI Global
+
+**ODI Fellow** · October 2026–present
+
+- Assigned to the Bank of Somaliland to provide technical assistance and support capacity building.
 
 ### Bermuda Journal of Academic Research
 

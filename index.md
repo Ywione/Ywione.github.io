@@ -1,8 +1,8 @@
 ---
 title: About me
-description: Research and writing of Ywione Darrell, a macroeconomic research consultant based in Bermuda.
+description: Research and writing of Ywione Darrell, ODI Fellow and Monetary Policy and Research Expert at the Bank of Somaliland.
 ---
-I am a macroeconomic research consultant in the Financial Stability Research Division at the Bermuda Monetary Authority. My research interests include income inequality, small island developing states, offshore financial centres, Dutch Disease, cross-border financial flows and firm dynamics.
+I am an ODI Fellow at the Bank of Somaliland, where I work as a Monetary Policy and Research Expert. I also work as a macroeconomic research consultant in the Financial Stability Research Division at the Bermuda Monetary Authority. My research interests include income inequality, small island developing states, offshore financial centres, Dutch Disease, cross-border financial flows and firm dynamics.
 
 I hold an MSc in Economics for Development (Merit) from the University of Oxford and a First Class BSc in Political Economy from King’s College London.
 
@@ -23,4 +23,4 @@ See the [Research]({{ '/research/' | relative_url }}) page for papers and projec
 
 {% include latest-post.html %}
 
-<p class="disclaimer">Views expressed on this site are my own and do not represent my employer.</p>
+<p class="disclaimer">Views expressed on this site are my own and do not represent the organisations with which I work.</p>
