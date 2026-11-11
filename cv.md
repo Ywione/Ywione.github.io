@@ -38,12 +38,12 @@ Grade: First Class
 
 ### Bermuda Monetary Authority
 
-**Macroeconomic Research Consultant** · July 2025–present
+**Macroeconomic Research Consultant** · July 2025–October 2026
 
-- Developing nowcasting models for Bermuda’s GDP, inflation and labour dynamics using dynamic factor models.
-- Designing financial conditions indices for Bermuda and using them to evaluate tail-end risks to GDP.
-- Writing and reviewing policy notes on monetary policy options in Bermuda and reputational risks for financial centres.
-- Assisting the Chief Economist with weekly notes on global affairs and macroeconomics.
+- Developed nowcasting models for Bermuda’s GDP, inflation and labour dynamics using dynamic factor models.
+- Designed financial conditions indices for Bermuda and used them to evaluate tail-end risks to GDP.
+- Wrote and reviewed policy notes on monetary policy options in Bermuda and reputational risks for financial centres.
+- Assisted the Chief Economist with weekly notes on global affairs and macroeconomics.
 
 ### Government of Bermuda
 

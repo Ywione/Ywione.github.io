@@ -4,7 +4,7 @@ permalink: /about/
 eyebrow: Research, education & Bermuda
 intro: I’m Ywione Darrell, an ODI Fellow and Monetary Policy and Research Expert at the Bank of Somaliland.
 ---
-I am an ODI Fellow at the Bank of Somaliland, where I work as a Monetary Policy and Research Expert. I also work as a macroeconomic research consultant in the Financial Stability Research Division at the Bermuda Monetary Authority. My research interests include income inequality, small island developing states, offshore financial centres, Dutch Disease, cross-border financial flows and firm dynamics.
+I am an ODI Fellow at the Bank of Somaliland, where I work as a Monetary Policy and Research Expert. Previously, I worked as a macroeconomic research consultant in the Financial Stability Research Division at the Bermuda Monetary Authority from July 2025 to October 2026. My research interests include income inequality, small island developing states, offshore financial centres, Dutch Disease, cross-border financial flows and firm dynamics.
 
 ## Beyond research
 
